@@ -1,0 +1,31 @@
+{
+  "schema": "algebra-teacher-publish-contract/1.0",
+  "course": "Algebra 1",
+  "source_of_truth": "Local Planner state",
+  "outputs": {
+    "student_agenda": "public Algebra repository: agenda/index.html",
+    "teacher_shared_view": "this private repository: index.html"
+  },
+  "visibility_levels": [
+    {
+      "id": "student",
+      "meaning": "Safe for the public student agenda and public course repository."
+    },
+    {
+      "id": "teacher_shared",
+      "meaning": "Safe for the co-teacher and this private repository, including assessment links, teacher guides, and answer keys."
+    },
+    {
+      "id": "teacher_local",
+      "meaning": "Personal/local tools and data that must never be copied into the shared teacher repository."
+    }
+  ],
+  "teacher_view_rules": [
+    "Read-only: no Planner controls and no links into local Teacher Tools.",
+    "Show the same selected current week and All Weeks history as the student agenda.",
+    "Show the exact student-facing resources actually used on each day.",
+    "Add teacher-only rows for teacher guides, assessment files, answer keys, and other teacher-shared artifacts.",
+    "Quick Check and Summative Assessment may be display-only for students while their secure links appear in teacher-only rows.",
+    "Never include student names, grades, evidence reports, or other student data."
+  ]
+}

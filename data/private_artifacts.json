@@ -1,0 +1,6 @@
+{
+  "schema": "algebra-teacher-artifacts/1.0",
+  "course": "Algebra 1",
+  "description": "Teacher-shared artifacts that must not be published to the public Algebra repository.",
+  "entries": []
+}
