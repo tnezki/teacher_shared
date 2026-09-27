@@ -1,31 +1,23 @@
 {
-  "schema": "algebra-teacher-publish-contract/1.0",
+  "schema": "algebra-teacher-publish-contract/1.1",
   "course": "Algebra 1",
   "source_of_truth": "Local Planner state",
+  "current_week_rule": "Manual. The teacher explicitly selects exactly one current week in Planner; calendar dates never change it automatically.",
   "outputs": {
     "student_agenda": "public Algebra repository: agenda/index.html",
-    "teacher_shared_view": "this private repository: index.html"
+    "teacher_shared_view": "private algebra_teacher_shared repository: index.html"
   },
   "visibility_levels": [
-    {
-      "id": "student",
-      "meaning": "Safe for the public student agenda and public course repository."
-    },
-    {
-      "id": "teacher_shared",
-      "meaning": "Safe for the co-teacher and this private repository, including assessment links, teacher guides, and answer keys."
-    },
-    {
-      "id": "teacher_local",
-      "meaning": "Personal/local tools and data that must never be copied into the shared teacher repository."
-    }
+    {"id":"student","meaning":"Safe for the public student agenda and public course repository."},
+    {"id":"teacher_shared","meaning":"Safe for the co-teacher and private shared repository, including assessment links, teacher guides, and answer keys."},
+    {"id":"teacher_local","meaning":"Personal/local tools and data that must never be copied into the shared teacher repository."}
   ],
   "teacher_view_rules": [
     "Read-only: no Planner controls and no links into local Teacher Tools.",
-    "Show the same selected current week and All Weeks history as the student agenda.",
+    "Show the same manually selected current week and All Weeks history as the student agenda.",
     "Show the exact student-facing resources actually used on each day.",
-    "Add teacher-only rows for teacher guides, assessment files, answer keys, and other teacher-shared artifacts.",
-    "Quick Check and Summative Assessment may be display-only for students while their secure links appear in teacher-only rows.",
+    "Add up to three teacher-only rows per day for teacher guides, assessments, answer keys, and other teacher-shared artifacts.",
+    "Quick Check and Summative Assessment remain display-only for students while their assessment links appear in teacher-only rows when registered.",
     "Never include student names, grades, evidence reports, or other student data."
   ]
 }

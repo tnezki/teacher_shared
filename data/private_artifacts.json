@@ -1,6 +1,15 @@
 {
-  "schema": "algebra-teacher-artifacts/1.0",
+  "schema": "algebra-teacher-artifacts/1.1",
   "course": "Algebra 1",
   "description": "Teacher-shared artifacts that must not be published to the public Algebra repository.",
+  "entry_schema": {
+    "kind": "summative_assessment | summative_answer_key | summative_teacher_guide | other",
+    "unit": "integer when the artifact belongs to a whole-unit assessment",
+    "section": "optional section code such as 1.5",
+    "label": "teacher-facing link label",
+    "role": "Assessment | Teacher | Answer Key",
+    "path": "relative path inside algebra_teacher_shared, preferred for secure files",
+    "url": "optional external URL instead of path"
+  },
   "entries": []
 }
