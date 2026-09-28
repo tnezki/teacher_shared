@@ -1,0 +1,665 @@
+{
+  "schema": "algebra-quick-check-source-map/1.1",
+  "quick_check_id": "U1-S2-QC01",
+  "course": "Algebra 1",
+  "unit": 1,
+  "section": "1.2",
+  "section_title": "Inputs, Outputs, and Functions",
+  "approved_output_root": "quick_check____htq5855/quick1/approved/quick_1_2",
+  "layout_version": "QC-layout-1.4-connected-2026-09-24",
+  "pinned_authority": {
+    "system_repo": "tnezki/memories",
+    "system_commit": "67c283d30f84594c43910cf851aeb7cec1352202",
+    "course_repo": "tnezki/algebra",
+    "course_commit": "95601f886fefe94c2ad7e2f8d7263a2d365d8a80",
+    "pm_entrypoint": "pms_build/exit.txt",
+    "template_contract": "Tools/templates/algebra/quick_check/QUICK_CHECK_TEMPLATE_CONTRACT.json",
+    "local_transfer_contract": "Tools/LOCAL_REPO_TRANSFER_CONTRACT.txt"
+  },
+  "teacher_note": "",
+  "request_contract": {
+    "versions": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "student_pages_per_version": 2,
+    "total_student_pages": 8,
+    "question_count_per_version": 4,
+    "default_problems_on_page_1": 2,
+    "question_order_scrambled": true,
+    "allowed_version_changes": [
+      "simple number/value swaps",
+      "deterministic question-order scramble",
+      "answer-choice scramble when applicable"
+    ],
+    "answer_choice_scramble_used": false
+  },
+  "default_layout": {
+    "source_problem_heights_inches": {
+      "1": 4.35,
+      "2": 4.35,
+      "3": 4.94,
+      "4": 4.94
+    },
+    "source_graph_width_percent": {
+      "3": 96,
+      "4": 96
+    },
+    "source_workspace_heights_inches": {
+      "1": 0.95,
+      "2": 0.95,
+      "3": 0.02,
+      "4": 0.02
+    },
+    "page_split": 2,
+    "page2_header": false,
+    "plain_white_workspace": true,
+    "ruled_workspace_lines": false,
+    "shaded_problem_cards": false,
+    "graph_design_note": "Graph questions default to page 2 and use nearly full problem width so each graph occupies approximately half a printed/projected page."
+  },
+  "teacher_approved_question_architectures": [
+    {
+      "question_slot": 1,
+      "slot_role": "current_evidence",
+      "i_can_id": "U1-MG03-IC01",
+      "i_can_exact_text": "Substitute a value for a variable.",
+      "selection_mode": "bank_family",
+      "family_label": "A",
+      "family_name": "Direct Single-Variable Substitution",
+      "evidence_job": "direct substitution",
+      "custom_question_description": null
+    },
+    {
+      "question_slot": 2,
+      "slot_role": "current_evidence",
+      "i_can_id": "U1-MG03-IC01",
+      "i_can_exact_text": "Substitute a value for a variable.",
+      "selection_mode": "bank_family",
+      "family_label": "B",
+      "family_name": "Substitute into a Context Formula",
+      "evidence_job": "substitute into context formula",
+      "custom_question_description": null
+    },
+    {
+      "question_slot": 3,
+      "slot_role": "current_unit_reassessment",
+      "i_can_id": "U1-MG01-IC03",
+      "i_can_exact_text": "Read a graph using its scale.",
+      "selection_mode": "bank_family",
+      "family_label": "B",
+      "family_name": "Compare Values on an Unequal Scale",
+      "evidence_job": "use unequal graph scales correctly",
+      "custom_question_description": null
+    },
+    {
+      "question_slot": 4,
+      "slot_role": "current_unit_reassessment",
+      "i_can_id": "U1-MG01-IC04",
+      "i_can_exact_text": "Identify and interpret intercepts when they are shown.",
+      "selection_mode": "bank_family",
+      "family_label": "A",
+      "family_name": "Identify Both Intercepts",
+      "evidence_job": "identify both intercepts",
+      "custom_question_description": null
+    }
+  ],
+  "source_questions": [
+    {
+      "question_slot": 1,
+      "slot_role": "current_evidence",
+      "i_can_id": "U1-MG03-IC01",
+      "i_can_exact_text": "Substitute a value for a variable.",
+      "selection_mode": "bank_family",
+      "family_label": "A",
+      "family_name": "Direct Single-Variable Substitution",
+      "evidence_job": "direct substitution",
+      "custom_question_description": null,
+      "fresh_instance_rule_applied": true,
+      "lineage": {
+        "repo": "tnezki/algebra",
+        "commit": "95601f886fefe94c2ad7e2f8d7263a2d365d8a80",
+        "path": "banks/unit1/mastery_goals/U1-MG03.json"
+      }
+    },
+    {
+      "question_slot": 2,
+      "slot_role": "current_evidence",
+      "i_can_id": "U1-MG03-IC01",
+      "i_can_exact_text": "Substitute a value for a variable.",
+      "selection_mode": "bank_family",
+      "family_label": "B",
+      "family_name": "Substitute into a Context Formula",
+      "evidence_job": "substitute into context formula",
+      "custom_question_description": null,
+      "fresh_instance_rule_applied": true,
+      "lineage": {
+        "repo": "tnezki/algebra",
+        "commit": "95601f886fefe94c2ad7e2f8d7263a2d365d8a80",
+        "path": "banks/unit1/mastery_goals/U1-MG03.json"
+      }
+    },
+    {
+      "question_slot": 3,
+      "slot_role": "current_unit_reassessment",
+      "i_can_id": "U1-MG01-IC03",
+      "i_can_exact_text": "Read a graph using its scale.",
+      "selection_mode": "bank_family",
+      "family_label": "B",
+      "family_name": "Compare Values on an Unequal Scale",
+      "evidence_job": "use unequal graph scales correctly",
+      "custom_question_description": null,
+      "fresh_instance_rule_applied": true,
+      "lineage": {
+        "repo": "tnezki/algebra",
+        "commit": "95601f886fefe94c2ad7e2f8d7263a2d365d8a80",
+        "path": "banks/unit1/mastery_goals/U1-MG01.json"
+      }
+    },
+    {
+      "question_slot": 4,
+      "slot_role": "current_unit_reassessment",
+      "i_can_id": "U1-MG01-IC04",
+      "i_can_exact_text": "Identify and interpret intercepts when they are shown.",
+      "selection_mode": "bank_family",
+      "family_label": "A",
+      "family_name": "Identify Both Intercepts",
+      "evidence_job": "identify both intercepts",
+      "custom_question_description": null,
+      "fresh_instance_rule_applied": true,
+      "lineage": {
+        "repo": "tnezki/algebra",
+        "commit": "95601f886fefe94c2ad7e2f8d7263a2d365d8a80",
+        "path": "banks/unit1/mastery_goals/U1-MG01.json"
+      }
+    }
+  ],
+  "versions": [
+    {
+      "version": "A",
+      "student_pages": [
+        1,
+        2
+      ],
+      "default_print_order": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "questions": [
+        {
+          "printed_position": 1,
+          "default_page": 1,
+          "question_slot": 1,
+          "slot_role": "current_evidence",
+          "i_can_id": "U1-MG03-IC01",
+          "i_can_exact_text": "Substitute a value for a variable.",
+          "selection_mode": "bank_family",
+          "family_label": "A",
+          "family_name": "Direct Single-Variable Substitution",
+          "evidence_job": "direct substitution",
+          "custom_question_description": null,
+          "values": {
+            "expression": "6x + 5",
+            "variable": "x",
+            "substitution_value": -4
+          },
+          "answer": "-19",
+          "lineage": {
+            "source_slot": 1,
+            "course_commit": "95601f886fefe94c2ad7e2f8d7263a2d365d8a80"
+          }
+        },
+        {
+          "printed_position": 2,
+          "default_page": 1,
+          "question_slot": 2,
+          "slot_role": "current_evidence",
+          "i_can_id": "U1-MG03-IC01",
+          "i_can_exact_text": "Substitute a value for a variable.",
+          "selection_mode": "bank_family",
+          "family_label": "B",
+          "family_name": "Substitute into a Context Formula",
+          "evidence_job": "substitute into context formula",
+          "custom_question_description": null,
+          "values": {
+            "formula": "C = 3.5h + 6",
+            "input_value": 4,
+            "context": "parking garage"
+          },
+          "answer": "$20",
+          "lineage": {
+            "source_slot": 2,
+            "course_commit": "95601f886fefe94c2ad7e2f8d7263a2d365d8a80"
+          }
+        },
+        {
+          "printed_position": 3,
+          "default_page": 2,
+          "question_slot": 3,
+          "slot_role": "current_unit_reassessment",
+          "i_can_id": "U1-MG01-IC03",
+          "i_can_exact_text": "Read a graph using its scale.",
+          "selection_mode": "bank_family",
+          "family_label": "B",
+          "family_name": "Compare Values on an Unequal Scale",
+          "evidence_job": "use unequal graph scales correctly",
+          "custom_question_description": null,
+          "values": {
+            "points": [
+              [
+                2,
+                30
+              ],
+              [
+                7,
+                80
+              ]
+            ],
+            "x_scale": 1,
+            "y_scale": 10
+          },
+          "answer": "50",
+          "lineage": {
+            "source_slot": 3,
+            "course_commit": "95601f886fefe94c2ad7e2f8d7263a2d365d8a80"
+          }
+        },
+        {
+          "printed_position": 4,
+          "default_page": 2,
+          "question_slot": 4,
+          "slot_role": "current_unit_reassessment",
+          "i_can_id": "U1-MG01-IC04",
+          "i_can_exact_text": "Identify and interpret intercepts when they are shown.",
+          "selection_mode": "bank_family",
+          "family_label": "A",
+          "family_name": "Identify Both Intercepts",
+          "evidence_job": "identify both intercepts",
+          "custom_question_description": null,
+          "values": {
+            "x_intercept": [
+              4,
+              0
+            ],
+            "y_intercept": [
+              0,
+              6
+            ]
+          },
+          "answer": "x-intercept (4, 0); y-intercept (0, 6)",
+          "lineage": {
+            "source_slot": 4,
+            "course_commit": "95601f886fefe94c2ad7e2f8d7263a2d365d8a80"
+          }
+        }
+      ]
+    },
+    {
+      "version": "B",
+      "student_pages": [
+        1,
+        2
+      ],
+      "default_print_order": [
+        2,
+        1,
+        4,
+        3
+      ],
+      "questions": [
+        {
+          "printed_position": 1,
+          "default_page": 1,
+          "question_slot": 2,
+          "slot_role": "current_evidence",
+          "i_can_id": "U1-MG03-IC01",
+          "i_can_exact_text": "Substitute a value for a variable.",
+          "selection_mode": "bank_family",
+          "family_label": "B",
+          "family_name": "Substitute into a Context Formula",
+          "evidence_job": "substitute into context formula",
+          "custom_question_description": null,
+          "values": {
+            "formula": "C = 4h + 9",
+            "input_value": 3,
+            "context": "bike rental"
+          },
+          "answer": "$21",
+          "lineage": {
+            "source_slot": 2,
+            "course_commit": "95601f886fefe94c2ad7e2f8d7263a2d365d8a80"
+          }
+        },
+        {
+          "printed_position": 2,
+          "default_page": 1,
+          "question_slot": 1,
+          "slot_role": "current_evidence",
+          "i_can_id": "U1-MG03-IC01",
+          "i_can_exact_text": "Substitute a value for a variable.",
+          "selection_mode": "bank_family",
+          "family_label": "A",
+          "family_name": "Direct Single-Variable Substitution",
+          "evidence_job": "direct substitution",
+          "custom_question_description": null,
+          "values": {
+            "expression": "5a - 7",
+            "variable": "a",
+            "substitution_value": -3
+          },
+          "answer": "-22",
+          "lineage": {
+            "source_slot": 1,
+            "course_commit": "95601f886fefe94c2ad7e2f8d7263a2d365d8a80"
+          }
+        },
+        {
+          "printed_position": 3,
+          "default_page": 2,
+          "question_slot": 4,
+          "slot_role": "current_unit_reassessment",
+          "i_can_id": "U1-MG01-IC04",
+          "i_can_exact_text": "Identify and interpret intercepts when they are shown.",
+          "selection_mode": "bank_family",
+          "family_label": "A",
+          "family_name": "Identify Both Intercepts",
+          "evidence_job": "identify both intercepts",
+          "custom_question_description": null,
+          "values": {
+            "x_intercept": [
+              -3,
+              0
+            ],
+            "y_intercept": [
+              0,
+              4
+            ]
+          },
+          "answer": "x-intercept (-3, 0); y-intercept (0, 4)",
+          "lineage": {
+            "source_slot": 4,
+            "course_commit": "95601f886fefe94c2ad7e2f8d7263a2d365d8a80"
+          }
+        },
+        {
+          "printed_position": 4,
+          "default_page": 2,
+          "question_slot": 3,
+          "slot_role": "current_unit_reassessment",
+          "i_can_id": "U1-MG01-IC03",
+          "i_can_exact_text": "Read a graph using its scale.",
+          "selection_mode": "bank_family",
+          "family_label": "B",
+          "family_name": "Compare Values on an Unequal Scale",
+          "evidence_job": "use unequal graph scales correctly",
+          "custom_question_description": null,
+          "values": {
+            "points": [
+              [
+                1,
+                30
+              ],
+              [
+                5,
+                90
+              ]
+            ],
+            "x_scale": 1,
+            "y_scale": 15
+          },
+          "answer": "60",
+          "lineage": {
+            "source_slot": 3,
+            "course_commit": "95601f886fefe94c2ad7e2f8d7263a2d365d8a80"
+          }
+        }
+      ]
+    },
+    {
+      "version": "C",
+      "student_pages": [
+        1,
+        2
+      ],
+      "default_print_order": [
+        1,
+        2,
+        4,
+        3
+      ],
+      "questions": [
+        {
+          "printed_position": 1,
+          "default_page": 1,
+          "question_slot": 1,
+          "slot_role": "current_evidence",
+          "i_can_id": "U1-MG03-IC01",
+          "i_can_exact_text": "Substitute a value for a variable.",
+          "selection_mode": "bank_family",
+          "family_label": "A",
+          "family_name": "Direct Single-Variable Substitution",
+          "evidence_job": "direct substitution",
+          "custom_question_description": null,
+          "values": {
+            "expression": "4m + 9",
+            "variable": "m",
+            "substitution_value": -5
+          },
+          "answer": "-11",
+          "lineage": {
+            "source_slot": 1,
+            "course_commit": "95601f886fefe94c2ad7e2f8d7263a2d365d8a80"
+          }
+        },
+        {
+          "printed_position": 2,
+          "default_page": 1,
+          "question_slot": 2,
+          "slot_role": "current_evidence",
+          "i_can_id": "U1-MG03-IC01",
+          "i_can_exact_text": "Substitute a value for a variable.",
+          "selection_mode": "bank_family",
+          "family_label": "B",
+          "family_name": "Substitute into a Context Formula",
+          "evidence_job": "substitute into context formula",
+          "custom_question_description": null,
+          "values": {
+            "formula": "T = 2.5n + 12",
+            "input_value": 8,
+            "context": "group tickets"
+          },
+          "answer": "$32",
+          "lineage": {
+            "source_slot": 2,
+            "course_commit": "95601f886fefe94c2ad7e2f8d7263a2d365d8a80"
+          }
+        },
+        {
+          "printed_position": 3,
+          "default_page": 2,
+          "question_slot": 4,
+          "slot_role": "current_unit_reassessment",
+          "i_can_id": "U1-MG01-IC04",
+          "i_can_exact_text": "Identify and interpret intercepts when they are shown.",
+          "selection_mode": "bank_family",
+          "family_label": "A",
+          "family_name": "Identify Both Intercepts",
+          "evidence_job": "identify both intercepts",
+          "custom_question_description": null,
+          "values": {
+            "x_intercept": [
+              5,
+              0
+            ],
+            "y_intercept": [
+              0,
+              -5
+            ]
+          },
+          "answer": "x-intercept (5, 0); y-intercept (0, -5)",
+          "lineage": {
+            "source_slot": 4,
+            "course_commit": "95601f886fefe94c2ad7e2f8d7263a2d365d8a80"
+          }
+        },
+        {
+          "printed_position": 4,
+          "default_page": 2,
+          "question_slot": 3,
+          "slot_role": "current_unit_reassessment",
+          "i_can_id": "U1-MG01-IC03",
+          "i_can_exact_text": "Read a graph using its scale.",
+          "selection_mode": "bank_family",
+          "family_label": "B",
+          "family_name": "Compare Values on an Unequal Scale",
+          "evidence_job": "use unequal graph scales correctly",
+          "custom_question_description": null,
+          "values": {
+            "points": [
+              [
+                3,
+                40
+              ],
+              [
+                8,
+                140
+              ]
+            ],
+            "x_scale": 1,
+            "y_scale": 20
+          },
+          "answer": "100",
+          "lineage": {
+            "source_slot": 3,
+            "course_commit": "95601f886fefe94c2ad7e2f8d7263a2d365d8a80"
+          }
+        }
+      ]
+    },
+    {
+      "version": "D",
+      "student_pages": [
+        1,
+        2
+      ],
+      "default_print_order": [
+        2,
+        1,
+        3,
+        4
+      ],
+      "questions": [
+        {
+          "printed_position": 1,
+          "default_page": 1,
+          "question_slot": 2,
+          "slot_role": "current_evidence",
+          "i_can_id": "U1-MG03-IC01",
+          "i_can_exact_text": "Substitute a value for a variable.",
+          "selection_mode": "bank_family",
+          "family_label": "B",
+          "family_name": "Substitute into a Context Formula",
+          "evidence_job": "substitute into context formula",
+          "custom_question_description": null,
+          "values": {
+            "formula": "P = 1.5n + 7",
+            "input_value": 10,
+            "context": "printing order"
+          },
+          "answer": "$22",
+          "lineage": {
+            "source_slot": 2,
+            "course_commit": "95601f886fefe94c2ad7e2f8d7263a2d365d8a80"
+          }
+        },
+        {
+          "printed_position": 2,
+          "default_page": 1,
+          "question_slot": 1,
+          "slot_role": "current_evidence",
+          "i_can_id": "U1-MG03-IC01",
+          "i_can_exact_text": "Substitute a value for a variable.",
+          "selection_mode": "bank_family",
+          "family_label": "A",
+          "family_name": "Direct Single-Variable Substitution",
+          "evidence_job": "direct substitution",
+          "custom_question_description": null,
+          "values": {
+            "expression": "7p - 2",
+            "variable": "p",
+            "substitution_value": -2
+          },
+          "answer": "-16",
+          "lineage": {
+            "source_slot": 1,
+            "course_commit": "95601f886fefe94c2ad7e2f8d7263a2d365d8a80"
+          }
+        },
+        {
+          "printed_position": 3,
+          "default_page": 2,
+          "question_slot": 3,
+          "slot_role": "current_unit_reassessment",
+          "i_can_id": "U1-MG01-IC03",
+          "i_can_exact_text": "Read a graph using its scale.",
+          "selection_mode": "bank_family",
+          "family_label": "B",
+          "family_name": "Compare Values on an Unequal Scale",
+          "evidence_job": "use unequal graph scales correctly",
+          "custom_question_description": null,
+          "values": {
+            "points": [
+              [
+                2,
+                50
+              ],
+              [
+                6,
+                150
+              ]
+            ],
+            "x_scale": 1,
+            "y_scale": 25
+          },
+          "answer": "100",
+          "lineage": {
+            "source_slot": 3,
+            "course_commit": "95601f886fefe94c2ad7e2f8d7263a2d365d8a80"
+          }
+        },
+        {
+          "printed_position": 4,
+          "default_page": 2,
+          "question_slot": 4,
+          "slot_role": "current_unit_reassessment",
+          "i_can_id": "U1-MG01-IC04",
+          "i_can_exact_text": "Identify and interpret intercepts when they are shown.",
+          "selection_mode": "bank_family",
+          "family_label": "A",
+          "family_name": "Identify Both Intercepts",
+          "evidence_job": "identify both intercepts",
+          "custom_question_description": null,
+          "values": {
+            "x_intercept": [
+              -4,
+              0
+            ],
+            "y_intercept": [
+              0,
+              -6
+            ]
+          },
+          "answer": "x-intercept (-4, 0); y-intercept (0, -6)",
+          "lineage": {
+            "source_slot": 4,
+            "course_commit": "95601f886fefe94c2ad7e2f8d7263a2d365d8a80"
+          }
+        }
+      ]
+    }
+  ]
+}

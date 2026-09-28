@@ -1,0 +1,28 @@
+{
+  "schema": "algebra-quick-check-library/1.0",
+  "course": "Algebra 1",
+  "append_only": true,
+  "rule": "Never overwrite an earlier approved Quick Check run. Add a new run entry and preserve the prior files.",
+  "entries": [
+    {
+      "unit": 1,
+      "section": "1.1",
+      "run_id": "legacy-current-1-1",
+      "label": "Current approved",
+      "purpose": "original/current approved artifact already in repository",
+      "html": "quick1/approved/quick_1_1/quick_1_1.html",
+      "pdf": "quick1/approved/quick_1_1/quick_1_1.pdf",
+      "source_map": "quick1/approved/quick_1_1/quick_1_1.json"
+    },
+    {
+      "unit": 1,
+      "section": "1.2",
+      "run_id": "legacy-current-1-2",
+      "label": "Current approved",
+      "purpose": "original/current approved artifact already in repository",
+      "html": "quick1/approved/quick_1_2/quick_1_2.html",
+      "pdf": "quick1/approved/quick_1_2/quick_1_2.pdf",
+      "source_map": "quick1/approved/quick_1_2/quick_1_2.json"
+    }
+  ]
+}

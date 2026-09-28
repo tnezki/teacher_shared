@@ -1,0 +1,1930 @@
+{
+  "schema_version": "exit-instance-map/1.0",
+  "course": "Algebra 1",
+  "unit": 1,
+  "system_commit": "2f033b6c28029fe4be6a656bfe3640d56a545404",
+  "course_commit": "16b42b6af33986b1657bfa777c6081cc59053ae9",
+  "screen_order": [
+    "N1",
+    "N2",
+    "R1",
+    "R2"
+  ],
+  "print_rotation": {
+    "V1": [
+      "N1",
+      "N2",
+      "R1",
+      "R2"
+    ],
+    "V2": [
+      "N2",
+      "R1",
+      "R2",
+      "N1"
+    ],
+    "V3": [
+      "R1",
+      "R2",
+      "N1",
+      "N2"
+    ],
+    "V4": [
+      "R2",
+      "N1",
+      "N2",
+      "R1"
+    ]
+  },
+  "ticket_chain": [
+    "1.1A",
+    "1.1B",
+    "1.2A",
+    "1.2B",
+    "1.3A",
+    "1.3B",
+    "1.4A",
+    "1.4B",
+    "1.5A",
+    "1.5B"
+  ],
+  "opening_exception": {
+    "ticket": "1.1A",
+    "R1": "opening_new",
+    "R2": "opening_new"
+  },
+  "evidence_records": [
+    {
+      "section_id": "1.1",
+      "ticket": "A",
+      "evidence_slot": "N1",
+      "role": "new",
+      "mastery_goal_id": "U1-MG01",
+      "primary_i_can_id": "U1-MG01-IC01",
+      "primary_i_can_index": 1,
+      "evidence_job": "Plot and read ordered pairs.",
+      "family_id": "U1-MG01-IC01-B",
+      "family_label": "B",
+      "family_name": "Translate Movement to an Ordered Pair",
+      "question_structure_id": "REPTRANS-TRANSLATE-VERBAL-SYMBOLIC-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "verbal -> symbolic",
+      "difficulty_intent": "alternate representation/application",
+      "screen_question_id": "U1-1.1A-N1-SCR",
+      "screen_instance_signature": "coord_pair|5fb3e922e01fc6dd",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 1,
+          "question_id": "U1-1.1A-N1-V1",
+          "compact_signature": "coord_pair|54937a47aead742f"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 4,
+          "question_id": "U1-1.1A-N1-V2",
+          "compact_signature": "coord_pair|a59b12de377347f6"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 3,
+          "question_id": "U1-1.1A-N1-V3",
+          "compact_signature": "coord_pair|6e562199ca3c2aff"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 2,
+          "question_id": "U1-1.1A-N1-V4",
+          "compact_signature": "coord_pair|4a3e7e4b32514c97"
+        }
+      ]
+    },
+    {
+      "section_id": "1.1",
+      "ticket": "A",
+      "evidence_slot": "N2",
+      "role": "new",
+      "mastery_goal_id": "U1-MG01",
+      "primary_i_can_id": "U1-MG01-IC03",
+      "primary_i_can_index": 3,
+      "evidence_job": "Read a graph accurately using its scale.",
+      "family_id": "U1-MG01-IC03-A",
+      "family_label": "A",
+      "family_name": "Read a Scaled Coordinate",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "graph",
+      "difficulty_intent": "core/direct evidence",
+      "screen_question_id": "U1-1.1A-N2-SCR",
+      "screen_instance_signature": "scaled_read|3d9f662ba97481d1",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 2,
+          "question_id": "U1-1.1A-N2-V1",
+          "compact_signature": "scaled_read|55c9ed1c88763456"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 1,
+          "question_id": "U1-1.1A-N2-V2",
+          "compact_signature": "scaled_read|ffe15ef8139b1f43"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 4,
+          "question_id": "U1-1.1A-N2-V3",
+          "compact_signature": "scaled_read|f0f599b97d55dff3"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 3,
+          "question_id": "U1-1.1A-N2-V4",
+          "compact_signature": "scaled_read|64d6e1ac16809be2"
+        }
+      ]
+    },
+    {
+      "section_id": "1.1",
+      "ticket": "A",
+      "evidence_slot": "R1",
+      "role": "opening_new",
+      "mastery_goal_id": "U1-MG01",
+      "primary_i_can_id": "U1-MG01-IC02",
+      "primary_i_can_index": 2,
+      "evidence_job": "Use the x- and y-axes correctly.",
+      "family_id": "U1-MG01-IC02-B",
+      "family_label": "B",
+      "family_name": "Assign Variables to Axes",
+      "question_structure_id": "REPTRANS-MULTIPLE-SIMULTANEOUS-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "context -> graph axes",
+      "difficulty_intent": "alternate representation/application",
+      "screen_question_id": "U1-1.1A-R1-SCR",
+      "screen_instance_signature": "axes_assign|e12a95b73b6f69a7",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 3,
+          "question_id": "U1-1.1A-R1-V1",
+          "compact_signature": "axes_assign|54feaa3cc77b5128"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 2,
+          "question_id": "U1-1.1A-R1-V2",
+          "compact_signature": "axes_assign|39345817fa54e9e2"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 1,
+          "question_id": "U1-1.1A-R1-V3",
+          "compact_signature": "axes_assign|abb5511a33263664"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 4,
+          "question_id": "U1-1.1A-R1-V4",
+          "compact_signature": "axes_assign|bf388cd879d5b875"
+        }
+      ]
+    },
+    {
+      "section_id": "1.1",
+      "ticket": "A",
+      "evidence_slot": "R2",
+      "role": "opening_new",
+      "mastery_goal_id": "U1-MG01",
+      "primary_i_can_id": "U1-MG01-IC04",
+      "primary_i_can_index": 4,
+      "evidence_job": "Identify and interpret intercepts when they are shown.",
+      "family_id": "U1-MG01-IC04-B",
+      "family_label": "B",
+      "family_name": "Interpret an Intercept in Context",
+      "question_structure_id": "REPTRANS-MULTIPLE-SIMULTANEOUS-01",
+      "response_mode": "constructed response",
+      "representation_mode": "context graph",
+      "difficulty_intent": "alternate representation/application",
+      "screen_question_id": "U1-1.1A-R2-SCR",
+      "screen_instance_signature": "intercept|5435eb3b9d046215",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 4,
+          "question_id": "U1-1.1A-R2-V1",
+          "compact_signature": "intercept|511a0761e062caf3"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 3,
+          "question_id": "U1-1.1A-R2-V2",
+          "compact_signature": "intercept|e42f3c0e29c9e443"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 2,
+          "question_id": "U1-1.1A-R2-V3",
+          "compact_signature": "intercept|16051660e4aa883f"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 1,
+          "question_id": "U1-1.1A-R2-V4",
+          "compact_signature": "intercept|fc0c18032abc53d7"
+        }
+      ]
+    },
+    {
+      "section_id": "1.1",
+      "ticket": "B",
+      "evidence_slot": "N1",
+      "role": "new",
+      "mastery_goal_id": "U1-MG01",
+      "primary_i_can_id": "U1-MG01-IC01",
+      "primary_i_can_index": 1,
+      "evidence_job": "Plot and read ordered pairs.",
+      "family_id": "U1-MG01-IC01-B",
+      "family_label": "B",
+      "family_name": "Translate Movement to an Ordered Pair",
+      "question_structure_id": "REPTRANS-TRANSLATE-VERBAL-SYMBOLIC-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "verbal -> symbolic",
+      "difficulty_intent": "alternate representation/application",
+      "screen_question_id": "U1-1.1B-N1-SCR",
+      "screen_instance_signature": "coord_pair|26cd922ef433eca4",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 1,
+          "question_id": "U1-1.1B-N1-V1",
+          "compact_signature": "coord_pair|8894c614e8a60dc3"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 4,
+          "question_id": "U1-1.1B-N1-V2",
+          "compact_signature": "coord_pair|b488292eff03ec7a"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 3,
+          "question_id": "U1-1.1B-N1-V3",
+          "compact_signature": "coord_pair|051e278bb793730d"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 2,
+          "question_id": "U1-1.1B-N1-V4",
+          "compact_signature": "coord_pair|c53462ba711ef7eb"
+        }
+      ]
+    },
+    {
+      "section_id": "1.1",
+      "ticket": "B",
+      "evidence_slot": "N2",
+      "role": "new",
+      "mastery_goal_id": "U1-MG01",
+      "primary_i_can_id": "U1-MG01-IC03",
+      "primary_i_can_index": 3,
+      "evidence_job": "Read a graph accurately using its scale.",
+      "family_id": "U1-MG01-IC03-A",
+      "family_label": "A",
+      "family_name": "Read a Scaled Coordinate",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "graph",
+      "difficulty_intent": "core/direct evidence",
+      "screen_question_id": "U1-1.1B-N2-SCR",
+      "screen_instance_signature": "scaled_read|6d80ab688cff4905",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 2,
+          "question_id": "U1-1.1B-N2-V1",
+          "compact_signature": "scaled_read|66051cfdd486c414"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 1,
+          "question_id": "U1-1.1B-N2-V2",
+          "compact_signature": "scaled_read|a70294b4d295cfba"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 4,
+          "question_id": "U1-1.1B-N2-V3",
+          "compact_signature": "scaled_read|780ba93c46dc60b6"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 3,
+          "question_id": "U1-1.1B-N2-V4",
+          "compact_signature": "scaled_read|02bc9fe39de50946"
+        }
+      ]
+    },
+    {
+      "section_id": "1.1",
+      "ticket": "B",
+      "evidence_slot": "R1",
+      "role": "reassessment",
+      "mastery_goal_id": "U1-MG01",
+      "primary_i_can_id": "U1-MG01-IC01",
+      "primary_i_can_index": 1,
+      "evidence_job": "Plot and read ordered pairs.",
+      "family_id": "U1-MG01-IC01-B",
+      "family_label": "B",
+      "family_name": "Translate Movement to an Ordered Pair",
+      "question_structure_id": "REPTRANS-TRANSLATE-VERBAL-SYMBOLIC-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "verbal -> symbolic",
+      "difficulty_intent": "alternate representation/application",
+      "screen_question_id": "U1-1.1B-R1-SCR",
+      "screen_instance_signature": "coord_pair|161ab14e321f56e5",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 3,
+          "question_id": "U1-1.1B-R1-V1",
+          "compact_signature": "coord_pair|43b5171e9d0b1387"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 2,
+          "question_id": "U1-1.1B-R1-V2",
+          "compact_signature": "coord_pair|70c02a0a7c22c6ed"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 1,
+          "question_id": "U1-1.1B-R1-V3",
+          "compact_signature": "coord_pair|d20857d86d9e23c2"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 4,
+          "question_id": "U1-1.1B-R1-V4",
+          "compact_signature": "coord_pair|02ffe5a1d1291573"
+        }
+      ],
+      "source_section_id": "1.1",
+      "source_ticket": "A",
+      "source_evidence_slot": "N1",
+      "source_family_id": "U1-MG01-IC01-B"
+    },
+    {
+      "section_id": "1.1",
+      "ticket": "B",
+      "evidence_slot": "R2",
+      "role": "reassessment",
+      "mastery_goal_id": "U1-MG01",
+      "primary_i_can_id": "U1-MG01-IC03",
+      "primary_i_can_index": 3,
+      "evidence_job": "Read a graph accurately using its scale.",
+      "family_id": "U1-MG01-IC03-A",
+      "family_label": "A",
+      "family_name": "Read a Scaled Coordinate",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "graph",
+      "difficulty_intent": "core/direct evidence",
+      "screen_question_id": "U1-1.1B-R2-SCR",
+      "screen_instance_signature": "scaled_read|1d95837004a87bfb",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 4,
+          "question_id": "U1-1.1B-R2-V1",
+          "compact_signature": "scaled_read|7588a5d674cfe1af"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 3,
+          "question_id": "U1-1.1B-R2-V2",
+          "compact_signature": "scaled_read|81e35a85bcdfa7e2"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 2,
+          "question_id": "U1-1.1B-R2-V3",
+          "compact_signature": "scaled_read|861f23214f9f8ea3"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 1,
+          "question_id": "U1-1.1B-R2-V4",
+          "compact_signature": "scaled_read|8c7cd8e4ad6e5f6f"
+        }
+      ],
+      "source_section_id": "1.1",
+      "source_ticket": "A",
+      "source_evidence_slot": "N2",
+      "source_family_id": "U1-MG01-IC03-A"
+    },
+    {
+      "section_id": "1.2",
+      "ticket": "A",
+      "evidence_slot": "N1",
+      "role": "new",
+      "mastery_goal_id": "U1-MG03",
+      "primary_i_can_id": "U1-MG03-IC01",
+      "primary_i_can_index": 1,
+      "evidence_job": "Substitute a value and use order of operations correctly.",
+      "family_id": "U1-MG03-IC01-A",
+      "family_label": "A",
+      "family_name": "Direct Single-Variable Substitution",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "symbolic",
+      "difficulty_intent": "core/direct evidence",
+      "screen_question_id": "U1-1.2A-N1-SCR",
+      "screen_instance_signature": "substitute|10caa2afa460ec9d",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 1,
+          "question_id": "U1-1.2A-N1-V1",
+          "compact_signature": "substitute|ba22874125d6769a"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 4,
+          "question_id": "U1-1.2A-N1-V2",
+          "compact_signature": "substitute|281f32b3e29f10e4"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 3,
+          "question_id": "U1-1.2A-N1-V3",
+          "compact_signature": "substitute|1726b47b36cb538b"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 2,
+          "question_id": "U1-1.2A-N1-V4",
+          "compact_signature": "substitute|298feb2d425fb97b"
+        }
+      ]
+    },
+    {
+      "section_id": "1.2",
+      "ticket": "A",
+      "evidence_slot": "N2",
+      "role": "new",
+      "mastery_goal_id": "U1-MG03",
+      "primary_i_can_id": "U1-MG03-IC03",
+      "primary_i_can_index": 3,
+      "evidence_job": "Evaluate with positive/negative values and check reasonableness.",
+      "family_id": "U1-MG03-IC03-A",
+      "family_label": "A",
+      "family_name": "Evaluate with Signed Numbers",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "symbolic",
+      "difficulty_intent": "core/direct evidence",
+      "screen_question_id": "U1-1.2A-N2-SCR",
+      "screen_instance_signature": "signed_eval|f7185bad2c159c39",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 2,
+          "question_id": "U1-1.2A-N2-V1",
+          "compact_signature": "signed_eval|6bb3a431c7372abe"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 1,
+          "question_id": "U1-1.2A-N2-V2",
+          "compact_signature": "signed_eval|14c49acccd6cec84"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 4,
+          "question_id": "U1-1.2A-N2-V3",
+          "compact_signature": "signed_eval|91585ebea5dca739"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 3,
+          "question_id": "U1-1.2A-N2-V4",
+          "compact_signature": "signed_eval|ec819931efd61524"
+        }
+      ]
+    },
+    {
+      "section_id": "1.2",
+      "ticket": "A",
+      "evidence_slot": "R1",
+      "role": "reassessment",
+      "mastery_goal_id": "U1-MG01",
+      "primary_i_can_id": "U1-MG01-IC01",
+      "primary_i_can_index": 1,
+      "evidence_job": "Plot and read ordered pairs.",
+      "family_id": "U1-MG01-IC01-B",
+      "family_label": "B",
+      "family_name": "Translate Movement to an Ordered Pair",
+      "question_structure_id": "REPTRANS-TRANSLATE-VERBAL-SYMBOLIC-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "verbal -> symbolic",
+      "difficulty_intent": "alternate representation/application",
+      "screen_question_id": "U1-1.2A-R1-SCR",
+      "screen_instance_signature": "coord_pair|449e8a6474825a24",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 3,
+          "question_id": "U1-1.2A-R1-V1",
+          "compact_signature": "coord_pair|b529cf32855a909f"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 2,
+          "question_id": "U1-1.2A-R1-V2",
+          "compact_signature": "coord_pair|b0a262d6a9917c23"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 1,
+          "question_id": "U1-1.2A-R1-V3",
+          "compact_signature": "coord_pair|b105a6b7abda3eec"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 4,
+          "question_id": "U1-1.2A-R1-V4",
+          "compact_signature": "coord_pair|c403c32a5cd5b428"
+        }
+      ],
+      "source_section_id": "1.1",
+      "source_ticket": "B",
+      "source_evidence_slot": "N1",
+      "source_family_id": "U1-MG01-IC01-B"
+    },
+    {
+      "section_id": "1.2",
+      "ticket": "A",
+      "evidence_slot": "R2",
+      "role": "reassessment",
+      "mastery_goal_id": "U1-MG01",
+      "primary_i_can_id": "U1-MG01-IC03",
+      "primary_i_can_index": 3,
+      "evidence_job": "Read a graph accurately using its scale.",
+      "family_id": "U1-MG01-IC03-A",
+      "family_label": "A",
+      "family_name": "Read a Scaled Coordinate",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "graph",
+      "difficulty_intent": "core/direct evidence",
+      "screen_question_id": "U1-1.2A-R2-SCR",
+      "screen_instance_signature": "scaled_read|04089b192898bee7",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 4,
+          "question_id": "U1-1.2A-R2-V1",
+          "compact_signature": "scaled_read|2d64d91abf481091"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 3,
+          "question_id": "U1-1.2A-R2-V2",
+          "compact_signature": "scaled_read|0c2ad23f081436fe"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 2,
+          "question_id": "U1-1.2A-R2-V3",
+          "compact_signature": "scaled_read|bdddee7aa75f4597"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 1,
+          "question_id": "U1-1.2A-R2-V4",
+          "compact_signature": "scaled_read|9ef47f4aa1507d28"
+        }
+      ],
+      "source_section_id": "1.1",
+      "source_ticket": "B",
+      "source_evidence_slot": "N2",
+      "source_family_id": "U1-MG01-IC03-A"
+    },
+    {
+      "section_id": "1.2",
+      "ticket": "B",
+      "evidence_slot": "N1",
+      "role": "new",
+      "mastery_goal_id": "U1-MG03",
+      "primary_i_can_id": "U1-MG03-IC01",
+      "primary_i_can_index": 1,
+      "evidence_job": "Substitute a value and use order of operations correctly.",
+      "family_id": "U1-MG03-IC01-A",
+      "family_label": "A",
+      "family_name": "Direct Single-Variable Substitution",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "symbolic",
+      "difficulty_intent": "core/direct evidence",
+      "screen_question_id": "U1-1.2B-N1-SCR",
+      "screen_instance_signature": "substitute|72fd8252e0318566",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 1,
+          "question_id": "U1-1.2B-N1-V1",
+          "compact_signature": "substitute|d4018864a40f671d"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 4,
+          "question_id": "U1-1.2B-N1-V2",
+          "compact_signature": "substitute|68d6bdb7c48bd3c8"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 3,
+          "question_id": "U1-1.2B-N1-V3",
+          "compact_signature": "substitute|aadb347cf7f3b2dd"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 2,
+          "question_id": "U1-1.2B-N1-V4",
+          "compact_signature": "substitute|0342b50e7205bed4"
+        }
+      ]
+    },
+    {
+      "section_id": "1.2",
+      "ticket": "B",
+      "evidence_slot": "N2",
+      "role": "new",
+      "mastery_goal_id": "U1-MG03",
+      "primary_i_can_id": "U1-MG03-IC03",
+      "primary_i_can_index": 3,
+      "evidence_job": "Evaluate with positive/negative values and check reasonableness.",
+      "family_id": "U1-MG03-IC03-A",
+      "family_label": "A",
+      "family_name": "Evaluate with Signed Numbers",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "symbolic",
+      "difficulty_intent": "core/direct evidence",
+      "screen_question_id": "U1-1.2B-N2-SCR",
+      "screen_instance_signature": "signed_eval|566515de740694a1",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 2,
+          "question_id": "U1-1.2B-N2-V1",
+          "compact_signature": "signed_eval|dadba5f091567d30"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 1,
+          "question_id": "U1-1.2B-N2-V2",
+          "compact_signature": "signed_eval|430006d6dcac88cc"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 4,
+          "question_id": "U1-1.2B-N2-V3",
+          "compact_signature": "signed_eval|8c29194e715f20bc"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 3,
+          "question_id": "U1-1.2B-N2-V4",
+          "compact_signature": "signed_eval|e30fb7cc46df42d1"
+        }
+      ]
+    },
+    {
+      "section_id": "1.2",
+      "ticket": "B",
+      "evidence_slot": "R1",
+      "role": "reassessment",
+      "mastery_goal_id": "U1-MG03",
+      "primary_i_can_id": "U1-MG03-IC01",
+      "primary_i_can_index": 1,
+      "evidence_job": "Substitute a value and use order of operations correctly.",
+      "family_id": "U1-MG03-IC01-A",
+      "family_label": "A",
+      "family_name": "Direct Single-Variable Substitution",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "symbolic",
+      "difficulty_intent": "core/direct evidence",
+      "screen_question_id": "U1-1.2B-R1-SCR",
+      "screen_instance_signature": "substitute|a42c2bf380a4bc9b",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 3,
+          "question_id": "U1-1.2B-R1-V1",
+          "compact_signature": "substitute|b95f95bbd341f02a"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 2,
+          "question_id": "U1-1.2B-R1-V2",
+          "compact_signature": "substitute|8f1e83acab3f969a"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 1,
+          "question_id": "U1-1.2B-R1-V3",
+          "compact_signature": "substitute|c88a4740537ad037"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 4,
+          "question_id": "U1-1.2B-R1-V4",
+          "compact_signature": "substitute|76e3bd0e21872718"
+        }
+      ],
+      "source_section_id": "1.2",
+      "source_ticket": "A",
+      "source_evidence_slot": "N1",
+      "source_family_id": "U1-MG03-IC01-A"
+    },
+    {
+      "section_id": "1.2",
+      "ticket": "B",
+      "evidence_slot": "R2",
+      "role": "reassessment",
+      "mastery_goal_id": "U1-MG03",
+      "primary_i_can_id": "U1-MG03-IC03",
+      "primary_i_can_index": 3,
+      "evidence_job": "Evaluate with positive/negative values and check reasonableness.",
+      "family_id": "U1-MG03-IC03-A",
+      "family_label": "A",
+      "family_name": "Evaluate with Signed Numbers",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "symbolic",
+      "difficulty_intent": "core/direct evidence",
+      "screen_question_id": "U1-1.2B-R2-SCR",
+      "screen_instance_signature": "signed_eval|96238ee46cdfe365",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 4,
+          "question_id": "U1-1.2B-R2-V1",
+          "compact_signature": "signed_eval|79be7aadbac9e715"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 3,
+          "question_id": "U1-1.2B-R2-V2",
+          "compact_signature": "signed_eval|abb46ad433f657cf"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 2,
+          "question_id": "U1-1.2B-R2-V3",
+          "compact_signature": "signed_eval|e8a0e7459f63b617"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 1,
+          "question_id": "U1-1.2B-R2-V4",
+          "compact_signature": "signed_eval|8d5cecc070d57db0"
+        }
+      ],
+      "source_section_id": "1.2",
+      "source_ticket": "A",
+      "source_evidence_slot": "N2",
+      "source_family_id": "U1-MG03-IC03-A"
+    },
+    {
+      "section_id": "1.3",
+      "ticket": "A",
+      "evidence_slot": "N1",
+      "role": "new",
+      "mastery_goal_id": "U1-MG02",
+      "primary_i_can_id": "U1-MG02-IC01",
+      "primary_i_can_index": 1,
+      "evidence_job": "Find the same rate from a graph and a table.",
+      "family_id": "U1-MG02-IC01-A",
+      "family_label": "A",
+      "family_name": "Compute Slope from Two Graph Points",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "graph + table",
+      "difficulty_intent": "core/direct evidence",
+      "screen_question_id": "U1-1.3A-N1-SCR",
+      "screen_instance_signature": "slope_graph_table|01091363da343566",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 1,
+          "question_id": "U1-1.3A-N1-V1",
+          "compact_signature": "slope_graph_table|3267755a863d3752"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 4,
+          "question_id": "U1-1.3A-N1-V2",
+          "compact_signature": "slope_graph_table|97a88b8f135dbd22"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 3,
+          "question_id": "U1-1.3A-N1-V3",
+          "compact_signature": "slope_graph_table|ea5aa629ec71f070"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 2,
+          "question_id": "U1-1.3A-N1-V4",
+          "compact_signature": "slope_graph_table|a517b9f8b228d0ad"
+        }
+      ]
+    },
+    {
+      "section_id": "1.3",
+      "ticket": "A",
+      "evidence_slot": "N2",
+      "role": "new",
+      "mastery_goal_id": "U1-MG02",
+      "primary_i_can_id": "U1-MG02-IC03",
+      "primary_i_can_index": 3,
+      "evidence_job": "Use an equation to find rate and interpret the rate in context.",
+      "family_id": "U1-MG02-IC03-A",
+      "family_label": "A",
+      "family_name": "Read Slope from Slope-Intercept Form",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "equation + context",
+      "difficulty_intent": "core/direct evidence",
+      "screen_question_id": "U1-1.3A-N2-SCR",
+      "screen_instance_signature": "rate_equation_context|6db937ae5c421e16",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 2,
+          "question_id": "U1-1.3A-N2-V1",
+          "compact_signature": "rate_equation_context|19e12cf87aa4ca6a"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 1,
+          "question_id": "U1-1.3A-N2-V2",
+          "compact_signature": "rate_equation_context|f9f10a31e6c8f2aa"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 4,
+          "question_id": "U1-1.3A-N2-V3",
+          "compact_signature": "rate_equation_context|e1df25b1a47e39ff"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 3,
+          "question_id": "U1-1.3A-N2-V4",
+          "compact_signature": "rate_equation_context|cb8f29e115536abf"
+        }
+      ]
+    },
+    {
+      "section_id": "1.3",
+      "ticket": "A",
+      "evidence_slot": "R1",
+      "role": "reassessment",
+      "mastery_goal_id": "U1-MG03",
+      "primary_i_can_id": "U1-MG03-IC01",
+      "primary_i_can_index": 1,
+      "evidence_job": "Substitute a value and use order of operations correctly.",
+      "family_id": "U1-MG03-IC01-A",
+      "family_label": "A",
+      "family_name": "Direct Single-Variable Substitution",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "symbolic",
+      "difficulty_intent": "core/direct evidence",
+      "screen_question_id": "U1-1.3A-R1-SCR",
+      "screen_instance_signature": "substitute|8077c3caa1d474d5",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 3,
+          "question_id": "U1-1.3A-R1-V1",
+          "compact_signature": "substitute|42a157301d3a0f6e"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 2,
+          "question_id": "U1-1.3A-R1-V2",
+          "compact_signature": "substitute|fff44d8a5b3a53f9"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 1,
+          "question_id": "U1-1.3A-R1-V3",
+          "compact_signature": "substitute|2e60b0f5af468ef8"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 4,
+          "question_id": "U1-1.3A-R1-V4",
+          "compact_signature": "substitute|05cd7a40addf7310"
+        }
+      ],
+      "source_section_id": "1.2",
+      "source_ticket": "B",
+      "source_evidence_slot": "N1",
+      "source_family_id": "U1-MG03-IC01-A"
+    },
+    {
+      "section_id": "1.3",
+      "ticket": "A",
+      "evidence_slot": "R2",
+      "role": "reassessment",
+      "mastery_goal_id": "U1-MG03",
+      "primary_i_can_id": "U1-MG03-IC03",
+      "primary_i_can_index": 3,
+      "evidence_job": "Evaluate with positive/negative values and check reasonableness.",
+      "family_id": "U1-MG03-IC03-A",
+      "family_label": "A",
+      "family_name": "Evaluate with Signed Numbers",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "symbolic",
+      "difficulty_intent": "core/direct evidence",
+      "screen_question_id": "U1-1.3A-R2-SCR",
+      "screen_instance_signature": "signed_eval|03206daf7898fad6",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 4,
+          "question_id": "U1-1.3A-R2-V1",
+          "compact_signature": "signed_eval|5bff2a12fed4cc83"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 3,
+          "question_id": "U1-1.3A-R2-V2",
+          "compact_signature": "signed_eval|3b2fac2fbae84f32"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 2,
+          "question_id": "U1-1.3A-R2-V3",
+          "compact_signature": "signed_eval|6941a9aa1fd75c73"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 1,
+          "question_id": "U1-1.3A-R2-V4",
+          "compact_signature": "signed_eval|28f7fc04e0f306d3"
+        }
+      ],
+      "source_section_id": "1.2",
+      "source_ticket": "B",
+      "source_evidence_slot": "N2",
+      "source_family_id": "U1-MG03-IC03-A"
+    },
+    {
+      "section_id": "1.3",
+      "ticket": "B",
+      "evidence_slot": "N1",
+      "role": "new",
+      "mastery_goal_id": "U1-MG02",
+      "primary_i_can_id": "U1-MG02-IC01",
+      "primary_i_can_index": 1,
+      "evidence_job": "Find the same rate from a graph and a table.",
+      "family_id": "U1-MG02-IC01-A",
+      "family_label": "A",
+      "family_name": "Compute Slope from Two Graph Points",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "graph + table",
+      "difficulty_intent": "core/direct evidence",
+      "screen_question_id": "U1-1.3B-N1-SCR",
+      "screen_instance_signature": "slope_graph_table|4b0623e8e95af004",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 1,
+          "question_id": "U1-1.3B-N1-V1",
+          "compact_signature": "slope_graph_table|1b6815c03b9c7aa7"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 4,
+          "question_id": "U1-1.3B-N1-V2",
+          "compact_signature": "slope_graph_table|2f60ddd03ee10be9"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 3,
+          "question_id": "U1-1.3B-N1-V3",
+          "compact_signature": "slope_graph_table|6e52661223808d58"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 2,
+          "question_id": "U1-1.3B-N1-V4",
+          "compact_signature": "slope_graph_table|72fbdd9a43890a3d"
+        }
+      ]
+    },
+    {
+      "section_id": "1.3",
+      "ticket": "B",
+      "evidence_slot": "N2",
+      "role": "new",
+      "mastery_goal_id": "U1-MG02",
+      "primary_i_can_id": "U1-MG02-IC03",
+      "primary_i_can_index": 3,
+      "evidence_job": "Use an equation to find rate and interpret the rate in context.",
+      "family_id": "U1-MG02-IC03-A",
+      "family_label": "A",
+      "family_name": "Read Slope from Slope-Intercept Form",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "equation + context",
+      "difficulty_intent": "core/direct evidence",
+      "screen_question_id": "U1-1.3B-N2-SCR",
+      "screen_instance_signature": "rate_equation_context|e7d08481312bc246",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 2,
+          "question_id": "U1-1.3B-N2-V1",
+          "compact_signature": "rate_equation_context|b0d547edc889f1f5"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 1,
+          "question_id": "U1-1.3B-N2-V2",
+          "compact_signature": "rate_equation_context|0fc200a312b7d063"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 4,
+          "question_id": "U1-1.3B-N2-V3",
+          "compact_signature": "rate_equation_context|b88c0e038ed6e7ce"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 3,
+          "question_id": "U1-1.3B-N2-V4",
+          "compact_signature": "rate_equation_context|61323d7fcd5a6d32"
+        }
+      ]
+    },
+    {
+      "section_id": "1.3",
+      "ticket": "B",
+      "evidence_slot": "R1",
+      "role": "reassessment",
+      "mastery_goal_id": "U1-MG02",
+      "primary_i_can_id": "U1-MG02-IC01",
+      "primary_i_can_index": 1,
+      "evidence_job": "Find the same rate from a graph and a table.",
+      "family_id": "U1-MG02-IC01-A",
+      "family_label": "A",
+      "family_name": "Compute Slope from Two Graph Points",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "graph + table",
+      "difficulty_intent": "core/direct evidence",
+      "screen_question_id": "U1-1.3B-R1-SCR",
+      "screen_instance_signature": "slope_graph_table|0b8cec9ebe4e8bbe",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 3,
+          "question_id": "U1-1.3B-R1-V1",
+          "compact_signature": "slope_graph_table|7e7bed8d9e463fbd"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 2,
+          "question_id": "U1-1.3B-R1-V2",
+          "compact_signature": "slope_graph_table|71b6e036ff2cad8f"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 1,
+          "question_id": "U1-1.3B-R1-V3",
+          "compact_signature": "slope_graph_table|910ac27dadeeaa94"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 4,
+          "question_id": "U1-1.3B-R1-V4",
+          "compact_signature": "slope_graph_table|841b124e1e9e9510"
+        }
+      ],
+      "source_section_id": "1.3",
+      "source_ticket": "A",
+      "source_evidence_slot": "N1",
+      "source_family_id": "U1-MG02-IC01-A"
+    },
+    {
+      "section_id": "1.3",
+      "ticket": "B",
+      "evidence_slot": "R2",
+      "role": "reassessment",
+      "mastery_goal_id": "U1-MG02",
+      "primary_i_can_id": "U1-MG02-IC03",
+      "primary_i_can_index": 3,
+      "evidence_job": "Use an equation to find rate and interpret the rate in context.",
+      "family_id": "U1-MG02-IC03-A",
+      "family_label": "A",
+      "family_name": "Read Slope from Slope-Intercept Form",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "equation + context",
+      "difficulty_intent": "core/direct evidence",
+      "screen_question_id": "U1-1.3B-R2-SCR",
+      "screen_instance_signature": "rate_equation_context|ca641df83146d8db",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 4,
+          "question_id": "U1-1.3B-R2-V1",
+          "compact_signature": "rate_equation_context|c62add4fc4e126e5"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 3,
+          "question_id": "U1-1.3B-R2-V2",
+          "compact_signature": "rate_equation_context|2c4a2003f05120ee"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 2,
+          "question_id": "U1-1.3B-R2-V3",
+          "compact_signature": "rate_equation_context|7f0bb8ea686c7087"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 1,
+          "question_id": "U1-1.3B-R2-V4",
+          "compact_signature": "rate_equation_context|ed70c6aecd7f1533"
+        }
+      ],
+      "source_section_id": "1.3",
+      "source_ticket": "A",
+      "source_evidence_slot": "N2",
+      "source_family_id": "U1-MG02-IC03-A"
+    },
+    {
+      "section_id": "1.4",
+      "ticket": "A",
+      "evidence_slot": "N1",
+      "role": "new",
+      "mastery_goal_id": "U1-MG01",
+      "primary_i_can_id": "U1-MG01-IC03",
+      "primary_i_can_index": 3,
+      "evidence_job": "Read a graph accurately using its scale.",
+      "family_id": "U1-MG01-IC03-A",
+      "family_label": "A",
+      "family_name": "Read a Scaled Coordinate",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "graph",
+      "difficulty_intent": "core/direct evidence",
+      "screen_question_id": "U1-1.4A-N1-SCR",
+      "screen_instance_signature": "scaled_read|f5774148cf4b40e5",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 1,
+          "question_id": "U1-1.4A-N1-V1",
+          "compact_signature": "scaled_read|5389c125561d78e6"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 4,
+          "question_id": "U1-1.4A-N1-V2",
+          "compact_signature": "scaled_read|849608279f98bb69"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 3,
+          "question_id": "U1-1.4A-N1-V3",
+          "compact_signature": "scaled_read|a8830c96548dd1cd"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 2,
+          "question_id": "U1-1.4A-N1-V4",
+          "compact_signature": "scaled_read|96fd9ce977d9aeea"
+        }
+      ]
+    },
+    {
+      "section_id": "1.4",
+      "ticket": "A",
+      "evidence_slot": "N2",
+      "role": "new",
+      "mastery_goal_id": "U1-MG01",
+      "primary_i_can_id": "U1-MG01-IC04",
+      "primary_i_can_index": 4,
+      "evidence_job": "Identify and interpret intercepts when they are shown.",
+      "family_id": "U1-MG01-IC04-B",
+      "family_label": "B",
+      "family_name": "Interpret an Intercept in Context",
+      "question_structure_id": "REPTRANS-MULTIPLE-SIMULTANEOUS-01",
+      "response_mode": "constructed response",
+      "representation_mode": "context graph",
+      "difficulty_intent": "alternate representation/application",
+      "screen_question_id": "U1-1.4A-N2-SCR",
+      "screen_instance_signature": "intercept|4df68b19879b519e",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 2,
+          "question_id": "U1-1.4A-N2-V1",
+          "compact_signature": "intercept|5e44370032cd1a65"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 1,
+          "question_id": "U1-1.4A-N2-V2",
+          "compact_signature": "intercept|092858c70442e70a"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 4,
+          "question_id": "U1-1.4A-N2-V3",
+          "compact_signature": "intercept|d4a366863761a0a4"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 3,
+          "question_id": "U1-1.4A-N2-V4",
+          "compact_signature": "intercept|e5d40d84cbc79a21"
+        }
+      ]
+    },
+    {
+      "section_id": "1.4",
+      "ticket": "A",
+      "evidence_slot": "R1",
+      "role": "reassessment",
+      "mastery_goal_id": "U1-MG02",
+      "primary_i_can_id": "U1-MG02-IC01",
+      "primary_i_can_index": 1,
+      "evidence_job": "Find the same rate from a graph and a table.",
+      "family_id": "U1-MG02-IC01-A",
+      "family_label": "A",
+      "family_name": "Compute Slope from Two Graph Points",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "graph + table",
+      "difficulty_intent": "core/direct evidence",
+      "screen_question_id": "U1-1.4A-R1-SCR",
+      "screen_instance_signature": "slope_graph_table|c6da23cc6d3af45d",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 3,
+          "question_id": "U1-1.4A-R1-V1",
+          "compact_signature": "slope_graph_table|2879b148013d6887"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 2,
+          "question_id": "U1-1.4A-R1-V2",
+          "compact_signature": "slope_graph_table|108c8f8d7d189e2b"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 1,
+          "question_id": "U1-1.4A-R1-V3",
+          "compact_signature": "slope_graph_table|f8a8452f7b2e94e1"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 4,
+          "question_id": "U1-1.4A-R1-V4",
+          "compact_signature": "slope_graph_table|258311c57ba4f84a"
+        }
+      ],
+      "source_section_id": "1.3",
+      "source_ticket": "B",
+      "source_evidence_slot": "N1",
+      "source_family_id": "U1-MG02-IC01-A"
+    },
+    {
+      "section_id": "1.4",
+      "ticket": "A",
+      "evidence_slot": "R2",
+      "role": "reassessment",
+      "mastery_goal_id": "U1-MG02",
+      "primary_i_can_id": "U1-MG02-IC03",
+      "primary_i_can_index": 3,
+      "evidence_job": "Use an equation to find rate and interpret the rate in context.",
+      "family_id": "U1-MG02-IC03-A",
+      "family_label": "A",
+      "family_name": "Read Slope from Slope-Intercept Form",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "equation + context",
+      "difficulty_intent": "core/direct evidence",
+      "screen_question_id": "U1-1.4A-R2-SCR",
+      "screen_instance_signature": "rate_equation_context|326e248022eda164",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 4,
+          "question_id": "U1-1.4A-R2-V1",
+          "compact_signature": "rate_equation_context|c24bf0232c181d97"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 3,
+          "question_id": "U1-1.4A-R2-V2",
+          "compact_signature": "rate_equation_context|b7b80ee47b53b092"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 2,
+          "question_id": "U1-1.4A-R2-V3",
+          "compact_signature": "rate_equation_context|e26b1a87a1ebfb60"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 1,
+          "question_id": "U1-1.4A-R2-V4",
+          "compact_signature": "rate_equation_context|36a07a7ea2a87d04"
+        }
+      ],
+      "source_section_id": "1.3",
+      "source_ticket": "B",
+      "source_evidence_slot": "N2",
+      "source_family_id": "U1-MG02-IC03-A"
+    },
+    {
+      "section_id": "1.4",
+      "ticket": "B",
+      "evidence_slot": "N1",
+      "role": "new",
+      "mastery_goal_id": "U1-MG01",
+      "primary_i_can_id": "U1-MG01-IC03",
+      "primary_i_can_index": 3,
+      "evidence_job": "Read a graph accurately using its scale.",
+      "family_id": "U1-MG01-IC03-A",
+      "family_label": "A",
+      "family_name": "Read a Scaled Coordinate",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "graph",
+      "difficulty_intent": "core/direct evidence",
+      "screen_question_id": "U1-1.4B-N1-SCR",
+      "screen_instance_signature": "scaled_read|7eb58f94951a010c",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 1,
+          "question_id": "U1-1.4B-N1-V1",
+          "compact_signature": "scaled_read|a8e246c413b90556"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 4,
+          "question_id": "U1-1.4B-N1-V2",
+          "compact_signature": "scaled_read|b4306cdf03a1071c"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 3,
+          "question_id": "U1-1.4B-N1-V3",
+          "compact_signature": "scaled_read|f37df4ecc7797748"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 2,
+          "question_id": "U1-1.4B-N1-V4",
+          "compact_signature": "scaled_read|b1089e9800708ac7"
+        }
+      ]
+    },
+    {
+      "section_id": "1.4",
+      "ticket": "B",
+      "evidence_slot": "N2",
+      "role": "new",
+      "mastery_goal_id": "U1-MG01",
+      "primary_i_can_id": "U1-MG01-IC04",
+      "primary_i_can_index": 4,
+      "evidence_job": "Identify and interpret intercepts when they are shown.",
+      "family_id": "U1-MG01-IC04-B",
+      "family_label": "B",
+      "family_name": "Interpret an Intercept in Context",
+      "question_structure_id": "REPTRANS-MULTIPLE-SIMULTANEOUS-01",
+      "response_mode": "constructed response",
+      "representation_mode": "context graph",
+      "difficulty_intent": "alternate representation/application",
+      "screen_question_id": "U1-1.4B-N2-SCR",
+      "screen_instance_signature": "intercept|783ff650922a47ba",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 2,
+          "question_id": "U1-1.4B-N2-V1",
+          "compact_signature": "intercept|93794fcc8a6828e2"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 1,
+          "question_id": "U1-1.4B-N2-V2",
+          "compact_signature": "intercept|1e2da948991bcf23"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 4,
+          "question_id": "U1-1.4B-N2-V3",
+          "compact_signature": "intercept|3a90c4a710bb4da5"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 3,
+          "question_id": "U1-1.4B-N2-V4",
+          "compact_signature": "intercept|90d241d28996b140"
+        }
+      ]
+    },
+    {
+      "section_id": "1.4",
+      "ticket": "B",
+      "evidence_slot": "R1",
+      "role": "reassessment",
+      "mastery_goal_id": "U1-MG01",
+      "primary_i_can_id": "U1-MG01-IC03",
+      "primary_i_can_index": 3,
+      "evidence_job": "Read a graph accurately using its scale.",
+      "family_id": "U1-MG01-IC03-A",
+      "family_label": "A",
+      "family_name": "Read a Scaled Coordinate",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "graph",
+      "difficulty_intent": "core/direct evidence",
+      "screen_question_id": "U1-1.4B-R1-SCR",
+      "screen_instance_signature": "scaled_read|a6216e9928a3450a",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 3,
+          "question_id": "U1-1.4B-R1-V1",
+          "compact_signature": "scaled_read|ba47e8d9c1a33d21"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 2,
+          "question_id": "U1-1.4B-R1-V2",
+          "compact_signature": "scaled_read|ae9445bcddc76df0"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 1,
+          "question_id": "U1-1.4B-R1-V3",
+          "compact_signature": "scaled_read|39f3625afe9a1a45"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 4,
+          "question_id": "U1-1.4B-R1-V4",
+          "compact_signature": "scaled_read|89f5c6ef1ceaad21"
+        }
+      ],
+      "source_section_id": "1.4",
+      "source_ticket": "A",
+      "source_evidence_slot": "N1",
+      "source_family_id": "U1-MG01-IC03-A"
+    },
+    {
+      "section_id": "1.4",
+      "ticket": "B",
+      "evidence_slot": "R2",
+      "role": "reassessment",
+      "mastery_goal_id": "U1-MG01",
+      "primary_i_can_id": "U1-MG01-IC04",
+      "primary_i_can_index": 4,
+      "evidence_job": "Identify and interpret intercepts when they are shown.",
+      "family_id": "U1-MG01-IC04-B",
+      "family_label": "B",
+      "family_name": "Interpret an Intercept in Context",
+      "question_structure_id": "REPTRANS-MULTIPLE-SIMULTANEOUS-01",
+      "response_mode": "constructed response",
+      "representation_mode": "context graph",
+      "difficulty_intent": "alternate representation/application",
+      "screen_question_id": "U1-1.4B-R2-SCR",
+      "screen_instance_signature": "intercept|64721672b1606f41",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 4,
+          "question_id": "U1-1.4B-R2-V1",
+          "compact_signature": "intercept|7c9e644d9289c6b0"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 3,
+          "question_id": "U1-1.4B-R2-V2",
+          "compact_signature": "intercept|c79c414ffa405f5c"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 2,
+          "question_id": "U1-1.4B-R2-V3",
+          "compact_signature": "intercept|f11f8b3be1b8a69f"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 1,
+          "question_id": "U1-1.4B-R2-V4",
+          "compact_signature": "intercept|d82d500a0e21fad5"
+        }
+      ],
+      "source_section_id": "1.4",
+      "source_ticket": "A",
+      "source_evidence_slot": "N2",
+      "source_family_id": "U1-MG01-IC04-B"
+    },
+    {
+      "section_id": "1.5",
+      "ticket": "A",
+      "evidence_slot": "N1",
+      "role": "new",
+      "mastery_goal_id": "U1-MG04",
+      "primary_i_can_id": "U1-MG04-IC02",
+      "primary_i_can_index": 2,
+      "evidence_job": "Use an input-output rule to find an output and record the ordered pair.",
+      "family_id": "U1-MG04-IC02-A",
+      "family_label": "A",
+      "family_name": "Evaluate an Input-Output Rule",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "rule/equation",
+      "difficulty_intent": "core/direct evidence",
+      "screen_question_id": "U1-1.5A-N1-SCR",
+      "screen_instance_signature": "rule_output|0da55bfe2a75f22d",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 1,
+          "question_id": "U1-1.5A-N1-V1",
+          "compact_signature": "rule_output|4c892c0635900521"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 4,
+          "question_id": "U1-1.5A-N1-V2",
+          "compact_signature": "rule_output|a699db6b2ddc79e4"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 3,
+          "question_id": "U1-1.5A-N1-V3",
+          "compact_signature": "rule_output|6790beae8b471153"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 2,
+          "question_id": "U1-1.5A-N1-V4",
+          "compact_signature": "rule_output|9a3be454164f5ffe"
+        }
+      ]
+    },
+    {
+      "section_id": "1.5",
+      "ticket": "A",
+      "evidence_slot": "N2",
+      "role": "new",
+      "mastery_goal_id": "U1-MG04",
+      "primary_i_can_id": "U1-MG04-IC03",
+      "primary_i_can_index": 3,
+      "evidence_job": "Find a missing input/output and extend the rule in a table.",
+      "family_id": "U1-MG04-IC03-A",
+      "family_label": "A",
+      "family_name": "Find a Missing Output",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "table + rule",
+      "difficulty_intent": "core/direct evidence",
+      "screen_question_id": "U1-1.5A-N2-SCR",
+      "screen_instance_signature": "missing_table|3f834d41fb8d9ea0",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 2,
+          "question_id": "U1-1.5A-N2-V1",
+          "compact_signature": "missing_table|5dc4e981116bfdb1"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 1,
+          "question_id": "U1-1.5A-N2-V2",
+          "compact_signature": "missing_table|a551bd67be736c03"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 4,
+          "question_id": "U1-1.5A-N2-V3",
+          "compact_signature": "missing_table|120b44522ed89e5a"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 3,
+          "question_id": "U1-1.5A-N2-V4",
+          "compact_signature": "missing_table|da8a8402644e5e96"
+        }
+      ]
+    },
+    {
+      "section_id": "1.5",
+      "ticket": "A",
+      "evidence_slot": "R1",
+      "role": "reassessment",
+      "mastery_goal_id": "U1-MG01",
+      "primary_i_can_id": "U1-MG01-IC03",
+      "primary_i_can_index": 3,
+      "evidence_job": "Read a graph accurately using its scale.",
+      "family_id": "U1-MG01-IC03-A",
+      "family_label": "A",
+      "family_name": "Read a Scaled Coordinate",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "graph",
+      "difficulty_intent": "core/direct evidence",
+      "screen_question_id": "U1-1.5A-R1-SCR",
+      "screen_instance_signature": "scaled_read|4b8ca67649f7e672",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 3,
+          "question_id": "U1-1.5A-R1-V1",
+          "compact_signature": "scaled_read|59ce65a642416682"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 2,
+          "question_id": "U1-1.5A-R1-V2",
+          "compact_signature": "scaled_read|fff368d81ae61e4f"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 1,
+          "question_id": "U1-1.5A-R1-V3",
+          "compact_signature": "scaled_read|75776e37a879cee7"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 4,
+          "question_id": "U1-1.5A-R1-V4",
+          "compact_signature": "scaled_read|de6484f7e7de9b8b"
+        }
+      ],
+      "source_section_id": "1.4",
+      "source_ticket": "B",
+      "source_evidence_slot": "N1",
+      "source_family_id": "U1-MG01-IC03-A"
+    },
+    {
+      "section_id": "1.5",
+      "ticket": "A",
+      "evidence_slot": "R2",
+      "role": "reassessment",
+      "mastery_goal_id": "U1-MG01",
+      "primary_i_can_id": "U1-MG01-IC04",
+      "primary_i_can_index": 4,
+      "evidence_job": "Identify and interpret intercepts when they are shown.",
+      "family_id": "U1-MG01-IC04-B",
+      "family_label": "B",
+      "family_name": "Interpret an Intercept in Context",
+      "question_structure_id": "REPTRANS-MULTIPLE-SIMULTANEOUS-01",
+      "response_mode": "constructed response",
+      "representation_mode": "context graph",
+      "difficulty_intent": "alternate representation/application",
+      "screen_question_id": "U1-1.5A-R2-SCR",
+      "screen_instance_signature": "intercept|0209e1faf0856771",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 4,
+          "question_id": "U1-1.5A-R2-V1",
+          "compact_signature": "intercept|e05d6c18e374a6fd"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 3,
+          "question_id": "U1-1.5A-R2-V2",
+          "compact_signature": "intercept|25c16a880b06b1cd"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 2,
+          "question_id": "U1-1.5A-R2-V3",
+          "compact_signature": "intercept|ca01dea7a9510274"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 1,
+          "question_id": "U1-1.5A-R2-V4",
+          "compact_signature": "intercept|4d4e8013be556644"
+        }
+      ],
+      "source_section_id": "1.4",
+      "source_ticket": "B",
+      "source_evidence_slot": "N2",
+      "source_family_id": "U1-MG01-IC04-B"
+    },
+    {
+      "section_id": "1.5",
+      "ticket": "B",
+      "evidence_slot": "N1",
+      "role": "new",
+      "mastery_goal_id": "U1-MG04",
+      "primary_i_can_id": "U1-MG04-IC02",
+      "primary_i_can_index": 2,
+      "evidence_job": "Use an input-output rule to find an output and record the ordered pair.",
+      "family_id": "U1-MG04-IC02-A",
+      "family_label": "A",
+      "family_name": "Evaluate an Input-Output Rule",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "rule/equation",
+      "difficulty_intent": "core/direct evidence",
+      "screen_question_id": "U1-1.5B-N1-SCR",
+      "screen_instance_signature": "rule_output|a7267322b31f5dbf",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 1,
+          "question_id": "U1-1.5B-N1-V1",
+          "compact_signature": "rule_output|51e709464da0fbbe"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 4,
+          "question_id": "U1-1.5B-N1-V2",
+          "compact_signature": "rule_output|af904c442078700f"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 3,
+          "question_id": "U1-1.5B-N1-V3",
+          "compact_signature": "rule_output|7be7aa0de29d23f7"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 2,
+          "question_id": "U1-1.5B-N1-V4",
+          "compact_signature": "rule_output|09e45d13dcef3d3b"
+        }
+      ]
+    },
+    {
+      "section_id": "1.5",
+      "ticket": "B",
+      "evidence_slot": "N2",
+      "role": "new",
+      "mastery_goal_id": "U1-MG04",
+      "primary_i_can_id": "U1-MG04-IC03",
+      "primary_i_can_index": 3,
+      "evidence_job": "Find a missing input/output and extend the rule in a table.",
+      "family_id": "U1-MG04-IC03-A",
+      "family_label": "A",
+      "family_name": "Find a Missing Output",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "table + rule",
+      "difficulty_intent": "core/direct evidence",
+      "screen_question_id": "U1-1.5B-N2-SCR",
+      "screen_instance_signature": "missing_table|ef137f6704902eda",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 2,
+          "question_id": "U1-1.5B-N2-V1",
+          "compact_signature": "missing_table|eb520e54db6aef80"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 1,
+          "question_id": "U1-1.5B-N2-V2",
+          "compact_signature": "missing_table|c19c0c298d9caeda"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 4,
+          "question_id": "U1-1.5B-N2-V3",
+          "compact_signature": "missing_table|5faa6386de289fd6"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 3,
+          "question_id": "U1-1.5B-N2-V4",
+          "compact_signature": "missing_table|505db6bbc6369adc"
+        }
+      ]
+    },
+    {
+      "section_id": "1.5",
+      "ticket": "B",
+      "evidence_slot": "R1",
+      "role": "reassessment",
+      "mastery_goal_id": "U1-MG04",
+      "primary_i_can_id": "U1-MG04-IC02",
+      "primary_i_can_index": 2,
+      "evidence_job": "Use an input-output rule to find an output and record the ordered pair.",
+      "family_id": "U1-MG04-IC02-A",
+      "family_label": "A",
+      "family_name": "Evaluate an Input-Output Rule",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "rule/equation",
+      "difficulty_intent": "core/direct evidence",
+      "screen_question_id": "U1-1.5B-R1-SCR",
+      "screen_instance_signature": "rule_output|47adbacb65ee4b60",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 3,
+          "question_id": "U1-1.5B-R1-V1",
+          "compact_signature": "rule_output|e119ce9c7abc96b6"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 2,
+          "question_id": "U1-1.5B-R1-V2",
+          "compact_signature": "rule_output|fec76dc1ae6f23de"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 1,
+          "question_id": "U1-1.5B-R1-V3",
+          "compact_signature": "rule_output|8c64d0b2b69d63eb"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 4,
+          "question_id": "U1-1.5B-R1-V4",
+          "compact_signature": "rule_output|1e48883077b544f9"
+        }
+      ],
+      "source_section_id": "1.5",
+      "source_ticket": "A",
+      "source_evidence_slot": "N1",
+      "source_family_id": "U1-MG04-IC02-A"
+    },
+    {
+      "section_id": "1.5",
+      "ticket": "B",
+      "evidence_slot": "R2",
+      "role": "reassessment",
+      "mastery_goal_id": "U1-MG04",
+      "primary_i_can_id": "U1-MG04-IC03",
+      "primary_i_can_index": 3,
+      "evidence_job": "Find a missing input/output and extend the rule in a table.",
+      "family_id": "U1-MG04-IC03-A",
+      "family_label": "A",
+      "family_name": "Find a Missing Output",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "table + rule",
+      "difficulty_intent": "core/direct evidence",
+      "screen_question_id": "U1-1.5B-R2-SCR",
+      "screen_instance_signature": "missing_table|7cdab341abb0f3d7",
+      "print_versions": [
+        {
+          "version": "V1",
+          "visible_question_position": 4,
+          "question_id": "U1-1.5B-R2-V1",
+          "compact_signature": "missing_table|08497457c0762661"
+        },
+        {
+          "version": "V2",
+          "visible_question_position": 3,
+          "question_id": "U1-1.5B-R2-V2",
+          "compact_signature": "missing_table|f1adcefec0ebfe56"
+        },
+        {
+          "version": "V3",
+          "visible_question_position": 2,
+          "question_id": "U1-1.5B-R2-V3",
+          "compact_signature": "missing_table|f8b5267d63ad394c"
+        },
+        {
+          "version": "V4",
+          "visible_question_position": 1,
+          "question_id": "U1-1.5B-R2-V4",
+          "compact_signature": "missing_table|20f70bf92605fb5a"
+        }
+      ],
+      "source_section_id": "1.5",
+      "source_ticket": "A",
+      "source_evidence_slot": "N2",
+      "source_family_id": "U1-MG04-IC03-A"
+    }
+  ]
+}

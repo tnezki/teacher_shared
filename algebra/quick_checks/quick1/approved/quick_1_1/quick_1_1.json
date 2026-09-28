@@ -1,0 +1,576 @@
+{
+  "schema": "algebra-approved-quick-check-source-map/1.2",
+  "course": "Algebra 1",
+  "unit": 1,
+  "section": "1.1",
+  "section_title": "Multiple Representations of Relationships",
+  "quick_check_id": "U1-S1-QC01",
+  "artifact": "quick_1_1",
+  "revision": {
+    "date": "2026-09-24",
+    "reason": "Build from teacher-approved request package using Family A for all four selected evidence architectures.",
+    "changes": [
+      "Preserved the approved 1.1 A-D layout behavior and print architecture.",
+      "Changed source slot 3 to the teacher-selected Family A: Read a Scaled Coordinate.",
+      "Regenerated all graph stimuli using the current district Algebra Cartesian graph standard.",
+      "Regenerated the 8-page student PDF and deterministic source map."
+    ]
+  },
+  "pinned_sources": {
+    "system_repo": "tnezki/memories",
+    "system_commit": "67c283d30f84594c43910cf851aeb7cec1352202",
+    "course_repo": "tnezki/algebra",
+    "course_commit": "b7a4b5ffe2917fa00f25734865c1b53661ba4442"
+  },
+  "pm_entrypoint": "pms_build/exit.txt",
+  "template_contract": "Tools/templates/algebra/quick_check/QUICK_CHECK_TEMPLATE_CONTRACT.json",
+  "graph_tool": "Tools/graph_tool.py",
+  "graph_tool_version": "district-graph-tool/1.1-unified",
+  "graph_tool_system_commit": "67c283d30f84594c43910cf851aeb7cec1352202",
+  "teacher_note": "",
+  "version_policy": {
+    "versions": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "pages_per_version": 2,
+    "total_student_pages": 8,
+    "changes_used": [
+      "simple number/value swaps",
+      "deterministic question-order scramble"
+    ],
+    "answer_choice_scramble": "not applicable; all four items are constructed response"
+  },
+  "default_layout": {
+    "layout_version": "1.4",
+    "problems_on_page_1": 2,
+    "source_problem_height_in": {
+      "1": 4.38,
+      "2": 4.38,
+      "3": 4.38,
+      "4": 4.38
+    },
+    "source_graph_width_percent": {
+      "1": 49,
+      "2": 47,
+      "3": 52,
+      "4": 52
+    },
+    "source_workspace_height_in": {
+      "1": 0.12,
+      "2": 0.16,
+      "3": 0.2,
+      "4": 0.22
+    }
+  },
+  "graph_print_standard": {
+    "grid": {
+      "color": "#aaaaaa",
+      "linewidth_pt": 0.6
+    },
+    "axes_and_axis_arrows": {
+      "color": "#222222",
+      "linewidth_pt": 1.8
+    },
+    "plotted_relation": {
+      "linewidth_pt": 2.0
+    },
+    "major_ticks": {
+      "linewidth_pt": 1.2
+    }
+  },
+  "source_questions": [
+    {
+      "source_slot": 1,
+      "slot_role": "current_evidence",
+      "i_can_id": "U1-MG01-IC01",
+      "i_can_text": "Plot and read ordered pairs.",
+      "selection_mode": "bank_family",
+      "family_id": "U1-MG01-IC01-A",
+      "family_label": "A",
+      "family_name": "Plot a Given Ordered Pair",
+      "custom_question_description": null,
+      "evidence_job": "direct coordinate plotting",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "graph",
+      "architecture_preserved": true
+    },
+    {
+      "source_slot": 2,
+      "slot_role": "current_evidence",
+      "i_can_id": "U1-MG01-IC02",
+      "i_can_text": "Use the x- and y-axes correctly.",
+      "selection_mode": "bank_family",
+      "family_id": "U1-MG01-IC02-A",
+      "family_label": "A",
+      "family_name": "Axis-First Coordinate Move",
+      "custom_question_description": null,
+      "evidence_job": "use x first and y second correctly",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "graph",
+      "architecture_preserved": true
+    },
+    {
+      "source_slot": 3,
+      "slot_role": "current_evidence",
+      "i_can_id": "U1-MG01-IC03",
+      "i_can_text": "Read a graph using its scale.",
+      "selection_mode": "bank_family",
+      "family_id": "U1-MG01-IC03-A",
+      "family_label": "A",
+      "family_name": "Read a Scaled Coordinate",
+      "custom_question_description": null,
+      "evidence_job": "read coordinate using graph scale",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "graph",
+      "architecture_preserved": true
+    },
+    {
+      "source_slot": 4,
+      "slot_role": "current_evidence",
+      "i_can_id": "U1-MG01-IC04",
+      "i_can_text": "Identify and interpret intercepts when they are shown.",
+      "selection_mode": "bank_family",
+      "family_id": "U1-MG01-IC04-A",
+      "family_label": "A",
+      "family_name": "Identify Both Intercepts",
+      "custom_question_description": null,
+      "evidence_job": "identify both intercepts",
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "short constructed response",
+      "representation_mode": "graph",
+      "architecture_preserved": true
+    }
+  ],
+  "versions": {
+    "A": {
+      "order": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "items": [
+        {
+          "printed_position": 1,
+          "source_slot": 1,
+          "slot_role": "current_evidence",
+          "i_can_id": "U1-MG01-IC01",
+          "i_can_exact_text": "Plot and read ordered pairs.",
+          "selection_mode": "bank_family",
+          "family_id": "U1-MG01-IC01-A",
+          "family_label": "A",
+          "family_name": "Plot a Given Ordered Pair",
+          "evidence_job": "direct coordinate plotting",
+          "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+          "values": {
+            "point": "P",
+            "x": -3,
+            "y": 4
+          },
+          "answer": "P is plotted at (-3, 4).",
+          "deliberate_aggregation": false,
+          "multi_target": false
+        },
+        {
+          "printed_position": 2,
+          "source_slot": 2,
+          "slot_role": "current_evidence",
+          "i_can_id": "U1-MG01-IC02",
+          "i_can_exact_text": "Use the x- and y-axes correctly.",
+          "selection_mode": "bank_family",
+          "family_id": "U1-MG01-IC02-A",
+          "family_label": "A",
+          "family_name": "Axis-First Coordinate Move",
+          "evidence_job": "use x first and y second correctly",
+          "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+          "values": {
+            "point": "Q",
+            "x": 5,
+            "y": -2
+          },
+          "answer": "x-axis controls the first move: 5 right; y-axis controls the second move: 2 down; plot (5, -2).",
+          "deliberate_aggregation": false,
+          "multi_target": false
+        },
+        {
+          "printed_position": 3,
+          "source_slot": 3,
+          "slot_role": "current_evidence",
+          "i_can_id": "U1-MG01-IC03",
+          "i_can_exact_text": "Read a graph using its scale.",
+          "selection_mode": "bank_family",
+          "family_id": "U1-MG01-IC03-A",
+          "family_label": "A",
+          "family_name": "Read a Scaled Coordinate",
+          "evidence_job": "read coordinate using graph scale",
+          "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+          "values": {
+            "point": "R",
+            "x": 2,
+            "y": 15
+          },
+          "answer": "(2, 15)",
+          "deliberate_aggregation": false,
+          "multi_target": false,
+          "graph_scale": {
+            "x_grid_step": 1,
+            "y_grid_step": 5,
+            "x_window": [
+              -6,
+              6
+            ],
+            "y_window": [
+              -30,
+              30
+            ]
+          }
+        },
+        {
+          "printed_position": 4,
+          "source_slot": 4,
+          "slot_role": "current_evidence",
+          "i_can_id": "U1-MG01-IC04",
+          "i_can_exact_text": "Identify and interpret intercepts when they are shown.",
+          "selection_mode": "bank_family",
+          "family_id": "U1-MG01-IC04-A",
+          "family_label": "A",
+          "family_name": "Identify Both Intercepts",
+          "evidence_job": "identify both intercepts",
+          "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+          "values": {
+            "m": -2,
+            "b": 8
+          },
+          "answer": "x-intercept: (4, 0); y-intercept: (0, 8).",
+          "deliberate_aggregation": false,
+          "multi_target": false
+        }
+      ]
+    },
+    "B": {
+      "order": [
+        3,
+        1,
+        4,
+        2
+      ],
+      "items": [
+        {
+          "printed_position": 1,
+          "source_slot": 3,
+          "slot_role": "current_evidence",
+          "i_can_id": "U1-MG01-IC03",
+          "i_can_exact_text": "Read a graph using its scale.",
+          "selection_mode": "bank_family",
+          "family_id": "U1-MG01-IC03-A",
+          "family_label": "A",
+          "family_name": "Read a Scaled Coordinate",
+          "evidence_job": "read coordinate using graph scale",
+          "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+          "values": {
+            "point": "R",
+            "x": -3,
+            "y": 25
+          },
+          "answer": "(-3, 25)",
+          "deliberate_aggregation": false,
+          "multi_target": false,
+          "graph_scale": {
+            "x_grid_step": 1,
+            "y_grid_step": 5,
+            "x_window": [
+              -6,
+              6
+            ],
+            "y_window": [
+              -30,
+              30
+            ]
+          }
+        },
+        {
+          "printed_position": 2,
+          "source_slot": 1,
+          "slot_role": "current_evidence",
+          "i_can_id": "U1-MG01-IC01",
+          "i_can_exact_text": "Plot and read ordered pairs.",
+          "selection_mode": "bank_family",
+          "family_id": "U1-MG01-IC01-A",
+          "family_label": "A",
+          "family_name": "Plot a Given Ordered Pair",
+          "evidence_job": "direct coordinate plotting",
+          "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+          "values": {
+            "point": "P",
+            "x": 4,
+            "y": -3
+          },
+          "answer": "P is plotted at (4, -3).",
+          "deliberate_aggregation": false,
+          "multi_target": false
+        },
+        {
+          "printed_position": 3,
+          "source_slot": 4,
+          "slot_role": "current_evidence",
+          "i_can_id": "U1-MG01-IC04",
+          "i_can_exact_text": "Identify and interpret intercepts when they are shown.",
+          "selection_mode": "bank_family",
+          "family_id": "U1-MG01-IC04-A",
+          "family_label": "A",
+          "family_name": "Identify Both Intercepts",
+          "evidence_job": "identify both intercepts",
+          "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+          "values": {
+            "m": 2,
+            "b": -6
+          },
+          "answer": "x-intercept: (3, 0); y-intercept: (0, -6).",
+          "deliberate_aggregation": false,
+          "multi_target": false
+        },
+        {
+          "printed_position": 4,
+          "source_slot": 2,
+          "slot_role": "current_evidence",
+          "i_can_id": "U1-MG01-IC02",
+          "i_can_exact_text": "Use the x- and y-axes correctly.",
+          "selection_mode": "bank_family",
+          "family_id": "U1-MG01-IC02-A",
+          "family_label": "A",
+          "family_name": "Axis-First Coordinate Move",
+          "evidence_job": "use x first and y second correctly",
+          "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+          "values": {
+            "point": "Q",
+            "x": -4,
+            "y": 3
+          },
+          "answer": "x-axis controls the first move: 4 left; y-axis controls the second move: 3 up; plot (-4, 3).",
+          "deliberate_aggregation": false,
+          "multi_target": false
+        }
+      ]
+    },
+    "C": {
+      "order": [
+        2,
+        4,
+        1,
+        3
+      ],
+      "items": [
+        {
+          "printed_position": 1,
+          "source_slot": 2,
+          "slot_role": "current_evidence",
+          "i_can_id": "U1-MG01-IC02",
+          "i_can_exact_text": "Use the x- and y-axes correctly.",
+          "selection_mode": "bank_family",
+          "family_id": "U1-MG01-IC02-A",
+          "family_label": "A",
+          "family_name": "Axis-First Coordinate Move",
+          "evidence_job": "use x first and y second correctly",
+          "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+          "values": {
+            "point": "Q",
+            "x": 2,
+            "y": -5
+          },
+          "answer": "x-axis controls the first move: 2 right; y-axis controls the second move: 5 down; plot (2, -5).",
+          "deliberate_aggregation": false,
+          "multi_target": false
+        },
+        {
+          "printed_position": 2,
+          "source_slot": 4,
+          "slot_role": "current_evidence",
+          "i_can_id": "U1-MG01-IC04",
+          "i_can_exact_text": "Identify and interpret intercepts when they are shown.",
+          "selection_mode": "bank_family",
+          "family_id": "U1-MG01-IC04-A",
+          "family_label": "A",
+          "family_name": "Identify Both Intercepts",
+          "evidence_job": "identify both intercepts",
+          "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+          "values": {
+            "m": 2,
+            "b": 6
+          },
+          "answer": "x-intercept: (-3, 0); y-intercept: (0, 6).",
+          "deliberate_aggregation": false,
+          "multi_target": false
+        },
+        {
+          "printed_position": 3,
+          "source_slot": 1,
+          "slot_role": "current_evidence",
+          "i_can_id": "U1-MG01-IC01",
+          "i_can_exact_text": "Plot and read ordered pairs.",
+          "selection_mode": "bank_family",
+          "family_id": "U1-MG01-IC01-A",
+          "family_label": "A",
+          "family_name": "Plot a Given Ordered Pair",
+          "evidence_job": "direct coordinate plotting",
+          "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+          "values": {
+            "point": "P",
+            "x": -5,
+            "y": -2
+          },
+          "answer": "P is plotted at (-5, -2).",
+          "deliberate_aggregation": false,
+          "multi_target": false
+        },
+        {
+          "printed_position": 4,
+          "source_slot": 3,
+          "slot_role": "current_evidence",
+          "i_can_id": "U1-MG01-IC03",
+          "i_can_exact_text": "Read a graph using its scale.",
+          "selection_mode": "bank_family",
+          "family_id": "U1-MG01-IC03-A",
+          "family_label": "A",
+          "family_name": "Read a Scaled Coordinate",
+          "evidence_job": "read coordinate using graph scale",
+          "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+          "values": {
+            "point": "R",
+            "x": 4,
+            "y": -15
+          },
+          "answer": "(4, -15)",
+          "deliberate_aggregation": false,
+          "multi_target": false,
+          "graph_scale": {
+            "x_grid_step": 1,
+            "y_grid_step": 5,
+            "x_window": [
+              -6,
+              6
+            ],
+            "y_window": [
+              -30,
+              30
+            ]
+          }
+        }
+      ]
+    },
+    "D": {
+      "order": [
+        4,
+        3,
+        2,
+        1
+      ],
+      "items": [
+        {
+          "printed_position": 1,
+          "source_slot": 4,
+          "slot_role": "current_evidence",
+          "i_can_id": "U1-MG01-IC04",
+          "i_can_exact_text": "Identify and interpret intercepts when they are shown.",
+          "selection_mode": "bank_family",
+          "family_id": "U1-MG01-IC04-A",
+          "family_label": "A",
+          "family_name": "Identify Both Intercepts",
+          "evidence_job": "identify both intercepts",
+          "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+          "values": {
+            "m": -1,
+            "b": -4
+          },
+          "answer": "x-intercept: (-4, 0); y-intercept: (0, -4).",
+          "deliberate_aggregation": false,
+          "multi_target": false
+        },
+        {
+          "printed_position": 2,
+          "source_slot": 3,
+          "slot_role": "current_evidence",
+          "i_can_id": "U1-MG01-IC03",
+          "i_can_exact_text": "Read a graph using its scale.",
+          "selection_mode": "bank_family",
+          "family_id": "U1-MG01-IC03-A",
+          "family_label": "A",
+          "family_name": "Read a Scaled Coordinate",
+          "evidence_job": "read coordinate using graph scale",
+          "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+          "values": {
+            "point": "R",
+            "x": -2,
+            "y": -25
+          },
+          "answer": "(-2, -25)",
+          "deliberate_aggregation": false,
+          "multi_target": false,
+          "graph_scale": {
+            "x_grid_step": 1,
+            "y_grid_step": 5,
+            "x_window": [
+              -6,
+              6
+            ],
+            "y_window": [
+              -30,
+              30
+            ]
+          }
+        },
+        {
+          "printed_position": 3,
+          "source_slot": 2,
+          "slot_role": "current_evidence",
+          "i_can_id": "U1-MG01-IC02",
+          "i_can_exact_text": "Use the x- and y-axes correctly.",
+          "selection_mode": "bank_family",
+          "family_id": "U1-MG01-IC02-A",
+          "family_label": "A",
+          "family_name": "Axis-First Coordinate Move",
+          "evidence_job": "use x first and y second correctly",
+          "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+          "values": {
+            "point": "Q",
+            "x": -3,
+            "y": -4
+          },
+          "answer": "x-axis controls the first move: 3 left; y-axis controls the second move: 4 down; plot (-3, -4).",
+          "deliberate_aggregation": false,
+          "multi_target": false
+        },
+        {
+          "printed_position": 4,
+          "source_slot": 1,
+          "slot_role": "current_evidence",
+          "i_can_id": "U1-MG01-IC01",
+          "i_can_exact_text": "Plot and read ordered pairs.",
+          "selection_mode": "bank_family",
+          "family_id": "U1-MG01-IC01-A",
+          "family_label": "A",
+          "family_name": "Plot a Given Ordered Pair",
+          "evidence_job": "direct coordinate plotting",
+          "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+          "values": {
+            "point": "P",
+            "x": 2,
+            "y": 5
+          },
+          "answer": "P is plotted at (2, 5).",
+          "deliberate_aggregation": false,
+          "multi_target": false
+        }
+      ]
+    }
+  },
+  "aggregation_or_multi_target": {
+    "used": false,
+    "note": "Each printed problem maps to exactly one approved I Can/evidence job; no aggregation or multi-target override is used."
+  }
+}
