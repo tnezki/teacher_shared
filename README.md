@@ -1,47 +1,49 @@
-# Algebra 1 Shared Teacher Repository
+# Teacher Shared
 
-This repository is the **read-only shared teacher companion** to the public Algebra 1 course repository.
+This repository is the **public, unlinked, read-only co-teacher companion** for the curriculum system.
 
-It is intended for the course co-teacher. It is deliberately separate from the local Teacher Tools / Planner system.
+It is intentionally separate from the local Teacher Tools / Planner system.
 
-## Three visibility levels
+## Hosted co-teacher agendas
 
-1. **Student** — safe for the public Algebra repository and Student Agenda.
-2. **Teacher shared** — safe for this private repository and the co-teacher: exact teacher guides, assessment files/links, answer keys, and other shared instructional resources.
-3. **Teacher local** — personal/local tools and data. These never belong in this repository.
+The local Planners generate the teacher views, but the canonical published files live here:
 
-## What this repository should contain
+- Algebra 1: `algebra/index.html`
+- Physics: `physics/index.html`
+- AP Calculus AB: `calc/index.html`
 
-- A generated, read-only Teacher Agenda at `index.html`.
-- The exact student-facing resources used on each day.
-- Teacher-only rows showing the matching teacher guide(s), Quick Check / assessment link, Summative Assessment link, answer key, or other teacher resource actually used.
-- Secure course artifacts under `resources/` as they are migrated or created.
-- A small private artifact registry at `data/private_artifacts.json`.
+The hosted site is:
 
-## What this repository should never contain
+- `https://tnezki.github.io/teacher_shared/`
+- `https://tnezki.github.io/teacher_shared/algebra/`
+- `https://tnezki.github.io/teacher_shared/physics/`
+- `https://tnezki.github.io/teacher_shared/calc/`
 
-- Planner editing controls or local Teacher Tools links.
-- Local Planner state that exposes personal tools.
+A localhost `/shared/...` route is only a teacher preview/troubleshooting surface. It is not the link supplied to the co-teacher.
+
+## What belongs here
+
+- Generated read-only co-teacher agendas.
+- Exact teacher guides and approved shared instructional resources.
+- Approved assessment links/files intended for the co-teacher.
+- Teacher Library pages.
+- Shared course resources that contain no student-specific data.
+
+## What never belongs here
+
+- Planner editing controls.
+- Local Teacher Tools controls.
 - Student names, grades, evidence, reports, email data, or other student information.
 - Passwords, tokens, API keys, or credentials.
 
-## Intended publishing workflow
+## Publishing workflow
 
-The local Planner remains the source of truth. A later Planner update will publish two static views from the same saved schedule:
+1. Edit the schedule in the local Planner.
+2. Use **Apply Changes + Update Agendas**.
+3. The Planner updates:
+   - the student agenda in the course repository;
+   - the co-teacher agenda in this `teacher_shared` repository.
+4. Use **Local Tools -> Commit + Push All Repos**.
+5. GitHub Pages deploys the updated `teacher_shared` site.
 
-- Public Student Agenda -> `algebra/agenda/index.html`
-- Shared Teacher View -> `algebra_teacher_shared/index.html`
-
-You then review and push each repository with GitHub Desktop.
-
-The shared Teacher View is static HTML so the co-teacher can clone the private repository and open `index.html` without gaining access to the Planner or local Teacher Tools.
-
-## First-time private repository setup
-
-1. Run `Initialize Private Repo.command` once.
-2. In GitHub Desktop, use **File -> Add Local Repository** and select this folder.
-3. Publish the repository to GitHub and keep it **Private**.
-4. Invite the co-teacher as a collaborator with the access level you want.
-5. The co-teacher can clone the private repository and double-click `Open Teacher Portal.command` or `index.html`.
-
-Do not publish this folder through a public GitHub Pages site. The repository itself is the access boundary.
+The repository is the durable source. GitHub Pages is the hosted co-teacher view.

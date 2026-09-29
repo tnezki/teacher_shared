@@ -1,0 +1,42 @@
+TEACHER_SHARED HOSTING CONTRACT
+===============================
+STATUS: CURRENT
+REVISION: 2026-09-29
+
+CANONICAL REPOSITORY
+--------------------
+teacher_shared
+
+VISIBILITY
+----------
+Public/unlinked. No student-specific information is allowed.
+
+CANONICAL COURSE OUTPUTS
+------------------------
+algebra/index.html
+physics/index.html
+calc/index.html
+
+HOSTED URLS
+-----------
+https://tnezki.github.io/teacher_shared/
+https://tnezki.github.io/teacher_shared/algebra/
+https://tnezki.github.io/teacher_shared/physics/
+https://tnezki.github.io/teacher_shared/calc/
+
+SOURCE OF TRUTH
+---------------
+The saved local Planner schedule is the authoring source.
+The generated co-teacher files are published into teacher_shared.
+The localhost /shared/... routes are preview only.
+
+PUBLISH
+-------
+Use Apply Changes + Update Agendas in the Planner, then Local Tools -> Commit + Push All Repos.
+The GitHub Pages workflow deploys teacher_shared after pushes to main.
+
+PRIVACY
+-------
+Never publish student names, grades, evidence, reports, recipient data, or credentials here.
+
+END
