@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "saved_at": "2026-09-29 22:22:57",
+  "course": "Algebra 1",
+  "unit": 1,
+  "product": "Practice",
+  "item_label": "1.4",
+  "custom_name": "",
+  "display_title": "1.4 Practice",
+  "bank_revision": 6,
+  "versions": [
+    {
+      "version": 1,
+      "student_file": "Algebra_1_U1_1_4_Practice_V1.html",
+      "key_file": "Algebra_1_U1_1_4_Practice_V1_KEY.html",
+      "question_count": 5
+    }
+  ]
+}
