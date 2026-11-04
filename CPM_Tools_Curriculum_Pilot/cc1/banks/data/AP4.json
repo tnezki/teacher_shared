@@ -1,0 +1,2742 @@
+{
+  "schema": "cpm-family-bank-plan/v1",
+  "course": "Core Connections Course 1",
+  "assessment_plan": "AP4",
+  "chapter": 4,
+  "plan_title": "Variables and Ratios",
+  "essential_standard": "CC1-ES-05; CC1-ES-06",
+  "bank_status": "TEACHER_APPROVED",
+  "source_crosswalk": "assessment_plans/CC1_AP4_ASSESSMENT_PLAN.json",
+  "source_authority": "Current CC1 unit plans, Phase 03 Assessment Evidence, Phase 04 Learning Ladders; exemplars newly authored",
+  "family_policy": {
+    "per_i_can": {
+      "reasoning": 3,
+      "direct": 3,
+      "spiral": 3
+    },
+    "review_rule": "Teacher-directed default accept for pilot use; correct the canonical item only when teacher flags a concrete issue.",
+    "variation_rule": "Only use the supplied exemplar unless any generated variant is independently verified.",
+    "evidence_stage": "Never claim full-rung proficiency from an explicitly partial lesson checkpoint."
+  },
+  "sections": [
+    {
+      "section": "4.1.3",
+      "title": "Model a rule with a variable",
+      "learning_target": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "cpm_lesson": "4.1.3",
+      "ap_section": 4,
+      "i_cans": [
+        {
+          "id": "CC1-ES-06-P-9EC1023A",
+          "text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+          "family_ids": [
+            "CC1-AP4-4-1-3-T01-R01",
+            "CC1-AP4-4-1-3-T01-R02",
+            "CC1-AP4-4-1-3-T01-R03",
+            "CC1-AP4-4-1-3-T01-S01",
+            "CC1-AP4-4-1-3-T01-S02",
+            "CC1-AP4-4-1-3-T01-S03",
+            "CC1-AP4-4-1-3-T01-P01",
+            "CC1-AP4-4-1-3-T01-P02",
+            "CC1-AP4-4-1-3-T01-P03"
+          ],
+          "cpm_lesson": "4.1.3",
+          "cpm_title": "Model a rule with a variable",
+          "learning_goal_id": "CC1-ES-06",
+          "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+          "ladder_rung": "Prerequisite",
+          "evidence_stage": "FIRST_CHECK_PARTIAL",
+          "scope_note": "This is early/partial evidence only; do not infer full Proficient."
+        }
+      ],
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06"
+    },
+    {
+      "section": "4.1.2",
+      "title": "Equivalent expressions (early component)",
+      "learning_target": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "cpm_lesson": "4.1.2",
+      "ap_section": 4,
+      "i_cans": [
+        {
+          "id": "CC1-ES-06-D-C8155064",
+          "text": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+          "family_ids": [
+            "CC1-AP4-4-1-2-T02-R01",
+            "CC1-AP4-4-1-2-T02-R02",
+            "CC1-AP4-4-1-2-T02-R03",
+            "CC1-AP4-4-1-2-T02-S01",
+            "CC1-AP4-4-1-2-T02-S02",
+            "CC1-AP4-4-1-2-T02-S03",
+            "CC1-AP4-4-1-2-T02-P01",
+            "CC1-AP4-4-1-2-T02-P02",
+            "CC1-AP4-4-1-2-T02-P03"
+          ],
+          "cpm_lesson": "4.1.2",
+          "cpm_title": "Equivalent expressions (early component)",
+          "learning_goal_id": "CC1-ES-06",
+          "reporting_i_can_text": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "FIRST_CHECK_PARTIAL",
+          "scope_note": "This is early/partial evidence only; do not infer full Proficient."
+        }
+      ],
+      "reporting_i_can_id": "CC1-ES-06-D-C8155064",
+      "reporting_i_can_text": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "learning_goal_id": "CC1-ES-06"
+    },
+    {
+      "section": "4.2.4",
+      "title": "Scale factor with corresponding lengths",
+      "learning_target": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "cpm_lesson": "4.2.4",
+      "ap_section": 4,
+      "i_cans": [
+        {
+          "id": "CC1-ES-05-D-DCD6DF73",
+          "text": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+          "family_ids": [
+            "CC1-AP4-4-2-4-T03-R01",
+            "CC1-AP4-4-2-4-T03-R02",
+            "CC1-AP4-4-2-4-T03-R03",
+            "CC1-AP4-4-2-4-T03-S01",
+            "CC1-AP4-4-2-4-T03-S02",
+            "CC1-AP4-4-2-4-T03-S03",
+            "CC1-AP4-4-2-4-T03-P01",
+            "CC1-AP4-4-2-4-T03-P02",
+            "CC1-AP4-4-2-4-T03-P03"
+          ],
+          "cpm_lesson": "4.2.4",
+          "cpm_title": "Scale factor with corresponding lengths",
+          "learning_goal_id": "CC1-ES-05",
+          "reporting_i_can_text": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "EXPECT",
+          "scope_note": "Independent evidence after instruction, practice and feedback."
+        }
+      ],
+      "reporting_i_can_id": "CC1-ES-05-D-DCD6DF73",
+      "reporting_i_can_text": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "learning_goal_id": "CC1-ES-05"
+    },
+    {
+      "section": "4.2.4",
+      "title": "Equivalent ratio tables",
+      "learning_target": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "cpm_lesson": "4.2.4",
+      "ap_section": 4,
+      "i_cans": [
+        {
+          "id": "CC1-ES-05-D-6A1A3FF6",
+          "text": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+          "family_ids": [
+            "CC1-AP4-4-2-4-T04-R01",
+            "CC1-AP4-4-2-4-T04-R02",
+            "CC1-AP4-4-2-4-T04-R03",
+            "CC1-AP4-4-2-4-T04-S01",
+            "CC1-AP4-4-2-4-T04-S02",
+            "CC1-AP4-4-2-4-T04-S03",
+            "CC1-AP4-4-2-4-T04-P01",
+            "CC1-AP4-4-2-4-T04-P02",
+            "CC1-AP4-4-2-4-T04-P03"
+          ],
+          "cpm_lesson": "4.2.4",
+          "cpm_title": "Equivalent ratio tables",
+          "learning_goal_id": "CC1-ES-05",
+          "reporting_i_can_text": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "EXPECT",
+          "scope_note": "Independent evidence after instruction, practice and feedback."
+        }
+      ],
+      "reporting_i_can_id": "CC1-ES-05-D-6A1A3FF6",
+      "reporting_i_can_text": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "learning_goal_id": "CC1-ES-05"
+    }
+  ],
+  "mastery_goals": [
+    {
+      "id": "CC1-ES-05",
+      "title": "CC1-ES-05 evidence through chapter 4",
+      "assessment_plan": "AP4",
+      "mastery_goal": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements. I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "i_cans": [
+        {
+          "id": "CC1-ES-05-D-DCD6DF73",
+          "text": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+          "family_ids": [
+            "CC1-AP4-4-2-4-T03-R01",
+            "CC1-AP4-4-2-4-T03-R02",
+            "CC1-AP4-4-2-4-T03-R03",
+            "CC1-AP4-4-2-4-T03-S01",
+            "CC1-AP4-4-2-4-T03-S02",
+            "CC1-AP4-4-2-4-T03-S03",
+            "CC1-AP4-4-2-4-T03-P01",
+            "CC1-AP4-4-2-4-T03-P02",
+            "CC1-AP4-4-2-4-T03-P03"
+          ],
+          "cpm_lesson": "4.2.4",
+          "cpm_title": "Scale factor with corresponding lengths",
+          "learning_goal_id": "CC1-ES-05",
+          "reporting_i_can_text": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "EXPECT",
+          "scope_note": "Independent evidence after instruction, practice and feedback."
+        },
+        {
+          "id": "CC1-ES-05-D-6A1A3FF6",
+          "text": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+          "family_ids": [
+            "CC1-AP4-4-2-4-T04-R01",
+            "CC1-AP4-4-2-4-T04-R02",
+            "CC1-AP4-4-2-4-T04-R03",
+            "CC1-AP4-4-2-4-T04-S01",
+            "CC1-AP4-4-2-4-T04-S02",
+            "CC1-AP4-4-2-4-T04-S03",
+            "CC1-AP4-4-2-4-T04-P01",
+            "CC1-AP4-4-2-4-T04-P02",
+            "CC1-AP4-4-2-4-T04-P03"
+          ],
+          "cpm_lesson": "4.2.4",
+          "cpm_title": "Equivalent ratio tables",
+          "learning_goal_id": "CC1-ES-05",
+          "reporting_i_can_text": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "EXPECT",
+          "scope_note": "Independent evidence after instruction, practice and feedback."
+        }
+      ],
+      "reporting_contract": "cc1-essential-standards/v1"
+    },
+    {
+      "id": "CC1-ES-06",
+      "title": "CC1-ES-06 evidence through chapter 4",
+      "assessment_plan": "AP4",
+      "mastery_goal": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns. I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "i_cans": [
+        {
+          "id": "CC1-ES-06-P-9EC1023A",
+          "text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+          "family_ids": [
+            "CC1-AP4-4-1-3-T01-R01",
+            "CC1-AP4-4-1-3-T01-R02",
+            "CC1-AP4-4-1-3-T01-R03",
+            "CC1-AP4-4-1-3-T01-S01",
+            "CC1-AP4-4-1-3-T01-S02",
+            "CC1-AP4-4-1-3-T01-S03",
+            "CC1-AP4-4-1-3-T01-P01",
+            "CC1-AP4-4-1-3-T01-P02",
+            "CC1-AP4-4-1-3-T01-P03"
+          ],
+          "cpm_lesson": "4.1.3",
+          "cpm_title": "Model a rule with a variable",
+          "learning_goal_id": "CC1-ES-06",
+          "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+          "ladder_rung": "Prerequisite",
+          "evidence_stage": "FIRST_CHECK_PARTIAL",
+          "scope_note": "This is early/partial evidence only; do not infer full Proficient."
+        },
+        {
+          "id": "CC1-ES-06-D-C8155064",
+          "text": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+          "family_ids": [
+            "CC1-AP4-4-1-2-T02-R01",
+            "CC1-AP4-4-1-2-T02-R02",
+            "CC1-AP4-4-1-2-T02-R03",
+            "CC1-AP4-4-1-2-T02-S01",
+            "CC1-AP4-4-1-2-T02-S02",
+            "CC1-AP4-4-1-2-T02-S03",
+            "CC1-AP4-4-1-2-T02-P01",
+            "CC1-AP4-4-1-2-T02-P02",
+            "CC1-AP4-4-1-2-T02-P03"
+          ],
+          "cpm_lesson": "4.1.2",
+          "cpm_title": "Equivalent expressions (early component)",
+          "learning_goal_id": "CC1-ES-06",
+          "reporting_i_can_text": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "FIRST_CHECK_PARTIAL",
+          "scope_note": "This is early/partial evidence only; do not infer full Proficient."
+        }
+      ],
+      "reporting_contract": "cc1-essential-standards/v1"
+    }
+  ],
+  "families": [
+    {
+      "family_id": "CC1-AP4-4-1-3-T01-R01",
+      "teacher_question_id": "Q001",
+      "bank_item_id": "CC1-AP4-Q001",
+      "family_name": "Model a rule with a variable - reasoning 1",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "reasoning",
+      "cpm_lesson": "4.1.3",
+      "cpm_title": "Model a rule with a variable",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Model a rule with a variable",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>An admission ticket costs $4 and a group fee is $4. Write a rule for n tickets. Explain what each part means.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "variable_expr"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "4n+4; at n=6 total 28.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>An admission ticket costs $4 and a group fee is $4. Write a rule for n tickets. Explain what each part means.</p>",
+        "answer": "4n+4; at n=6 total 28.",
+        "solution": "4n+4; at n=6 total 28.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.1.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-1-3-T01-R02",
+      "teacher_question_id": "Q002",
+      "bank_item_id": "CC1-AP4-Q002",
+      "family_name": "Model a rule with a variable - reasoning 2",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "reasoning",
+      "cpm_lesson": "4.1.3",
+      "cpm_title": "Model a rule with a variable",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Model a rule with a variable",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>An admission ticket costs $5 and a group fee is $7. Write a rule for n tickets. Explain what each part means.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "variable_expr"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "5n+7; at n=8 total 47.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>An admission ticket costs $5 and a group fee is $7. Write a rule for n tickets. Explain what each part means.</p>",
+        "answer": "5n+7; at n=8 total 47.",
+        "solution": "5n+7; at n=8 total 47.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.1.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-1-3-T01-R03",
+      "teacher_question_id": "Q003",
+      "bank_item_id": "CC1-AP4-Q003",
+      "family_name": "Model a rule with a variable - reasoning 3",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "reasoning",
+      "cpm_lesson": "4.1.3",
+      "cpm_title": "Model a rule with a variable",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Model a rule with a variable",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>An admission ticket costs $6 and a group fee is $3. Write a rule for n tickets. Explain what each part means.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "variable_expr"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "6n+3; at n=4 total 27.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>An admission ticket costs $6 and a group fee is $3. Write a rule for n tickets. Explain what each part means.</p>",
+        "answer": "6n+3; at n=4 total 27.",
+        "solution": "6n+3; at n=4 total 27.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.1.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-1-3-T01-S01",
+      "teacher_question_id": "Q004",
+      "bank_item_id": "CC1-AP4-Q004",
+      "family_name": "Model a rule with a variable - direct 1",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "direct",
+      "cpm_lesson": "4.1.3",
+      "cpm_title": "Model a rule with a variable",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Model a rule with a variable",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Write an expression for 3 times a number n, plus 2. Evaluate it at n=8.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "variable_expr"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "3n+2; at n=8 total 26.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Write an expression for 3 times a number n, plus 2. Evaluate it at n=8.</p>",
+        "answer": "3n+2; at n=8 total 26.",
+        "solution": "3n+2; at n=8 total 26.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.1.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-1-3-T01-S02",
+      "teacher_question_id": "Q005",
+      "bank_item_id": "CC1-AP4-Q005",
+      "family_name": "Model a rule with a variable - direct 2",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "direct",
+      "cpm_lesson": "4.1.3",
+      "cpm_title": "Model a rule with a variable",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Model a rule with a variable",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Write an expression for 4 times a number n, plus 5. Evaluate it at n=4.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "variable_expr"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "4n+5; at n=4 total 21.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Write an expression for 4 times a number n, plus 5. Evaluate it at n=4.</p>",
+        "answer": "4n+5; at n=4 total 21.",
+        "solution": "4n+5; at n=4 total 21.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.1.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-1-3-T01-S03",
+      "teacher_question_id": "Q006",
+      "bank_item_id": "CC1-AP4-Q006",
+      "family_name": "Model a rule with a variable - direct 3",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "direct",
+      "cpm_lesson": "4.1.3",
+      "cpm_title": "Model a rule with a variable",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Model a rule with a variable",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Write an expression for 5 times a number n, plus 8. Evaluate it at n=6.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "variable_expr"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "5n+8; at n=6 total 38.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Write an expression for 5 times a number n, plus 8. Evaluate it at n=6.</p>",
+        "answer": "5n+8; at n=6 total 38.",
+        "solution": "5n+8; at n=6 total 38.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.1.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-1-3-T01-P01",
+      "teacher_question_id": "Q007",
+      "bank_item_id": "CC1-AP4-Q007",
+      "family_name": "Model a rule with a variable - spiral 1",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "spiral",
+      "cpm_lesson": "4.1.3",
+      "cpm_title": "Model a rule with a variable",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Model a rule with a variable",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A pattern grows by 7 each step and starts at 7. Write its value at step n and find step 4.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "variable_expr"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "7n+7; at n=4 total 35.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A pattern grows by 7 each step and starts at 7. Write its value at step n and find step 4.</p>",
+        "answer": "7n+7; at n=4 total 35.",
+        "solution": "7n+7; at n=4 total 35.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.1.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-1-3-T01-P02",
+      "teacher_question_id": "Q008",
+      "bank_item_id": "CC1-AP4-Q008",
+      "family_name": "Model a rule with a variable - spiral 2",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "spiral",
+      "cpm_lesson": "4.1.3",
+      "cpm_title": "Model a rule with a variable",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Model a rule with a variable",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A pattern grows by 3 each step and starts at 3. Write its value at step n and find step 6.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "variable_expr"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "3n+3; at n=6 total 21.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A pattern grows by 3 each step and starts at 3. Write its value at step n and find step 6.</p>",
+        "answer": "3n+3; at n=6 total 21.",
+        "solution": "3n+3; at n=6 total 21.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.1.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-1-3-T01-P03",
+      "teacher_question_id": "Q009",
+      "bank_item_id": "CC1-AP4-Q009",
+      "family_name": "Model a rule with a variable - spiral 3",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "spiral",
+      "cpm_lesson": "4.1.3",
+      "cpm_title": "Model a rule with a variable",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Model a rule with a variable",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A pattern grows by 4 each step and starts at 6. Write its value at step n and find step 8.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "variable_expr"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "4n+6; at n=8 total 38.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A pattern grows by 4 each step and starts at 6. Write its value at step n and find step 8.</p>",
+        "answer": "4n+6; at n=8 total 38.",
+        "solution": "4n+6; at n=8 total 38.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.1.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-1-2-T02-R01",
+      "teacher_question_id": "Q010",
+      "bank_item_id": "CC1-AP4-Q010",
+      "family_name": "Equivalent expressions (early component) - reasoning 1",
+      "family_purpose": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "category": "reasoning",
+      "cpm_lesson": "4.1.2",
+      "cpm_title": "Equivalent expressions (early component)",
+      "i_can_id": "CC1-ES-06-D-C8155064",
+      "i_can_exact_text": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "student_action": "Equivalent expressions (early component)",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student claims 5(x+4) and 5x+4 are equivalent. Substitute x=2 into both and explain the error.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "equivalent_expr"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "5(x+4) = 5x+20; when x=2, the correct value is 30. Both terms inside parentheses must be multiplied by 5.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A student claims 5(x+4) and 5x+4 are equivalent. Substitute x=2 into both and explain the error.</p>",
+        "answer": "5(x+4) = 5x+20; when x=2, the correct value is 30. Both terms inside parentheses must be multiplied by 5.",
+        "solution": "5(x+4) = 5x+20; when x=2, the correct value is 30. Both terms inside parentheses must be multiplied by 5.",
+        "scoring_guidance": "Check: I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.1.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-D-C8155064",
+      "reporting_i_can_text": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-1-2-T02-R02",
+      "teacher_question_id": "Q011",
+      "bank_item_id": "CC1-AP4-Q011",
+      "family_name": "Equivalent expressions (early component) - reasoning 2",
+      "family_purpose": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "category": "reasoning",
+      "cpm_lesson": "4.1.2",
+      "cpm_title": "Equivalent expressions (early component)",
+      "i_can_id": "CC1-ES-06-D-C8155064",
+      "i_can_exact_text": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "student_action": "Equivalent expressions (early component)",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student claims 6(x+6) and 6x+6 are equivalent. Substitute x=5 into both and explain the error.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "equivalent_expr"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "6(x+6) = 6x+36; when x=5, the correct value is 66. Both terms inside parentheses must be multiplied by 6.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A student claims 6(x+6) and 6x+6 are equivalent. Substitute x=5 into both and explain the error.</p>",
+        "answer": "6(x+6) = 6x+36; when x=5, the correct value is 66. Both terms inside parentheses must be multiplied by 6.",
+        "solution": "6(x+6) = 6x+36; when x=5, the correct value is 66. Both terms inside parentheses must be multiplied by 6.",
+        "scoring_guidance": "Check: I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.1.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-D-C8155064",
+      "reporting_i_can_text": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-1-2-T02-R03",
+      "teacher_question_id": "Q012",
+      "bank_item_id": "CC1-AP4-Q012",
+      "family_name": "Equivalent expressions (early component) - reasoning 3",
+      "family_purpose": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "category": "reasoning",
+      "cpm_lesson": "4.1.2",
+      "cpm_title": "Equivalent expressions (early component)",
+      "i_can_id": "CC1-ES-06-D-C8155064",
+      "i_can_exact_text": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "student_action": "Equivalent expressions (early component)",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student claims 7(x+8) and 7x+8 are equivalent. Substitute x=8 into both and explain the error.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "equivalent_expr"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "7(x+8) = 7x+56; when x=8, the correct value is 112. Both terms inside parentheses must be multiplied by 7.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A student claims 7(x+8) and 7x+8 are equivalent. Substitute x=8 into both and explain the error.</p>",
+        "answer": "7(x+8) = 7x+56; when x=8, the correct value is 112. Both terms inside parentheses must be multiplied by 7.",
+        "solution": "7(x+8) = 7x+56; when x=8, the correct value is 112. Both terms inside parentheses must be multiplied by 7.",
+        "scoring_guidance": "Check: I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.1.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-D-C8155064",
+      "reporting_i_can_text": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-1-2-T02-S01",
+      "teacher_question_id": "Q013",
+      "bank_item_id": "CC1-AP4-Q013",
+      "family_name": "Equivalent expressions (early component) - direct 1",
+      "family_purpose": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "category": "direct",
+      "cpm_lesson": "4.1.2",
+      "cpm_title": "Equivalent expressions (early component)",
+      "i_can_id": "CC1-ES-06-D-C8155064",
+      "i_can_exact_text": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "student_action": "Equivalent expressions (early component)",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Rewrite 4(x+6) with the distributive property.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "equivalent_expr"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "4(x+6) = 4x+24; when x=7, the correct value is 52. Both terms inside parentheses must be multiplied by 4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Rewrite 4(x+6) with the distributive property.</p>",
+        "answer": "4(x+6) = 4x+24; when x=7, the correct value is 52. Both terms inside parentheses must be multiplied by 4.",
+        "solution": "4(x+6) = 4x+24; when x=7, the correct value is 52. Both terms inside parentheses must be multiplied by 4.",
+        "scoring_guidance": "Check: I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.1.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-D-C8155064",
+      "reporting_i_can_text": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-1-2-T02-S02",
+      "teacher_question_id": "Q014",
+      "bank_item_id": "CC1-AP4-Q014",
+      "family_name": "Equivalent expressions (early component) - direct 2",
+      "family_purpose": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "category": "direct",
+      "cpm_lesson": "4.1.2",
+      "cpm_title": "Equivalent expressions (early component)",
+      "i_can_id": "CC1-ES-06-D-C8155064",
+      "i_can_exact_text": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "student_action": "Equivalent expressions (early component)",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Rewrite 5(x+8) with the distributive property.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "equivalent_expr"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "5(x+8) = 5x+40; when x=3, the correct value is 55. Both terms inside parentheses must be multiplied by 5.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Rewrite 5(x+8) with the distributive property.</p>",
+        "answer": "5(x+8) = 5x+40; when x=3, the correct value is 55. Both terms inside parentheses must be multiplied by 5.",
+        "solution": "5(x+8) = 5x+40; when x=3, the correct value is 55. Both terms inside parentheses must be multiplied by 5.",
+        "scoring_guidance": "Check: I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.1.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-D-C8155064",
+      "reporting_i_can_text": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-1-2-T02-S03",
+      "teacher_question_id": "Q015",
+      "bank_item_id": "CC1-AP4-Q015",
+      "family_name": "Equivalent expressions (early component) - direct 3",
+      "family_purpose": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "category": "direct",
+      "cpm_lesson": "4.1.2",
+      "cpm_title": "Equivalent expressions (early component)",
+      "i_can_id": "CC1-ES-06-D-C8155064",
+      "i_can_exact_text": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "student_action": "Equivalent expressions (early component)",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Rewrite 6(x+4) with the distributive property.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "equivalent_expr"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "6(x+4) = 6x+24; when x=6, the correct value is 60. Both terms inside parentheses must be multiplied by 6.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Rewrite 6(x+4) with the distributive property.</p>",
+        "answer": "6(x+4) = 6x+24; when x=6, the correct value is 60. Both terms inside parentheses must be multiplied by 6.",
+        "solution": "6(x+4) = 6x+24; when x=6, the correct value is 60. Both terms inside parentheses must be multiplied by 6.",
+        "scoring_guidance": "Check: I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.1.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-D-C8155064",
+      "reporting_i_can_text": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-1-2-T02-P01",
+      "teacher_question_id": "Q016",
+      "bank_item_id": "CC1-AP4-Q016",
+      "family_name": "Equivalent expressions (early component) - spiral 1",
+      "family_purpose": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "category": "spiral",
+      "cpm_lesson": "4.1.2",
+      "cpm_title": "Equivalent expressions (early component)",
+      "i_can_id": "CC1-ES-06-D-C8155064",
+      "i_can_exact_text": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "student_action": "Equivalent expressions (early component)",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Which is equivalent to 3(x+8): 3x+24 or 3x+8? Explain.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "equivalent_expr"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "3(x+8) = 3x+24; when x=5, the correct value is 39. Both terms inside parentheses must be multiplied by 3.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Which is equivalent to 3(x+8): 3x+24 or 3x+8? Explain.</p>",
+        "answer": "3(x+8) = 3x+24; when x=5, the correct value is 39. Both terms inside parentheses must be multiplied by 3.",
+        "solution": "3(x+8) = 3x+24; when x=5, the correct value is 39. Both terms inside parentheses must be multiplied by 3.",
+        "scoring_guidance": "Check: I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.1.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-D-C8155064",
+      "reporting_i_can_text": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-1-2-T02-P02",
+      "teacher_question_id": "Q017",
+      "bank_item_id": "CC1-AP4-Q017",
+      "family_name": "Equivalent expressions (early component) - spiral 2",
+      "family_purpose": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "category": "spiral",
+      "cpm_lesson": "4.1.2",
+      "cpm_title": "Equivalent expressions (early component)",
+      "i_can_id": "CC1-ES-06-D-C8155064",
+      "i_can_exact_text": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "student_action": "Equivalent expressions (early component)",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Which is equivalent to 4(x+4): 4x+16 or 4x+4? Explain.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "equivalent_expr"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "4(x+4) = 4x+16; when x=8, the correct value is 48. Both terms inside parentheses must be multiplied by 4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Which is equivalent to 4(x+4): 4x+16 or 4x+4? Explain.</p>",
+        "answer": "4(x+4) = 4x+16; when x=8, the correct value is 48. Both terms inside parentheses must be multiplied by 4.",
+        "solution": "4(x+4) = 4x+16; when x=8, the correct value is 48. Both terms inside parentheses must be multiplied by 4.",
+        "scoring_guidance": "Check: I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.1.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-D-C8155064",
+      "reporting_i_can_text": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-1-2-T02-P03",
+      "teacher_question_id": "Q018",
+      "bank_item_id": "CC1-AP4-Q018",
+      "family_name": "Equivalent expressions (early component) - spiral 3",
+      "family_purpose": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "category": "spiral",
+      "cpm_lesson": "4.1.2",
+      "cpm_title": "Equivalent expressions (early component)",
+      "i_can_id": "CC1-ES-06-D-C8155064",
+      "i_can_exact_text": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "student_action": "Equivalent expressions (early component)",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Which is equivalent to 5(x+6): 5x+30 or 5x+6? Explain.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "equivalent_expr"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "5(x+6) = 5x+30; when x=4, the correct value is 50. Both terms inside parentheses must be multiplied by 5.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Which is equivalent to 5(x+6): 5x+30 or 5x+6? Explain.</p>",
+        "answer": "5(x+6) = 5x+30; when x=4, the correct value is 50. Both terms inside parentheses must be multiplied by 5.",
+        "solution": "5(x+6) = 5x+30; when x=4, the correct value is 50. Both terms inside parentheses must be multiplied by 5.",
+        "scoring_guidance": "Check: I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.1.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-D-C8155064",
+      "reporting_i_can_text": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-2-4-T03-R01",
+      "teacher_question_id": "Q019",
+      "bank_item_id": "CC1-AP4-Q019",
+      "family_name": "Scale factor with corresponding lengths - reasoning 1",
+      "family_purpose": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "category": "reasoning",
+      "cpm_lesson": "4.2.4",
+      "cpm_title": "Scale factor with corresponding lengths",
+      "i_can_id": "CC1-ES-05-D-DCD6DF73",
+      "i_can_exact_text": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "learning_goal_id": "CC1-ES-05",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "student_action": "Scale factor with corresponding lengths",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A segment 8 cm long becomes 32 cm. Explain how you know the scale factor and why the same factor must apply to every corresponding side.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "scale_factor"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Scale factor=4; corresponding lengths are multiplied by the same factor. New length=32 cm.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A segment 8 cm long becomes 32 cm. Explain how you know the scale factor and why the same factor must apply to every corresponding side.</p>",
+        "answer": "Scale factor=4; corresponding lengths are multiplied by the same factor. New length=32 cm.",
+        "solution": "Scale factor=4; corresponding lengths are multiplied by the same factor. New length=32 cm.",
+        "scoring_guidance": "Check: I can use a consistent scale factor to enlarge, reduce, or interpret measurements.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-05-D-DCD6DF73",
+      "reporting_i_can_text": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-2-4-T03-R02",
+      "teacher_question_id": "Q020",
+      "bank_item_id": "CC1-AP4-Q020",
+      "family_name": "Scale factor with corresponding lengths - reasoning 2",
+      "family_purpose": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "category": "reasoning",
+      "cpm_lesson": "4.2.4",
+      "cpm_title": "Scale factor with corresponding lengths",
+      "i_can_id": "CC1-ES-05-D-DCD6DF73",
+      "i_can_exact_text": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "learning_goal_id": "CC1-ES-05",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "student_action": "Scale factor with corresponding lengths",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A segment 9 cm long becomes 18 cm. Explain how you know the scale factor and why the same factor must apply to every corresponding side.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "scale_factor"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Scale factor=2; corresponding lengths are multiplied by the same factor. New length=18 cm.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A segment 9 cm long becomes 18 cm. Explain how you know the scale factor and why the same factor must apply to every corresponding side.</p>",
+        "answer": "Scale factor=2; corresponding lengths are multiplied by the same factor. New length=18 cm.",
+        "solution": "Scale factor=2; corresponding lengths are multiplied by the same factor. New length=18 cm.",
+        "scoring_guidance": "Check: I can use a consistent scale factor to enlarge, reduce, or interpret measurements.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-05-D-DCD6DF73",
+      "reporting_i_can_text": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-2-4-T03-R03",
+      "teacher_question_id": "Q021",
+      "bank_item_id": "CC1-AP4-Q021",
+      "family_name": "Scale factor with corresponding lengths - reasoning 3",
+      "family_purpose": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "category": "reasoning",
+      "cpm_lesson": "4.2.4",
+      "cpm_title": "Scale factor with corresponding lengths",
+      "i_can_id": "CC1-ES-05-D-DCD6DF73",
+      "i_can_exact_text": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "learning_goal_id": "CC1-ES-05",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "student_action": "Scale factor with corresponding lengths",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A segment 5 cm long becomes 15 cm. Explain how you know the scale factor and why the same factor must apply to every corresponding side.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "scale_factor"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Scale factor=3; corresponding lengths are multiplied by the same factor. New length=15 cm.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A segment 5 cm long becomes 15 cm. Explain how you know the scale factor and why the same factor must apply to every corresponding side.</p>",
+        "answer": "Scale factor=3; corresponding lengths are multiplied by the same factor. New length=15 cm.",
+        "solution": "Scale factor=3; corresponding lengths are multiplied by the same factor. New length=15 cm.",
+        "scoring_guidance": "Check: I can use a consistent scale factor to enlarge, reduce, or interpret measurements.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-05-D-DCD6DF73",
+      "reporting_i_can_text": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-2-4-T03-S01",
+      "teacher_question_id": "Q022",
+      "bank_item_id": "CC1-AP4-Q022",
+      "family_name": "Scale factor with corresponding lengths - direct 1",
+      "family_purpose": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "category": "direct",
+      "cpm_lesson": "4.2.4",
+      "cpm_title": "Scale factor with corresponding lengths",
+      "i_can_id": "CC1-ES-05-D-DCD6DF73",
+      "i_can_exact_text": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "learning_goal_id": "CC1-ES-05",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "student_action": "Scale factor with corresponding lengths",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A drawing uses scale factor 2. Find the new length of a 7-cm segment.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "scale_factor"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Scale factor=2; corresponding lengths are multiplied by the same factor. New length=14 cm.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A drawing uses scale factor 2. Find the new length of a 7-cm segment.</p>",
+        "answer": "Scale factor=2; corresponding lengths are multiplied by the same factor. New length=14 cm.",
+        "solution": "Scale factor=2; corresponding lengths are multiplied by the same factor. New length=14 cm.",
+        "scoring_guidance": "Check: I can use a consistent scale factor to enlarge, reduce, or interpret measurements.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-05-D-DCD6DF73",
+      "reporting_i_can_text": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-2-4-T03-S02",
+      "teacher_question_id": "Q023",
+      "bank_item_id": "CC1-AP4-Q023",
+      "family_name": "Scale factor with corresponding lengths - direct 2",
+      "family_purpose": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "category": "direct",
+      "cpm_lesson": "4.2.4",
+      "cpm_title": "Scale factor with corresponding lengths",
+      "i_can_id": "CC1-ES-05-D-DCD6DF73",
+      "i_can_exact_text": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "learning_goal_id": "CC1-ES-05",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "student_action": "Scale factor with corresponding lengths",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A drawing uses scale factor 3. Find the new length of a 8-cm segment.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "scale_factor"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Scale factor=3; corresponding lengths are multiplied by the same factor. New length=24 cm.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A drawing uses scale factor 3. Find the new length of a 8-cm segment.</p>",
+        "answer": "Scale factor=3; corresponding lengths are multiplied by the same factor. New length=24 cm.",
+        "solution": "Scale factor=3; corresponding lengths are multiplied by the same factor. New length=24 cm.",
+        "scoring_guidance": "Check: I can use a consistent scale factor to enlarge, reduce, or interpret measurements.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-05-D-DCD6DF73",
+      "reporting_i_can_text": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-2-4-T03-S03",
+      "teacher_question_id": "Q024",
+      "bank_item_id": "CC1-AP4-Q024",
+      "family_name": "Scale factor with corresponding lengths - direct 3",
+      "family_purpose": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "category": "direct",
+      "cpm_lesson": "4.2.4",
+      "cpm_title": "Scale factor with corresponding lengths",
+      "i_can_id": "CC1-ES-05-D-DCD6DF73",
+      "i_can_exact_text": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "learning_goal_id": "CC1-ES-05",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "student_action": "Scale factor with corresponding lengths",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A drawing uses scale factor 4. Find the new length of a 9-cm segment.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "scale_factor"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Scale factor=4; corresponding lengths are multiplied by the same factor. New length=36 cm.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A drawing uses scale factor 4. Find the new length of a 9-cm segment.</p>",
+        "answer": "Scale factor=4; corresponding lengths are multiplied by the same factor. New length=36 cm.",
+        "solution": "Scale factor=4; corresponding lengths are multiplied by the same factor. New length=36 cm.",
+        "scoring_guidance": "Check: I can use a consistent scale factor to enlarge, reduce, or interpret measurements.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-05-D-DCD6DF73",
+      "reporting_i_can_text": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-2-4-T03-P01",
+      "teacher_question_id": "Q025",
+      "bank_item_id": "CC1-AP4-Q025",
+      "family_name": "Scale factor with corresponding lengths - spiral 1",
+      "family_purpose": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "category": "spiral",
+      "cpm_lesson": "4.2.4",
+      "cpm_title": "Scale factor with corresponding lengths",
+      "i_can_id": "CC1-ES-05-D-DCD6DF73",
+      "i_can_exact_text": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "learning_goal_id": "CC1-ES-05",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "student_action": "Scale factor with corresponding lengths",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>An original side is 6 cm and its copy is 18 cm. Find the scale factor.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "scale_factor"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Scale factor=3; corresponding lengths are multiplied by the same factor. New length=18 cm.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>An original side is 6 cm and its copy is 18 cm. Find the scale factor.</p>",
+        "answer": "Scale factor=3; corresponding lengths are multiplied by the same factor. New length=18 cm.",
+        "solution": "Scale factor=3; corresponding lengths are multiplied by the same factor. New length=18 cm.",
+        "scoring_guidance": "Check: I can use a consistent scale factor to enlarge, reduce, or interpret measurements.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-05-D-DCD6DF73",
+      "reporting_i_can_text": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-2-4-T03-P02",
+      "teacher_question_id": "Q026",
+      "bank_item_id": "CC1-AP4-Q026",
+      "family_name": "Scale factor with corresponding lengths - spiral 2",
+      "family_purpose": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "category": "spiral",
+      "cpm_lesson": "4.2.4",
+      "cpm_title": "Scale factor with corresponding lengths",
+      "i_can_id": "CC1-ES-05-D-DCD6DF73",
+      "i_can_exact_text": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "learning_goal_id": "CC1-ES-05",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "student_action": "Scale factor with corresponding lengths",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>An original side is 7 cm and its copy is 28 cm. Find the scale factor.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "scale_factor"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Scale factor=4; corresponding lengths are multiplied by the same factor. New length=28 cm.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>An original side is 7 cm and its copy is 28 cm. Find the scale factor.</p>",
+        "answer": "Scale factor=4; corresponding lengths are multiplied by the same factor. New length=28 cm.",
+        "solution": "Scale factor=4; corresponding lengths are multiplied by the same factor. New length=28 cm.",
+        "scoring_guidance": "Check: I can use a consistent scale factor to enlarge, reduce, or interpret measurements.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-05-D-DCD6DF73",
+      "reporting_i_can_text": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-2-4-T03-P03",
+      "teacher_question_id": "Q027",
+      "bank_item_id": "CC1-AP4-Q027",
+      "family_name": "Scale factor with corresponding lengths - spiral 3",
+      "family_purpose": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "category": "spiral",
+      "cpm_lesson": "4.2.4",
+      "cpm_title": "Scale factor with corresponding lengths",
+      "i_can_id": "CC1-ES-05-D-DCD6DF73",
+      "i_can_exact_text": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "learning_goal_id": "CC1-ES-05",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "student_action": "Scale factor with corresponding lengths",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>An original side is 8 cm and its copy is 16 cm. Find the scale factor.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "scale_factor"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Scale factor=2; corresponding lengths are multiplied by the same factor. New length=16 cm.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>An original side is 8 cm and its copy is 16 cm. Find the scale factor.</p>",
+        "answer": "Scale factor=2; corresponding lengths are multiplied by the same factor. New length=16 cm.",
+        "solution": "Scale factor=2; corresponding lengths are multiplied by the same factor. New length=16 cm.",
+        "scoring_guidance": "Check: I can use a consistent scale factor to enlarge, reduce, or interpret measurements.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-05-D-DCD6DF73",
+      "reporting_i_can_text": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-2-4-T04-R01",
+      "teacher_question_id": "Q028",
+      "bank_item_id": "CC1-AP4-Q028",
+      "family_name": "Equivalent ratio tables - reasoning 1",
+      "family_purpose": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "category": "reasoning",
+      "cpm_lesson": "4.2.4",
+      "cpm_title": "Equivalent ratio tables",
+      "i_can_id": "CC1-ES-05-D-6A1A3FF6",
+      "i_can_exact_text": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "learning_goal_id": "CC1-ES-05",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "student_action": "Equivalent ratio tables",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compare the ratios 7:5 and 21:15. Explain how you can tell they are equivalent without subtracting.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "ratio_table"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Multiply both quantities by 3: (7,5) to (21,15); 21 cups for 15 portions.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Compare the ratios 7:5 and 21:15. Explain how you can tell they are equivalent without subtracting.</p>",
+        "answer": "Multiply both quantities by 3: (7,5) to (21,15); 21 cups for 15 portions.",
+        "solution": "Multiply both quantities by 3: (7,5) to (21,15); 21 cups for 15 portions.",
+        "scoring_guidance": "Check: I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-05-D-6A1A3FF6",
+      "reporting_i_can_text": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-2-4-T04-R02",
+      "teacher_question_id": "Q029",
+      "bank_item_id": "CC1-AP4-Q029",
+      "family_name": "Equivalent ratio tables - reasoning 2",
+      "family_purpose": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "category": "reasoning",
+      "cpm_lesson": "4.2.4",
+      "cpm_title": "Equivalent ratio tables",
+      "i_can_id": "CC1-ES-05-D-6A1A3FF6",
+      "i_can_exact_text": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "learning_goal_id": "CC1-ES-05",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "student_action": "Equivalent ratio tables",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compare the ratios 3:8 and 12:32. Explain how you can tell they are equivalent without subtracting.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "ratio_table"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Multiply both quantities by 4: (3,8) to (12,32); 12 cups for 32 portions.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Compare the ratios 3:8 and 12:32. Explain how you can tell they are equivalent without subtracting.</p>",
+        "answer": "Multiply both quantities by 4: (3,8) to (12,32); 12 cups for 32 portions.",
+        "solution": "Multiply both quantities by 4: (3,8) to (12,32); 12 cups for 32 portions.",
+        "scoring_guidance": "Check: I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-05-D-6A1A3FF6",
+      "reporting_i_can_text": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-2-4-T04-R03",
+      "teacher_question_id": "Q030",
+      "bank_item_id": "CC1-AP4-Q030",
+      "family_name": "Equivalent ratio tables - reasoning 3",
+      "family_purpose": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "category": "reasoning",
+      "cpm_lesson": "4.2.4",
+      "cpm_title": "Equivalent ratio tables",
+      "i_can_id": "CC1-ES-05-D-6A1A3FF6",
+      "i_can_exact_text": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "learning_goal_id": "CC1-ES-05",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "student_action": "Equivalent ratio tables",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compare the ratios 4:4 and 8:8. Explain how you can tell they are equivalent without subtracting.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "ratio_table"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Multiply both quantities by 2: (4,4) to (8,8); 8 cups for 8 portions.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Compare the ratios 4:4 and 8:8. Explain how you can tell they are equivalent without subtracting.</p>",
+        "answer": "Multiply both quantities by 2: (4,4) to (8,8); 8 cups for 8 portions.",
+        "solution": "Multiply both quantities by 2: (4,4) to (8,8); 8 cups for 8 portions.",
+        "scoring_guidance": "Check: I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-05-D-6A1A3FF6",
+      "reporting_i_can_text": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-2-4-T04-S01",
+      "teacher_question_id": "Q031",
+      "bank_item_id": "CC1-AP4-Q031",
+      "family_name": "Equivalent ratio tables - direct 1",
+      "family_purpose": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "category": "direct",
+      "cpm_lesson": "4.2.4",
+      "cpm_title": "Equivalent ratio tables",
+      "i_can_id": "CC1-ES-05-D-6A1A3FF6",
+      "i_can_exact_text": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "learning_goal_id": "CC1-ES-05",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "student_action": "Equivalent ratio tables",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A recipe uses 6 cups for 3 portions. How many cups are needed for 12 portions at the same rate?</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "ratio_table"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Multiply both quantities by 4: (6,3) to (24,12); 24 cups for 12 portions.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A recipe uses 6 cups for 3 portions. How many cups are needed for 12 portions at the same rate?</p>",
+        "answer": "Multiply both quantities by 4: (6,3) to (24,12); 24 cups for 12 portions.",
+        "solution": "Multiply both quantities by 4: (6,3) to (24,12); 24 cups for 12 portions.",
+        "scoring_guidance": "Check: I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-05-D-6A1A3FF6",
+      "reporting_i_can_text": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-2-4-T04-S02",
+      "teacher_question_id": "Q032",
+      "bank_item_id": "CC1-AP4-Q032",
+      "family_name": "Equivalent ratio tables - direct 2",
+      "family_purpose": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "category": "direct",
+      "cpm_lesson": "4.2.4",
+      "cpm_title": "Equivalent ratio tables",
+      "i_can_id": "CC1-ES-05-D-6A1A3FF6",
+      "i_can_exact_text": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "learning_goal_id": "CC1-ES-05",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "student_action": "Equivalent ratio tables",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A recipe uses 7 cups for 6 portions. How many cups are needed for 12 portions at the same rate?</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "ratio_table"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Multiply both quantities by 2: (7,6) to (14,12); 14 cups for 12 portions.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A recipe uses 7 cups for 6 portions. How many cups are needed for 12 portions at the same rate?</p>",
+        "answer": "Multiply both quantities by 2: (7,6) to (14,12); 14 cups for 12 portions.",
+        "solution": "Multiply both quantities by 2: (7,6) to (14,12); 14 cups for 12 portions.",
+        "scoring_guidance": "Check: I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-05-D-6A1A3FF6",
+      "reporting_i_can_text": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-2-4-T04-S03",
+      "teacher_question_id": "Q033",
+      "bank_item_id": "CC1-AP4-Q033",
+      "family_name": "Equivalent ratio tables - direct 3",
+      "family_purpose": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "category": "direct",
+      "cpm_lesson": "4.2.4",
+      "cpm_title": "Equivalent ratio tables",
+      "i_can_id": "CC1-ES-05-D-6A1A3FF6",
+      "i_can_exact_text": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "learning_goal_id": "CC1-ES-05",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "student_action": "Equivalent ratio tables",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A recipe uses 3 cups for 2 portions. How many cups are needed for 6 portions at the same rate?</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "ratio_table"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Multiply both quantities by 3: (3,2) to (9,6); 9 cups for 6 portions.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A recipe uses 3 cups for 2 portions. How many cups are needed for 6 portions at the same rate?</p>",
+        "answer": "Multiply both quantities by 3: (3,2) to (9,6); 9 cups for 6 portions.",
+        "solution": "Multiply both quantities by 3: (3,2) to (9,6); 9 cups for 6 portions.",
+        "scoring_guidance": "Check: I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-05-D-6A1A3FF6",
+      "reporting_i_can_text": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-2-4-T04-P01",
+      "teacher_question_id": "Q034",
+      "bank_item_id": "CC1-AP4-Q034",
+      "family_name": "Equivalent ratio tables - spiral 1",
+      "family_purpose": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "category": "spiral",
+      "cpm_lesson": "4.2.4",
+      "cpm_title": "Equivalent ratio tables",
+      "i_can_id": "CC1-ES-05-D-6A1A3FF6",
+      "i_can_exact_text": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "learning_goal_id": "CC1-ES-05",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "student_action": "Equivalent ratio tables",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Fill the missing value: (5,8), (10, __). Explain the multiplier.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "ratio_table"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Multiply both quantities by 2: (5,8) to (10,16); 10 cups for 16 portions.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Fill the missing value: (5,8), (10, __). Explain the multiplier.</p>",
+        "answer": "Multiply both quantities by 2: (5,8) to (10,16); 10 cups for 16 portions.",
+        "solution": "Multiply both quantities by 2: (5,8) to (10,16); 10 cups for 16 portions.",
+        "scoring_guidance": "Check: I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-05-D-6A1A3FF6",
+      "reporting_i_can_text": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-2-4-T04-P02",
+      "teacher_question_id": "Q035",
+      "bank_item_id": "CC1-AP4-Q035",
+      "family_name": "Equivalent ratio tables - spiral 2",
+      "family_purpose": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "category": "spiral",
+      "cpm_lesson": "4.2.4",
+      "cpm_title": "Equivalent ratio tables",
+      "i_can_id": "CC1-ES-05-D-6A1A3FF6",
+      "i_can_exact_text": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "learning_goal_id": "CC1-ES-05",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "student_action": "Equivalent ratio tables",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Fill the missing value: (6,4), (18, __). Explain the multiplier.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "ratio_table"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Multiply both quantities by 3: (6,4) to (18,12); 18 cups for 12 portions.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Fill the missing value: (6,4), (18, __). Explain the multiplier.</p>",
+        "answer": "Multiply both quantities by 3: (6,4) to (18,12); 18 cups for 12 portions.",
+        "solution": "Multiply both quantities by 3: (6,4) to (18,12); 18 cups for 12 portions.",
+        "scoring_guidance": "Check: I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-05-D-6A1A3FF6",
+      "reporting_i_can_text": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP4-4-2-4-T04-P03",
+      "teacher_question_id": "Q036",
+      "bank_item_id": "CC1-AP4-Q036",
+      "family_name": "Equivalent ratio tables - spiral 3",
+      "family_purpose": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "category": "spiral",
+      "cpm_lesson": "4.2.4",
+      "cpm_title": "Equivalent ratio tables",
+      "i_can_id": "CC1-ES-05-D-6A1A3FF6",
+      "i_can_exact_text": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "learning_goal_id": "CC1-ES-05",
+      "assessment_plan": "AP4",
+      "ap_section": 4,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "student_action": "Equivalent ratio tables",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Fill the missing value: (7,7), (28, __). Explain the multiplier.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "ratio_table"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Multiply both quantities by 4: (7,7) to (28,28); 28 cups for 28 portions.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Fill the missing value: (7,7), (28, __). Explain the multiplier.</p>",
+        "answer": "Multiply both quantities by 4: (7,7) to (28,28); 28 cups for 28 portions.",
+        "solution": "Multiply both quantities by 4: (7,7) to (28,28); 28 cups for 28 portions.",
+        "scoring_guidance": "Check: I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "4.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-05-D-6A1A3FF6",
+      "reporting_i_can_text": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    }
+  ],
+  "review_summary": {
+    "active_family_count": 36,
+    "review_gate": "teacher feedback is corrective, not a prerequisite to initial use"
+  },
+  "reporting_contract": {
+    "schema_version": 1,
+    "source": "CC1 Assessment Evidence and chapter unit plans",
+    "learning_goal_ids": [
+      "CC1-ES-05",
+      "CC1-ES-06"
+    ],
+    "reporting_i_can_ids": [
+      "CC1-ES-06-P-9EC1023A",
+      "CC1-ES-06-D-C8155064",
+      "CC1-ES-05-D-DCD6DF73",
+      "CC1-ES-05-D-6A1A3FF6"
+    ],
+    "family_id_policy": "immutable stable family ID",
+    "question_content_policy": "original teacher-created questions; no textbook reproduction"
+  },
+  "pilot_policy": {
+    "default": "usable immediately",
+    "teacher_approval": "operationally accepted by teacher instruction; not individually proofread",
+    "feedback": "correct and version the canonical bank family when a problem is reported"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "schema": "cpm-course-assessment-plan/v1",
+  "course": "CC2",
+  "chapter": 2,
+  "assessment_plan": "AP2",
+  "chapter_title": "Fractions and Integer Addition",
+  "essentials": [
+    "CC2-ES-01",
+    "CC2-ES-03"
+  ],
+  "lesson_evidence": [
+    {
+      "lesson": "2.1.2",
+      "target_id": "CC2-ES-01-PRE-279B01B3",
+      "target": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "essential_standard": "CC2-ES-01",
+      "ladder_rung": "Prerequisite",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "family_ids": [
+        "CC2-AP2-2-1-2-T01-R01",
+        "CC2-AP2-2-1-2-T01-R02",
+        "CC2-AP2-2-1-2-T01-R03",
+        "CC2-AP2-2-1-2-T01-S01",
+        "CC2-AP2-2-1-2-T01-S02",
+        "CC2-AP2-2-1-2-T01-S03",
+        "CC2-AP2-2-1-2-T01-P01",
+        "CC2-AP2-2-1-2-T01-P02",
+        "CC2-AP2-2-1-2-T01-P03"
+      ],
+      "evidence_note": "Independent evidence after instruction, practice, and feedback."
+    },
+    {
+      "lesson": "2.2.2",
+      "target_id": "CC2-ES-01-D-1E4816F9",
+      "target": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "essential_standard": "CC2-ES-01",
+      "ladder_rung": "Developing",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "family_ids": [
+        "CC2-AP2-2-2-2-T02-R01",
+        "CC2-AP2-2-2-2-T02-R02",
+        "CC2-AP2-2-2-2-T02-R03",
+        "CC2-AP2-2-2-2-T02-S01",
+        "CC2-AP2-2-2-2-T02-S02",
+        "CC2-AP2-2-2-2-T02-S03",
+        "CC2-AP2-2-2-2-T02-P01",
+        "CC2-AP2-2-2-2-T02-P02",
+        "CC2-AP2-2-2-2-T02-P03"
+      ],
+      "evidence_note": "Signed addition is partial; do not infer subtraction and multiplication/division proficiency."
+    },
+    {
+      "lesson": "2.2.3",
+      "target_id": "CC2-ES-01-F-34937C60",
+      "target": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "essential_standard": "CC2-ES-01",
+      "ladder_rung": "Foundation",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "family_ids": [
+        "CC2-AP2-2-2-3-T03-R01",
+        "CC2-AP2-2-2-3-T03-R02",
+        "CC2-AP2-2-2-3-T03-R03",
+        "CC2-AP2-2-2-3-T03-S01",
+        "CC2-AP2-2-2-3-T03-S02",
+        "CC2-AP2-2-2-3-T03-S03",
+        "CC2-AP2-2-2-3-T03-P01",
+        "CC2-AP2-2-2-3-T03-P02",
+        "CC2-AP2-2-2-3-T03-P03"
+      ],
+      "evidence_note": "Independent evidence after instruction, practice, and feedback."
+    },
+    {
+      "lesson": "2.2.6",
+      "target_id": "CC2-ES-01-PRE-A87319BB",
+      "target": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "essential_standard": "CC2-ES-01",
+      "ladder_rung": "Prerequisite",
+      "evidence_stage": "READINESS",
+      "family_ids": [
+        "CC2-AP2-2-2-6-T04-R01",
+        "CC2-AP2-2-2-6-T04-R02",
+        "CC2-AP2-2-2-6-T04-R03",
+        "CC2-AP2-2-2-6-T04-S01",
+        "CC2-AP2-2-2-6-T04-S02",
+        "CC2-AP2-2-2-6-T04-S03",
+        "CC2-AP2-2-2-6-T04-P01",
+        "CC2-AP2-2-2-6-T04-P02",
+        "CC2-AP2-2-2-6-T04-P03"
+      ],
+      "evidence_note": "Unsigned multiplication is readiness for later full signed rational operations."
+    },
+    {
+      "lesson": "2.3.2",
+      "target_id": "CC2-ES-03-F-F50CD88C",
+      "target": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "essential_standard": "CC2-ES-03",
+      "ladder_rung": "Foundation",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "family_ids": [
+        "CC2-AP2-2-3-2-T05-R01",
+        "CC2-AP2-2-3-2-T05-R02",
+        "CC2-AP2-2-3-2-T05-R03",
+        "CC2-AP2-2-3-2-T05-S01",
+        "CC2-AP2-2-3-2-T05-S02",
+        "CC2-AP2-2-3-2-T05-S03",
+        "CC2-AP2-2-3-2-T05-P01",
+        "CC2-AP2-2-3-2-T05-P02",
+        "CC2-AP2-2-3-2-T05-P03"
+      ],
+      "evidence_note": "Independent evidence after instruction, practice, and feedback."
+    }
+  ],
+  "assessment_design": {
+    "practice": "select direct plus spiral families and current chapter target",
+    "quick_check": "use concise independent reasoning + direct items from taught targets, do not infer full rung from partial evidence",
+    "checkpoint": "select at least two distinct current targets; include explanation and recheck opportunity",
+    "test": "sample taught chapter evidence plus earlier rechecks; report full proficiency only at appropriate EXPECT stage",
+    "custom": "assemble authored bank exemplars and existing source cards",
+    "feedback_recheck": "use a fresh parallel task after feedback rather than repeating exact data"
+  },
+  "source_authority": {
+    "unit_plan_doc_id": "1Rs4YkA-yEa5AwSAtzvooE5BfG8Mujcc-szgEl0QbYq8",
+    "assessment_evidence_doc_id": "1wzJ8hnB4eVEv1LX3bLlJwLqJjltGj0z7DOwtIwgkMH0",
+    "ladder_doc_id": "1czYyNY0W9PRP5ldpXjfSWPQTYYt68xzVuSTmDDbnWlU",
+    "textbook_mirror_chapter_folder_id": "1mfwYP1tovAaTSGXTuRlS2k00DqZRUdrf"
+  },
+  "pilot_policy": {
+    "operational": true,
+    "progressive_audit": true,
+    "mastery_rule": "FIRST_CHECK, READINESS and PARTIAL never automatically equal Proficient."
+  }
+}

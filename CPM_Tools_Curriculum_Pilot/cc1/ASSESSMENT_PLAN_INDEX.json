@@ -1,0 +1,76 @@
+{
+  "schema": "cpm-course-plan-index/v1",
+  "course": "CC1",
+  "plans": [
+    {
+      "plan": "AP1",
+      "chapter": 1,
+      "path": "cc1/assessment_plans/CC1_AP1_ASSESSMENT_PLAN.json",
+      "learning_goal_ids": [
+        "CC1-ES-01",
+        "CC1-ES-02",
+        "CC1-ES-04",
+        "CC1-ES-06"
+      ],
+      "target_count": 4,
+      "family_count": 36
+    },
+    {
+      "plan": "AP2",
+      "chapter": 2,
+      "path": "cc1/assessment_plans/CC1_AP2_ASSESSMENT_PLAN.json",
+      "learning_goal_ids": [
+        "CC1-ES-01",
+        "CC1-ES-02",
+        "CC1-ES-04",
+        "CC1-ES-06"
+      ],
+      "target_count": 4,
+      "family_count": 36
+    },
+    {
+      "plan": "AP3",
+      "chapter": 3,
+      "path": "cc1/assessment_plans/CC1_AP3_ASSESSMENT_PLAN.json",
+      "learning_goal_ids": [
+        "CC1-ES-02",
+        "CC1-ES-03"
+      ],
+      "target_count": 4,
+      "family_count": 36
+    },
+    {
+      "plan": "AP4",
+      "chapter": 4,
+      "path": "cc1/assessment_plans/CC1_AP4_ASSESSMENT_PLAN.json",
+      "learning_goal_ids": [
+        "CC1-ES-05",
+        "CC1-ES-06"
+      ],
+      "target_count": 4,
+      "family_count": 36
+    },
+    {
+      "plan": "AP5",
+      "chapter": 5,
+      "path": "cc1/assessment_plans/CC1_AP5_ASSESSMENT_PLAN.json",
+      "learning_goal_ids": [
+        "CC1-ES-02",
+        "CC1-ES-04"
+      ],
+      "target_count": 4,
+      "family_count": 36
+    },
+    {
+      "plan": "AP6",
+      "chapter": 6,
+      "path": "cc1/assessment_plans/CC1_AP6_ASSESSMENT_PLAN.json",
+      "learning_goal_ids": [
+        "CC1-ES-02",
+        "CC1-ES-06"
+      ],
+      "target_count": 4,
+      "family_count": 36
+    }
+  ]
+}

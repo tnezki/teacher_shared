@@ -1,0 +1,64 @@
+{
+  "checked_at": "2026-11-03",
+  "course": "CC2",
+  "result": "STRUCTURAL_PASS_MATH_REVIEW_PROGRESSIVE",
+  "chapters": 6,
+  "targets": 31,
+  "family_exemplars": 279,
+  "categories": {
+    "reasoning": 93,
+    "direct": 93,
+    "spiral": 93
+  },
+  "duplicate_prompts": 0,
+  "stable_family_ids_unique": true,
+  "plan_family_crossreferences_valid": true,
+  "answers_present_in_teacher_fields": true,
+  "student_html_omits_teacher_answers_as_a_field": true,
+  "early_check_v_full_proficient_boundaries_preserved": true,
+  "checked_example_arithmetic": {
+    "two_red_without_replacement": "2/5 * 1/4 = 1/10",
+    "signed_mixed": "-1.2 / 0.3 + (-3/4)*(-8) = 2",
+    "budget_inequality": "18+6v<=60 -> v<=7",
+    "negative_outside_factor": "-3(2x-5)=-6x+15"
+  },
+  "chapter_breakdown": [
+    {
+      "chapter": 1,
+      "targets": 5,
+      "questions": 45
+    },
+    {
+      "chapter": 2,
+      "targets": 5,
+      "questions": 45
+    },
+    {
+      "chapter": 3,
+      "targets": 5,
+      "questions": 45
+    },
+    {
+      "chapter": 4,
+      "targets": 6,
+      "questions": 54
+    },
+    {
+      "chapter": 5,
+      "targets": 5,
+      "questions": 45
+    },
+    {
+      "chapter": 6,
+      "targets": 5,
+      "questions": 45
+    }
+  ],
+  "limitations": [
+    "Not a full lesson-by-lesson extraction or every-question bank; current batch covers priority assessment evidence targets.",
+    "Only authored exemplars are provided; automatic parameterized generation and secure parallel tests are not validated.",
+    "The installed CPM Tools active course is still Algebra 1; this content staged in teacher_shared does not appear automatically in the selector.",
+    "Visual inspection and full individual mathematical proof is progressive; structural checks do not replace classroom feedback.",
+    "No user/student data or textbook copies are included."
+  ]
+}

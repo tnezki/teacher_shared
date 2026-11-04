@@ -1,0 +1,2762 @@
+{
+  "schema": "cpm-family-bank-plan/v1",
+  "course": "Core Connections Course 1",
+  "assessment_plan": "AP1",
+  "chapter": 1,
+  "plan_title": "Introduction and Representation",
+  "essential_standard": "CC1-ES-01; CC1-ES-02; CC1-ES-04; CC1-ES-06",
+  "bank_status": "TEACHER_APPROVED",
+  "source_crosswalk": "assessment_plans/CC1_AP1_ASSESSMENT_PLAN.json",
+  "source_authority": "Current CC1 unit plans, Phase 03 Assessment Evidence, Phase 04 Learning Ladders; exemplars newly authored",
+  "family_policy": {
+    "per_i_can": {
+      "reasoning": 3,
+      "direct": 3,
+      "spiral": 3
+    },
+    "review_rule": "Teacher-directed default accept for pilot use; correct the canonical item only when teacher flags a concrete issue.",
+    "variation_rule": "Only use the supplied exemplar unless any generated variant is independently verified.",
+    "evidence_stage": "Never claim full-rung proficiency from an explicitly partial lesson checkpoint."
+  },
+  "sections": [
+    {
+      "section": "1.1.4",
+      "title": "Organize and count data",
+      "learning_target": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "cpm_lesson": "1.1.4",
+      "ap_section": 1,
+      "i_cans": [
+        {
+          "id": "CC1-ES-01-F-22663BE1",
+          "text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+          "family_ids": [
+            "CC1-AP1-1-1-4-T01-R01",
+            "CC1-AP1-1-1-4-T01-R02",
+            "CC1-AP1-1-1-4-T01-R03",
+            "CC1-AP1-1-1-4-T01-S01",
+            "CC1-AP1-1-1-4-T01-S02",
+            "CC1-AP1-1-1-4-T01-S03",
+            "CC1-AP1-1-1-4-T01-P01",
+            "CC1-AP1-1-1-4-T01-P02",
+            "CC1-AP1-1-1-4-T01-P03"
+          ],
+          "cpm_lesson": "1.1.4",
+          "cpm_title": "Organize and count data",
+          "learning_goal_id": "CC1-ES-01",
+          "reporting_i_can_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+          "ladder_rung": "Foundation",
+          "evidence_stage": "FIRST_CHECK_PARTIAL",
+          "scope_note": "This is early/partial evidence only; do not infer full Proficient."
+        }
+      ],
+      "reporting_i_can_id": "CC1-ES-01-F-22663BE1",
+      "reporting_i_can_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "learning_goal_id": "CC1-ES-01"
+    },
+    {
+      "section": "1.1.2",
+      "title": "Area and perimeter",
+      "learning_target": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "cpm_lesson": "1.1.2",
+      "ap_section": 1,
+      "i_cans": [
+        {
+          "id": "CC1-ES-04-F-175BD516",
+          "text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+          "family_ids": [
+            "CC1-AP1-1-1-2-T02-R01",
+            "CC1-AP1-1-1-2-T02-R02",
+            "CC1-AP1-1-1-2-T02-R03",
+            "CC1-AP1-1-1-2-T02-S01",
+            "CC1-AP1-1-1-2-T02-S02",
+            "CC1-AP1-1-1-2-T02-S03",
+            "CC1-AP1-1-1-2-T02-P01",
+            "CC1-AP1-1-1-2-T02-P02",
+            "CC1-AP1-1-1-2-T02-P03"
+          ],
+          "cpm_lesson": "1.1.2",
+          "cpm_title": "Area and perimeter",
+          "learning_goal_id": "CC1-ES-04",
+          "reporting_i_can_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+          "ladder_rung": "Foundation",
+          "evidence_stage": "FIRST_CHECK",
+          "scope_note": "Independent evidence after instruction, practice and feedback."
+        }
+      ],
+      "reporting_i_can_id": "CC1-ES-04-F-175BD516",
+      "reporting_i_can_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "learning_goal_id": "CC1-ES-04"
+    },
+    {
+      "section": "1.2.4",
+      "title": "Factors and multiples",
+      "learning_target": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "cpm_lesson": "1.2.4",
+      "ap_section": 1,
+      "i_cans": [
+        {
+          "id": "CC1-ES-02-P-6813422C",
+          "text": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+          "family_ids": [
+            "CC1-AP1-1-2-4-T03-R01",
+            "CC1-AP1-1-2-4-T03-R02",
+            "CC1-AP1-1-2-4-T03-R03",
+            "CC1-AP1-1-2-4-T03-S01",
+            "CC1-AP1-1-2-4-T03-S02",
+            "CC1-AP1-1-2-4-T03-S03",
+            "CC1-AP1-1-2-4-T03-P01",
+            "CC1-AP1-1-2-4-T03-P02",
+            "CC1-AP1-1-2-4-T03-P03"
+          ],
+          "cpm_lesson": "1.2.4",
+          "cpm_title": "Factors and multiples",
+          "learning_goal_id": "CC1-ES-02",
+          "reporting_i_can_text": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+          "ladder_rung": "Prerequisite",
+          "evidence_stage": "FIRST_CHECK_PARTIAL",
+          "scope_note": "This is early/partial evidence only; do not infer full Proficient."
+        }
+      ],
+      "reporting_i_can_id": "CC1-ES-02-P-6813422C",
+      "reporting_i_can_text": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "learning_goal_id": "CC1-ES-02"
+    },
+    {
+      "section": "1.2.2",
+      "title": "Represent grouped quantities",
+      "learning_target": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "cpm_lesson": "1.2.2",
+      "ap_section": 1,
+      "i_cans": [
+        {
+          "id": "CC1-ES-06-P-9EC1023A",
+          "text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+          "family_ids": [
+            "CC1-AP1-1-2-2-T04-R01",
+            "CC1-AP1-1-2-2-T04-R02",
+            "CC1-AP1-1-2-2-T04-R03",
+            "CC1-AP1-1-2-2-T04-S01",
+            "CC1-AP1-1-2-2-T04-S02",
+            "CC1-AP1-1-2-2-T04-S03",
+            "CC1-AP1-1-2-2-T04-P01",
+            "CC1-AP1-1-2-2-T04-P02",
+            "CC1-AP1-1-2-2-T04-P03"
+          ],
+          "cpm_lesson": "1.2.2",
+          "cpm_title": "Represent grouped quantities",
+          "learning_goal_id": "CC1-ES-06",
+          "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+          "ladder_rung": "Prerequisite",
+          "evidence_stage": "FIRST_CHECK_PARTIAL",
+          "scope_note": "This is early/partial evidence only; do not infer full Proficient."
+        }
+      ],
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06"
+    }
+  ],
+  "mastery_goals": [
+    {
+      "id": "CC1-ES-01",
+      "title": "CC1-ES-01 evidence through chapter 1",
+      "assessment_plan": "AP1",
+      "mastery_goal": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "i_cans": [
+        {
+          "id": "CC1-ES-01-F-22663BE1",
+          "text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+          "family_ids": [
+            "CC1-AP1-1-1-4-T01-R01",
+            "CC1-AP1-1-1-4-T01-R02",
+            "CC1-AP1-1-1-4-T01-R03",
+            "CC1-AP1-1-1-4-T01-S01",
+            "CC1-AP1-1-1-4-T01-S02",
+            "CC1-AP1-1-1-4-T01-S03",
+            "CC1-AP1-1-1-4-T01-P01",
+            "CC1-AP1-1-1-4-T01-P02",
+            "CC1-AP1-1-1-4-T01-P03"
+          ],
+          "cpm_lesson": "1.1.4",
+          "cpm_title": "Organize and count data",
+          "learning_goal_id": "CC1-ES-01",
+          "reporting_i_can_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+          "ladder_rung": "Foundation",
+          "evidence_stage": "FIRST_CHECK_PARTIAL",
+          "scope_note": "This is early/partial evidence only; do not infer full Proficient."
+        }
+      ],
+      "reporting_contract": "cc1-essential-standards/v1"
+    },
+    {
+      "id": "CC1-ES-02",
+      "title": "CC1-ES-02 evidence through chapter 1",
+      "assessment_plan": "AP1",
+      "mastery_goal": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "i_cans": [
+        {
+          "id": "CC1-ES-02-P-6813422C",
+          "text": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+          "family_ids": [
+            "CC1-AP1-1-2-4-T03-R01",
+            "CC1-AP1-1-2-4-T03-R02",
+            "CC1-AP1-1-2-4-T03-R03",
+            "CC1-AP1-1-2-4-T03-S01",
+            "CC1-AP1-1-2-4-T03-S02",
+            "CC1-AP1-1-2-4-T03-S03",
+            "CC1-AP1-1-2-4-T03-P01",
+            "CC1-AP1-1-2-4-T03-P02",
+            "CC1-AP1-1-2-4-T03-P03"
+          ],
+          "cpm_lesson": "1.2.4",
+          "cpm_title": "Factors and multiples",
+          "learning_goal_id": "CC1-ES-02",
+          "reporting_i_can_text": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+          "ladder_rung": "Prerequisite",
+          "evidence_stage": "FIRST_CHECK_PARTIAL",
+          "scope_note": "This is early/partial evidence only; do not infer full Proficient."
+        }
+      ],
+      "reporting_contract": "cc1-essential-standards/v1"
+    },
+    {
+      "id": "CC1-ES-04",
+      "title": "CC1-ES-04 evidence through chapter 1",
+      "assessment_plan": "AP1",
+      "mastery_goal": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "i_cans": [
+        {
+          "id": "CC1-ES-04-F-175BD516",
+          "text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+          "family_ids": [
+            "CC1-AP1-1-1-2-T02-R01",
+            "CC1-AP1-1-1-2-T02-R02",
+            "CC1-AP1-1-1-2-T02-R03",
+            "CC1-AP1-1-1-2-T02-S01",
+            "CC1-AP1-1-1-2-T02-S02",
+            "CC1-AP1-1-1-2-T02-S03",
+            "CC1-AP1-1-1-2-T02-P01",
+            "CC1-AP1-1-1-2-T02-P02",
+            "CC1-AP1-1-1-2-T02-P03"
+          ],
+          "cpm_lesson": "1.1.2",
+          "cpm_title": "Area and perimeter",
+          "learning_goal_id": "CC1-ES-04",
+          "reporting_i_can_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+          "ladder_rung": "Foundation",
+          "evidence_stage": "FIRST_CHECK",
+          "scope_note": "Independent evidence after instruction, practice and feedback."
+        }
+      ],
+      "reporting_contract": "cc1-essential-standards/v1"
+    },
+    {
+      "id": "CC1-ES-06",
+      "title": "CC1-ES-06 evidence through chapter 1",
+      "assessment_plan": "AP1",
+      "mastery_goal": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "i_cans": [
+        {
+          "id": "CC1-ES-06-P-9EC1023A",
+          "text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+          "family_ids": [
+            "CC1-AP1-1-2-2-T04-R01",
+            "CC1-AP1-1-2-2-T04-R02",
+            "CC1-AP1-1-2-2-T04-R03",
+            "CC1-AP1-1-2-2-T04-S01",
+            "CC1-AP1-1-2-2-T04-S02",
+            "CC1-AP1-1-2-2-T04-S03",
+            "CC1-AP1-1-2-2-T04-P01",
+            "CC1-AP1-1-2-2-T04-P02",
+            "CC1-AP1-1-2-2-T04-P03"
+          ],
+          "cpm_lesson": "1.2.2",
+          "cpm_title": "Represent grouped quantities",
+          "learning_goal_id": "CC1-ES-06",
+          "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+          "ladder_rung": "Prerequisite",
+          "evidence_stage": "FIRST_CHECK_PARTIAL",
+          "scope_note": "This is early/partial evidence only; do not infer full Proficient."
+        }
+      ],
+      "reporting_contract": "cc1-essential-standards/v1"
+    }
+  ],
+  "families": [
+    {
+      "family_id": "CC1-AP1-1-1-4-T01-R01",
+      "teacher_question_id": "Q001",
+      "bank_item_id": "CC1-AP1-Q001",
+      "family_name": "Organize and count data - reasoning 1",
+      "family_purpose": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "category": "reasoning",
+      "cpm_lesson": "1.1.4",
+      "cpm_title": "Organize and count data",
+      "i_can_id": "CC1-ES-01-F-22663BE1",
+      "i_can_exact_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "learning_goal_id": "CC1-ES-01",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "student_action": "Organize and count data",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A class recorded these results: 6, 6, 5, 7, 5, 6, 6, 5. Two students disagree about which result appears most often. Make a frequency table and defend your conclusion.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "data_count"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "8 observations; counts: 5: 3, 6: 4, 7: 1; mode(s): 6.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A class recorded these results: 6, 6, 5, 7, 5, 6, 6, 5. Two students disagree about which result appears most often. Make a frequency table and defend your conclusion.</p>",
+        "answer": "8 observations; counts: 5: 3, 6: 4, 7: 1; mode(s): 6.",
+        "solution": "8 observations; counts: 5: 3, 6: 4, 7: 1; mode(s): 6.",
+        "scoring_guidance": "Check: I can organize a collection of data values in a table or simple plot and count frequencies.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.1.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-01-F-22663BE1",
+      "reporting_i_can_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-1-4-T01-R02",
+      "teacher_question_id": "Q002",
+      "bank_item_id": "CC1-AP1-Q002",
+      "family_name": "Organize and count data - reasoning 2",
+      "family_purpose": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "category": "reasoning",
+      "cpm_lesson": "1.1.4",
+      "cpm_title": "Organize and count data",
+      "i_can_id": "CC1-ES-01-F-22663BE1",
+      "i_can_exact_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "learning_goal_id": "CC1-ES-01",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "student_action": "Organize and count data",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A class recorded these results: 7, 7, 8, 8, 8, 7, 9, 8. Two students disagree about which result appears most often. Make a frequency table and defend your conclusion.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "data_count"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "8 observations; counts: 7: 3, 8: 4, 9: 1; mode(s): 8.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A class recorded these results: 7, 7, 8, 8, 8, 7, 9, 8. Two students disagree about which result appears most often. Make a frequency table and defend your conclusion.</p>",
+        "answer": "8 observations; counts: 7: 3, 8: 4, 9: 1; mode(s): 8.",
+        "solution": "8 observations; counts: 7: 3, 8: 4, 9: 1; mode(s): 8.",
+        "scoring_guidance": "Check: I can organize a collection of data values in a table or simple plot and count frequencies.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.1.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-01-F-22663BE1",
+      "reporting_i_can_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-1-4-T01-R03",
+      "teacher_question_id": "Q003",
+      "bank_item_id": "CC1-AP1-Q003",
+      "family_name": "Organize and count data - reasoning 3",
+      "family_purpose": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "category": "reasoning",
+      "cpm_lesson": "1.1.4",
+      "cpm_title": "Organize and count data",
+      "i_can_id": "CC1-ES-01-F-22663BE1",
+      "i_can_exact_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "learning_goal_id": "CC1-ES-01",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "student_action": "Organize and count data",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A class recorded these results: 3, 3, 4, 4, 4, 3, 5, 4. Two students disagree about which result appears most often. Make a frequency table and defend your conclusion.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "data_count"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "8 observations; counts: 3: 3, 4: 4, 5: 1; mode(s): 4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A class recorded these results: 3, 3, 4, 4, 4, 3, 5, 4. Two students disagree about which result appears most often. Make a frequency table and defend your conclusion.</p>",
+        "answer": "8 observations; counts: 3: 3, 4: 4, 5: 1; mode(s): 4.",
+        "solution": "8 observations; counts: 3: 3, 4: 4, 5: 1; mode(s): 4.",
+        "scoring_guidance": "Check: I can organize a collection of data values in a table or simple plot and count frequencies.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.1.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-01-F-22663BE1",
+      "reporting_i_can_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-1-4-T01-S01",
+      "teacher_question_id": "Q004",
+      "bank_item_id": "CC1-AP1-Q004",
+      "family_name": "Organize and count data - direct 1",
+      "family_purpose": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "category": "direct",
+      "cpm_lesson": "1.1.4",
+      "cpm_title": "Organize and count data",
+      "i_can_id": "CC1-ES-01-F-22663BE1",
+      "i_can_exact_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "learning_goal_id": "CC1-ES-01",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "student_action": "Organize and count data",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A class recorded these results: 5, 5, 3, 6, 3, 5, 4, 3. Create a frequency table and identify the value(s) occurring most often.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "data_count"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "8 observations; counts: 3: 3, 4: 1, 5: 3, 6: 1; mode(s): 3, 5.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A class recorded these results: 5, 5, 3, 6, 3, 5, 4, 3. Create a frequency table and identify the value(s) occurring most often.</p>",
+        "answer": "8 observations; counts: 3: 3, 4: 1, 5: 3, 6: 1; mode(s): 3, 5.",
+        "solution": "8 observations; counts: 3: 3, 4: 1, 5: 3, 6: 1; mode(s): 3, 5.",
+        "scoring_guidance": "Check: I can organize a collection of data values in a table or simple plot and count frequencies.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.1.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-01-F-22663BE1",
+      "reporting_i_can_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-1-4-T01-S02",
+      "teacher_question_id": "Q005",
+      "bank_item_id": "CC1-AP1-Q005",
+      "family_name": "Organize and count data - direct 2",
+      "family_purpose": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "category": "direct",
+      "cpm_lesson": "1.1.4",
+      "cpm_title": "Organize and count data",
+      "i_can_id": "CC1-ES-01-F-22663BE1",
+      "i_can_exact_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "learning_goal_id": "CC1-ES-01",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "student_action": "Organize and count data",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A class recorded these results: 6, 6, 6, 7, 6, 6, 7, 6. Create a frequency table and identify the value(s) occurring most often.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "data_count"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "8 observations; counts: 6: 6, 7: 2; mode(s): 6.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A class recorded these results: 6, 6, 6, 7, 6, 6, 7, 6. Create a frequency table and identify the value(s) occurring most often.</p>",
+        "answer": "8 observations; counts: 6: 6, 7: 2; mode(s): 6.",
+        "solution": "8 observations; counts: 6: 6, 7: 2; mode(s): 6.",
+        "scoring_guidance": "Check: I can organize a collection of data values in a table or simple plot and count frequencies.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.1.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-01-F-22663BE1",
+      "reporting_i_can_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-1-4-T01-S03",
+      "teacher_question_id": "Q006",
+      "bank_item_id": "CC1-AP1-Q006",
+      "family_name": "Organize and count data - direct 3",
+      "family_purpose": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "category": "direct",
+      "cpm_lesson": "1.1.4",
+      "cpm_title": "Organize and count data",
+      "i_can_id": "CC1-ES-01-F-22663BE1",
+      "i_can_exact_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "learning_goal_id": "CC1-ES-01",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "student_action": "Organize and count data",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A class recorded these results: 7, 7, 2, 8, 2, 7, 3, 2. Create a frequency table and identify the value(s) occurring most often.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "data_count"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "8 observations; counts: 2: 3, 3: 1, 7: 3, 8: 1; mode(s): 2, 7.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A class recorded these results: 7, 7, 2, 8, 2, 7, 3, 2. Create a frequency table and identify the value(s) occurring most often.</p>",
+        "answer": "8 observations; counts: 2: 3, 3: 1, 7: 3, 8: 1; mode(s): 2, 7.",
+        "solution": "8 observations; counts: 2: 3, 3: 1, 7: 3, 8: 1; mode(s): 2, 7.",
+        "scoring_guidance": "Check: I can organize a collection of data values in a table or simple plot and count frequencies.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.1.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-01-F-22663BE1",
+      "reporting_i_can_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-1-4-T01-P01",
+      "teacher_question_id": "Q007",
+      "bank_item_id": "CC1-AP1-Q007",
+      "family_name": "Organize and count data - spiral 1",
+      "family_purpose": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "category": "spiral",
+      "cpm_lesson": "1.1.4",
+      "cpm_title": "Organize and count data",
+      "i_can_id": "CC1-ES-01-F-22663BE1",
+      "i_can_exact_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "learning_goal_id": "CC1-ES-01",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "student_action": "Organize and count data",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A class recorded these results: 4, 4, 8, 5, 8, 4, 9, 8. How many observations are in this list, and how many times does the value 4 occur?</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "data_count"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "8 observations; counts: 4: 3, 5: 1, 8: 3, 9: 1; mode(s): 4, 8.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A class recorded these results: 4, 4, 8, 5, 8, 4, 9, 8. How many observations are in this list, and how many times does the value 4 occur?</p>",
+        "answer": "8 observations; counts: 4: 3, 5: 1, 8: 3, 9: 1; mode(s): 4, 8.",
+        "solution": "8 observations; counts: 4: 3, 5: 1, 8: 3, 9: 1; mode(s): 4, 8.",
+        "scoring_guidance": "Check: I can organize a collection of data values in a table or simple plot and count frequencies.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.1.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-01-F-22663BE1",
+      "reporting_i_can_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-1-4-T01-P02",
+      "teacher_question_id": "Q008",
+      "bank_item_id": "CC1-AP1-Q008",
+      "family_name": "Organize and count data - spiral 2",
+      "family_purpose": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "category": "spiral",
+      "cpm_lesson": "1.1.4",
+      "cpm_title": "Organize and count data",
+      "i_can_id": "CC1-ES-01-F-22663BE1",
+      "i_can_exact_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "learning_goal_id": "CC1-ES-01",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "student_action": "Organize and count data",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A class recorded these results: 5, 5, 4, 6, 4, 5, 5, 4. How many observations are in this list, and how many times does the value 5 occur?</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "data_count"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "8 observations; counts: 4: 3, 5: 4, 6: 1; mode(s): 5.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A class recorded these results: 5, 5, 4, 6, 4, 5, 5, 4. How many observations are in this list, and how many times does the value 5 occur?</p>",
+        "answer": "8 observations; counts: 4: 3, 5: 4, 6: 1; mode(s): 5.",
+        "solution": "8 observations; counts: 4: 3, 5: 4, 6: 1; mode(s): 5.",
+        "scoring_guidance": "Check: I can organize a collection of data values in a table or simple plot and count frequencies.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.1.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-01-F-22663BE1",
+      "reporting_i_can_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-1-4-T01-P03",
+      "teacher_question_id": "Q009",
+      "bank_item_id": "CC1-AP1-Q009",
+      "family_name": "Organize and count data - spiral 3",
+      "family_purpose": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "category": "spiral",
+      "cpm_lesson": "1.1.4",
+      "cpm_title": "Organize and count data",
+      "i_can_id": "CC1-ES-01-F-22663BE1",
+      "i_can_exact_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "learning_goal_id": "CC1-ES-01",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "student_action": "Organize and count data",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A class recorded these results: 6, 6, 7, 7, 7, 6, 8, 7. How many observations are in this list, and how many times does the value 6 occur?</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "data_count"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "8 observations; counts: 6: 3, 7: 4, 8: 1; mode(s): 7.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A class recorded these results: 6, 6, 7, 7, 7, 6, 8, 7. How many observations are in this list, and how many times does the value 6 occur?</p>",
+        "answer": "8 observations; counts: 6: 3, 7: 4, 8: 1; mode(s): 7.",
+        "solution": "8 observations; counts: 6: 3, 7: 4, 8: 1; mode(s): 7.",
+        "scoring_guidance": "Check: I can organize a collection of data values in a table or simple plot and count frequencies.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.1.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-01-F-22663BE1",
+      "reporting_i_can_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-1-2-T02-R01",
+      "teacher_question_id": "Q010",
+      "bank_item_id": "CC1-AP1-Q010",
+      "family_name": "Area and perimeter - reasoning 1",
+      "family_purpose": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "category": "reasoning",
+      "cpm_lesson": "1.1.2",
+      "cpm_title": "Area and perimeter",
+      "i_can_id": "CC1-ES-04-F-175BD516",
+      "i_can_exact_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "student_action": "Area and perimeter",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A rectangle is 8 units by 5 units. Explain, using rows or an array, why area is 40 square units but perimeter is 26 units.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "rectangle_measure"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Area=40 square units; perimeter=26 units. Area counts squares, perimeter counts boundary length.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A rectangle is 8 units by 5 units. Explain, using rows or an array, why area is 40 square units but perimeter is 26 units.</p>",
+        "answer": "Area=40 square units; perimeter=26 units. Area counts squares, perimeter counts boundary length.",
+        "solution": "Area=40 square units; perimeter=26 units. Area counts squares, perimeter counts boundary length.",
+        "scoring_guidance": "Check: I can find the area and perimeter of rectangles and identify the measurements used.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.1.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-F-175BD516",
+      "reporting_i_can_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-1-2-T02-R02",
+      "teacher_question_id": "Q011",
+      "bank_item_id": "CC1-AP1-Q011",
+      "family_name": "Area and perimeter - reasoning 2",
+      "family_purpose": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "category": "reasoning",
+      "cpm_lesson": "1.1.2",
+      "cpm_title": "Area and perimeter",
+      "i_can_id": "CC1-ES-04-F-175BD516",
+      "i_can_exact_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "student_action": "Area and perimeter",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A rectangle is 4 units by 8 units. Explain, using rows or an array, why area is 32 square units but perimeter is 24 units.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "rectangle_measure"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Area=32 square units; perimeter=24 units. Area counts squares, perimeter counts boundary length.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A rectangle is 4 units by 8 units. Explain, using rows or an array, why area is 32 square units but perimeter is 24 units.</p>",
+        "answer": "Area=32 square units; perimeter=24 units. Area counts squares, perimeter counts boundary length.",
+        "solution": "Area=32 square units; perimeter=24 units. Area counts squares, perimeter counts boundary length.",
+        "scoring_guidance": "Check: I can find the area and perimeter of rectangles and identify the measurements used.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.1.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-F-175BD516",
+      "reporting_i_can_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-1-2-T02-R03",
+      "teacher_question_id": "Q012",
+      "bank_item_id": "CC1-AP1-Q012",
+      "family_name": "Area and perimeter - reasoning 3",
+      "family_purpose": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "category": "reasoning",
+      "cpm_lesson": "1.1.2",
+      "cpm_title": "Area and perimeter",
+      "i_can_id": "CC1-ES-04-F-175BD516",
+      "i_can_exact_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "student_action": "Area and perimeter",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A rectangle is 5 units by 4 units. Explain, using rows or an array, why area is 20 square units but perimeter is 18 units.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "rectangle_measure"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Area=20 square units; perimeter=18 units. Area counts squares, perimeter counts boundary length.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A rectangle is 5 units by 4 units. Explain, using rows or an array, why area is 20 square units but perimeter is 18 units.</p>",
+        "answer": "Area=20 square units; perimeter=18 units. Area counts squares, perimeter counts boundary length.",
+        "solution": "Area=20 square units; perimeter=18 units. Area counts squares, perimeter counts boundary length.",
+        "scoring_guidance": "Check: I can find the area and perimeter of rectangles and identify the measurements used.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.1.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-F-175BD516",
+      "reporting_i_can_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-1-2-T02-S01",
+      "teacher_question_id": "Q013",
+      "bank_item_id": "CC1-AP1-Q013",
+      "family_name": "Area and perimeter - direct 1",
+      "family_purpose": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "category": "direct",
+      "cpm_lesson": "1.1.2",
+      "cpm_title": "Area and perimeter",
+      "i_can_id": "CC1-ES-04-F-175BD516",
+      "i_can_exact_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "student_action": "Area and perimeter",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Find the area and perimeter of a 7-by-10 rectangle; include correct units.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "rectangle_measure"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Area=70 square units; perimeter=34 units. Area counts squares, perimeter counts boundary length.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Find the area and perimeter of a 7-by-10 rectangle; include correct units.</p>",
+        "answer": "Area=70 square units; perimeter=34 units. Area counts squares, perimeter counts boundary length.",
+        "solution": "Area=70 square units; perimeter=34 units. Area counts squares, perimeter counts boundary length.",
+        "scoring_guidance": "Check: I can find the area and perimeter of rectangles and identify the measurements used.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.1.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-F-175BD516",
+      "reporting_i_can_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-1-2-T02-S02",
+      "teacher_question_id": "Q014",
+      "bank_item_id": "CC1-AP1-Q014",
+      "family_name": "Area and perimeter - direct 2",
+      "family_purpose": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "category": "direct",
+      "cpm_lesson": "1.1.2",
+      "cpm_title": "Area and perimeter",
+      "i_can_id": "CC1-ES-04-F-175BD516",
+      "i_can_exact_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "student_action": "Area and perimeter",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Find the area and perimeter of a 8-by-6 rectangle; include correct units.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "rectangle_measure"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Area=48 square units; perimeter=28 units. Area counts squares, perimeter counts boundary length.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Find the area and perimeter of a 8-by-6 rectangle; include correct units.</p>",
+        "answer": "Area=48 square units; perimeter=28 units. Area counts squares, perimeter counts boundary length.",
+        "solution": "Area=48 square units; perimeter=28 units. Area counts squares, perimeter counts boundary length.",
+        "scoring_guidance": "Check: I can find the area and perimeter of rectangles and identify the measurements used.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.1.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-F-175BD516",
+      "reporting_i_can_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-1-2-T02-S03",
+      "teacher_question_id": "Q015",
+      "bank_item_id": "CC1-AP1-Q015",
+      "family_name": "Area and perimeter - direct 3",
+      "family_purpose": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "category": "direct",
+      "cpm_lesson": "1.1.2",
+      "cpm_title": "Area and perimeter",
+      "i_can_id": "CC1-ES-04-F-175BD516",
+      "i_can_exact_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "student_action": "Area and perimeter",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Find the area and perimeter of a 4-by-9 rectangle; include correct units.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "rectangle_measure"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Area=36 square units; perimeter=26 units. Area counts squares, perimeter counts boundary length.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Find the area and perimeter of a 4-by-9 rectangle; include correct units.</p>",
+        "answer": "Area=36 square units; perimeter=26 units. Area counts squares, perimeter counts boundary length.",
+        "solution": "Area=36 square units; perimeter=26 units. Area counts squares, perimeter counts boundary length.",
+        "scoring_guidance": "Check: I can find the area and perimeter of rectangles and identify the measurements used.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.1.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-F-175BD516",
+      "reporting_i_can_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-1-2-T02-P01",
+      "teacher_question_id": "Q016",
+      "bank_item_id": "CC1-AP1-Q016",
+      "family_name": "Area and perimeter - spiral 1",
+      "family_purpose": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "category": "spiral",
+      "cpm_lesson": "1.1.2",
+      "cpm_title": "Area and perimeter",
+      "i_can_id": "CC1-ES-04-F-175BD516",
+      "i_can_exact_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "student_action": "Area and perimeter",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>If a 6-by-8 rectangle gains 1 unit of width, how do its area and perimeter change? Explain briefly.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "rectangle_measure"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Area rises by 8 square units; perimeter rises by 2 units.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>If a 6-by-8 rectangle gains 1 unit of width, how do its area and perimeter change? Explain briefly.</p>",
+        "answer": "Area rises by 8 square units; perimeter rises by 2 units.",
+        "solution": "Area rises by 8 square units; perimeter rises by 2 units.",
+        "scoring_guidance": "Check: I can find the area and perimeter of rectangles and identify the measurements used.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.1.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-F-175BD516",
+      "reporting_i_can_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-1-2-T02-P02",
+      "teacher_question_id": "Q017",
+      "bank_item_id": "CC1-AP1-Q017",
+      "family_name": "Area and perimeter - spiral 2",
+      "family_purpose": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "category": "spiral",
+      "cpm_lesson": "1.1.2",
+      "cpm_title": "Area and perimeter",
+      "i_can_id": "CC1-ES-04-F-175BD516",
+      "i_can_exact_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "student_action": "Area and perimeter",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>If a 7-by-4 rectangle gains 1 unit of width, how do its area and perimeter change? Explain briefly.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "rectangle_measure"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Area rises by 4 square units; perimeter rises by 2 units.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>If a 7-by-4 rectangle gains 1 unit of width, how do its area and perimeter change? Explain briefly.</p>",
+        "answer": "Area rises by 4 square units; perimeter rises by 2 units.",
+        "solution": "Area rises by 4 square units; perimeter rises by 2 units.",
+        "scoring_guidance": "Check: I can find the area and perimeter of rectangles and identify the measurements used.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.1.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-F-175BD516",
+      "reporting_i_can_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-1-2-T02-P03",
+      "teacher_question_id": "Q018",
+      "bank_item_id": "CC1-AP1-Q018",
+      "family_name": "Area and perimeter - spiral 3",
+      "family_purpose": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "category": "spiral",
+      "cpm_lesson": "1.1.2",
+      "cpm_title": "Area and perimeter",
+      "i_can_id": "CC1-ES-04-F-175BD516",
+      "i_can_exact_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "student_action": "Area and perimeter",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>If a 8-by-7 rectangle gains 1 unit of width, how do its area and perimeter change? Explain briefly.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "rectangle_measure"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Area rises by 7 square units; perimeter rises by 2 units.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>If a 8-by-7 rectangle gains 1 unit of width, how do its area and perimeter change? Explain briefly.</p>",
+        "answer": "Area rises by 7 square units; perimeter rises by 2 units.",
+        "solution": "Area rises by 7 square units; perimeter rises by 2 units.",
+        "scoring_guidance": "Check: I can find the area and perimeter of rectangles and identify the measurements used.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.1.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-F-175BD516",
+      "reporting_i_can_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-2-4-T03-R01",
+      "teacher_question_id": "Q019",
+      "bank_item_id": "CC1-AP1-Q019",
+      "family_name": "Factors and multiples - reasoning 1",
+      "family_purpose": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "category": "reasoning",
+      "cpm_lesson": "1.2.4",
+      "cpm_title": "Factors and multiples",
+      "i_can_id": "CC1-ES-02-P-6813422C",
+      "i_can_exact_text": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "student_action": "Factors and multiples",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Someone says 36 has exactly one factor pair. Do you agree? Give every factor pair and justify your conclusion.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "factor_pairs"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Factor pairs: 1 x 36, 2 x 18, 3 x 12, 4 x 9, 6 x 6; composite because it has factors other than 1 and itself.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Someone says 36 has exactly one factor pair. Do you agree? Give every factor pair and justify your conclusion.</p>",
+        "answer": "Factor pairs: 1 x 36, 2 x 18, 3 x 12, 4 x 9, 6 x 6; composite because it has factors other than 1 and itself.",
+        "solution": "Factor pairs: 1 x 36, 2 x 18, 3 x 12, 4 x 9, 6 x 6; composite because it has factors other than 1 and itself.",
+        "scoring_guidance": "Check: I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-P-6813422C",
+      "reporting_i_can_text": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-2-4-T03-R02",
+      "teacher_question_id": "Q020",
+      "bank_item_id": "CC1-AP1-Q020",
+      "family_name": "Factors and multiples - reasoning 2",
+      "family_purpose": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "category": "reasoning",
+      "cpm_lesson": "1.2.4",
+      "cpm_title": "Factors and multiples",
+      "i_can_id": "CC1-ES-02-P-6813422C",
+      "i_can_exact_text": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "student_action": "Factors and multiples",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Someone says 25 has exactly one factor pair. Do you agree? Give every factor pair and justify your conclusion.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "factor_pairs"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Factor pairs: 1 x 25, 5 x 5; composite because it has factors other than 1 and itself.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Someone says 25 has exactly one factor pair. Do you agree? Give every factor pair and justify your conclusion.</p>",
+        "answer": "Factor pairs: 1 x 25, 5 x 5; composite because it has factors other than 1 and itself.",
+        "solution": "Factor pairs: 1 x 25, 5 x 5; composite because it has factors other than 1 and itself.",
+        "scoring_guidance": "Check: I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-P-6813422C",
+      "reporting_i_can_text": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-2-4-T03-R03",
+      "teacher_question_id": "Q021",
+      "bank_item_id": "CC1-AP1-Q021",
+      "family_name": "Factors and multiples - reasoning 3",
+      "family_purpose": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "category": "reasoning",
+      "cpm_lesson": "1.2.4",
+      "cpm_title": "Factors and multiples",
+      "i_can_id": "CC1-ES-02-P-6813422C",
+      "i_can_exact_text": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "student_action": "Factors and multiples",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Someone says 48 has exactly one factor pair. Do you agree? Give every factor pair and justify your conclusion.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "factor_pairs"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Factor pairs: 1 x 48, 2 x 24, 3 x 16, 4 x 12, 6 x 8; composite because it has factors other than 1 and itself.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Someone says 48 has exactly one factor pair. Do you agree? Give every factor pair and justify your conclusion.</p>",
+        "answer": "Factor pairs: 1 x 48, 2 x 24, 3 x 16, 4 x 12, 6 x 8; composite because it has factors other than 1 and itself.",
+        "solution": "Factor pairs: 1 x 48, 2 x 24, 3 x 16, 4 x 12, 6 x 8; composite because it has factors other than 1 and itself.",
+        "scoring_guidance": "Check: I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-P-6813422C",
+      "reporting_i_can_text": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-2-4-T03-S01",
+      "teacher_question_id": "Q022",
+      "bank_item_id": "CC1-AP1-Q022",
+      "family_name": "Factors and multiples - direct 1",
+      "family_purpose": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "category": "direct",
+      "cpm_lesson": "1.2.4",
+      "cpm_title": "Factors and multiples",
+      "i_can_id": "CC1-ES-02-P-6813422C",
+      "i_can_exact_text": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "student_action": "Factors and multiples",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>List every whole-number factor pair of 56.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "factor_pairs"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Factor pairs: 1 x 56, 2 x 28, 4 x 14, 7 x 8; composite because it has factors other than 1 and itself.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>List every whole-number factor pair of 56.</p>",
+        "answer": "Factor pairs: 1 x 56, 2 x 28, 4 x 14, 7 x 8; composite because it has factors other than 1 and itself.",
+        "solution": "Factor pairs: 1 x 56, 2 x 28, 4 x 14, 7 x 8; composite because it has factors other than 1 and itself.",
+        "scoring_guidance": "Check: I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-P-6813422C",
+      "reporting_i_can_text": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-2-4-T03-S02",
+      "teacher_question_id": "Q023",
+      "bank_item_id": "CC1-AP1-Q023",
+      "family_name": "Factors and multiples - direct 2",
+      "family_purpose": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "category": "direct",
+      "cpm_lesson": "1.2.4",
+      "cpm_title": "Factors and multiples",
+      "i_can_id": "CC1-ES-02-P-6813422C",
+      "i_can_exact_text": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "student_action": "Factors and multiples",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>List every whole-number factor pair of 12.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "factor_pairs"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Factor pairs: 1 x 12, 2 x 6, 3 x 4; composite because it has factors other than 1 and itself.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>List every whole-number factor pair of 12.</p>",
+        "answer": "Factor pairs: 1 x 12, 2 x 6, 3 x 4; composite because it has factors other than 1 and itself.",
+        "solution": "Factor pairs: 1 x 12, 2 x 6, 3 x 4; composite because it has factors other than 1 and itself.",
+        "scoring_guidance": "Check: I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-P-6813422C",
+      "reporting_i_can_text": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-2-4-T03-S03",
+      "teacher_question_id": "Q024",
+      "bank_item_id": "CC1-AP1-Q024",
+      "family_name": "Factors and multiples - direct 3",
+      "family_purpose": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "category": "direct",
+      "cpm_lesson": "1.2.4",
+      "cpm_title": "Factors and multiples",
+      "i_can_id": "CC1-ES-02-P-6813422C",
+      "i_can_exact_text": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "student_action": "Factors and multiples",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>List every whole-number factor pair of 30.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "factor_pairs"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Factor pairs: 1 x 30, 2 x 15, 3 x 10, 5 x 6; composite because it has factors other than 1 and itself.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>List every whole-number factor pair of 30.</p>",
+        "answer": "Factor pairs: 1 x 30, 2 x 15, 3 x 10, 5 x 6; composite because it has factors other than 1 and itself.",
+        "solution": "Factor pairs: 1 x 30, 2 x 15, 3 x 10, 5 x 6; composite because it has factors other than 1 and itself.",
+        "scoring_guidance": "Check: I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-P-6813422C",
+      "reporting_i_can_text": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-2-4-T03-P01",
+      "teacher_question_id": "Q025",
+      "bank_item_id": "CC1-AP1-Q025",
+      "family_name": "Factors and multiples - spiral 1",
+      "family_purpose": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "category": "spiral",
+      "cpm_lesson": "1.2.4",
+      "cpm_title": "Factors and multiples",
+      "i_can_id": "CC1-ES-02-P-6813422C",
+      "i_can_exact_text": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "student_action": "Factors and multiples",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Is 35 prime or composite? Explain using factors.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "factor_pairs"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Factor pairs: 1 x 35, 5 x 7; composite because it has factors other than 1 and itself.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Is 35 prime or composite? Explain using factors.</p>",
+        "answer": "Factor pairs: 1 x 35, 5 x 7; composite because it has factors other than 1 and itself.",
+        "solution": "Factor pairs: 1 x 35, 5 x 7; composite because it has factors other than 1 and itself.",
+        "scoring_guidance": "Check: I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-P-6813422C",
+      "reporting_i_can_text": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-2-4-T03-P02",
+      "teacher_question_id": "Q026",
+      "bank_item_id": "CC1-AP1-Q026",
+      "family_name": "Factors and multiples - spiral 2",
+      "family_purpose": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "category": "spiral",
+      "cpm_lesson": "1.2.4",
+      "cpm_title": "Factors and multiples",
+      "i_can_id": "CC1-ES-02-P-6813422C",
+      "i_can_exact_text": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "student_action": "Factors and multiples",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Is 64 prime or composite? Explain using factors.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "factor_pairs"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Factor pairs: 1 x 64, 2 x 32, 4 x 16, 8 x 8; composite because it has factors other than 1 and itself.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Is 64 prime or composite? Explain using factors.</p>",
+        "answer": "Factor pairs: 1 x 64, 2 x 32, 4 x 16, 8 x 8; composite because it has factors other than 1 and itself.",
+        "solution": "Factor pairs: 1 x 64, 2 x 32, 4 x 16, 8 x 8; composite because it has factors other than 1 and itself.",
+        "scoring_guidance": "Check: I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-P-6813422C",
+      "reporting_i_can_text": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-2-4-T03-P03",
+      "teacher_question_id": "Q027",
+      "bank_item_id": "CC1-AP1-Q027",
+      "family_name": "Factors and multiples - spiral 3",
+      "family_purpose": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "category": "spiral",
+      "cpm_lesson": "1.2.4",
+      "cpm_title": "Factors and multiples",
+      "i_can_id": "CC1-ES-02-P-6813422C",
+      "i_can_exact_text": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "student_action": "Factors and multiples",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Is 16 prime or composite? Explain using factors.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "factor_pairs"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Factor pairs: 1 x 16, 2 x 8, 4 x 4; composite because it has factors other than 1 and itself.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Is 16 prime or composite? Explain using factors.</p>",
+        "answer": "Factor pairs: 1 x 16, 2 x 8, 4 x 4; composite because it has factors other than 1 and itself.",
+        "solution": "Factor pairs: 1 x 16, 2 x 8, 4 x 4; composite because it has factors other than 1 and itself.",
+        "scoring_guidance": "Check: I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-P-6813422C",
+      "reporting_i_can_text": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-2-2-T04-R01",
+      "teacher_question_id": "Q028",
+      "bank_item_id": "CC1-AP1-Q028",
+      "family_name": "Represent grouped quantities - reasoning 1",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "reasoning",
+      "cpm_lesson": "1.2.2",
+      "cpm_title": "Represent grouped quantities",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Represent grouped quantities",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>There are 4 bags with 8 counters in each and 6 loose counters. Show two representations of the total and explain why they match.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "quantity_expr"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "4 x 8 + 6 = 38; equal groups plus extra objects.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>There are 4 bags with 8 counters in each and 6 loose counters. Show two representations of the total and explain why they match.</p>",
+        "answer": "4 x 8 + 6 = 38; equal groups plus extra objects.",
+        "solution": "4 x 8 + 6 = 38; equal groups plus extra objects.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.2.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-2-2-T04-R02",
+      "teacher_question_id": "Q029",
+      "bank_item_id": "CC1-AP1-Q029",
+      "family_name": "Represent grouped quantities - reasoning 2",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "reasoning",
+      "cpm_lesson": "1.2.2",
+      "cpm_title": "Represent grouped quantities",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Represent grouped quantities",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>There are 5 bags with 4 counters in each and 8 loose counters. Show two representations of the total and explain why they match.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "quantity_expr"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "5 x 4 + 8 = 28; equal groups plus extra objects.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>There are 5 bags with 4 counters in each and 8 loose counters. Show two representations of the total and explain why they match.</p>",
+        "answer": "5 x 4 + 8 = 28; equal groups plus extra objects.",
+        "solution": "5 x 4 + 8 = 28; equal groups plus extra objects.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.2.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-2-2-T04-R03",
+      "teacher_question_id": "Q030",
+      "bank_item_id": "CC1-AP1-Q030",
+      "family_name": "Represent grouped quantities - reasoning 3",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "reasoning",
+      "cpm_lesson": "1.2.2",
+      "cpm_title": "Represent grouped quantities",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Represent grouped quantities",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>There are 6 bags with 7 counters in each and 4 loose counters. Show two representations of the total and explain why they match.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "quantity_expr"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "6 x 7 + 4 = 46; equal groups plus extra objects.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>There are 6 bags with 7 counters in each and 4 loose counters. Show two representations of the total and explain why they match.</p>",
+        "answer": "6 x 7 + 4 = 46; equal groups plus extra objects.",
+        "solution": "6 x 7 + 4 = 46; equal groups plus extra objects.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.2.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-2-2-T04-S01",
+      "teacher_question_id": "Q031",
+      "bank_item_id": "CC1-AP1-Q031",
+      "family_name": "Represent grouped quantities - direct 1",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "direct",
+      "cpm_lesson": "1.2.2",
+      "cpm_title": "Represent grouped quantities",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Represent grouped quantities",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Write a numerical expression for 3 groups of 6 and 8 additional objects. Evaluate it.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "quantity_expr"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "3 x 6 + 8 = 26; equal groups plus extra objects.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Write a numerical expression for 3 groups of 6 and 8 additional objects. Evaluate it.</p>",
+        "answer": "3 x 6 + 8 = 26; equal groups plus extra objects.",
+        "solution": "3 x 6 + 8 = 26; equal groups plus extra objects.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.2.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-2-2-T04-S02",
+      "teacher_question_id": "Q032",
+      "bank_item_id": "CC1-AP1-Q032",
+      "family_name": "Represent grouped quantities - direct 2",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "direct",
+      "cpm_lesson": "1.2.2",
+      "cpm_title": "Represent grouped quantities",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Represent grouped quantities",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Write a numerical expression for 4 groups of 9 and 4 additional objects. Evaluate it.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "quantity_expr"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "4 x 9 + 4 = 40; equal groups plus extra objects.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Write a numerical expression for 4 groups of 9 and 4 additional objects. Evaluate it.</p>",
+        "answer": "4 x 9 + 4 = 40; equal groups plus extra objects.",
+        "solution": "4 x 9 + 4 = 40; equal groups plus extra objects.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.2.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-2-2-T04-S03",
+      "teacher_question_id": "Q033",
+      "bank_item_id": "CC1-AP1-Q033",
+      "family_name": "Represent grouped quantities - direct 3",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "direct",
+      "cpm_lesson": "1.2.2",
+      "cpm_title": "Represent grouped quantities",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Represent grouped quantities",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Write a numerical expression for 5 groups of 5 and 6 additional objects. Evaluate it.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "quantity_expr"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "5 x 5 + 6 = 31; equal groups plus extra objects.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Write a numerical expression for 5 groups of 5 and 6 additional objects. Evaluate it.</p>",
+        "answer": "5 x 5 + 6 = 31; equal groups plus extra objects.",
+        "solution": "5 x 5 + 6 = 31; equal groups plus extra objects.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.2.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-2-2-T04-P01",
+      "teacher_question_id": "Q034",
+      "bank_item_id": "CC1-AP1-Q034",
+      "family_name": "Represent grouped quantities - spiral 1",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "spiral",
+      "cpm_lesson": "1.2.2",
+      "cpm_title": "Represent grouped quantities",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Represent grouped quantities",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A drawing shows 7 rows with 4 dots in each, plus 4 separate dots. What is the total? Show an expression.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "quantity_expr"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "7 x 4 + 4 = 32; equal groups plus extra objects.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A drawing shows 7 rows with 4 dots in each, plus 4 separate dots. What is the total? Show an expression.</p>",
+        "answer": "7 x 4 + 4 = 32; equal groups plus extra objects.",
+        "solution": "7 x 4 + 4 = 32; equal groups plus extra objects.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.2.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-2-2-T04-P02",
+      "teacher_question_id": "Q035",
+      "bank_item_id": "CC1-AP1-Q035",
+      "family_name": "Represent grouped quantities - spiral 2",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "spiral",
+      "cpm_lesson": "1.2.2",
+      "cpm_title": "Represent grouped quantities",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Represent grouped quantities",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A drawing shows 3 rows with 7 dots in each, plus 6 separate dots. What is the total? Show an expression.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "quantity_expr"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "3 x 7 + 6 = 27; equal groups plus extra objects.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A drawing shows 3 rows with 7 dots in each, plus 6 separate dots. What is the total? Show an expression.</p>",
+        "answer": "3 x 7 + 6 = 27; equal groups plus extra objects.",
+        "solution": "3 x 7 + 6 = 27; equal groups plus extra objects.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.2.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP1-1-2-2-T04-P03",
+      "teacher_question_id": "Q036",
+      "bank_item_id": "CC1-AP1-Q036",
+      "family_name": "Represent grouped quantities - spiral 3",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "spiral",
+      "cpm_lesson": "1.2.2",
+      "cpm_title": "Represent grouped quantities",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Represent grouped quantities",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A drawing shows 4 rows with 10 dots in each, plus 8 separate dots. What is the total? Show an expression.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "quantity_expr"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "4 x 10 + 8 = 48; equal groups plus extra objects.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A drawing shows 4 rows with 10 dots in each, plus 8 separate dots. What is the total? Show an expression.</p>",
+        "answer": "4 x 10 + 8 = 48; equal groups plus extra objects.",
+        "solution": "4 x 10 + 8 = 48; equal groups plus extra objects.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "1.2.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    }
+  ],
+  "review_summary": {
+    "active_family_count": 36,
+    "review_gate": "teacher feedback is corrective, not a prerequisite to initial use"
+  },
+  "reporting_contract": {
+    "schema_version": 1,
+    "source": "CC1 Assessment Evidence and chapter unit plans",
+    "learning_goal_ids": [
+      "CC1-ES-01",
+      "CC1-ES-02",
+      "CC1-ES-04",
+      "CC1-ES-06"
+    ],
+    "reporting_i_can_ids": [
+      "CC1-ES-01-F-22663BE1",
+      "CC1-ES-04-F-175BD516",
+      "CC1-ES-02-P-6813422C",
+      "CC1-ES-06-P-9EC1023A"
+    ],
+    "family_id_policy": "immutable stable family ID",
+    "question_content_policy": "original teacher-created questions; no textbook reproduction"
+  },
+  "pilot_policy": {
+    "default": "usable immediately",
+    "teacher_approval": "operationally accepted by teacher instruction; not individually proofread",
+    "feedback": "correct and version the canonical bank family when a problem is reported"
+  }
+}

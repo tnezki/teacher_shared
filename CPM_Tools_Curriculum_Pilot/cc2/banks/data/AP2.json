@@ -1,0 +1,3730 @@
+{
+  "schema": "cpm-family-bank-plan/v1",
+  "course": "Core Connections Course 2",
+  "assessment_plan": "AP2",
+  "chapter": 2,
+  "plan_title": "Fractions and Integer Addition",
+  "essential_standard": "Chapter assessment evidence targets from CC2 Learning Ladders and assessment plan",
+  "bank_status": "PILOT_BASELINE_ACTIVE",
+  "source_crosswalk": "assessment_plans/CC2_AP2_ASSESSMENT_PLAN.json",
+  "source_authority": "Current CC2 Chapter Unit Plans; ladder-aligned assessment evidence; mirrored lesson sequence",
+  "family_policy": {
+    "per_i_can": {
+      "reasoning": 3,
+      "direct": 3,
+      "spiral": 3
+    },
+    "approval_gate": "Teacher-directed pilot baseline: questions available now; corrections made when flagged.",
+    "runtime_variation": "Only authored exemplars are included; generated variants need independent mathematical verification.",
+    "review_preview": "Three concise spiral / prerequisite review families per I Can. No source textbook problem text copied.",
+    "visual_rule": "Use registered CPM Tools graph renderer if a supplied graph is necessary; prompts here ask students to draw themselves."
+  },
+  "sections": [
+    {
+      "section": "2.1.2",
+      "title": "Rewriting Decimals as Fractions",
+      "topic_title": "Fraction and decimal forms",
+      "learning_target": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "cpm_lesson": "2.1.2",
+      "ap_section": 2,
+      "i_cans": [
+        {
+          "id": "CC2-ES-01-PRE-279B01B3",
+          "text": "I can rewrite equivalent fractions and decimals and justify their value.",
+          "family_ids": [
+            "CC2-AP2-2-1-2-T01-R01",
+            "CC2-AP2-2-1-2-T01-R02",
+            "CC2-AP2-2-1-2-T01-R03",
+            "CC2-AP2-2-1-2-T01-S01",
+            "CC2-AP2-2-1-2-T01-S02",
+            "CC2-AP2-2-1-2-T01-S03",
+            "CC2-AP2-2-1-2-T01-P01",
+            "CC2-AP2-2-1-2-T01-P02",
+            "CC2-AP2-2-1-2-T01-P03"
+          ],
+          "cpm_lesson": "2.1.2",
+          "cpm_title": "Rewriting Decimals as Fractions",
+          "topic_title": "Fraction and decimal forms",
+          "learning_goal_id": "CC2-ES-01",
+          "reporting_i_can_text": "I can rewrite equivalent fractions and decimals and justify their value.",
+          "ladder_rung": "Prerequisite",
+          "evidence_stage": "FIRST_CHECK_PARTIAL",
+          "scope_note": ""
+        }
+      ],
+      "reporting_i_can_id": "CC2-ES-01-PRE-279B01B3",
+      "reporting_i_can_text": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "learning_goal_id": "CC2-ES-01"
+    },
+    {
+      "section": "2.2.2",
+      "title": "Adding Integers and Rational Numbers",
+      "topic_title": "Signed addition models",
+      "learning_target": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "cpm_lesson": "2.2.2",
+      "ap_section": 2,
+      "i_cans": [
+        {
+          "id": "CC2-ES-01-D-1E4816F9",
+          "text": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+          "family_ids": [
+            "CC2-AP2-2-2-2-T02-R01",
+            "CC2-AP2-2-2-2-T02-R02",
+            "CC2-AP2-2-2-2-T02-R03",
+            "CC2-AP2-2-2-2-T02-S01",
+            "CC2-AP2-2-2-2-T02-S02",
+            "CC2-AP2-2-2-2-T02-S03",
+            "CC2-AP2-2-2-2-T02-P01",
+            "CC2-AP2-2-2-2-T02-P02",
+            "CC2-AP2-2-2-2-T02-P03"
+          ],
+          "cpm_lesson": "2.2.2",
+          "cpm_title": "Adding Integers and Rational Numbers",
+          "topic_title": "Signed addition models",
+          "learning_goal_id": "CC2-ES-01",
+          "reporting_i_can_text": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "FIRST_CHECK_PARTIAL",
+          "scope_note": "Signed addition is partial; do not infer subtraction and multiplication/division proficiency."
+        }
+      ],
+      "reporting_i_can_id": "CC2-ES-01-D-1E4816F9",
+      "reporting_i_can_text": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "learning_goal_id": "CC2-ES-01"
+    },
+    {
+      "section": "2.2.3",
+      "title": "More Addition of Integers and Rational Numbers",
+      "topic_title": "Compare signed rational numbers",
+      "learning_target": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "cpm_lesson": "2.2.3",
+      "ap_section": 2,
+      "i_cans": [
+        {
+          "id": "CC2-ES-01-F-34937C60",
+          "text": "I can order positive and negative rational numbers and explain their positions on a number line.",
+          "family_ids": [
+            "CC2-AP2-2-2-3-T03-R01",
+            "CC2-AP2-2-2-3-T03-R02",
+            "CC2-AP2-2-2-3-T03-R03",
+            "CC2-AP2-2-2-3-T03-S01",
+            "CC2-AP2-2-2-3-T03-S02",
+            "CC2-AP2-2-2-3-T03-S03",
+            "CC2-AP2-2-2-3-T03-P01",
+            "CC2-AP2-2-2-3-T03-P02",
+            "CC2-AP2-2-2-3-T03-P03"
+          ],
+          "cpm_lesson": "2.2.3",
+          "cpm_title": "More Addition of Integers and Rational Numbers",
+          "topic_title": "Compare signed rational numbers",
+          "learning_goal_id": "CC2-ES-01",
+          "reporting_i_can_text": "I can order positive and negative rational numbers and explain their positions on a number line.",
+          "ladder_rung": "Foundation",
+          "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+          "scope_note": ""
+        }
+      ],
+      "reporting_i_can_id": "CC2-ES-01-F-34937C60",
+      "reporting_i_can_text": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "learning_goal_id": "CC2-ES-01"
+    },
+    {
+      "section": "2.2.6",
+      "title": "Multiplying Mixed Numbers",
+      "topic_title": "Fraction and mixed-number products",
+      "learning_target": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "cpm_lesson": "2.2.6",
+      "ap_section": 2,
+      "i_cans": [
+        {
+          "id": "CC2-ES-01-PRE-A87319BB",
+          "text": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+          "family_ids": [
+            "CC2-AP2-2-2-6-T04-R01",
+            "CC2-AP2-2-2-6-T04-R02",
+            "CC2-AP2-2-2-6-T04-R03",
+            "CC2-AP2-2-2-6-T04-S01",
+            "CC2-AP2-2-2-6-T04-S02",
+            "CC2-AP2-2-2-6-T04-S03",
+            "CC2-AP2-2-2-6-T04-P01",
+            "CC2-AP2-2-2-6-T04-P02",
+            "CC2-AP2-2-2-6-T04-P03"
+          ],
+          "cpm_lesson": "2.2.6",
+          "cpm_title": "Multiplying Mixed Numbers",
+          "topic_title": "Fraction and mixed-number products",
+          "learning_goal_id": "CC2-ES-01",
+          "reporting_i_can_text": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+          "ladder_rung": "Prerequisite",
+          "evidence_stage": "READINESS",
+          "scope_note": "Unsigned multiplication is readiness for later full signed rational operations."
+        }
+      ],
+      "reporting_i_can_id": "CC2-ES-01-PRE-A87319BB",
+      "reporting_i_can_text": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "learning_goal_id": "CC2-ES-01"
+    },
+    {
+      "section": "2.3.2",
+      "title": "More Graph Scaling",
+      "topic_title": "Plot data with scales",
+      "learning_target": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "cpm_lesson": "2.3.2",
+      "ap_section": 2,
+      "i_cans": [
+        {
+          "id": "CC2-ES-03-F-F50CD88C",
+          "text": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+          "family_ids": [
+            "CC2-AP2-2-3-2-T05-R01",
+            "CC2-AP2-2-3-2-T05-R02",
+            "CC2-AP2-2-3-2-T05-R03",
+            "CC2-AP2-2-3-2-T05-S01",
+            "CC2-AP2-2-3-2-T05-S02",
+            "CC2-AP2-2-3-2-T05-S03",
+            "CC2-AP2-2-3-2-T05-P01",
+            "CC2-AP2-2-3-2-T05-P02",
+            "CC2-AP2-2-3-2-T05-P03"
+          ],
+          "cpm_lesson": "2.3.2",
+          "cpm_title": "More Graph Scaling",
+          "topic_title": "Plot data with scales",
+          "learning_goal_id": "CC2-ES-03",
+          "reporting_i_can_text": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+          "ladder_rung": "Foundation",
+          "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+          "scope_note": ""
+        }
+      ],
+      "reporting_i_can_id": "CC2-ES-03-F-F50CD88C",
+      "reporting_i_can_text": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "learning_goal_id": "CC2-ES-03"
+    }
+  ],
+  "mastery_goals": [
+    {
+      "id": "CC2-ES-01",
+      "title": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "mastery_goal": "I can rewrite equivalent fractions and decimals and justify their value. I can add signed rational numbers and explain the result with a number line or zero pairs. I can order positive and negative rational numbers and explain their positions on a number line. I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "i_cans": [
+        {
+          "id": "CC2-ES-01-PRE-279B01B3",
+          "text": "I can rewrite equivalent fractions and decimals and justify their value.",
+          "family_ids": [
+            "CC2-AP2-2-1-2-T01-R01",
+            "CC2-AP2-2-1-2-T01-R02",
+            "CC2-AP2-2-1-2-T01-R03",
+            "CC2-AP2-2-1-2-T01-S01",
+            "CC2-AP2-2-1-2-T01-S02",
+            "CC2-AP2-2-1-2-T01-S03",
+            "CC2-AP2-2-1-2-T01-P01",
+            "CC2-AP2-2-1-2-T01-P02",
+            "CC2-AP2-2-1-2-T01-P03"
+          ],
+          "cpm_lesson": "2.1.2",
+          "cpm_title": "Rewriting Decimals as Fractions",
+          "topic_title": "Fraction and decimal forms",
+          "learning_goal_id": "CC2-ES-01",
+          "reporting_i_can_text": "I can rewrite equivalent fractions and decimals and justify their value.",
+          "ladder_rung": "Prerequisite",
+          "evidence_stage": "FIRST_CHECK_PARTIAL",
+          "scope_note": ""
+        },
+        {
+          "id": "CC2-ES-01-D-1E4816F9",
+          "text": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+          "family_ids": [
+            "CC2-AP2-2-2-2-T02-R01",
+            "CC2-AP2-2-2-2-T02-R02",
+            "CC2-AP2-2-2-2-T02-R03",
+            "CC2-AP2-2-2-2-T02-S01",
+            "CC2-AP2-2-2-2-T02-S02",
+            "CC2-AP2-2-2-2-T02-S03",
+            "CC2-AP2-2-2-2-T02-P01",
+            "CC2-AP2-2-2-2-T02-P02",
+            "CC2-AP2-2-2-2-T02-P03"
+          ],
+          "cpm_lesson": "2.2.2",
+          "cpm_title": "Adding Integers and Rational Numbers",
+          "topic_title": "Signed addition models",
+          "learning_goal_id": "CC2-ES-01",
+          "reporting_i_can_text": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "FIRST_CHECK_PARTIAL",
+          "scope_note": "Signed addition is partial; do not infer subtraction and multiplication/division proficiency."
+        },
+        {
+          "id": "CC2-ES-01-F-34937C60",
+          "text": "I can order positive and negative rational numbers and explain their positions on a number line.",
+          "family_ids": [
+            "CC2-AP2-2-2-3-T03-R01",
+            "CC2-AP2-2-2-3-T03-R02",
+            "CC2-AP2-2-2-3-T03-R03",
+            "CC2-AP2-2-2-3-T03-S01",
+            "CC2-AP2-2-2-3-T03-S02",
+            "CC2-AP2-2-2-3-T03-S03",
+            "CC2-AP2-2-2-3-T03-P01",
+            "CC2-AP2-2-2-3-T03-P02",
+            "CC2-AP2-2-2-3-T03-P03"
+          ],
+          "cpm_lesson": "2.2.3",
+          "cpm_title": "More Addition of Integers and Rational Numbers",
+          "topic_title": "Compare signed rational numbers",
+          "learning_goal_id": "CC2-ES-01",
+          "reporting_i_can_text": "I can order positive and negative rational numbers and explain their positions on a number line.",
+          "ladder_rung": "Foundation",
+          "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+          "scope_note": ""
+        },
+        {
+          "id": "CC2-ES-01-PRE-A87319BB",
+          "text": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+          "family_ids": [
+            "CC2-AP2-2-2-6-T04-R01",
+            "CC2-AP2-2-2-6-T04-R02",
+            "CC2-AP2-2-2-6-T04-R03",
+            "CC2-AP2-2-2-6-T04-S01",
+            "CC2-AP2-2-2-6-T04-S02",
+            "CC2-AP2-2-2-6-T04-S03",
+            "CC2-AP2-2-2-6-T04-P01",
+            "CC2-AP2-2-2-6-T04-P02",
+            "CC2-AP2-2-2-6-T04-P03"
+          ],
+          "cpm_lesson": "2.2.6",
+          "cpm_title": "Multiplying Mixed Numbers",
+          "topic_title": "Fraction and mixed-number products",
+          "learning_goal_id": "CC2-ES-01",
+          "reporting_i_can_text": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+          "ladder_rung": "Prerequisite",
+          "evidence_stage": "READINESS",
+          "scope_note": "Unsigned multiplication is readiness for later full signed rational operations."
+        }
+      ],
+      "reporting_contract": "cc2-essential-standards/v1"
+    },
+    {
+      "id": "CC2-ES-03",
+      "title": "CC2-ES-03",
+      "assessment_plan": "AP2",
+      "mastery_goal": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "i_cans": [
+        {
+          "id": "CC2-ES-03-F-F50CD88C",
+          "text": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+          "family_ids": [
+            "CC2-AP2-2-3-2-T05-R01",
+            "CC2-AP2-2-3-2-T05-R02",
+            "CC2-AP2-2-3-2-T05-R03",
+            "CC2-AP2-2-3-2-T05-S01",
+            "CC2-AP2-2-3-2-T05-S02",
+            "CC2-AP2-2-3-2-T05-S03",
+            "CC2-AP2-2-3-2-T05-P01",
+            "CC2-AP2-2-3-2-T05-P02",
+            "CC2-AP2-2-3-2-T05-P03"
+          ],
+          "cpm_lesson": "2.3.2",
+          "cpm_title": "More Graph Scaling",
+          "topic_title": "Plot data with scales",
+          "learning_goal_id": "CC2-ES-03",
+          "reporting_i_can_text": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+          "ladder_rung": "Foundation",
+          "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+          "scope_note": ""
+        }
+      ],
+      "reporting_contract": "cc2-essential-standards/v1"
+    }
+  ],
+  "families": [
+    {
+      "family_id": "CC2-AP2-2-1-2-T01-R01",
+      "teacher_question_id": "Q001",
+      "bank_item_id": "CC2-AP2-Q001",
+      "family_name": "Fraction and decimal forms — reasoning 1",
+      "family_purpose": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "category": "reasoning",
+      "cpm_lesson": "2.1.2",
+      "cpm_title": "Rewriting Decimals as Fractions",
+      "topic_title": "Fraction and decimal forms",
+      "i_can_id": "CC2-ES-01-PRE-279B01B3",
+      "i_can_exact_text": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "student_action": "Explain why 0.375 and 3/8 describe the same number using thousandths or division.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Explain why 0.375 and 3/8 describe the same number using thousandths or division.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-1-2-T01-R01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "0.375=375/1000=3/8 after dividing by 125.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Explain why 0.375 and 3/8 describe the same number using thousandths or division.</p>",
+        "answer": "0.375=375/1000=3/8 after dividing by 125.",
+        "solution": "0.375=375/1000=3/8 after dividing by 125.",
+        "scoring_guidance": "Assess I can rewrite equivalent fractions and decimals and justify their value. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.1.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRE-279B01B3",
+      "reporting_i_can_text": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Prerequisite",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP2-2-1-2-T01-R02",
+      "teacher_question_id": "Q002",
+      "bank_item_id": "CC2-AP2-Q002",
+      "family_name": "Fraction and decimal forms — reasoning 2",
+      "family_purpose": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "category": "reasoning",
+      "cpm_lesson": "2.1.2",
+      "cpm_title": "Rewriting Decimals as Fractions",
+      "topic_title": "Fraction and decimal forms",
+      "i_can_id": "CC2-ES-01-PRE-279B01B3",
+      "i_can_exact_text": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "student_action": "A student writes 0.6=6/100. Explain the place-value error.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student writes 0.6=6/100. Explain the place-value error.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-1-2-T01-R02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "0.6 is six tenths: 6/10=3/5, not six hundredths.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A student writes 0.6=6/100. Explain the place-value error.</p>",
+        "answer": "0.6 is six tenths: 6/10=3/5, not six hundredths.",
+        "solution": "0.6 is six tenths: 6/10=3/5, not six hundredths.",
+        "scoring_guidance": "Assess I can rewrite equivalent fractions and decimals and justify their value. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.1.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRE-279B01B3",
+      "reporting_i_can_text": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Prerequisite",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP2-2-1-2-T01-R03",
+      "teacher_question_id": "Q003",
+      "bank_item_id": "CC2-AP2-Q003",
+      "family_name": "Fraction and decimal forms — reasoning 3",
+      "family_purpose": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "category": "reasoning",
+      "cpm_lesson": "2.1.2",
+      "cpm_title": "Rewriting Decimals as Fractions",
+      "topic_title": "Fraction and decimal forms",
+      "i_can_id": "CC2-ES-01-PRE-279B01B3",
+      "i_can_exact_text": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "student_action": "Which is greater, 0.35 or 1/3? Explain using decimals.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Which is greater, 0.35 or 1/3? Explain using decimals.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-1-2-T01-R03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "0.35>0.333...=1/3.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Which is greater, 0.35 or 1/3? Explain using decimals.</p>",
+        "answer": "0.35>0.333...=1/3.",
+        "solution": "0.35>0.333...=1/3.",
+        "scoring_guidance": "Assess I can rewrite equivalent fractions and decimals and justify their value. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.1.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRE-279B01B3",
+      "reporting_i_can_text": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Prerequisite",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP2-2-1-2-T01-S01",
+      "teacher_question_id": "Q004",
+      "bank_item_id": "CC2-AP2-Q004",
+      "family_name": "Fraction and decimal forms — direct skill 1",
+      "family_purpose": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "category": "direct",
+      "cpm_lesson": "2.1.2",
+      "cpm_title": "Rewriting Decimals as Fractions",
+      "topic_title": "Fraction and decimal forms",
+      "i_can_id": "CC2-ES-01-PRE-279B01B3",
+      "i_can_exact_text": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "student_action": "Write 0.45 as a simplified fraction.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Write 0.45 as a simplified fraction.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-1-2-T01-S01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "9/20.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Write 0.45 as a simplified fraction.</p>",
+        "answer": "9/20.",
+        "solution": "9/20.",
+        "scoring_guidance": "Assess I can rewrite equivalent fractions and decimals and justify their value. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.1.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRE-279B01B3",
+      "reporting_i_can_text": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Prerequisite",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP2-2-1-2-T01-S02",
+      "teacher_question_id": "Q005",
+      "bank_item_id": "CC2-AP2-Q005",
+      "family_name": "Fraction and decimal forms — direct skill 2",
+      "family_purpose": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "category": "direct",
+      "cpm_lesson": "2.1.2",
+      "cpm_title": "Rewriting Decimals as Fractions",
+      "topic_title": "Fraction and decimal forms",
+      "i_can_id": "CC2-ES-01-PRE-279B01B3",
+      "i_can_exact_text": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "student_action": "Write 7/20 as a decimal.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Write 7/20 as a decimal.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-1-2-T01-S02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "0.35.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Write 7/20 as a decimal.</p>",
+        "answer": "0.35.",
+        "solution": "0.35.",
+        "scoring_guidance": "Assess I can rewrite equivalent fractions and decimals and justify their value. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.1.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRE-279B01B3",
+      "reporting_i_can_text": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Prerequisite",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP2-2-1-2-T01-S03",
+      "teacher_question_id": "Q006",
+      "bank_item_id": "CC2-AP2-Q006",
+      "family_name": "Fraction and decimal forms — direct skill 3",
+      "family_purpose": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "category": "direct",
+      "cpm_lesson": "2.1.2",
+      "cpm_title": "Rewriting Decimals as Fractions",
+      "topic_title": "Fraction and decimal forms",
+      "i_can_id": "CC2-ES-01-PRE-279B01B3",
+      "i_can_exact_text": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "student_action": "Write 1/8 as a decimal.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Write 1/8 as a decimal.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-1-2-T01-S03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "0.125.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Write 1/8 as a decimal.</p>",
+        "answer": "0.125.",
+        "solution": "0.125.",
+        "scoring_guidance": "Assess I can rewrite equivalent fractions and decimals and justify their value. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.1.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRE-279B01B3",
+      "reporting_i_can_text": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Prerequisite",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP2-2-1-2-T01-P01",
+      "teacher_question_id": "Q007",
+      "bank_item_id": "CC2-AP2-Q007",
+      "family_name": "Fraction and decimal forms — review & preview 1",
+      "family_purpose": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "category": "spiral",
+      "cpm_lesson": "2.1.2",
+      "cpm_title": "Rewriting Decimals as Fractions",
+      "topic_title": "Fraction and decimal forms",
+      "i_can_id": "CC2-ES-01-PRE-279B01B3",
+      "i_can_exact_text": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward fraction and decimal forms",
+      "student_action": "Simplify 12/18.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Simplify 12/18.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-1-2-T01-P01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "2/3.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Simplify 12/18.</p>",
+        "answer": "2/3.",
+        "solution": "2/3.",
+        "scoring_guidance": "Assess I can rewrite equivalent fractions and decimals and justify their value. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.1.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRE-279B01B3",
+      "reporting_i_can_text": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Prerequisite",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP2-2-1-2-T01-P02",
+      "teacher_question_id": "Q008",
+      "bank_item_id": "CC2-AP2-Q008",
+      "family_name": "Fraction and decimal forms — review & preview 2",
+      "family_purpose": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "category": "spiral",
+      "cpm_lesson": "2.1.2",
+      "cpm_title": "Rewriting Decimals as Fractions",
+      "topic_title": "Fraction and decimal forms",
+      "i_can_id": "CC2-ES-01-PRE-279B01B3",
+      "i_can_exact_text": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward fraction and decimal forms",
+      "student_action": "Find 25% of 64.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Find 25% of 64.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-1-2-T01-P02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "16.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Find 25% of 64.</p>",
+        "answer": "16.",
+        "solution": "16.",
+        "scoring_guidance": "Assess I can rewrite equivalent fractions and decimals and justify their value. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.1.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRE-279B01B3",
+      "reporting_i_can_text": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Prerequisite",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP2-2-1-2-T01-P03",
+      "teacher_question_id": "Q009",
+      "bank_item_id": "CC2-AP2-Q009",
+      "family_name": "Fraction and decimal forms — review & preview 3",
+      "family_purpose": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "category": "spiral",
+      "cpm_lesson": "2.1.2",
+      "cpm_title": "Rewriting Decimals as Fractions",
+      "topic_title": "Fraction and decimal forms",
+      "i_can_id": "CC2-ES-01-PRE-279B01B3",
+      "i_can_exact_text": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward fraction and decimal forms",
+      "student_action": "Write 3/4 as a decimal.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Write 3/4 as a decimal.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-1-2-T01-P03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "0.75.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Write 3/4 as a decimal.</p>",
+        "answer": "0.75.",
+        "solution": "0.75.",
+        "scoring_guidance": "Assess I can rewrite equivalent fractions and decimals and justify their value. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.1.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRE-279B01B3",
+      "reporting_i_can_text": "I can rewrite equivalent fractions and decimals and justify their value.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Prerequisite",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP2-2-2-2-T02-R01",
+      "teacher_question_id": "Q010",
+      "bank_item_id": "CC2-AP2-Q010",
+      "family_name": "Signed addition models — reasoning 1",
+      "family_purpose": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "category": "reasoning",
+      "cpm_lesson": "2.2.2",
+      "cpm_title": "Adding Integers and Rational Numbers",
+      "topic_title": "Signed addition models",
+      "i_can_id": "CC2-ES-01-D-1E4816F9",
+      "i_can_exact_text": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "student_action": "A diver starts at -3 m and rises 5 m. Explain the ending position with a signed addition model.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A diver starts at -3 m and rises 5 m. Explain the ending position with a signed addition model.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-2-2-T02-R01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "-3+5=2 m; on a number line move five units right from -3.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A diver starts at -3 m and rises 5 m. Explain the ending position with a signed addition model.</p>",
+        "answer": "-3+5=2 m; on a number line move five units right from -3.",
+        "solution": "-3+5=2 m; on a number line move five units right from -3.",
+        "scoring_guidance": "Assess I can add signed rational numbers and explain the result with a number line or zero pairs. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.2.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-D-1E4816F9",
+      "reporting_i_can_text": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Developing",
+      "scope_note": "Signed addition is partial; do not infer subtraction and multiplication/division proficiency."
+    },
+    {
+      "family_id": "CC2-AP2-2-2-2-T02-R02",
+      "teacher_question_id": "Q011",
+      "bank_item_id": "CC2-AP2-Q011",
+      "family_name": "Signed addition models — reasoning 2",
+      "family_purpose": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "category": "reasoning",
+      "cpm_lesson": "2.2.2",
+      "cpm_title": "Adding Integers and Rational Numbers",
+      "topic_title": "Signed addition models",
+      "i_can_id": "CC2-ES-01-D-1E4816F9",
+      "i_can_exact_text": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "student_action": "A student claims -4 + -3 = 7 because 4+3=7. Explain the error using direction.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student claims -4 + -3 = 7 because 4+3=7. Explain the error using direction.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-2-2-T02-R02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "Both changes are negative; move seven left in total, so -7.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A student claims -4 + -3 = 7 because 4+3=7. Explain the error using direction.</p>",
+        "answer": "Both changes are negative; move seven left in total, so -7.",
+        "solution": "Both changes are negative; move seven left in total, so -7.",
+        "scoring_guidance": "Assess I can add signed rational numbers and explain the result with a number line or zero pairs. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.2.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-D-1E4816F9",
+      "reporting_i_can_text": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Developing",
+      "scope_note": "Signed addition is partial; do not infer subtraction and multiplication/division proficiency."
+    },
+    {
+      "family_id": "CC2-AP2-2-2-2-T02-R03",
+      "teacher_question_id": "Q012",
+      "bank_item_id": "CC2-AP2-Q012",
+      "family_name": "Signed addition models — reasoning 3",
+      "family_purpose": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "category": "reasoning",
+      "cpm_lesson": "2.2.2",
+      "cpm_title": "Adding Integers and Rational Numbers",
+      "topic_title": "Signed addition models",
+      "i_can_id": "CC2-ES-01-D-1E4816F9",
+      "i_can_exact_text": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "student_action": "Use zero pairs or a number line to justify -2.5 + 4.0.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Use zero pairs or a number line to justify -2.5 + 4.0.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-2-2-T02-R03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "1.5; four units right from -2.5 ends at 1.5.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Use zero pairs or a number line to justify -2.5 + 4.0.</p>",
+        "answer": "1.5; four units right from -2.5 ends at 1.5.",
+        "solution": "1.5; four units right from -2.5 ends at 1.5.",
+        "scoring_guidance": "Assess I can add signed rational numbers and explain the result with a number line or zero pairs. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.2.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-D-1E4816F9",
+      "reporting_i_can_text": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Developing",
+      "scope_note": "Signed addition is partial; do not infer subtraction and multiplication/division proficiency."
+    },
+    {
+      "family_id": "CC2-AP2-2-2-2-T02-S01",
+      "teacher_question_id": "Q013",
+      "bank_item_id": "CC2-AP2-Q013",
+      "family_name": "Signed addition models — direct skill 1",
+      "family_purpose": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "category": "direct",
+      "cpm_lesson": "2.2.2",
+      "cpm_title": "Adding Integers and Rational Numbers",
+      "topic_title": "Signed addition models",
+      "i_can_id": "CC2-ES-01-D-1E4816F9",
+      "i_can_exact_text": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "student_action": "Compute -6+9.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute -6+9.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-2-2-T02-S01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "3.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute -6+9.</p>",
+        "answer": "3.",
+        "solution": "3.",
+        "scoring_guidance": "Assess I can add signed rational numbers and explain the result with a number line or zero pairs. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.2.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-D-1E4816F9",
+      "reporting_i_can_text": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Developing",
+      "scope_note": "Signed addition is partial; do not infer subtraction and multiplication/division proficiency."
+    },
+    {
+      "family_id": "CC2-AP2-2-2-2-T02-S02",
+      "teacher_question_id": "Q014",
+      "bank_item_id": "CC2-AP2-Q014",
+      "family_name": "Signed addition models — direct skill 2",
+      "family_purpose": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "category": "direct",
+      "cpm_lesson": "2.2.2",
+      "cpm_title": "Adding Integers and Rational Numbers",
+      "topic_title": "Signed addition models",
+      "i_can_id": "CC2-ES-01-D-1E4816F9",
+      "i_can_exact_text": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "student_action": "Compute -1/2 + 3/4.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute -1/2 + 3/4.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-2-2-T02-S02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "1/4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute -1/2 + 3/4.</p>",
+        "answer": "1/4.",
+        "solution": "1/4.",
+        "scoring_guidance": "Assess I can add signed rational numbers and explain the result with a number line or zero pairs. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.2.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-D-1E4816F9",
+      "reporting_i_can_text": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Developing",
+      "scope_note": "Signed addition is partial; do not infer subtraction and multiplication/division proficiency."
+    },
+    {
+      "family_id": "CC2-AP2-2-2-2-T02-S03",
+      "teacher_question_id": "Q015",
+      "bank_item_id": "CC2-AP2-Q015",
+      "family_name": "Signed addition models — direct skill 3",
+      "family_purpose": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "category": "direct",
+      "cpm_lesson": "2.2.2",
+      "cpm_title": "Adding Integers and Rational Numbers",
+      "topic_title": "Signed addition models",
+      "i_can_id": "CC2-ES-01-D-1E4816F9",
+      "i_can_exact_text": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "student_action": "Compute -2.5+(-1.25).",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute -2.5+(-1.25).</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-2-2-T02-S03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "-3.75.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute -2.5+(-1.25).</p>",
+        "answer": "-3.75.",
+        "solution": "-3.75.",
+        "scoring_guidance": "Assess I can add signed rational numbers and explain the result with a number line or zero pairs. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.2.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-D-1E4816F9",
+      "reporting_i_can_text": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Developing",
+      "scope_note": "Signed addition is partial; do not infer subtraction and multiplication/division proficiency."
+    },
+    {
+      "family_id": "CC2-AP2-2-2-2-T02-P01",
+      "teacher_question_id": "Q016",
+      "bank_item_id": "CC2-AP2-Q016",
+      "family_name": "Signed addition models — review & preview 1",
+      "family_purpose": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "category": "spiral",
+      "cpm_lesson": "2.2.2",
+      "cpm_title": "Adding Integers and Rational Numbers",
+      "topic_title": "Signed addition models",
+      "i_can_id": "CC2-ES-01-D-1E4816F9",
+      "i_can_exact_text": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward signed addition models",
+      "student_action": "Compute 5+(-2).",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute 5+(-2).</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-2-2-T02-P01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "3.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute 5+(-2).</p>",
+        "answer": "3.",
+        "solution": "3.",
+        "scoring_guidance": "Assess I can add signed rational numbers and explain the result with a number line or zero pairs. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.2.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-D-1E4816F9",
+      "reporting_i_can_text": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Developing",
+      "scope_note": "Signed addition is partial; do not infer subtraction and multiplication/division proficiency."
+    },
+    {
+      "family_id": "CC2-AP2-2-2-2-T02-P02",
+      "teacher_question_id": "Q017",
+      "bank_item_id": "CC2-AP2-Q017",
+      "family_name": "Signed addition models — review & preview 2",
+      "family_purpose": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "category": "spiral",
+      "cpm_lesson": "2.2.2",
+      "cpm_title": "Adding Integers and Rational Numbers",
+      "topic_title": "Signed addition models",
+      "i_can_id": "CC2-ES-01-D-1E4816F9",
+      "i_can_exact_text": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward signed addition models",
+      "student_action": "Order -3, 0, 2 from least to greatest.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Order -3, 0, 2 from least to greatest.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-2-2-T02-P02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "-3,0,2.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Order -3, 0, 2 from least to greatest.</p>",
+        "answer": "-3,0,2.",
+        "solution": "-3,0,2.",
+        "scoring_guidance": "Assess I can add signed rational numbers and explain the result with a number line or zero pairs. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.2.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-D-1E4816F9",
+      "reporting_i_can_text": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Developing",
+      "scope_note": "Signed addition is partial; do not infer subtraction and multiplication/division proficiency."
+    },
+    {
+      "family_id": "CC2-AP2-2-2-2-T02-P03",
+      "teacher_question_id": "Q018",
+      "bank_item_id": "CC2-AP2-Q018",
+      "family_name": "Signed addition models — review & preview 3",
+      "family_purpose": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "category": "spiral",
+      "cpm_lesson": "2.2.2",
+      "cpm_title": "Adding Integers and Rational Numbers",
+      "topic_title": "Signed addition models",
+      "i_can_id": "CC2-ES-01-D-1E4816F9",
+      "i_can_exact_text": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward signed addition models",
+      "student_action": "Find the opposite of -7.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Find the opposite of -7.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-2-2-T02-P03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "7.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Find the opposite of -7.</p>",
+        "answer": "7.",
+        "solution": "7.",
+        "scoring_guidance": "Assess I can add signed rational numbers and explain the result with a number line or zero pairs. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.2.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-D-1E4816F9",
+      "reporting_i_can_text": "I can add signed rational numbers and explain the result with a number line or zero pairs.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Developing",
+      "scope_note": "Signed addition is partial; do not infer subtraction and multiplication/division proficiency."
+    },
+    {
+      "family_id": "CC2-AP2-2-2-3-T03-R01",
+      "teacher_question_id": "Q019",
+      "bank_item_id": "CC2-AP2-Q019",
+      "family_name": "Compare signed rational numbers — reasoning 1",
+      "family_purpose": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "category": "reasoning",
+      "cpm_lesson": "2.2.3",
+      "cpm_title": "More Addition of Integers and Rational Numbers",
+      "topic_title": "Compare signed rational numbers",
+      "i_can_id": "CC2-ES-01-F-34937C60",
+      "i_can_exact_text": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "student_action": "Order -0.7, -1/4, 0, 0.6 and explain why -0.7 is least.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Order -0.7, -1/4, 0, 0.6 and explain why -0.7 is least.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-2-3-T03-R01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "-0.7,-1/4,0,0.6; -0.7 is farthest left.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Order -0.7, -1/4, 0, 0.6 and explain why -0.7 is least.</p>",
+        "answer": "-0.7,-1/4,0,0.6; -0.7 is farthest left.",
+        "solution": "-0.7,-1/4,0,0.6; -0.7 is farthest left.",
+        "scoring_guidance": "Assess I can order positive and negative rational numbers and explain their positions on a number line. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.2.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-F-34937C60",
+      "reporting_i_can_text": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Foundation",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP2-2-2-3-T03-R02",
+      "teacher_question_id": "Q020",
+      "bank_item_id": "CC2-AP2-Q020",
+      "family_name": "Compare signed rational numbers — reasoning 2",
+      "family_purpose": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "category": "reasoning",
+      "cpm_lesson": "2.2.3",
+      "cpm_title": "More Addition of Integers and Rational Numbers",
+      "topic_title": "Compare signed rational numbers",
+      "i_can_id": "CC2-ES-01-F-34937C60",
+      "i_can_exact_text": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "student_action": "Compare -3/5 and -0.8. Explain without ignoring the negative signs.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compare -3/5 and -0.8. Explain without ignoring the negative signs.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-2-3-T03-R02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "-3/5=-0.6>-0.8 because -0.6 lies to the right.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compare -3/5 and -0.8. Explain without ignoring the negative signs.</p>",
+        "answer": "-3/5=-0.6>-0.8 because -0.6 lies to the right.",
+        "solution": "-3/5=-0.6>-0.8 because -0.6 lies to the right.",
+        "scoring_guidance": "Assess I can order positive and negative rational numbers and explain their positions on a number line. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.2.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-F-34937C60",
+      "reporting_i_can_text": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Foundation",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP2-2-2-3-T03-R03",
+      "teacher_question_id": "Q021",
+      "bank_item_id": "CC2-AP2-Q021",
+      "family_name": "Compare signed rational numbers — reasoning 3",
+      "family_purpose": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "category": "reasoning",
+      "cpm_lesson": "2.2.3",
+      "cpm_title": "More Addition of Integers and Rational Numbers",
+      "topic_title": "Compare signed rational numbers",
+      "i_can_id": "CC2-ES-01-F-34937C60",
+      "i_can_exact_text": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "student_action": "A student says -4 is greater than -2 because 4>2. Identify and correct the reasoning.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student says -4 is greater than -2 because 4&gt;2. Identify and correct the reasoning.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-2-3-T03-R03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "-4<-2; on a number line -4 lies farther left.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A student says -4 is greater than -2 because 4&gt;2. Identify and correct the reasoning.</p>",
+        "answer": "-4<-2; on a number line -4 lies farther left.",
+        "solution": "-4<-2; on a number line -4 lies farther left.",
+        "scoring_guidance": "Assess I can order positive and negative rational numbers and explain their positions on a number line. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.2.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-F-34937C60",
+      "reporting_i_can_text": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Foundation",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP2-2-2-3-T03-S01",
+      "teacher_question_id": "Q022",
+      "bank_item_id": "CC2-AP2-Q022",
+      "family_name": "Compare signed rational numbers — direct skill 1",
+      "family_purpose": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "category": "direct",
+      "cpm_lesson": "2.2.3",
+      "cpm_title": "More Addition of Integers and Rational Numbers",
+      "topic_title": "Compare signed rational numbers",
+      "i_can_id": "CC2-ES-01-F-34937C60",
+      "i_can_exact_text": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "student_action": "Which is greater: -0.35 or -0.5?",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Which is greater: -0.35 or -0.5?</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-2-3-T03-S01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "-0.35.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Which is greater: -0.35 or -0.5?</p>",
+        "answer": "-0.35.",
+        "solution": "-0.35.",
+        "scoring_guidance": "Assess I can order positive and negative rational numbers and explain their positions on a number line. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.2.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-F-34937C60",
+      "reporting_i_can_text": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Foundation",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP2-2-2-3-T03-S02",
+      "teacher_question_id": "Q023",
+      "bank_item_id": "CC2-AP2-Q023",
+      "family_name": "Compare signed rational numbers — direct skill 2",
+      "family_purpose": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "category": "direct",
+      "cpm_lesson": "2.2.3",
+      "cpm_title": "More Addition of Integers and Rational Numbers",
+      "topic_title": "Compare signed rational numbers",
+      "i_can_id": "CC2-ES-01-F-34937C60",
+      "i_can_exact_text": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "student_action": "Write the opposite of 3/4.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Write the opposite of 3/4.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-2-3-T03-S02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "-3/4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Write the opposite of 3/4.</p>",
+        "answer": "-3/4.",
+        "solution": "-3/4.",
+        "scoring_guidance": "Assess I can order positive and negative rational numbers and explain their positions on a number line. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.2.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-F-34937C60",
+      "reporting_i_can_text": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Foundation",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP2-2-2-3-T03-S03",
+      "teacher_question_id": "Q024",
+      "bank_item_id": "CC2-AP2-Q024",
+      "family_name": "Compare signed rational numbers — direct skill 3",
+      "family_purpose": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "category": "direct",
+      "cpm_lesson": "2.2.3",
+      "cpm_title": "More Addition of Integers and Rational Numbers",
+      "topic_title": "Compare signed rational numbers",
+      "i_can_id": "CC2-ES-01-F-34937C60",
+      "i_can_exact_text": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "student_action": "Order -2, 1/2, -1/2.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Order -2, 1/2, -1/2.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-2-3-T03-S03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "-2,-1/2,1/2.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Order -2, 1/2, -1/2.</p>",
+        "answer": "-2,-1/2,1/2.",
+        "solution": "-2,-1/2,1/2.",
+        "scoring_guidance": "Assess I can order positive and negative rational numbers and explain their positions on a number line. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.2.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-F-34937C60",
+      "reporting_i_can_text": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Foundation",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP2-2-2-3-T03-P01",
+      "teacher_question_id": "Q025",
+      "bank_item_id": "CC2-AP2-Q025",
+      "family_name": "Compare signed rational numbers — review & preview 1",
+      "family_purpose": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "category": "spiral",
+      "cpm_lesson": "2.2.3",
+      "cpm_title": "More Addition of Integers and Rational Numbers",
+      "topic_title": "Compare signed rational numbers",
+      "i_can_id": "CC2-ES-01-F-34937C60",
+      "i_can_exact_text": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward compare signed rational numbers",
+      "student_action": "Compute -3+5.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute -3+5.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-2-3-T03-P01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "2.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute -3+5.</p>",
+        "answer": "2.",
+        "solution": "2.",
+        "scoring_guidance": "Assess I can order positive and negative rational numbers and explain their positions on a number line. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.2.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-F-34937C60",
+      "reporting_i_can_text": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Foundation",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP2-2-2-3-T03-P02",
+      "teacher_question_id": "Q026",
+      "bank_item_id": "CC2-AP2-Q026",
+      "family_name": "Compare signed rational numbers — review & preview 2",
+      "family_purpose": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "category": "spiral",
+      "cpm_lesson": "2.2.3",
+      "cpm_title": "More Addition of Integers and Rational Numbers",
+      "topic_title": "Compare signed rational numbers",
+      "i_can_id": "CC2-ES-01-F-34937C60",
+      "i_can_exact_text": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward compare signed rational numbers",
+      "student_action": "Convert 1/4 to decimal.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Convert 1/4 to decimal.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-2-3-T03-P02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "0.25.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Convert 1/4 to decimal.</p>",
+        "answer": "0.25.",
+        "solution": "0.25.",
+        "scoring_guidance": "Assess I can order positive and negative rational numbers and explain their positions on a number line. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.2.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-F-34937C60",
+      "reporting_i_can_text": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Foundation",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP2-2-2-3-T03-P03",
+      "teacher_question_id": "Q027",
+      "bank_item_id": "CC2-AP2-Q027",
+      "family_name": "Compare signed rational numbers — review & preview 3",
+      "family_purpose": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "category": "spiral",
+      "cpm_lesson": "2.2.3",
+      "cpm_title": "More Addition of Integers and Rational Numbers",
+      "topic_title": "Compare signed rational numbers",
+      "i_can_id": "CC2-ES-01-F-34937C60",
+      "i_can_exact_text": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward compare signed rational numbers",
+      "student_action": "Compare 0.4 and 2/5.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compare 0.4 and 2/5.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-2-3-T03-P03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "Equal.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compare 0.4 and 2/5.</p>",
+        "answer": "Equal.",
+        "solution": "Equal.",
+        "scoring_guidance": "Assess I can order positive and negative rational numbers and explain their positions on a number line. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.2.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-F-34937C60",
+      "reporting_i_can_text": "I can order positive and negative rational numbers and explain their positions on a number line.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Foundation",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP2-2-2-6-T04-R01",
+      "teacher_question_id": "Q028",
+      "bank_item_id": "CC2-AP2-Q028",
+      "family_name": "Fraction and mixed-number products — reasoning 1",
+      "family_purpose": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "category": "reasoning",
+      "cpm_lesson": "2.2.6",
+      "cpm_title": "Multiplying Mixed Numbers",
+      "topic_title": "Fraction and mixed-number products",
+      "i_can_id": "CC2-ES-01-PRE-A87319BB",
+      "i_can_exact_text": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "student_action": "Explain with an area or partition model why 2/3 × 3/4 = 1/2.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Explain with an area or partition model why 2/3 × 3/4 = 1/2.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-2-6-T04-R01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "Six of twelve equal parts shaded by overlap, or 6/12=1/2.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Explain with an area or partition model why 2/3 × 3/4 = 1/2.</p>",
+        "answer": "Six of twelve equal parts shaded by overlap, or 6/12=1/2.",
+        "solution": "Six of twelve equal parts shaded by overlap, or 6/12=1/2.",
+        "scoring_guidance": "Assess I can multiply positive fractions or mixed numbers and explain the grouping. (evidence: READINESS). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.2.6",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRE-A87319BB",
+      "reporting_i_can_text": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "READINESS",
+      "ladder_rung": "Prerequisite",
+      "scope_note": "Unsigned multiplication is readiness for later full signed rational operations."
+    },
+    {
+      "family_id": "CC2-AP2-2-2-6-T04-R02",
+      "teacher_question_id": "Q029",
+      "bank_item_id": "CC2-AP2-Q029",
+      "family_name": "Fraction and mixed-number products — reasoning 2",
+      "family_purpose": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "category": "reasoning",
+      "cpm_lesson": "2.2.6",
+      "cpm_title": "Multiplying Mixed Numbers",
+      "topic_title": "Fraction and mixed-number products",
+      "i_can_id": "CC2-ES-01-PRE-A87319BB",
+      "i_can_exact_text": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "student_action": "A recipe uses 1 1/2 cups per batch. Explain the amount for 2 1/3 batches.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A recipe uses 1 1/2 cups per batch. Explain the amount for 2 1/3 batches.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-2-6-T04-R02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "3/2×7/3=7/2=3 1/2 cups.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A recipe uses 1 1/2 cups per batch. Explain the amount for 2 1/3 batches.</p>",
+        "answer": "3/2×7/3=7/2=3 1/2 cups.",
+        "solution": "3/2×7/3=7/2=3 1/2 cups.",
+        "scoring_guidance": "Assess I can multiply positive fractions or mixed numbers and explain the grouping. (evidence: READINESS). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.2.6",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRE-A87319BB",
+      "reporting_i_can_text": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "READINESS",
+      "ladder_rung": "Prerequisite",
+      "scope_note": "Unsigned multiplication is readiness for later full signed rational operations."
+    },
+    {
+      "family_id": "CC2-AP2-2-2-6-T04-R03",
+      "teacher_question_id": "Q030",
+      "bank_item_id": "CC2-AP2-Q030",
+      "family_name": "Fraction and mixed-number products — reasoning 3",
+      "family_purpose": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "category": "reasoning",
+      "cpm_lesson": "2.2.6",
+      "cpm_title": "Multiplying Mixed Numbers",
+      "topic_title": "Fraction and mixed-number products",
+      "i_can_id": "CC2-ES-01-PRE-A87319BB",
+      "i_can_exact_text": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "student_action": "A student multiplies 2/3 by 3/5 and gets 6/8. Identify the denominator mistake.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student multiplies 2/3 by 3/5 and gets 6/8. Identify the denominator mistake.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-2-6-T04-R03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "Multiply denominators too: 2×3/(3×5)=6/15=2/5.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A student multiplies 2/3 by 3/5 and gets 6/8. Identify the denominator mistake.</p>",
+        "answer": "Multiply denominators too: 2×3/(3×5)=6/15=2/5.",
+        "solution": "Multiply denominators too: 2×3/(3×5)=6/15=2/5.",
+        "scoring_guidance": "Assess I can multiply positive fractions or mixed numbers and explain the grouping. (evidence: READINESS). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.2.6",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRE-A87319BB",
+      "reporting_i_can_text": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "READINESS",
+      "ladder_rung": "Prerequisite",
+      "scope_note": "Unsigned multiplication is readiness for later full signed rational operations."
+    },
+    {
+      "family_id": "CC2-AP2-2-2-6-T04-S01",
+      "teacher_question_id": "Q031",
+      "bank_item_id": "CC2-AP2-Q031",
+      "family_name": "Fraction and mixed-number products — direct skill 1",
+      "family_purpose": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "category": "direct",
+      "cpm_lesson": "2.2.6",
+      "cpm_title": "Multiplying Mixed Numbers",
+      "topic_title": "Fraction and mixed-number products",
+      "i_can_id": "CC2-ES-01-PRE-A87319BB",
+      "i_can_exact_text": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "student_action": "Compute 2/5 × 3/4.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute 2/5 × 3/4.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-2-6-T04-S01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "3/10.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute 2/5 × 3/4.</p>",
+        "answer": "3/10.",
+        "solution": "3/10.",
+        "scoring_guidance": "Assess I can multiply positive fractions or mixed numbers and explain the grouping. (evidence: READINESS). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.2.6",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRE-A87319BB",
+      "reporting_i_can_text": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "READINESS",
+      "ladder_rung": "Prerequisite",
+      "scope_note": "Unsigned multiplication is readiness for later full signed rational operations."
+    },
+    {
+      "family_id": "CC2-AP2-2-2-6-T04-S02",
+      "teacher_question_id": "Q032",
+      "bank_item_id": "CC2-AP2-Q032",
+      "family_name": "Fraction and mixed-number products — direct skill 2",
+      "family_purpose": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "category": "direct",
+      "cpm_lesson": "2.2.6",
+      "cpm_title": "Multiplying Mixed Numbers",
+      "topic_title": "Fraction and mixed-number products",
+      "i_can_id": "CC2-ES-01-PRE-A87319BB",
+      "i_can_exact_text": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "student_action": "Compute 1 1/2 × 2/3.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute 1 1/2 × 2/3.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-2-6-T04-S02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "1.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute 1 1/2 × 2/3.</p>",
+        "answer": "1.",
+        "solution": "1.",
+        "scoring_guidance": "Assess I can multiply positive fractions or mixed numbers and explain the grouping. (evidence: READINESS). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.2.6",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRE-A87319BB",
+      "reporting_i_can_text": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "READINESS",
+      "ladder_rung": "Prerequisite",
+      "scope_note": "Unsigned multiplication is readiness for later full signed rational operations."
+    },
+    {
+      "family_id": "CC2-AP2-2-2-6-T04-S03",
+      "teacher_question_id": "Q033",
+      "bank_item_id": "CC2-AP2-Q033",
+      "family_name": "Fraction and mixed-number products — direct skill 3",
+      "family_purpose": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "category": "direct",
+      "cpm_lesson": "2.2.6",
+      "cpm_title": "Multiplying Mixed Numbers",
+      "topic_title": "Fraction and mixed-number products",
+      "i_can_id": "CC2-ES-01-PRE-A87319BB",
+      "i_can_exact_text": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "student_action": "Compute 3/8 × 4.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute 3/8 × 4.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-2-6-T04-S03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "1 1/2.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute 3/8 × 4.</p>",
+        "answer": "1 1/2.",
+        "solution": "1 1/2.",
+        "scoring_guidance": "Assess I can multiply positive fractions or mixed numbers and explain the grouping. (evidence: READINESS). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.2.6",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRE-A87319BB",
+      "reporting_i_can_text": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "READINESS",
+      "ladder_rung": "Prerequisite",
+      "scope_note": "Unsigned multiplication is readiness for later full signed rational operations."
+    },
+    {
+      "family_id": "CC2-AP2-2-2-6-T04-P01",
+      "teacher_question_id": "Q034",
+      "bank_item_id": "CC2-AP2-Q034",
+      "family_name": "Fraction and mixed-number products — review & preview 1",
+      "family_purpose": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "category": "spiral",
+      "cpm_lesson": "2.2.6",
+      "cpm_title": "Multiplying Mixed Numbers",
+      "topic_title": "Fraction and mixed-number products",
+      "i_can_id": "CC2-ES-01-PRE-A87319BB",
+      "i_can_exact_text": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward fraction and mixed-number products",
+      "student_action": "Write 1 1/4 as an improper fraction.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Write 1 1/4 as an improper fraction.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-2-6-T04-P01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "5/4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Write 1 1/4 as an improper fraction.</p>",
+        "answer": "5/4.",
+        "solution": "5/4.",
+        "scoring_guidance": "Assess I can multiply positive fractions or mixed numbers and explain the grouping. (evidence: READINESS). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.2.6",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRE-A87319BB",
+      "reporting_i_can_text": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "READINESS",
+      "ladder_rung": "Prerequisite",
+      "scope_note": "Unsigned multiplication is readiness for later full signed rational operations."
+    },
+    {
+      "family_id": "CC2-AP2-2-2-6-T04-P02",
+      "teacher_question_id": "Q035",
+      "bank_item_id": "CC2-AP2-Q035",
+      "family_name": "Fraction and mixed-number products — review & preview 2",
+      "family_purpose": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "category": "spiral",
+      "cpm_lesson": "2.2.6",
+      "cpm_title": "Multiplying Mixed Numbers",
+      "topic_title": "Fraction and mixed-number products",
+      "i_can_id": "CC2-ES-01-PRE-A87319BB",
+      "i_can_exact_text": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward fraction and mixed-number products",
+      "student_action": "Compute 1/2 + 1/4.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute 1/2 + 1/4.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-2-6-T04-P02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "3/4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute 1/2 + 1/4.</p>",
+        "answer": "3/4.",
+        "solution": "3/4.",
+        "scoring_guidance": "Assess I can multiply positive fractions or mixed numbers and explain the grouping. (evidence: READINESS). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.2.6",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRE-A87319BB",
+      "reporting_i_can_text": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "READINESS",
+      "ladder_rung": "Prerequisite",
+      "scope_note": "Unsigned multiplication is readiness for later full signed rational operations."
+    },
+    {
+      "family_id": "CC2-AP2-2-2-6-T04-P03",
+      "teacher_question_id": "Q036",
+      "bank_item_id": "CC2-AP2-Q036",
+      "family_name": "Fraction and mixed-number products — review & preview 3",
+      "family_purpose": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "category": "spiral",
+      "cpm_lesson": "2.2.6",
+      "cpm_title": "Multiplying Mixed Numbers",
+      "topic_title": "Fraction and mixed-number products",
+      "i_can_id": "CC2-ES-01-PRE-A87319BB",
+      "i_can_exact_text": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward fraction and mixed-number products",
+      "student_action": "Simplify 8/12.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Simplify 8/12.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-2-6-T04-P03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "2/3.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Simplify 8/12.</p>",
+        "answer": "2/3.",
+        "solution": "2/3.",
+        "scoring_guidance": "Assess I can multiply positive fractions or mixed numbers and explain the grouping. (evidence: READINESS). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.2.6",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRE-A87319BB",
+      "reporting_i_can_text": "I can multiply positive fractions or mixed numbers and explain the grouping.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "READINESS",
+      "ladder_rung": "Prerequisite",
+      "scope_note": "Unsigned multiplication is readiness for later full signed rational operations."
+    },
+    {
+      "family_id": "CC2-AP2-2-3-2-T05-R01",
+      "teacher_question_id": "Q037",
+      "bank_item_id": "CC2-AP2-Q037",
+      "family_name": "Plot data with scales — reasoning 1",
+      "family_purpose": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "category": "reasoning",
+      "cpm_lesson": "2.3.2",
+      "cpm_title": "More Graph Scaling",
+      "topic_title": "Plot data with scales",
+      "i_can_id": "CC2-ES-03-F-F50CD88C",
+      "i_can_exact_text": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "learning_goal_id": "CC2-ES-03",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "student_action": "A table pairs time 0,2,4 hours with distance 0,10,20 miles. Choose and justify axis labels and scales, then plot the points.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A table pairs time 0,2,4 hours with distance 0,10,20 miles. Choose and justify axis labels and scales, then plot the points.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-3-2-T05-R01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "x=time (hours), e.g. 0,1,2,3,4; y=distance (miles), e.g. 0,5,10,15,20. Plot (0,0),(2,10),(4,20).",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A table pairs time 0,2,4 hours with distance 0,10,20 miles. Choose and justify axis labels and scales, then plot the points.</p>",
+        "answer": "x=time (hours), e.g. 0,1,2,3,4; y=distance (miles), e.g. 0,5,10,15,20. Plot (0,0),(2,10),(4,20).",
+        "solution": "x=time (hours), e.g. 0,1,2,3,4; y=distance (miles), e.g. 0,5,10,15,20. Plot (0,0),(2,10),(4,20).",
+        "scoring_guidance": "Assess I can plot ordered pairs from a table using sensible axes and scale labels. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.3.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-03-F-F50CD88C",
+      "reporting_i_can_text": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Foundation",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP2-2-3-2-T05-R02",
+      "teacher_question_id": "Q038",
+      "bank_item_id": "CC2-AP2-Q038",
+      "family_name": "Plot data with scales — reasoning 2",
+      "family_purpose": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "category": "reasoning",
+      "cpm_lesson": "2.3.2",
+      "cpm_title": "More Graph Scaling",
+      "topic_title": "Plot data with scales",
+      "i_can_id": "CC2-ES-03-F-F50CD88C",
+      "i_can_exact_text": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "learning_goal_id": "CC2-ES-03",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "student_action": "A graph has y-values 0,25,50,75. Explain why marking every tick as 1 would be misleading without enough space.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A graph has y-values 0,25,50,75. Explain why marking every tick as 1 would be misleading without enough space.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-3-2-T05-R02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "Use a constant scale such as increments of 25; axes must show values clearly.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A graph has y-values 0,25,50,75. Explain why marking every tick as 1 would be misleading without enough space.</p>",
+        "answer": "Use a constant scale such as increments of 25; axes must show values clearly.",
+        "solution": "Use a constant scale such as increments of 25; axes must show values clearly.",
+        "scoring_guidance": "Assess I can plot ordered pairs from a table using sensible axes and scale labels. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.3.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-03-F-F50CD88C",
+      "reporting_i_can_text": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Foundation",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP2-2-3-2-T05-R03",
+      "teacher_question_id": "Q039",
+      "bank_item_id": "CC2-AP2-Q039",
+      "family_name": "Plot data with scales — reasoning 3",
+      "family_purpose": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "category": "reasoning",
+      "cpm_lesson": "2.3.2",
+      "cpm_title": "More Graph Scaling",
+      "topic_title": "Plot data with scales",
+      "i_can_id": "CC2-ES-03-F-F50CD88C",
+      "i_can_exact_text": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "learning_goal_id": "CC2-ES-03",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "student_action": "A student plots (3,8) by moving up 3 and right 8. Explain the coordinate error.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student plots (3,8) by moving up 3 and right 8. Explain the coordinate error.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-3-2-T05-R03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "Move right 3 (x), up 8 (y).",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A student plots (3,8) by moving up 3 and right 8. Explain the coordinate error.</p>",
+        "answer": "Move right 3 (x), up 8 (y).",
+        "solution": "Move right 3 (x), up 8 (y).",
+        "scoring_guidance": "Assess I can plot ordered pairs from a table using sensible axes and scale labels. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.3.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-03-F-F50CD88C",
+      "reporting_i_can_text": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Foundation",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP2-2-3-2-T05-S01",
+      "teacher_question_id": "Q040",
+      "bank_item_id": "CC2-AP2-Q040",
+      "family_name": "Plot data with scales — direct skill 1",
+      "family_purpose": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "category": "direct",
+      "cpm_lesson": "2.3.2",
+      "cpm_title": "More Graph Scaling",
+      "topic_title": "Plot data with scales",
+      "i_can_id": "CC2-ES-03-F-F50CD88C",
+      "i_can_exact_text": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "learning_goal_id": "CC2-ES-03",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "student_action": "Plot (1,4), (2,8), (3,12) with x=number of tickets and y=dollars. State one useful y-axis increment.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Plot (1,4), (2,8), (3,12) with x=number of tickets and y=dollars. State one useful y-axis increment.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-3-2-T05-S01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "4 dollars per tick works; points as given.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Plot (1,4), (2,8), (3,12) with x=number of tickets and y=dollars. State one useful y-axis increment.</p>",
+        "answer": "4 dollars per tick works; points as given.",
+        "solution": "4 dollars per tick works; points as given.",
+        "scoring_guidance": "Assess I can plot ordered pairs from a table using sensible axes and scale labels. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.3.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-03-F-F50CD88C",
+      "reporting_i_can_text": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Foundation",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP2-2-3-2-T05-S02",
+      "teacher_question_id": "Q041",
+      "bank_item_id": "CC2-AP2-Q041",
+      "family_name": "Plot data with scales — direct skill 2",
+      "family_purpose": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "category": "direct",
+      "cpm_lesson": "2.3.2",
+      "cpm_title": "More Graph Scaling",
+      "topic_title": "Plot data with scales",
+      "i_can_id": "CC2-ES-03-F-F50CD88C",
+      "i_can_exact_text": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "learning_goal_id": "CC2-ES-03",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "student_action": "Which axis represents the independent variable in (hours, miles)?",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Which axis represents the independent variable in (hours, miles)?</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-3-2-T05-S02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "Horizontal x-axis (hours).",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Which axis represents the independent variable in (hours, miles)?</p>",
+        "answer": "Horizontal x-axis (hours).",
+        "solution": "Horizontal x-axis (hours).",
+        "scoring_guidance": "Assess I can plot ordered pairs from a table using sensible axes and scale labels. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.3.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-03-F-F50CD88C",
+      "reporting_i_can_text": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Foundation",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP2-2-3-2-T05-S03",
+      "teacher_question_id": "Q042",
+      "bank_item_id": "CC2-AP2-Q042",
+      "family_name": "Plot data with scales — direct skill 3",
+      "family_purpose": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "category": "direct",
+      "cpm_lesson": "2.3.2",
+      "cpm_title": "More Graph Scaling",
+      "topic_title": "Plot data with scales",
+      "i_can_id": "CC2-ES-03-F-F50CD88C",
+      "i_can_exact_text": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "learning_goal_id": "CC2-ES-03",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "student_action": "The points (0,0),(5,20),(10,40) must fit. Give a sensible x- and y-axis maximum.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>The points (0,0),(5,20),(10,40) must fit. Give a sensible x- and y-axis maximum.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-3-2-T05-S03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "At least 10 on x and 40 on y, with uniform increments.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>The points (0,0),(5,20),(10,40) must fit. Give a sensible x- and y-axis maximum.</p>",
+        "answer": "At least 10 on x and 40 on y, with uniform increments.",
+        "solution": "At least 10 on x and 40 on y, with uniform increments.",
+        "scoring_guidance": "Assess I can plot ordered pairs from a table using sensible axes and scale labels. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.3.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-03-F-F50CD88C",
+      "reporting_i_can_text": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Foundation",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP2-2-3-2-T05-P01",
+      "teacher_question_id": "Q043",
+      "bank_item_id": "CC2-AP2-Q043",
+      "family_name": "Plot data with scales — review & preview 1",
+      "family_purpose": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "category": "spiral",
+      "cpm_lesson": "2.3.2",
+      "cpm_title": "More Graph Scaling",
+      "topic_title": "Plot data with scales",
+      "i_can_id": "CC2-ES-03-F-F50CD88C",
+      "i_can_exact_text": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "learning_goal_id": "CC2-ES-03",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward plot data with scales",
+      "student_action": "State the coordinates of a point 2 right and 5 up from origin.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>State the coordinates of a point 2 right and 5 up from origin.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-3-2-T05-P01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "(2,5).",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>State the coordinates of a point 2 right and 5 up from origin.</p>",
+        "answer": "(2,5).",
+        "solution": "(2,5).",
+        "scoring_guidance": "Assess I can plot ordered pairs from a table using sensible axes and scale labels. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.3.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-03-F-F50CD88C",
+      "reporting_i_can_text": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Foundation",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP2-2-3-2-T05-P02",
+      "teacher_question_id": "Q044",
+      "bank_item_id": "CC2-AP2-Q044",
+      "family_name": "Plot data with scales — review & preview 2",
+      "family_purpose": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "category": "spiral",
+      "cpm_lesson": "2.3.2",
+      "cpm_title": "More Graph Scaling",
+      "topic_title": "Plot data with scales",
+      "i_can_id": "CC2-ES-03-F-F50CD88C",
+      "i_can_exact_text": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "learning_goal_id": "CC2-ES-03",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward plot data with scales",
+      "student_action": "Find 3 × 7.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Find 3 × 7.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-3-2-T05-P02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "21.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Find 3 × 7.</p>",
+        "answer": "21.",
+        "solution": "21.",
+        "scoring_guidance": "Assess I can plot ordered pairs from a table using sensible axes and scale labels. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.3.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-03-F-F50CD88C",
+      "reporting_i_can_text": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Foundation",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP2-2-3-2-T05-P03",
+      "teacher_question_id": "Q045",
+      "bank_item_id": "CC2-AP2-Q045",
+      "family_name": "Plot data with scales — review & preview 3",
+      "family_purpose": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "category": "spiral",
+      "cpm_lesson": "2.3.2",
+      "cpm_title": "More Graph Scaling",
+      "topic_title": "Plot data with scales",
+      "i_can_id": "CC2-ES-03-F-F50CD88C",
+      "i_can_exact_text": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "learning_goal_id": "CC2-ES-03",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward plot data with scales",
+      "student_action": "Complete 4:6=8:__.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Complete 4:6=8:__.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP2-2-3-2-T05-P03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "12.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Complete 4:6=8:__.</p>",
+        "answer": "12.",
+        "solution": "12.",
+        "scoring_guidance": "Assess I can plot ordered pairs from a table using sensible axes and scale labels. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "2.3.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-03-F-F50CD88C",
+      "reporting_i_can_text": "I can plot ordered pairs from a table using sensible axes and scale labels.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Foundation",
+      "scope_note": ""
+    }
+  ],
+  "review_summary": {
+    "question_families": 45,
+    "reasoning": 15,
+    "direct": 15,
+    "spiral": 15
+  },
+  "reporting_contract": "cc2-essential-standards/v1",
+  "pilot_policy": {
+    "operational": true,
+    "teacher_review_required_before_use": false,
+    "per_question_teacher_approved": false,
+    "actual_approval_state": "not individually reviewed by teacher",
+    "feedback_strategy": "Update stable canonical family when teacher flags an issue; preserve IDs."
+  }
+}

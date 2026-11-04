@@ -1,0 +1,3708 @@
+{
+  "schema": "cpm-family-bank-plan/v1",
+  "course": "Core Connections Course 2",
+  "assessment_plan": "AP6",
+  "chapter": 6,
+  "plan_title": "Solving Inequalities and Equations",
+  "essential_standard": "Chapter assessment evidence targets from CC2 Learning Ladders and assessment plan",
+  "bank_status": "PILOT_BASELINE_ACTIVE",
+  "source_crosswalk": "assessment_plans/CC2_AP6_ASSESSMENT_PLAN.json",
+  "source_authority": "Current CC2 Chapter Unit Plans; ladder-aligned assessment evidence; mirrored lesson sequence",
+  "family_policy": {
+    "per_i_can": {
+      "reasoning": 3,
+      "direct": 3,
+      "spiral": 3
+    },
+    "approval_gate": "Teacher-directed pilot baseline: questions available now; corrections made when flagged.",
+    "runtime_variation": "Only authored exemplars are included; generated variants need independent mathematical verification.",
+    "review_preview": "Three concise spiral / prerequisite review families per I Can. No source textbook problem text copied.",
+    "visual_rule": "Use registered CPM Tools graph renderer if a supplied graph is necessary; prompts here ask students to draw themselves."
+  },
+  "sections": [
+    {
+      "section": "6.1.4",
+      "title": "Solving One Variable Inequalities",
+      "topic_title": "Two-step inequalities and graphs",
+      "learning_target": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "cpm_lesson": "6.1.4",
+      "ap_section": 6,
+      "i_cans": [
+        {
+          "id": "CC2-ES-04-D-5EB2A4F2",
+          "text": "I can solve a two-step inequality, graph its solution set, and test a value.",
+          "family_ids": [
+            "CC2-AP6-6-1-4-T01-R01",
+            "CC2-AP6-6-1-4-T01-R02",
+            "CC2-AP6-6-1-4-T01-R03",
+            "CC2-AP6-6-1-4-T01-S01",
+            "CC2-AP6-6-1-4-T01-S02",
+            "CC2-AP6-6-1-4-T01-S03",
+            "CC2-AP6-6-1-4-T01-P01",
+            "CC2-AP6-6-1-4-T01-P02",
+            "CC2-AP6-6-1-4-T01-P03"
+          ],
+          "cpm_lesson": "6.1.4",
+          "cpm_title": "Solving One Variable Inequalities",
+          "topic_title": "Two-step inequalities and graphs",
+          "learning_goal_id": "CC2-ES-04",
+          "reporting_i_can_text": "I can solve a two-step inequality, graph its solution set, and test a value.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+          "scope_note": ""
+        }
+      ],
+      "reporting_i_can_id": "CC2-ES-04-D-5EB2A4F2",
+      "reporting_i_can_text": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "learning_goal_id": "CC2-ES-04"
+    },
+    {
+      "section": "6.2.3",
+      "title": "Solving Equations and Recording Work",
+      "topic_title": "Two-step equations and checks",
+      "learning_target": "I can solve a two-step equation and verify my solution by substitution.",
+      "cpm_lesson": "6.2.3",
+      "ap_section": 6,
+      "i_cans": [
+        {
+          "id": "CC2-ES-04-D-4D553FCF",
+          "text": "I can solve a two-step equation and verify my solution by substitution.",
+          "family_ids": [
+            "CC2-AP6-6-2-3-T02-R01",
+            "CC2-AP6-6-2-3-T02-R02",
+            "CC2-AP6-6-2-3-T02-R03",
+            "CC2-AP6-6-2-3-T02-S01",
+            "CC2-AP6-6-2-3-T02-S02",
+            "CC2-AP6-6-2-3-T02-S03",
+            "CC2-AP6-6-2-3-T02-P01",
+            "CC2-AP6-6-2-3-T02-P02",
+            "CC2-AP6-6-2-3-T02-P03"
+          ],
+          "cpm_lesson": "6.2.3",
+          "cpm_title": "Solving Equations and Recording Work",
+          "topic_title": "Two-step equations and checks",
+          "learning_goal_id": "CC2-ES-04",
+          "reporting_i_can_text": "I can solve a two-step equation and verify my solution by substitution.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+          "scope_note": ""
+        }
+      ],
+      "reporting_i_can_id": "CC2-ES-04-D-4D553FCF",
+      "reporting_i_can_text": "I can solve a two-step equation and verify my solution by substitution.",
+      "learning_goal_id": "CC2-ES-04"
+    },
+    {
+      "section": "6.2.6",
+      "title": "Cases With Infinite or No Solutions",
+      "topic_title": "One/no/all solution cases",
+      "learning_target": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "cpm_lesson": "6.2.6",
+      "ap_section": 6,
+      "i_cans": [
+        {
+          "id": "CC2-ES-04-D-AABB6CCE",
+          "text": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+          "family_ids": [
+            "CC2-AP6-6-2-6-T03-R01",
+            "CC2-AP6-6-2-6-T03-R02",
+            "CC2-AP6-6-2-6-T03-R03",
+            "CC2-AP6-6-2-6-T03-S01",
+            "CC2-AP6-6-2-6-T03-S02",
+            "CC2-AP6-6-2-6-T03-S03",
+            "CC2-AP6-6-2-6-T03-P01",
+            "CC2-AP6-6-2-6-T03-P02",
+            "CC2-AP6-6-2-6-T03-P03"
+          ],
+          "cpm_lesson": "6.2.6",
+          "cpm_title": "Cases With Infinite or No Solutions",
+          "topic_title": "One/no/all solution cases",
+          "learning_goal_id": "CC2-ES-04",
+          "reporting_i_can_text": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "FIRST_CHECK",
+          "scope_note": ""
+        }
+      ],
+      "reporting_i_can_id": "CC2-ES-04-D-AABB6CCE",
+      "reporting_i_can_text": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "learning_goal_id": "CC2-ES-04"
+    },
+    {
+      "section": "6.2.7",
+      "title": "Choosing A Solving Strategy",
+      "topic_title": "Multistep solving and justification",
+      "learning_target": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "cpm_lesson": "6.2.7",
+      "ap_section": 6,
+      "i_cans": [
+        {
+          "id": "CC2-ES-04-PRO-5992B610",
+          "text": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+          "family_ids": [
+            "CC2-AP6-6-2-7-T04-R01",
+            "CC2-AP6-6-2-7-T04-R02",
+            "CC2-AP6-6-2-7-T04-R03",
+            "CC2-AP6-6-2-7-T04-S01",
+            "CC2-AP6-6-2-7-T04-S02",
+            "CC2-AP6-6-2-7-T04-S03",
+            "CC2-AP6-6-2-7-T04-P01",
+            "CC2-AP6-6-2-7-T04-P02",
+            "CC2-AP6-6-2-7-T04-P03"
+          ],
+          "cpm_lesson": "6.2.7",
+          "cpm_title": "Choosing A Solving Strategy",
+          "topic_title": "Multistep solving and justification",
+          "learning_goal_id": "CC2-ES-04",
+          "reporting_i_can_text": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+          "ladder_rung": "Proficient",
+          "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+          "scope_note": "Paired evidence must include both an independent equation and inequality after feedback."
+        },
+        {
+          "id": "CC2-ES-04-PRO-0C994045",
+          "text": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+          "family_ids": [
+            "CC2-AP6-6-2-7-T05-R01",
+            "CC2-AP6-6-2-7-T05-R02",
+            "CC2-AP6-6-2-7-T05-R03",
+            "CC2-AP6-6-2-7-T05-S01",
+            "CC2-AP6-6-2-7-T05-S02",
+            "CC2-AP6-6-2-7-T05-S03",
+            "CC2-AP6-6-2-7-T05-P01",
+            "CC2-AP6-6-2-7-T05-P02",
+            "CC2-AP6-6-2-7-T05-P03"
+          ],
+          "cpm_lesson": "6.2.7",
+          "cpm_title": "Choosing A Solving Strategy",
+          "topic_title": "Model equations and inequalities",
+          "learning_goal_id": "CC2-ES-04",
+          "reporting_i_can_text": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+          "ladder_rung": "Proficient",
+          "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+          "scope_note": "Both contextual equation and inequality, graph/test and interpretation together are needed for full Proficient evidence."
+        }
+      ],
+      "reporting_i_can_id": "CC2-ES-04-PRO-5992B610",
+      "reporting_i_can_text": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "learning_goal_id": "CC2-ES-04"
+    }
+  ],
+  "mastery_goals": [
+    {
+      "id": "CC2-ES-04",
+      "title": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "mastery_goal": "I can solve a two-step inequality, graph its solution set, and test a value. I can solve a two-step equation and verify my solution by substitution. I can tell whether an equation has one solution, no solution, or all numbers as solutions. I can independently solve multistep equations and inequalities, explaining equivalent steps. I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "i_cans": [
+        {
+          "id": "CC2-ES-04-D-5EB2A4F2",
+          "text": "I can solve a two-step inequality, graph its solution set, and test a value.",
+          "family_ids": [
+            "CC2-AP6-6-1-4-T01-R01",
+            "CC2-AP6-6-1-4-T01-R02",
+            "CC2-AP6-6-1-4-T01-R03",
+            "CC2-AP6-6-1-4-T01-S01",
+            "CC2-AP6-6-1-4-T01-S02",
+            "CC2-AP6-6-1-4-T01-S03",
+            "CC2-AP6-6-1-4-T01-P01",
+            "CC2-AP6-6-1-4-T01-P02",
+            "CC2-AP6-6-1-4-T01-P03"
+          ],
+          "cpm_lesson": "6.1.4",
+          "cpm_title": "Solving One Variable Inequalities",
+          "topic_title": "Two-step inequalities and graphs",
+          "learning_goal_id": "CC2-ES-04",
+          "reporting_i_can_text": "I can solve a two-step inequality, graph its solution set, and test a value.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+          "scope_note": ""
+        },
+        {
+          "id": "CC2-ES-04-D-4D553FCF",
+          "text": "I can solve a two-step equation and verify my solution by substitution.",
+          "family_ids": [
+            "CC2-AP6-6-2-3-T02-R01",
+            "CC2-AP6-6-2-3-T02-R02",
+            "CC2-AP6-6-2-3-T02-R03",
+            "CC2-AP6-6-2-3-T02-S01",
+            "CC2-AP6-6-2-3-T02-S02",
+            "CC2-AP6-6-2-3-T02-S03",
+            "CC2-AP6-6-2-3-T02-P01",
+            "CC2-AP6-6-2-3-T02-P02",
+            "CC2-AP6-6-2-3-T02-P03"
+          ],
+          "cpm_lesson": "6.2.3",
+          "cpm_title": "Solving Equations and Recording Work",
+          "topic_title": "Two-step equations and checks",
+          "learning_goal_id": "CC2-ES-04",
+          "reporting_i_can_text": "I can solve a two-step equation and verify my solution by substitution.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+          "scope_note": ""
+        },
+        {
+          "id": "CC2-ES-04-D-AABB6CCE",
+          "text": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+          "family_ids": [
+            "CC2-AP6-6-2-6-T03-R01",
+            "CC2-AP6-6-2-6-T03-R02",
+            "CC2-AP6-6-2-6-T03-R03",
+            "CC2-AP6-6-2-6-T03-S01",
+            "CC2-AP6-6-2-6-T03-S02",
+            "CC2-AP6-6-2-6-T03-S03",
+            "CC2-AP6-6-2-6-T03-P01",
+            "CC2-AP6-6-2-6-T03-P02",
+            "CC2-AP6-6-2-6-T03-P03"
+          ],
+          "cpm_lesson": "6.2.6",
+          "cpm_title": "Cases With Infinite or No Solutions",
+          "topic_title": "One/no/all solution cases",
+          "learning_goal_id": "CC2-ES-04",
+          "reporting_i_can_text": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "FIRST_CHECK",
+          "scope_note": ""
+        },
+        {
+          "id": "CC2-ES-04-PRO-5992B610",
+          "text": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+          "family_ids": [
+            "CC2-AP6-6-2-7-T04-R01",
+            "CC2-AP6-6-2-7-T04-R02",
+            "CC2-AP6-6-2-7-T04-R03",
+            "CC2-AP6-6-2-7-T04-S01",
+            "CC2-AP6-6-2-7-T04-S02",
+            "CC2-AP6-6-2-7-T04-S03",
+            "CC2-AP6-6-2-7-T04-P01",
+            "CC2-AP6-6-2-7-T04-P02",
+            "CC2-AP6-6-2-7-T04-P03"
+          ],
+          "cpm_lesson": "6.2.7",
+          "cpm_title": "Choosing A Solving Strategy",
+          "topic_title": "Multistep solving and justification",
+          "learning_goal_id": "CC2-ES-04",
+          "reporting_i_can_text": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+          "ladder_rung": "Proficient",
+          "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+          "scope_note": "Paired evidence must include both an independent equation and inequality after feedback."
+        },
+        {
+          "id": "CC2-ES-04-PRO-0C994045",
+          "text": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+          "family_ids": [
+            "CC2-AP6-6-2-7-T05-R01",
+            "CC2-AP6-6-2-7-T05-R02",
+            "CC2-AP6-6-2-7-T05-R03",
+            "CC2-AP6-6-2-7-T05-S01",
+            "CC2-AP6-6-2-7-T05-S02",
+            "CC2-AP6-6-2-7-T05-S03",
+            "CC2-AP6-6-2-7-T05-P01",
+            "CC2-AP6-6-2-7-T05-P02",
+            "CC2-AP6-6-2-7-T05-P03"
+          ],
+          "cpm_lesson": "6.2.7",
+          "cpm_title": "Choosing A Solving Strategy",
+          "topic_title": "Model equations and inequalities",
+          "learning_goal_id": "CC2-ES-04",
+          "reporting_i_can_text": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+          "ladder_rung": "Proficient",
+          "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+          "scope_note": "Both contextual equation and inequality, graph/test and interpretation together are needed for full Proficient evidence."
+        }
+      ],
+      "reporting_contract": "cc2-essential-standards/v1"
+    }
+  ],
+  "families": [
+    {
+      "family_id": "CC2-AP6-6-1-4-T01-R01",
+      "teacher_question_id": "Q001",
+      "bank_item_id": "CC2-AP6-Q001",
+      "family_name": "Two-step inequalities and graphs — reasoning 1",
+      "family_purpose": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "category": "reasoning",
+      "cpm_lesson": "6.1.4",
+      "cpm_title": "Solving One Variable Inequalities",
+      "topic_title": "Two-step inequalities and graphs",
+      "i_can_id": "CC2-ES-04-D-5EB2A4F2",
+      "i_can_exact_text": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "student_action": "Solve 3x+2>11. Explain the open endpoint and give one value that satisfies it.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Solve 3x+2&gt;11. Explain the open endpoint and give one value that satisfies it.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-1-4-T01-R01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "3x>9, x>3; open circle at 3 shaded right; x=4 works.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Solve 3x+2&gt;11. Explain the open endpoint and give one value that satisfies it.</p>",
+        "answer": "3x>9, x>3; open circle at 3 shaded right; x=4 works.",
+        "solution": "3x>9, x>3; open circle at 3 shaded right; x=4 works.",
+        "scoring_guidance": "Assess I can solve a two-step inequality, graph its solution set, and test a value. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.1.4",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-D-5EB2A4F2",
+      "reporting_i_can_text": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP6-6-1-4-T01-R02",
+      "teacher_question_id": "Q002",
+      "bank_item_id": "CC2-AP6-Q002",
+      "family_name": "Two-step inequalities and graphs — reasoning 2",
+      "family_purpose": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "category": "reasoning",
+      "cpm_lesson": "6.1.4",
+      "cpm_title": "Solving One Variable Inequalities",
+      "topic_title": "Two-step inequalities and graphs",
+      "i_can_id": "CC2-ES-04-D-5EB2A4F2",
+      "i_can_exact_text": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "student_action": "A student solves -2x+1≤9 as x≤-4. Identify the sign reversal error.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student solves -2x+1≤9 as x≤-4. Identify the sign reversal error.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-1-4-T01-R02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "-2x≤8; dividing by -2 reverses inequality: x≥-4, closed at -4, shade right.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A student solves -2x+1≤9 as x≤-4. Identify the sign reversal error.</p>",
+        "answer": "-2x≤8; dividing by -2 reverses inequality: x≥-4, closed at -4, shade right.",
+        "solution": "-2x≤8; dividing by -2 reverses inequality: x≥-4, closed at -4, shade right.",
+        "scoring_guidance": "Assess I can solve a two-step inequality, graph its solution set, and test a value. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.1.4",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-D-5EB2A4F2",
+      "reporting_i_can_text": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP6-6-1-4-T01-R03",
+      "teacher_question_id": "Q003",
+      "bank_item_id": "CC2-AP6-Q003",
+      "family_name": "Two-step inequalities and graphs — reasoning 3",
+      "family_purpose": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "category": "reasoning",
+      "cpm_lesson": "6.1.4",
+      "cpm_title": "Solving One Variable Inequalities",
+      "topic_title": "Two-step inequalities and graphs",
+      "i_can_id": "CC2-ES-04-D-5EB2A4F2",
+      "i_can_exact_text": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "student_action": "Compare solutions 2x-5<7 and 2x-5≤7. Explain the endpoint difference.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compare solutions 2x-5&lt;7 and 2x-5≤7. Explain the endpoint difference.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-1-4-T01-R03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "x<6 (open) and x≤6 (closed); both shade left.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compare solutions 2x-5&lt;7 and 2x-5≤7. Explain the endpoint difference.</p>",
+        "answer": "x<6 (open) and x≤6 (closed); both shade left.",
+        "solution": "x<6 (open) and x≤6 (closed); both shade left.",
+        "scoring_guidance": "Assess I can solve a two-step inequality, graph its solution set, and test a value. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.1.4",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-D-5EB2A4F2",
+      "reporting_i_can_text": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP6-6-1-4-T01-S01",
+      "teacher_question_id": "Q004",
+      "bank_item_id": "CC2-AP6-Q004",
+      "family_name": "Two-step inequalities and graphs — direct skill 1",
+      "family_purpose": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "category": "direct",
+      "cpm_lesson": "6.1.4",
+      "cpm_title": "Solving One Variable Inequalities",
+      "topic_title": "Two-step inequalities and graphs",
+      "i_can_id": "CC2-ES-04-D-5EB2A4F2",
+      "i_can_exact_text": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "student_action": "Solve 4x-3≥13.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Solve 4x-3≥13.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-1-4-T01-S01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "x≥4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Solve 4x-3≥13.</p>",
+        "answer": "x≥4.",
+        "solution": "x≥4.",
+        "scoring_guidance": "Assess I can solve a two-step inequality, graph its solution set, and test a value. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.1.4",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-D-5EB2A4F2",
+      "reporting_i_can_text": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP6-6-1-4-T01-S02",
+      "teacher_question_id": "Q005",
+      "bank_item_id": "CC2-AP6-Q005",
+      "family_name": "Two-step inequalities and graphs — direct skill 2",
+      "family_purpose": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "category": "direct",
+      "cpm_lesson": "6.1.4",
+      "cpm_title": "Solving One Variable Inequalities",
+      "topic_title": "Two-step inequalities and graphs",
+      "i_can_id": "CC2-ES-04-D-5EB2A4F2",
+      "i_can_exact_text": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "student_action": "Solve -3x<12.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Solve -3x&lt;12.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-1-4-T01-S02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "x>-4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Solve -3x&lt;12.</p>",
+        "answer": "x>-4.",
+        "solution": "x>-4.",
+        "scoring_guidance": "Assess I can solve a two-step inequality, graph its solution set, and test a value. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.1.4",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-D-5EB2A4F2",
+      "reporting_i_can_text": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP6-6-1-4-T01-S03",
+      "teacher_question_id": "Q006",
+      "bank_item_id": "CC2-AP6-Q006",
+      "family_name": "Two-step inequalities and graphs — direct skill 3",
+      "family_purpose": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "category": "direct",
+      "cpm_lesson": "6.1.4",
+      "cpm_title": "Solving One Variable Inequalities",
+      "topic_title": "Two-step inequalities and graphs",
+      "i_can_id": "CC2-ES-04-D-5EB2A4F2",
+      "i_can_exact_text": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "student_action": "Does x=2 satisfy 2x+1<6?",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Does x=2 satisfy 2x+1&lt;6?</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-1-4-T01-S03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "Yes: 5<6.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Does x=2 satisfy 2x+1&lt;6?</p>",
+        "answer": "Yes: 5<6.",
+        "solution": "Yes: 5<6.",
+        "scoring_guidance": "Assess I can solve a two-step inequality, graph its solution set, and test a value. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.1.4",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-D-5EB2A4F2",
+      "reporting_i_can_text": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP6-6-1-4-T01-P01",
+      "teacher_question_id": "Q007",
+      "bank_item_id": "CC2-AP6-Q007",
+      "family_name": "Two-step inequalities and graphs — review & preview 1",
+      "family_purpose": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "category": "spiral",
+      "cpm_lesson": "6.1.4",
+      "cpm_title": "Solving One Variable Inequalities",
+      "topic_title": "Two-step inequalities and graphs",
+      "i_can_id": "CC2-ES-04-D-5EB2A4F2",
+      "i_can_exact_text": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward two-step inequalities and graphs",
+      "student_action": "Solve 2x+3=11.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Solve 2x+3=11.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-1-4-T01-P01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "x=4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Solve 2x+3=11.</p>",
+        "answer": "x=4.",
+        "solution": "x=4.",
+        "scoring_guidance": "Assess I can solve a two-step inequality, graph its solution set, and test a value. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.1.4",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-D-5EB2A4F2",
+      "reporting_i_can_text": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP6-6-1-4-T01-P02",
+      "teacher_question_id": "Q008",
+      "bank_item_id": "CC2-AP6-Q008",
+      "family_name": "Two-step inequalities and graphs — review & preview 2",
+      "family_purpose": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "category": "spiral",
+      "cpm_lesson": "6.1.4",
+      "cpm_title": "Solving One Variable Inequalities",
+      "topic_title": "Two-step inequalities and graphs",
+      "i_can_id": "CC2-ES-04-D-5EB2A4F2",
+      "i_can_exact_text": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward two-step inequalities and graphs",
+      "student_action": "Compute -2×(-5).",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute -2×(-5).</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-1-4-T01-P02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "10.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute -2×(-5).</p>",
+        "answer": "10.",
+        "solution": "10.",
+        "scoring_guidance": "Assess I can solve a two-step inequality, graph its solution set, and test a value. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.1.4",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-D-5EB2A4F2",
+      "reporting_i_can_text": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP6-6-1-4-T01-P03",
+      "teacher_question_id": "Q009",
+      "bank_item_id": "CC2-AP6-Q009",
+      "family_name": "Two-step inequalities and graphs — review & preview 3",
+      "family_purpose": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "category": "spiral",
+      "cpm_lesson": "6.1.4",
+      "cpm_title": "Solving One Variable Inequalities",
+      "topic_title": "Two-step inequalities and graphs",
+      "i_can_id": "CC2-ES-04-D-5EB2A4F2",
+      "i_can_exact_text": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward two-step inequalities and graphs",
+      "student_action": "Evaluate 3(2+1).",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Evaluate 3(2+1).</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-1-4-T01-P03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "9.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Evaluate 3(2+1).</p>",
+        "answer": "9.",
+        "solution": "9.",
+        "scoring_guidance": "Assess I can solve a two-step inequality, graph its solution set, and test a value. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.1.4",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-D-5EB2A4F2",
+      "reporting_i_can_text": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP6-6-2-3-T02-R01",
+      "teacher_question_id": "Q010",
+      "bank_item_id": "CC2-AP6-Q010",
+      "family_name": "Two-step equations and checks — reasoning 1",
+      "family_purpose": "I can solve a two-step equation and verify my solution by substitution.",
+      "category": "reasoning",
+      "cpm_lesson": "6.2.3",
+      "cpm_title": "Solving Equations and Recording Work",
+      "topic_title": "Two-step equations and checks",
+      "i_can_id": "CC2-ES-04-D-4D553FCF",
+      "i_can_exact_text": "I can solve a two-step equation and verify my solution by substitution.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can solve a two-step equation and verify my solution by substitution.",
+      "student_action": "Solve 3x+5=20 and explain why the check establishes equality.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Solve 3x+5=20 and explain why the check establishes equality.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-3-T02-R01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "3x=15,x=5; 3(5)+5=20.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Solve 3x+5=20 and explain why the check establishes equality.</p>",
+        "answer": "3x=15,x=5; 3(5)+5=20.",
+        "solution": "3x=15,x=5; 3(5)+5=20.",
+        "scoring_guidance": "Assess I can solve a two-step equation and verify my solution by substitution. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-D-4D553FCF",
+      "reporting_i_can_text": "I can solve a two-step equation and verify my solution by substitution.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP6-6-2-3-T02-R02",
+      "teacher_question_id": "Q011",
+      "bank_item_id": "CC2-AP6-Q011",
+      "family_name": "Two-step equations and checks — reasoning 2",
+      "family_purpose": "I can solve a two-step equation and verify my solution by substitution.",
+      "category": "reasoning",
+      "cpm_lesson": "6.2.3",
+      "cpm_title": "Solving Equations and Recording Work",
+      "topic_title": "Two-step equations and checks",
+      "i_can_id": "CC2-ES-04-D-4D553FCF",
+      "i_can_exact_text": "I can solve a two-step equation and verify my solution by substitution.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can solve a two-step equation and verify my solution by substitution.",
+      "student_action": "A student solves 4x-7=13 as x=4. Identify the error and verify the correct value.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student solves 4x-7=13 as x=4. Identify the error and verify the correct value.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-3-T02-R02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "4x=20,x=5; 4(5)-7=13.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A student solves 4x-7=13 as x=4. Identify the error and verify the correct value.</p>",
+        "answer": "4x=20,x=5; 4(5)-7=13.",
+        "solution": "4x=20,x=5; 4(5)-7=13.",
+        "scoring_guidance": "Assess I can solve a two-step equation and verify my solution by substitution. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-D-4D553FCF",
+      "reporting_i_can_text": "I can solve a two-step equation and verify my solution by substitution.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP6-6-2-3-T02-R03",
+      "teacher_question_id": "Q012",
+      "bank_item_id": "CC2-AP6-Q012",
+      "family_name": "Two-step equations and checks — reasoning 3",
+      "family_purpose": "I can solve a two-step equation and verify my solution by substitution.",
+      "category": "reasoning",
+      "cpm_lesson": "6.2.3",
+      "cpm_title": "Solving Equations and Recording Work",
+      "topic_title": "Two-step equations and checks",
+      "i_can_id": "CC2-ES-04-D-4D553FCF",
+      "i_can_exact_text": "I can solve a two-step equation and verify my solution by substitution.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can solve a two-step equation and verify my solution by substitution.",
+      "student_action": "Solve -2x+9=1, then substitute in the original equation.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Solve -2x+9=1, then substitute in the original equation.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-3-T02-R03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "-2x=-8,x=4; -2(4)+9=1.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Solve -2x+9=1, then substitute in the original equation.</p>",
+        "answer": "-2x=-8,x=4; -2(4)+9=1.",
+        "solution": "-2x=-8,x=4; -2(4)+9=1.",
+        "scoring_guidance": "Assess I can solve a two-step equation and verify my solution by substitution. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-D-4D553FCF",
+      "reporting_i_can_text": "I can solve a two-step equation and verify my solution by substitution.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP6-6-2-3-T02-S01",
+      "teacher_question_id": "Q013",
+      "bank_item_id": "CC2-AP6-Q013",
+      "family_name": "Two-step equations and checks — direct skill 1",
+      "family_purpose": "I can solve a two-step equation and verify my solution by substitution.",
+      "category": "direct",
+      "cpm_lesson": "6.2.3",
+      "cpm_title": "Solving Equations and Recording Work",
+      "topic_title": "Two-step equations and checks",
+      "i_can_id": "CC2-ES-04-D-4D553FCF",
+      "i_can_exact_text": "I can solve a two-step equation and verify my solution by substitution.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can solve a two-step equation and verify my solution by substitution.",
+      "student_action": "Solve 5x+2=27.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Solve 5x+2=27.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-3-T02-S01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "x=5.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Solve 5x+2=27.</p>",
+        "answer": "x=5.",
+        "solution": "x=5.",
+        "scoring_guidance": "Assess I can solve a two-step equation and verify my solution by substitution. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-D-4D553FCF",
+      "reporting_i_can_text": "I can solve a two-step equation and verify my solution by substitution.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP6-6-2-3-T02-S02",
+      "teacher_question_id": "Q014",
+      "bank_item_id": "CC2-AP6-Q014",
+      "family_name": "Two-step equations and checks — direct skill 2",
+      "family_purpose": "I can solve a two-step equation and verify my solution by substitution.",
+      "category": "direct",
+      "cpm_lesson": "6.2.3",
+      "cpm_title": "Solving Equations and Recording Work",
+      "topic_title": "Two-step equations and checks",
+      "i_can_id": "CC2-ES-04-D-4D553FCF",
+      "i_can_exact_text": "I can solve a two-step equation and verify my solution by substitution.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can solve a two-step equation and verify my solution by substitution.",
+      "student_action": "Solve x/3-4=2.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Solve x/3-4=2.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-3-T02-S02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "x=18.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Solve x/3-4=2.</p>",
+        "answer": "x=18.",
+        "solution": "x=18.",
+        "scoring_guidance": "Assess I can solve a two-step equation and verify my solution by substitution. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-D-4D553FCF",
+      "reporting_i_can_text": "I can solve a two-step equation and verify my solution by substitution.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP6-6-2-3-T02-S03",
+      "teacher_question_id": "Q015",
+      "bank_item_id": "CC2-AP6-Q015",
+      "family_name": "Two-step equations and checks — direct skill 3",
+      "family_purpose": "I can solve a two-step equation and verify my solution by substitution.",
+      "category": "direct",
+      "cpm_lesson": "6.2.3",
+      "cpm_title": "Solving Equations and Recording Work",
+      "topic_title": "Two-step equations and checks",
+      "i_can_id": "CC2-ES-04-D-4D553FCF",
+      "i_can_exact_text": "I can solve a two-step equation and verify my solution by substitution.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can solve a two-step equation and verify my solution by substitution.",
+      "student_action": "Solve -4x+3=15.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Solve -4x+3=15.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-3-T02-S03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "x=-3.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Solve -4x+3=15.</p>",
+        "answer": "x=-3.",
+        "solution": "x=-3.",
+        "scoring_guidance": "Assess I can solve a two-step equation and verify my solution by substitution. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-D-4D553FCF",
+      "reporting_i_can_text": "I can solve a two-step equation and verify my solution by substitution.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP6-6-2-3-T02-P01",
+      "teacher_question_id": "Q016",
+      "bank_item_id": "CC2-AP6-Q016",
+      "family_name": "Two-step equations and checks — review & preview 1",
+      "family_purpose": "I can solve a two-step equation and verify my solution by substitution.",
+      "category": "spiral",
+      "cpm_lesson": "6.2.3",
+      "cpm_title": "Solving Equations and Recording Work",
+      "topic_title": "Two-step equations and checks",
+      "i_can_id": "CC2-ES-04-D-4D553FCF",
+      "i_can_exact_text": "I can solve a two-step equation and verify my solution by substitution.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward two-step equations and checks",
+      "student_action": "Compute 3(-2)+6.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute 3(-2)+6.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-3-T02-P01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "0.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute 3(-2)+6.</p>",
+        "answer": "0.",
+        "solution": "0.",
+        "scoring_guidance": "Assess I can solve a two-step equation and verify my solution by substitution. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-D-4D553FCF",
+      "reporting_i_can_text": "I can solve a two-step equation and verify my solution by substitution.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP6-6-2-3-T02-P02",
+      "teacher_question_id": "Q017",
+      "bank_item_id": "CC2-AP6-Q017",
+      "family_name": "Two-step equations and checks — review & preview 2",
+      "family_purpose": "I can solve a two-step equation and verify my solution by substitution.",
+      "category": "spiral",
+      "cpm_lesson": "6.2.3",
+      "cpm_title": "Solving Equations and Recording Work",
+      "topic_title": "Two-step equations and checks",
+      "i_can_id": "CC2-ES-04-D-4D553FCF",
+      "i_can_exact_text": "I can solve a two-step equation and verify my solution by substitution.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward two-step equations and checks",
+      "student_action": "Simplify 5x+2x.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Simplify 5x+2x.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-3-T02-P02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "7x.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Simplify 5x+2x.</p>",
+        "answer": "7x.",
+        "solution": "7x.",
+        "scoring_guidance": "Assess I can solve a two-step equation and verify my solution by substitution. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-D-4D553FCF",
+      "reporting_i_can_text": "I can solve a two-step equation and verify my solution by substitution.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP6-6-2-3-T02-P03",
+      "teacher_question_id": "Q018",
+      "bank_item_id": "CC2-AP6-Q018",
+      "family_name": "Two-step equations and checks — review & preview 3",
+      "family_purpose": "I can solve a two-step equation and verify my solution by substitution.",
+      "category": "spiral",
+      "cpm_lesson": "6.2.3",
+      "cpm_title": "Solving Equations and Recording Work",
+      "topic_title": "Two-step equations and checks",
+      "i_can_id": "CC2-ES-04-D-4D553FCF",
+      "i_can_exact_text": "I can solve a two-step equation and verify my solution by substitution.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward two-step equations and checks",
+      "student_action": "Solve x+4=11.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Solve x+4=11.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-3-T02-P03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "x=7.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Solve x+4=11.</p>",
+        "answer": "x=7.",
+        "solution": "x=7.",
+        "scoring_guidance": "Assess I can solve a two-step equation and verify my solution by substitution. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-D-4D553FCF",
+      "reporting_i_can_text": "I can solve a two-step equation and verify my solution by substitution.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP6-6-2-6-T03-R01",
+      "teacher_question_id": "Q019",
+      "bank_item_id": "CC2-AP6-Q019",
+      "family_name": "One/no/all solution cases — reasoning 1",
+      "family_purpose": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "category": "reasoning",
+      "cpm_lesson": "6.2.6",
+      "cpm_title": "Cases With Infinite or No Solutions",
+      "topic_title": "One/no/all solution cases",
+      "i_can_id": "CC2-ES-04-D-AABB6CCE",
+      "i_can_exact_text": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "student_action": "Explain why 3(x+2)=3x+6 is true for every x.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Explain why 3(x+2)=3x+6 is true for every x.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-6-T03-R01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "Distribute left: 3x+6=3x+6, an identity; all numbers.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Explain why 3(x+2)=3x+6 is true for every x.</p>",
+        "answer": "Distribute left: 3x+6=3x+6, an identity; all numbers.",
+        "solution": "Distribute left: 3x+6=3x+6, an identity; all numbers.",
+        "scoring_guidance": "Assess I can tell whether an equation has one solution, no solution, or all numbers as solutions. (evidence: FIRST_CHECK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.6",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-D-AABB6CCE",
+      "reporting_i_can_text": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP6-6-2-6-T03-R02",
+      "teacher_question_id": "Q020",
+      "bank_item_id": "CC2-AP6-Q020",
+      "family_name": "One/no/all solution cases — reasoning 2",
+      "family_purpose": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "category": "reasoning",
+      "cpm_lesson": "6.2.6",
+      "cpm_title": "Cases With Infinite or No Solutions",
+      "topic_title": "One/no/all solution cases",
+      "i_can_id": "CC2-ES-04-D-AABB6CCE",
+      "i_can_exact_text": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "student_action": "A student claims 2x+5=2x-1 has solution x=-3. Explain why no number works.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student claims 2x+5=2x-1 has solution x=-3. Explain why no number works.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-6-T03-R02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "Subtract 2x: 5=-1, a contradiction; no solution.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A student claims 2x+5=2x-1 has solution x=-3. Explain why no number works.</p>",
+        "answer": "Subtract 2x: 5=-1, a contradiction; no solution.",
+        "solution": "Subtract 2x: 5=-1, a contradiction; no solution.",
+        "scoring_guidance": "Assess I can tell whether an equation has one solution, no solution, or all numbers as solutions. (evidence: FIRST_CHECK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.6",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-D-AABB6CCE",
+      "reporting_i_can_text": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP6-6-2-6-T03-R03",
+      "teacher_question_id": "Q021",
+      "bank_item_id": "CC2-AP6-Q021",
+      "family_name": "One/no/all solution cases — reasoning 3",
+      "family_purpose": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "category": "reasoning",
+      "cpm_lesson": "6.2.6",
+      "cpm_title": "Cases With Infinite or No Solutions",
+      "topic_title": "One/no/all solution cases",
+      "i_can_id": "CC2-ES-04-D-AABB6CCE",
+      "i_can_exact_text": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "student_action": "Classify 4x+3=2x+11 and demonstrate its unique solution.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Classify 4x+3=2x+11 and demonstrate its unique solution.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-6-T03-R03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "2x=8,x=4; one solution.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Classify 4x+3=2x+11 and demonstrate its unique solution.</p>",
+        "answer": "2x=8,x=4; one solution.",
+        "solution": "2x=8,x=4; one solution.",
+        "scoring_guidance": "Assess I can tell whether an equation has one solution, no solution, or all numbers as solutions. (evidence: FIRST_CHECK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.6",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-D-AABB6CCE",
+      "reporting_i_can_text": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP6-6-2-6-T03-S01",
+      "teacher_question_id": "Q022",
+      "bank_item_id": "CC2-AP6-Q022",
+      "family_name": "One/no/all solution cases — direct skill 1",
+      "family_purpose": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "category": "direct",
+      "cpm_lesson": "6.2.6",
+      "cpm_title": "Cases With Infinite or No Solutions",
+      "topic_title": "One/no/all solution cases",
+      "i_can_id": "CC2-ES-04-D-AABB6CCE",
+      "i_can_exact_text": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "student_action": "Classify 5x+2=5x+8.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Classify 5x+2=5x+8.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-6-T03-S01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "No solution.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Classify 5x+2=5x+8.</p>",
+        "answer": "No solution.",
+        "solution": "No solution.",
+        "scoring_guidance": "Assess I can tell whether an equation has one solution, no solution, or all numbers as solutions. (evidence: FIRST_CHECK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.6",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-D-AABB6CCE",
+      "reporting_i_can_text": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP6-6-2-6-T03-S02",
+      "teacher_question_id": "Q023",
+      "bank_item_id": "CC2-AP6-Q023",
+      "family_name": "One/no/all solution cases — direct skill 2",
+      "family_purpose": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "category": "direct",
+      "cpm_lesson": "6.2.6",
+      "cpm_title": "Cases With Infinite or No Solutions",
+      "topic_title": "One/no/all solution cases",
+      "i_can_id": "CC2-ES-04-D-AABB6CCE",
+      "i_can_exact_text": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "student_action": "Classify 2(x+3)=2x+6.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Classify 2(x+3)=2x+6.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-6-T03-S02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "All real numbers.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Classify 2(x+3)=2x+6.</p>",
+        "answer": "All real numbers.",
+        "solution": "All real numbers.",
+        "scoring_guidance": "Assess I can tell whether an equation has one solution, no solution, or all numbers as solutions. (evidence: FIRST_CHECK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.6",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-D-AABB6CCE",
+      "reporting_i_can_text": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP6-6-2-6-T03-S03",
+      "teacher_question_id": "Q024",
+      "bank_item_id": "CC2-AP6-Q024",
+      "family_name": "One/no/all solution cases — direct skill 3",
+      "family_purpose": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "category": "direct",
+      "cpm_lesson": "6.2.6",
+      "cpm_title": "Cases With Infinite or No Solutions",
+      "topic_title": "One/no/all solution cases",
+      "i_can_id": "CC2-ES-04-D-AABB6CCE",
+      "i_can_exact_text": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "student_action": "Solve 7x=21.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Solve 7x=21.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-6-T03-S03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "One solution x=3.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Solve 7x=21.</p>",
+        "answer": "One solution x=3.",
+        "solution": "One solution x=3.",
+        "scoring_guidance": "Assess I can tell whether an equation has one solution, no solution, or all numbers as solutions. (evidence: FIRST_CHECK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.6",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-D-AABB6CCE",
+      "reporting_i_can_text": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP6-6-2-6-T03-P01",
+      "teacher_question_id": "Q025",
+      "bank_item_id": "CC2-AP6-Q025",
+      "family_name": "One/no/all solution cases — review & preview 1",
+      "family_purpose": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "category": "spiral",
+      "cpm_lesson": "6.2.6",
+      "cpm_title": "Cases With Infinite or No Solutions",
+      "topic_title": "One/no/all solution cases",
+      "i_can_id": "CC2-ES-04-D-AABB6CCE",
+      "i_can_exact_text": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward one/no/all solution cases",
+      "student_action": "Simplify 3(x+2).",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Simplify 3(x+2).</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-6-T03-P01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "3x+6.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Simplify 3(x+2).</p>",
+        "answer": "3x+6.",
+        "solution": "3x+6.",
+        "scoring_guidance": "Assess I can tell whether an equation has one solution, no solution, or all numbers as solutions. (evidence: FIRST_CHECK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.6",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-D-AABB6CCE",
+      "reporting_i_can_text": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP6-6-2-6-T03-P02",
+      "teacher_question_id": "Q026",
+      "bank_item_id": "CC2-AP6-Q026",
+      "family_name": "One/no/all solution cases — review & preview 2",
+      "family_purpose": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "category": "spiral",
+      "cpm_lesson": "6.2.6",
+      "cpm_title": "Cases With Infinite or No Solutions",
+      "topic_title": "One/no/all solution cases",
+      "i_can_id": "CC2-ES-04-D-AABB6CCE",
+      "i_can_exact_text": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward one/no/all solution cases",
+      "student_action": "Compute 5-8.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute 5-8.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-6-T03-P02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "-3.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute 5-8.</p>",
+        "answer": "-3.",
+        "solution": "-3.",
+        "scoring_guidance": "Assess I can tell whether an equation has one solution, no solution, or all numbers as solutions. (evidence: FIRST_CHECK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.6",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-D-AABB6CCE",
+      "reporting_i_can_text": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP6-6-2-6-T03-P03",
+      "teacher_question_id": "Q027",
+      "bank_item_id": "CC2-AP6-Q027",
+      "family_name": "One/no/all solution cases — review & preview 3",
+      "family_purpose": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "category": "spiral",
+      "cpm_lesson": "6.2.6",
+      "cpm_title": "Cases With Infinite or No Solutions",
+      "topic_title": "One/no/all solution cases",
+      "i_can_id": "CC2-ES-04-D-AABB6CCE",
+      "i_can_exact_text": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward one/no/all solution cases",
+      "student_action": "Solve x+1=7.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Solve x+1=7.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-6-T03-P03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "x=6.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Solve x+1=7.</p>",
+        "answer": "x=6.",
+        "solution": "x=6.",
+        "scoring_guidance": "Assess I can tell whether an equation has one solution, no solution, or all numbers as solutions. (evidence: FIRST_CHECK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.6",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-D-AABB6CCE",
+      "reporting_i_can_text": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP6-6-2-7-T04-R01",
+      "teacher_question_id": "Q028",
+      "bank_item_id": "CC2-AP6-Q028",
+      "family_name": "Multistep solving and justification — reasoning 1",
+      "family_purpose": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "category": "reasoning",
+      "cpm_lesson": "6.2.7",
+      "cpm_title": "Choosing A Solving Strategy",
+      "topic_title": "Multistep solving and justification",
+      "i_can_id": "CC2-ES-04-PRO-5992B610",
+      "i_can_exact_text": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "student_action": "Solve 3(2x-1)-5=16 and show each equivalent transformation.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Solve 3(2x-1)-5=16 and show each equivalent transformation.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-7-T04-R01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "6x-3-5=16; 6x=24; x=4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Solve 3(2x-1)-5=16 and show each equivalent transformation.</p>",
+        "answer": "6x-3-5=16; 6x=24; x=4.",
+        "solution": "6x-3-5=16; 6x=24; x=4.",
+        "scoring_guidance": "Assess I can independently solve multistep equations and inequalities, explaining equivalent steps. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.7",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-PRO-5992B610",
+      "reporting_i_can_text": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": "Paired evidence must include both an independent equation and inequality after feedback."
+    },
+    {
+      "family_id": "CC2-AP6-6-2-7-T04-R02",
+      "teacher_question_id": "Q029",
+      "bank_item_id": "CC2-AP6-Q029",
+      "family_name": "Multistep solving and justification — reasoning 2",
+      "family_purpose": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "category": "reasoning",
+      "cpm_lesson": "6.2.7",
+      "cpm_title": "Choosing A Solving Strategy",
+      "topic_title": "Multistep solving and justification",
+      "i_can_id": "CC2-ES-04-PRO-5992B610",
+      "i_can_exact_text": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "student_action": "Solve -2(3x-4)≥20; explain why inequality direction reverses at the last step.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Solve -2(3x-4)≥20; explain why inequality direction reverses at the last step.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-7-T04-R02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "-6x+8≥20; -6x≥12; x≤-2; negative divisor reverses sign.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Solve -2(3x-4)≥20; explain why inequality direction reverses at the last step.</p>",
+        "answer": "-6x+8≥20; -6x≥12; x≤-2; negative divisor reverses sign.",
+        "solution": "-6x+8≥20; -6x≥12; x≤-2; negative divisor reverses sign.",
+        "scoring_guidance": "Assess I can independently solve multistep equations and inequalities, explaining equivalent steps. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.7",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-PRO-5992B610",
+      "reporting_i_can_text": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": "Paired evidence must include both an independent equation and inequality after feedback."
+    },
+    {
+      "family_id": "CC2-AP6-6-2-7-T04-R03",
+      "teacher_question_id": "Q030",
+      "bank_item_id": "CC2-AP6-Q030",
+      "family_name": "Multistep solving and justification — reasoning 3",
+      "family_purpose": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "category": "reasoning",
+      "cpm_lesson": "6.2.7",
+      "cpm_title": "Choosing A Solving Strategy",
+      "topic_title": "Multistep solving and justification",
+      "i_can_id": "CC2-ES-04-PRO-5992B610",
+      "i_can_exact_text": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "student_action": "A student writes 4(x-2)+3x=21→7x-2=21. Find the error and solve correctly.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student writes 4(x-2)+3x=21→7x-2=21. Find the error and solve correctly.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-7-T04-R03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "Distribute 4 to -2: 4x-8+3x=21; 7x=29; x=29/7.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A student writes 4(x-2)+3x=21→7x-2=21. Find the error and solve correctly.</p>",
+        "answer": "Distribute 4 to -2: 4x-8+3x=21; 7x=29; x=29/7.",
+        "solution": "Distribute 4 to -2: 4x-8+3x=21; 7x=29; x=29/7.",
+        "scoring_guidance": "Assess I can independently solve multistep equations and inequalities, explaining equivalent steps. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.7",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-PRO-5992B610",
+      "reporting_i_can_text": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": "Paired evidence must include both an independent equation and inequality after feedback."
+    },
+    {
+      "family_id": "CC2-AP6-6-2-7-T04-S01",
+      "teacher_question_id": "Q031",
+      "bank_item_id": "CC2-AP6-Q031",
+      "family_name": "Multistep solving and justification — direct skill 1",
+      "family_purpose": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "category": "direct",
+      "cpm_lesson": "6.2.7",
+      "cpm_title": "Choosing A Solving Strategy",
+      "topic_title": "Multistep solving and justification",
+      "i_can_id": "CC2-ES-04-PRO-5992B610",
+      "i_can_exact_text": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "student_action": "Solve 5x-2(x+3)=9.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Solve 5x-2(x+3)=9.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-7-T04-S01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "x=5.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Solve 5x-2(x+3)=9.</p>",
+        "answer": "x=5.",
+        "solution": "x=5.",
+        "scoring_guidance": "Assess I can independently solve multistep equations and inequalities, explaining equivalent steps. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.7",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-PRO-5992B610",
+      "reporting_i_can_text": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": "Paired evidence must include both an independent equation and inequality after feedback."
+    },
+    {
+      "family_id": "CC2-AP6-6-2-7-T04-S02",
+      "teacher_question_id": "Q032",
+      "bank_item_id": "CC2-AP6-Q032",
+      "family_name": "Multistep solving and justification — direct skill 2",
+      "family_purpose": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "category": "direct",
+      "cpm_lesson": "6.2.7",
+      "cpm_title": "Choosing A Solving Strategy",
+      "topic_title": "Multistep solving and justification",
+      "i_can_id": "CC2-ES-04-PRO-5992B610",
+      "i_can_exact_text": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "student_action": "Solve 2(3x+1)<20.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Solve 2(3x+1)&lt;20.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-7-T04-S02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "x<3.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Solve 2(3x+1)&lt;20.</p>",
+        "answer": "x<3.",
+        "solution": "x<3.",
+        "scoring_guidance": "Assess I can independently solve multistep equations and inequalities, explaining equivalent steps. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.7",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-PRO-5992B610",
+      "reporting_i_can_text": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": "Paired evidence must include both an independent equation and inequality after feedback."
+    },
+    {
+      "family_id": "CC2-AP6-6-2-7-T04-S03",
+      "teacher_question_id": "Q033",
+      "bank_item_id": "CC2-AP6-Q033",
+      "family_name": "Multistep solving and justification — direct skill 3",
+      "family_purpose": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "category": "direct",
+      "cpm_lesson": "6.2.7",
+      "cpm_title": "Choosing A Solving Strategy",
+      "topic_title": "Multistep solving and justification",
+      "i_can_id": "CC2-ES-04-PRO-5992B610",
+      "i_can_exact_text": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "student_action": "Solve -3(x-2)+5=20.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Solve -3(x-2)+5=20.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-7-T04-S03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "x=-3.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Solve -3(x-2)+5=20.</p>",
+        "answer": "x=-3.",
+        "solution": "x=-3.",
+        "scoring_guidance": "Assess I can independently solve multistep equations and inequalities, explaining equivalent steps. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.7",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-PRO-5992B610",
+      "reporting_i_can_text": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": "Paired evidence must include both an independent equation and inequality after feedback."
+    },
+    {
+      "family_id": "CC2-AP6-6-2-7-T04-P01",
+      "teacher_question_id": "Q034",
+      "bank_item_id": "CC2-AP6-Q034",
+      "family_name": "Multistep solving and justification — review & preview 1",
+      "family_purpose": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "category": "spiral",
+      "cpm_lesson": "6.2.7",
+      "cpm_title": "Choosing A Solving Strategy",
+      "topic_title": "Multistep solving and justification",
+      "i_can_id": "CC2-ES-04-PRO-5992B610",
+      "i_can_exact_text": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward multistep solving and justification",
+      "student_action": "Expand 2(x+4).",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Expand 2(x+4).</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-7-T04-P01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "2x+8.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Expand 2(x+4).</p>",
+        "answer": "2x+8.",
+        "solution": "2x+8.",
+        "scoring_guidance": "Assess I can independently solve multistep equations and inequalities, explaining equivalent steps. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.7",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-PRO-5992B610",
+      "reporting_i_can_text": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": "Paired evidence must include both an independent equation and inequality after feedback."
+    },
+    {
+      "family_id": "CC2-AP6-6-2-7-T04-P02",
+      "teacher_question_id": "Q035",
+      "bank_item_id": "CC2-AP6-Q035",
+      "family_name": "Multistep solving and justification — review & preview 2",
+      "family_purpose": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "category": "spiral",
+      "cpm_lesson": "6.2.7",
+      "cpm_title": "Choosing A Solving Strategy",
+      "topic_title": "Multistep solving and justification",
+      "i_can_id": "CC2-ES-04-PRO-5992B610",
+      "i_can_exact_text": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward multistep solving and justification",
+      "student_action": "Solve 3x+4=19.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Solve 3x+4=19.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-7-T04-P02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "x=5.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Solve 3x+4=19.</p>",
+        "answer": "x=5.",
+        "solution": "x=5.",
+        "scoring_guidance": "Assess I can independently solve multistep equations and inequalities, explaining equivalent steps. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.7",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-PRO-5992B610",
+      "reporting_i_can_text": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": "Paired evidence must include both an independent equation and inequality after feedback."
+    },
+    {
+      "family_id": "CC2-AP6-6-2-7-T04-P03",
+      "teacher_question_id": "Q036",
+      "bank_item_id": "CC2-AP6-Q036",
+      "family_name": "Multistep solving and justification — review & preview 3",
+      "family_purpose": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "category": "spiral",
+      "cpm_lesson": "6.2.7",
+      "cpm_title": "Choosing A Solving Strategy",
+      "topic_title": "Multistep solving and justification",
+      "i_can_id": "CC2-ES-04-PRO-5992B610",
+      "i_can_exact_text": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward multistep solving and justification",
+      "student_action": "Compute -21÷3.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute -21÷3.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-7-T04-P03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "-7.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute -21÷3.</p>",
+        "answer": "-7.",
+        "solution": "-7.",
+        "scoring_guidance": "Assess I can independently solve multistep equations and inequalities, explaining equivalent steps. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.7",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-PRO-5992B610",
+      "reporting_i_can_text": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": "Paired evidence must include both an independent equation and inequality after feedback."
+    },
+    {
+      "family_id": "CC2-AP6-6-2-7-T05-R01",
+      "teacher_question_id": "Q037",
+      "bank_item_id": "CC2-AP6-Q037",
+      "family_name": "Model equations and inequalities — reasoning 1",
+      "family_purpose": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "category": "reasoning",
+      "cpm_lesson": "6.2.7",
+      "cpm_title": "Choosing A Solving Strategy",
+      "topic_title": "Model equations and inequalities",
+      "i_can_id": "CC2-ES-04-PRO-0C994045",
+      "i_can_exact_text": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "student_action": "A club costs $18 to join and $6 per visit. With at most $60, write and solve an inequality for visits; explain whole-number choices.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A club costs $18 to join and $6 per visit. With at most $60, write and solve an inequality for visits; explain whole-number choices.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-7-T05-R01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "18+6v≤60, v≤7; whole visits 0–7.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A club costs $18 to join and $6 per visit. With at most $60, write and solve an inequality for visits; explain whole-number choices.</p>",
+        "answer": "18+6v≤60, v≤7; whole visits 0–7.",
+        "solution": "18+6v≤60, v≤7; whole visits 0–7.",
+        "scoring_guidance": "Assess I can write, solve, graph, and interpret equations and inequalities from real contexts. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.7",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-PRO-0C994045",
+      "reporting_i_can_text": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": "Both contextual equation and inequality, graph/test and interpretation together are needed for full Proficient evidence."
+    },
+    {
+      "family_id": "CC2-AP6-6-2-7-T05-R02",
+      "teacher_question_id": "Q038",
+      "bank_item_id": "CC2-AP6-Q038",
+      "family_name": "Model equations and inequalities — reasoning 2",
+      "family_purpose": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "category": "reasoning",
+      "cpm_lesson": "6.2.7",
+      "cpm_title": "Choosing A Solving Strategy",
+      "topic_title": "Model equations and inequalities",
+      "i_can_id": "CC2-ES-04-PRO-0C994045",
+      "i_can_exact_text": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "student_action": "A store charges $5 plus $4 per item. The total was $29. Define n, solve, and interpret the equation.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A store charges $5 plus $4 per item. The total was $29. Define n, solve, and interpret the equation.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-7-T05-R02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "5+4n=29; n=6 items.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A store charges $5 plus $4 per item. The total was $29. Define n, solve, and interpret the equation.</p>",
+        "answer": "5+4n=29; n=6 items.",
+        "solution": "5+4n=29; n=6 items.",
+        "scoring_guidance": "Assess I can write, solve, graph, and interpret equations and inequalities from real contexts. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.7",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-PRO-0C994045",
+      "reporting_i_can_text": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": "Both contextual equation and inequality, graph/test and interpretation together are needed for full Proficient evidence."
+    },
+    {
+      "family_id": "CC2-AP6-6-2-7-T05-R03",
+      "teacher_question_id": "Q039",
+      "bank_item_id": "CC2-AP6-Q039",
+      "family_name": "Model equations and inequalities — reasoning 3",
+      "family_purpose": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "category": "reasoning",
+      "cpm_lesson": "6.2.7",
+      "cpm_title": "Choosing A Solving Strategy",
+      "topic_title": "Model equations and inequalities",
+      "i_can_id": "CC2-ES-04-PRO-0C994045",
+      "i_can_exact_text": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "student_action": "A student models a $45 budget, $9 flat fee, and $4 per ride by 9+4r≥45. Correct the inequality and interpret it.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student models a $45 budget, $9 flat fee, and $4 per ride by 9+4r≥45. Correct the inequality and interpret it.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-7-T05-R03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "9+4r≤45; r≤9 rides, whole numbers 0–9.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A student models a $45 budget, $9 flat fee, and $4 per ride by 9+4r≥45. Correct the inequality and interpret it.</p>",
+        "answer": "9+4r≤45; r≤9 rides, whole numbers 0–9.",
+        "solution": "9+4r≤45; r≤9 rides, whole numbers 0–9.",
+        "scoring_guidance": "Assess I can write, solve, graph, and interpret equations and inequalities from real contexts. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.7",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-PRO-0C994045",
+      "reporting_i_can_text": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": "Both contextual equation and inequality, graph/test and interpretation together are needed for full Proficient evidence."
+    },
+    {
+      "family_id": "CC2-AP6-6-2-7-T05-S01",
+      "teacher_question_id": "Q040",
+      "bank_item_id": "CC2-AP6-Q040",
+      "family_name": "Model equations and inequalities — direct skill 1",
+      "family_purpose": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "category": "direct",
+      "cpm_lesson": "6.2.7",
+      "cpm_title": "Choosing A Solving Strategy",
+      "topic_title": "Model equations and inequalities",
+      "i_can_id": "CC2-ES-04-PRO-0C994045",
+      "i_can_exact_text": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "student_action": "A cab charges $3 plus $2 per mile. Total $17. Write and solve an equation.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A cab charges $3 plus $2 per mile. Total $17. Write and solve an equation.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-7-T05-S01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "3+2m=17; m=7 miles.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A cab charges $3 plus $2 per mile. Total $17. Write and solve an equation.</p>",
+        "answer": "3+2m=17; m=7 miles.",
+        "solution": "3+2m=17; m=7 miles.",
+        "scoring_guidance": "Assess I can write, solve, graph, and interpret equations and inequalities from real contexts. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.7",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-PRO-0C994045",
+      "reporting_i_can_text": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": "Both contextual equation and inequality, graph/test and interpretation together are needed for full Proficient evidence."
+    },
+    {
+      "family_id": "CC2-AP6-6-2-7-T05-S02",
+      "teacher_question_id": "Q041",
+      "bank_item_id": "CC2-AP6-Q041",
+      "family_name": "Model equations and inequalities — direct skill 2",
+      "family_purpose": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "category": "direct",
+      "cpm_lesson": "6.2.7",
+      "cpm_title": "Choosing A Solving Strategy",
+      "topic_title": "Model equations and inequalities",
+      "i_can_id": "CC2-ES-04-PRO-0C994045",
+      "i_can_exact_text": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "student_action": "A budget is $30. Each book costs $6. Write and solve maximum books inequality.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A budget is $30. Each book costs $6. Write and solve maximum books inequality.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-7-T05-S02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "6b≤30; b≤5 books.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A budget is $30. Each book costs $6. Write and solve maximum books inequality.</p>",
+        "answer": "6b≤30; b≤5 books.",
+        "solution": "6b≤30; b≤5 books.",
+        "scoring_guidance": "Assess I can write, solve, graph, and interpret equations and inequalities from real contexts. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.7",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-PRO-0C994045",
+      "reporting_i_can_text": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": "Both contextual equation and inequality, graph/test and interpretation together are needed for full Proficient evidence."
+    },
+    {
+      "family_id": "CC2-AP6-6-2-7-T05-S03",
+      "teacher_question_id": "Q042",
+      "bank_item_id": "CC2-AP6-Q042",
+      "family_name": "Model equations and inequalities — direct skill 3",
+      "family_purpose": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "category": "direct",
+      "cpm_lesson": "6.2.7",
+      "cpm_title": "Choosing A Solving Strategy",
+      "topic_title": "Model equations and inequalities",
+      "i_can_id": "CC2-ES-04-PRO-0C994045",
+      "i_can_exact_text": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "student_action": "An amusement fee is $8 plus $5 per game. Write an inequality for at most $38.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>An amusement fee is $8 plus $5 per game. Write an inequality for at most $38.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-7-T05-S03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "8+5g≤38; g≤6 whole games.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>An amusement fee is $8 plus $5 per game. Write an inequality for at most $38.</p>",
+        "answer": "8+5g≤38; g≤6 whole games.",
+        "solution": "8+5g≤38; g≤6 whole games.",
+        "scoring_guidance": "Assess I can write, solve, graph, and interpret equations and inequalities from real contexts. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.7",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-PRO-0C994045",
+      "reporting_i_can_text": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": "Both contextual equation and inequality, graph/test and interpretation together are needed for full Proficient evidence."
+    },
+    {
+      "family_id": "CC2-AP6-6-2-7-T05-P01",
+      "teacher_question_id": "Q043",
+      "bank_item_id": "CC2-AP6-Q043",
+      "family_name": "Model equations and inequalities — review & preview 1",
+      "family_purpose": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "category": "spiral",
+      "cpm_lesson": "6.2.7",
+      "cpm_title": "Choosing A Solving Strategy",
+      "topic_title": "Model equations and inequalities",
+      "i_can_id": "CC2-ES-04-PRO-0C994045",
+      "i_can_exact_text": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward model equations and inequalities",
+      "student_action": "Solve 2x+5=17.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Solve 2x+5=17.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-7-T05-P01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "x=6.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Solve 2x+5=17.</p>",
+        "answer": "x=6.",
+        "solution": "x=6.",
+        "scoring_guidance": "Assess I can write, solve, graph, and interpret equations and inequalities from real contexts. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.7",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-PRO-0C994045",
+      "reporting_i_can_text": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": "Both contextual equation and inequality, graph/test and interpretation together are needed for full Proficient evidence."
+    },
+    {
+      "family_id": "CC2-AP6-6-2-7-T05-P02",
+      "teacher_question_id": "Q044",
+      "bank_item_id": "CC2-AP6-Q044",
+      "family_name": "Model equations and inequalities — review & preview 2",
+      "family_purpose": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "category": "spiral",
+      "cpm_lesson": "6.2.7",
+      "cpm_title": "Choosing A Solving Strategy",
+      "topic_title": "Model equations and inequalities",
+      "i_can_id": "CC2-ES-04-PRO-0C994045",
+      "i_can_exact_text": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward model equations and inequalities",
+      "student_action": "Solve 3x<12.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Solve 3x&lt;12.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-7-T05-P02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "x<4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Solve 3x&lt;12.</p>",
+        "answer": "x<4.",
+        "solution": "x<4.",
+        "scoring_guidance": "Assess I can write, solve, graph, and interpret equations and inequalities from real contexts. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.7",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-PRO-0C994045",
+      "reporting_i_can_text": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": "Both contextual equation and inequality, graph/test and interpretation together are needed for full Proficient evidence."
+    },
+    {
+      "family_id": "CC2-AP6-6-2-7-T05-P03",
+      "teacher_question_id": "Q045",
+      "bank_item_id": "CC2-AP6-Q045",
+      "family_name": "Model equations and inequalities — review & preview 3",
+      "family_purpose": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "category": "spiral",
+      "cpm_lesson": "6.2.7",
+      "cpm_title": "Choosing A Solving Strategy",
+      "topic_title": "Model equations and inequalities",
+      "i_can_id": "CC2-ES-04-PRO-0C994045",
+      "i_can_exact_text": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "learning_goal_id": "CC2-ES-04",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward model equations and inequalities",
+      "student_action": "Find the unit rate of $20 for 4 items.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Find the unit rate of $20 for 4 items.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP6-6-2-7-T05-P03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "$5/item.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Find the unit rate of $20 for 4 items.</p>",
+        "answer": "$5/item.",
+        "solution": "$5/item.",
+        "scoring_guidance": "Assess I can write, solve, graph, and interpret equations and inequalities from real contexts. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "6.2.7",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-04-PRO-0C994045",
+      "reporting_i_can_text": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": "Both contextual equation and inequality, graph/test and interpretation together are needed for full Proficient evidence."
+    }
+  ],
+  "review_summary": {
+    "question_families": 45,
+    "reasoning": 15,
+    "direct": 15,
+    "spiral": 15
+  },
+  "reporting_contract": "cc2-essential-standards/v1",
+  "pilot_policy": {
+    "operational": true,
+    "teacher_review_required_before_use": false,
+    "per_question_teacher_approved": false,
+    "actual_approval_state": "not individually reviewed by teacher",
+    "feedback_strategy": "Update stable canonical family when teacher flags an issue; preserve IDs."
+  }
+}

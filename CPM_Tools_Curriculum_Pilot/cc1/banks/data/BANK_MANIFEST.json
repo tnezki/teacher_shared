@@ -1,0 +1,107 @@
+{
+  "schema": "cpm-family-bank-manifest/v1",
+  "course": "Core Connections Course 1",
+  "plans": [
+    {
+      "plan": "AP1",
+      "chapter": 1,
+      "status": "TEACHER_APPROVED",
+      "data": "AP1.json",
+      "lesson_count": 4,
+      "i_can_count": 4,
+      "family_count": 36,
+      "learning_goal_ids": [
+        "CC1-ES-01",
+        "CC1-ES-02",
+        "CC1-ES-04",
+        "CC1-ES-06"
+      ],
+      "assessment_generation": "EXEMPLAR_ONLY",
+      "pilot_default_use": true
+    },
+    {
+      "plan": "AP2",
+      "chapter": 2,
+      "status": "TEACHER_APPROVED",
+      "data": "AP2.json",
+      "lesson_count": 4,
+      "i_can_count": 4,
+      "family_count": 36,
+      "learning_goal_ids": [
+        "CC1-ES-01",
+        "CC1-ES-02",
+        "CC1-ES-04",
+        "CC1-ES-06"
+      ],
+      "assessment_generation": "EXEMPLAR_ONLY",
+      "pilot_default_use": true
+    },
+    {
+      "plan": "AP3",
+      "chapter": 3,
+      "status": "TEACHER_APPROVED",
+      "data": "AP3.json",
+      "lesson_count": 4,
+      "i_can_count": 4,
+      "family_count": 36,
+      "learning_goal_ids": [
+        "CC1-ES-02",
+        "CC1-ES-03"
+      ],
+      "assessment_generation": "EXEMPLAR_ONLY",
+      "pilot_default_use": true
+    },
+    {
+      "plan": "AP4",
+      "chapter": 4,
+      "status": "TEACHER_APPROVED",
+      "data": "AP4.json",
+      "lesson_count": 4,
+      "i_can_count": 4,
+      "family_count": 36,
+      "learning_goal_ids": [
+        "CC1-ES-05",
+        "CC1-ES-06"
+      ],
+      "assessment_generation": "EXEMPLAR_ONLY",
+      "pilot_default_use": true
+    },
+    {
+      "plan": "AP5",
+      "chapter": 5,
+      "status": "TEACHER_APPROVED",
+      "data": "AP5.json",
+      "lesson_count": 4,
+      "i_can_count": 4,
+      "family_count": 36,
+      "learning_goal_ids": [
+        "CC1-ES-02",
+        "CC1-ES-04"
+      ],
+      "assessment_generation": "EXEMPLAR_ONLY",
+      "pilot_default_use": true
+    },
+    {
+      "plan": "AP6",
+      "chapter": 6,
+      "status": "TEACHER_APPROVED",
+      "data": "AP6.json",
+      "lesson_count": 4,
+      "i_can_count": 4,
+      "family_count": 36,
+      "learning_goal_ids": [
+        "CC1-ES-02",
+        "CC1-ES-06"
+      ],
+      "assessment_generation": "EXEMPLAR_ONLY",
+      "pilot_default_use": true
+    }
+  ],
+  "question_id_policy": "Stable family IDs and local Q### per AP; do not renumber on feedback.",
+  "review_convention": "Operational baseline usable immediately; teacher flags trigger canonical revision.",
+  "teacher_approval": {
+    "status": "TEACHER_APPROVED",
+    "scope": "Teacher-directed default-operational pilot baseline, not individual item review"
+  },
+  "reporting_source": "assessment_plans/CC1_APN_ASSESSMENT_PLAN.json"
+}

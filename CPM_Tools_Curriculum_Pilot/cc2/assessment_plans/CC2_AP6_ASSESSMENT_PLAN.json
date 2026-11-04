@@ -1,0 +1,131 @@
+{
+  "schema": "cpm-course-assessment-plan/v1",
+  "course": "CC2",
+  "chapter": 6,
+  "assessment_plan": "AP6",
+  "chapter_title": "Solving Inequalities and Equations",
+  "essentials": [
+    "CC2-ES-04"
+  ],
+  "lesson_evidence": [
+    {
+      "lesson": "6.1.4",
+      "target_id": "CC2-ES-04-D-5EB2A4F2",
+      "target": "I can solve a two-step inequality, graph its solution set, and test a value.",
+      "essential_standard": "CC2-ES-04",
+      "ladder_rung": "Developing",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "family_ids": [
+        "CC2-AP6-6-1-4-T01-R01",
+        "CC2-AP6-6-1-4-T01-R02",
+        "CC2-AP6-6-1-4-T01-R03",
+        "CC2-AP6-6-1-4-T01-S01",
+        "CC2-AP6-6-1-4-T01-S02",
+        "CC2-AP6-6-1-4-T01-S03",
+        "CC2-AP6-6-1-4-T01-P01",
+        "CC2-AP6-6-1-4-T01-P02",
+        "CC2-AP6-6-1-4-T01-P03"
+      ],
+      "evidence_note": "Independent evidence after instruction, practice, and feedback."
+    },
+    {
+      "lesson": "6.2.3",
+      "target_id": "CC2-ES-04-D-4D553FCF",
+      "target": "I can solve a two-step equation and verify my solution by substitution.",
+      "essential_standard": "CC2-ES-04",
+      "ladder_rung": "Developing",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "family_ids": [
+        "CC2-AP6-6-2-3-T02-R01",
+        "CC2-AP6-6-2-3-T02-R02",
+        "CC2-AP6-6-2-3-T02-R03",
+        "CC2-AP6-6-2-3-T02-S01",
+        "CC2-AP6-6-2-3-T02-S02",
+        "CC2-AP6-6-2-3-T02-S03",
+        "CC2-AP6-6-2-3-T02-P01",
+        "CC2-AP6-6-2-3-T02-P02",
+        "CC2-AP6-6-2-3-T02-P03"
+      ],
+      "evidence_note": "Independent evidence after instruction, practice, and feedback."
+    },
+    {
+      "lesson": "6.2.6",
+      "target_id": "CC2-ES-04-D-AABB6CCE",
+      "target": "I can tell whether an equation has one solution, no solution, or all numbers as solutions.",
+      "essential_standard": "CC2-ES-04",
+      "ladder_rung": "Developing",
+      "evidence_stage": "FIRST_CHECK",
+      "family_ids": [
+        "CC2-AP6-6-2-6-T03-R01",
+        "CC2-AP6-6-2-6-T03-R02",
+        "CC2-AP6-6-2-6-T03-R03",
+        "CC2-AP6-6-2-6-T03-S01",
+        "CC2-AP6-6-2-6-T03-S02",
+        "CC2-AP6-6-2-6-T03-S03",
+        "CC2-AP6-6-2-6-T03-P01",
+        "CC2-AP6-6-2-6-T03-P02",
+        "CC2-AP6-6-2-6-T03-P03"
+      ],
+      "evidence_note": "Independent evidence after instruction, practice, and feedback."
+    },
+    {
+      "lesson": "6.2.7",
+      "target_id": "CC2-ES-04-PRO-5992B610",
+      "target": "I can independently solve multistep equations and inequalities, explaining equivalent steps.",
+      "essential_standard": "CC2-ES-04",
+      "ladder_rung": "Proficient",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "family_ids": [
+        "CC2-AP6-6-2-7-T04-R01",
+        "CC2-AP6-6-2-7-T04-R02",
+        "CC2-AP6-6-2-7-T04-R03",
+        "CC2-AP6-6-2-7-T04-S01",
+        "CC2-AP6-6-2-7-T04-S02",
+        "CC2-AP6-6-2-7-T04-S03",
+        "CC2-AP6-6-2-7-T04-P01",
+        "CC2-AP6-6-2-7-T04-P02",
+        "CC2-AP6-6-2-7-T04-P03"
+      ],
+      "evidence_note": "Paired evidence must include both an independent equation and inequality after feedback."
+    },
+    {
+      "lesson": "6.2.7",
+      "target_id": "CC2-ES-04-PRO-0C994045",
+      "target": "I can write, solve, graph, and interpret equations and inequalities from real contexts.",
+      "essential_standard": "CC2-ES-04",
+      "ladder_rung": "Proficient",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "family_ids": [
+        "CC2-AP6-6-2-7-T05-R01",
+        "CC2-AP6-6-2-7-T05-R02",
+        "CC2-AP6-6-2-7-T05-R03",
+        "CC2-AP6-6-2-7-T05-S01",
+        "CC2-AP6-6-2-7-T05-S02",
+        "CC2-AP6-6-2-7-T05-S03",
+        "CC2-AP6-6-2-7-T05-P01",
+        "CC2-AP6-6-2-7-T05-P02",
+        "CC2-AP6-6-2-7-T05-P03"
+      ],
+      "evidence_note": "Both contextual equation and inequality, graph/test and interpretation together are needed for full Proficient evidence."
+    }
+  ],
+  "assessment_design": {
+    "practice": "select direct plus spiral families and current chapter target",
+    "quick_check": "use concise independent reasoning + direct items from taught targets, do not infer full rung from partial evidence",
+    "checkpoint": "select at least two distinct current targets; include explanation and recheck opportunity",
+    "test": "sample taught chapter evidence plus earlier rechecks; report full proficiency only at appropriate EXPECT stage",
+    "custom": "assemble authored bank exemplars and existing source cards",
+    "feedback_recheck": "use a fresh parallel task after feedback rather than repeating exact data"
+  },
+  "source_authority": {
+    "unit_plan_doc_id": "1W9KKZ5yUNMabzWPu_qheyfDktZ8_zZ06zYGya8IxcT4",
+    "assessment_evidence_doc_id": "1wzJ8hnB4eVEv1LX3bLlJwLqJjltGj0z7DOwtIwgkMH0",
+    "ladder_doc_id": "1czYyNY0W9PRP5ldpXjfSWPQTYYt68xzVuSTmDDbnWlU",
+    "textbook_mirror_chapter_folder_id": "11sV4EmwZQPNmJYmU6dXhVuoBK7HktO2Z"
+  },
+  "pilot_policy": {
+    "operational": true,
+    "progressive_audit": true,
+    "mastery_rule": "FIRST_CHECK, READINESS and PARTIAL never automatically equal Proficient."
+  }
+}

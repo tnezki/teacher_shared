@@ -1,0 +1,39 @@
+CPM LESSON BUILDER PILOT V2 - VALIDATION RECORD
+2026-11-03
+
+1. SOURCE VERIFICATION
+   Found the first six chapter folders for seven CPM courses in the
+   connected teacher-owned Google Drive textbook mirror.
+   Verified sample lesson content was present for every course.
+   Local extraction sample counts (one actual lesson per course):
+     CC1: 6 source cards; CC2: 8; CC3: 7; Algebra 1: 10;
+     Geometry: 9; Algebra 2: 10; Precalculus: 10.
+   CC3's newer CPM Learning Platform layout has its own extractor.
+   Full course-wide first-six-chapter content/figure audit is NOT yet done.
+
+2. UI AUTOMATED BROWSER CHECK
+   Seven course tiles, ten familiar course module tiles, a distinct
+   source-card picker, selected cards appearing in assembly, rich-card
+   text edit, Student/Teacher preview change, Save UI. Passed with
+   mock API fixtures. Tests were run in a sandboxed browser bridge.
+
+3. BACKEND CHECK
+   Python source compiles. Seven-course catalog and local lesson APIs
+   returned source cards. A local assessment-less lesson save returned
+   promptly (~0.03 second with one card) with editable JSON, student
+   HTML, teacher HTML. PDF work is background; it cannot block the save.
+   Student answer isolation checked against teacher HTML.
+
+4. PDF CHECK
+   Both student and teacher QA PDFs were generated as US Letter
+   (612x792pt) with white writing spaces and faint gray writing lines.
+   Rendering used the WeasyPrint fallback in this sandbox.
+   TeX-heavy documents require a working browser/MathJax print process,
+   and must be verified on the teacher's Mac; the save UI reports failure
+   rather than silently producing unrendered mathematics.
+
+5. TRANSFER SAFETY
+   New folder under teacher_shared only; no existing CPM Tools files
+   overwritten. No textbook source copies or student records in ZIP.
+   Manifest uses curriculum_transfer schema 3 CREATE actions; only
+   the canonical wrapper is delivered.

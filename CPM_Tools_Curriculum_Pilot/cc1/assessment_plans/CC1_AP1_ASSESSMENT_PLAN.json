@@ -1,0 +1,103 @@
+{
+  "schema": "cpm-course-assessment-plan/v1",
+  "course": "CC1",
+  "chapter": 1,
+  "assessment_plan": "AP1",
+  "chapter_title": "Introduction and Representation",
+  "essentials": [
+    "CC1-ES-01",
+    "CC1-ES-02",
+    "CC1-ES-04",
+    "CC1-ES-06"
+  ],
+  "lesson_evidence": [
+    {
+      "lesson": "1.1.4",
+      "target_id": "CC1-ES-01-F-22663BE1",
+      "target": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "essential_standard": "CC1-ES-01",
+      "ladder_rung": "Foundation",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "family_ids": [
+        "CC1-AP1-1-1-4-T01-R01",
+        "CC1-AP1-1-1-4-T01-R02",
+        "CC1-AP1-1-1-4-T01-R03",
+        "CC1-AP1-1-1-4-T01-S01",
+        "CC1-AP1-1-1-4-T01-S02",
+        "CC1-AP1-1-1-4-T01-S03",
+        "CC1-AP1-1-1-4-T01-P01",
+        "CC1-AP1-1-1-4-T01-P02",
+        "CC1-AP1-1-1-4-T01-P03"
+      ],
+      "evidence_note": "This is early/partial evidence only; do not infer full Proficient."
+    },
+    {
+      "lesson": "1.1.2",
+      "target_id": "CC1-ES-04-F-175BD516",
+      "target": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "essential_standard": "CC1-ES-04",
+      "ladder_rung": "Foundation",
+      "evidence_stage": "FIRST_CHECK",
+      "family_ids": [
+        "CC1-AP1-1-1-2-T02-R01",
+        "CC1-AP1-1-1-2-T02-R02",
+        "CC1-AP1-1-1-2-T02-R03",
+        "CC1-AP1-1-1-2-T02-S01",
+        "CC1-AP1-1-1-2-T02-S02",
+        "CC1-AP1-1-1-2-T02-S03",
+        "CC1-AP1-1-1-2-T02-P01",
+        "CC1-AP1-1-1-2-T02-P02",
+        "CC1-AP1-1-1-2-T02-P03"
+      ],
+      "evidence_note": "Independent evidence after instruction, practice and feedback."
+    },
+    {
+      "lesson": "1.2.4",
+      "target_id": "CC1-ES-02-P-6813422C",
+      "target": "I can use place value, equivalent fractions, factors, multiples, and basic operations to estimate and check reasonableness.",
+      "essential_standard": "CC1-ES-02",
+      "ladder_rung": "Prerequisite",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "family_ids": [
+        "CC1-AP1-1-2-4-T03-R01",
+        "CC1-AP1-1-2-4-T03-R02",
+        "CC1-AP1-1-2-4-T03-R03",
+        "CC1-AP1-1-2-4-T03-S01",
+        "CC1-AP1-1-2-4-T03-S02",
+        "CC1-AP1-1-2-4-T03-S03",
+        "CC1-AP1-1-2-4-T03-P01",
+        "CC1-AP1-1-2-4-T03-P02",
+        "CC1-AP1-1-2-4-T03-P03"
+      ],
+      "evidence_note": "This is early/partial evidence only; do not infer full Proficient."
+    },
+    {
+      "lesson": "1.2.2",
+      "target_id": "CC1-ES-06-P-9EC1023A",
+      "target": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "essential_standard": "CC1-ES-06",
+      "ladder_rung": "Prerequisite",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "family_ids": [
+        "CC1-AP1-1-2-2-T04-R01",
+        "CC1-AP1-1-2-2-T04-R02",
+        "CC1-AP1-1-2-2-T04-R03",
+        "CC1-AP1-1-2-2-T04-S01",
+        "CC1-AP1-1-2-2-T04-S02",
+        "CC1-AP1-1-2-2-T04-S03",
+        "CC1-AP1-1-2-2-T04-P01",
+        "CC1-AP1-1-2-2-T04-P02",
+        "CC1-AP1-1-2-2-T04-P03"
+      ],
+      "evidence_note": "This is early/partial evidence only; do not infer full Proficient."
+    }
+  ],
+  "assessment_design": {
+    "practice": "mix direct with spiral; use 2+ current-chapter items",
+    "quick_check": "2 direct and 1 reasoning item from introduced/expected targets; teacher reviews results",
+    "checkpoint": "cover 2+ distinct lesson targets, including explanation",
+    "test": "sample taught chapter evidence plus prior rechecks; report proficiency only for EXPECT targets",
+    "custom": "select any approved source cards plus active bank exemplars",
+    "feedback_recheck": "new comparable response after feedback, not the same exact question"
+  }
+}

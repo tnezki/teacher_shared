@@ -1,0 +1,132 @@
+{
+  "schema": "cpm-course-assessment-plan/v1",
+  "course": "CC2",
+  "chapter": 3,
+  "assessment_plan": "AP3",
+  "chapter_title": "Arithmetic Properties",
+  "essentials": [
+    "CC2-ES-01",
+    "CC2-ES-02"
+  ],
+  "lesson_evidence": [
+    {
+      "lesson": "3.1.2",
+      "target_id": "CC2-ES-02-PRE-77FECC16",
+      "target": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "essential_standard": "CC2-ES-02",
+      "ladder_rung": "Prerequisite",
+      "evidence_stage": "READINESS",
+      "family_ids": [
+        "CC2-AP3-3-1-2-T01-R01",
+        "CC2-AP3-3-1-2-T01-R02",
+        "CC2-AP3-3-1-2-T01-R03",
+        "CC2-AP3-3-1-2-T01-S01",
+        "CC2-AP3-3-1-2-T01-S02",
+        "CC2-AP3-3-1-2-T01-S03",
+        "CC2-AP3-3-1-2-T01-P01",
+        "CC2-AP3-3-1-2-T01-P02",
+        "CC2-AP3-3-1-2-T01-P03"
+      ],
+      "evidence_note": "Numerical readiness does not itself prove algebraic equivalence for all variable values."
+    },
+    {
+      "lesson": "3.2.2",
+      "target_id": "CC2-ES-01-D-318CB6C7",
+      "target": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "essential_standard": "CC2-ES-01",
+      "ladder_rung": "Developing",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "family_ids": [
+        "CC2-AP3-3-2-2-T02-R01",
+        "CC2-AP3-3-2-2-T02-R02",
+        "CC2-AP3-3-2-2-T02-R03",
+        "CC2-AP3-3-2-2-T02-S01",
+        "CC2-AP3-3-2-2-T02-S02",
+        "CC2-AP3-3-2-2-T02-S03",
+        "CC2-AP3-3-2-2-T02-P01",
+        "CC2-AP3-3-2-2-T02-P02",
+        "CC2-AP3-3-2-2-T02-P03"
+      ],
+      "evidence_note": "Independent evidence after instruction, practice, and feedback."
+    },
+    {
+      "lesson": "3.3.1",
+      "target_id": "CC2-ES-01-D-815C67D1",
+      "target": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "essential_standard": "CC2-ES-01",
+      "ladder_rung": "Developing",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "family_ids": [
+        "CC2-AP3-3-3-1-T03-R01",
+        "CC2-AP3-3-3-1-T03-R02",
+        "CC2-AP3-3-3-1-T03-R03",
+        "CC2-AP3-3-3-1-T03-S01",
+        "CC2-AP3-3-3-1-T03-S02",
+        "CC2-AP3-3-3-1-T03-S03",
+        "CC2-AP3-3-3-1-T03-P01",
+        "CC2-AP3-3-3-1-T03-P02",
+        "CC2-AP3-3-3-1-T03-P03"
+      ],
+      "evidence_note": "Independent evidence after instruction, practice, and feedback."
+    },
+    {
+      "lesson": "3.3.3",
+      "target_id": "CC2-ES-01-PRO-E9C686D9",
+      "target": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "essential_standard": "CC2-ES-01",
+      "ladder_rung": "Proficient",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "family_ids": [
+        "CC2-AP3-3-3-3-T04-R01",
+        "CC2-AP3-3-3-3-T04-R02",
+        "CC2-AP3-3-3-3-T04-R03",
+        "CC2-AP3-3-3-3-T04-S01",
+        "CC2-AP3-3-3-3-T04-S02",
+        "CC2-AP3-3-3-3-T04-S03",
+        "CC2-AP3-3-3-3-T04-P01",
+        "CC2-AP3-3-3-3-T04-P02",
+        "CC2-AP3-3-3-3-T04-P03"
+      ],
+      "evidence_note": "Independent evidence after instruction, practice, and feedback."
+    },
+    {
+      "lesson": "3.3.3",
+      "target_id": "CC2-ES-01-PRO-63EAD757",
+      "target": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "essential_standard": "CC2-ES-01",
+      "ladder_rung": "Proficient",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "family_ids": [
+        "CC2-AP3-3-3-3-T05-R01",
+        "CC2-AP3-3-3-3-T05-R02",
+        "CC2-AP3-3-3-3-T05-R03",
+        "CC2-AP3-3-3-3-T05-S01",
+        "CC2-AP3-3-3-3-T05-S02",
+        "CC2-AP3-3-3-3-T05-S03",
+        "CC2-AP3-3-3-3-T05-P01",
+        "CC2-AP3-3-3-3-T05-P02",
+        "CC2-AP3-3-3-3-T05-P03"
+      ],
+      "evidence_note": "Proficient needs an independently interpreted context as well as accurate operations."
+    }
+  ],
+  "assessment_design": {
+    "practice": "select direct plus spiral families and current chapter target",
+    "quick_check": "use concise independent reasoning + direct items from taught targets, do not infer full rung from partial evidence",
+    "checkpoint": "select at least two distinct current targets; include explanation and recheck opportunity",
+    "test": "sample taught chapter evidence plus earlier rechecks; report full proficiency only at appropriate EXPECT stage",
+    "custom": "assemble authored bank exemplars and existing source cards",
+    "feedback_recheck": "use a fresh parallel task after feedback rather than repeating exact data"
+  },
+  "source_authority": {
+    "unit_plan_doc_id": "18YkSZEOoOFL1uMtp9BvL0YczwJbzqnksDg83op9PO-8",
+    "assessment_evidence_doc_id": "1wzJ8hnB4eVEv1LX3bLlJwLqJjltGj0z7DOwtIwgkMH0",
+    "ladder_doc_id": "1czYyNY0W9PRP5ldpXjfSWPQTYYt68xzVuSTmDDbnWlU",
+    "textbook_mirror_chapter_folder_id": "1xZWLsc308ivxbGNKOatkDx3BzJrLRP80"
+  },
+  "pilot_policy": {
+    "operational": true,
+    "progressive_audit": true,
+    "mastery_rule": "FIRST_CHECK, READINESS and PARTIAL never automatically equal Proficient."
+  }
+}

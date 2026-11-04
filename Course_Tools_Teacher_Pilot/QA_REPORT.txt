@@ -1,0 +1,51 @@
+COURSE TOOLS TEACHER PILOT — BUILD QA
+Date: 2026-11-03
+
+SOURCE / ARCHITECTURE
+- Inspected the live mirrored CPM_Tools builder/assets, assessments, app server,
+  course_config manifest, and assessment builder user interface.
+- Current installed CPM_Tools is course-specific to Algebra 1. This is a NEW,
+  isolated portable pilot, not a modification or copy of private course data.
+- One shared assembly editor powers Lesson and Assessment views.
+- Default figure width 32%, workspace 72 pt, adjustable per-card or globally.
+- Original authored sample cards/question banks for seven courses.
+
+STATIC CHECKS
+- JavaScript syntax: node --check PASS.
+- Python server syntax: py_compile PASS.
+- HTML referenced element IDs: no missing IDs (61 IDs / 58 referenced).
+- Course data: 7 courses, 42 lesson cards, 42 assessment questions.
+- Every course has both FRQ and multiple-choice sample questions with keys.
+- Import/export schemas: course-tools-pilot-pack/1 and project/1.
+
+BACKEND SAVE TEST
+- Local-only loopback server read sample pack.
+- Assessment Quick Check with four cards saved editable.json, student.html,
+  teacher.html, student.pdf, and teacher.pdf: PASS.
+- PDFs: US Letter 612 x 792 pt; 2 pages each for the tested 4-card assessment.
+- Student copy contains no "Teacher answer / model" strings: PASS.
+- Teacher copy contains private answers: PASS.
+- Full example lesson with 6 cards saved: student PDF 3 pages,
+  teacher PDF 2 pages, letter size; teacher/student key separation PASS.
+- Tested PDF pages were rendered and visually checked: white backgrounds,
+  legible text, no solid black writing areas.
+
+LIMITATIONS FOR PILOT REVIEW
+- This is NOT yet the full production CPM Lesson Builder/Assessment Builder.
+- It does not include proprietary course textbook source cards, full
+  question banks, automatic grading, student names, rosters or Portfolio.
+- It includes 7 demonstration course packs only. Import real approved source.
+- Chrome/Chromium provides automated PDF on computers without WeasyPrint;
+  use browser Print > Save as PDF if an automatic PDF is unavailable or if
+  mathematical rendering in the PDF needs correction.
+- The isolated testing browser blocked navigation even to local addresses,
+  so automated click-through UI tests could not run in this environment.
+  Manual teacher browser smoke test is recommended before distribution.
+- Mac launcher requires Python 3; PDF automation uses an installed local
+  rendering engine or the browser's native Print workflow.
+
+INSTALL / SOURCE
+- Root: teacher_shared/Course_Tools_Teacher_Pilot/
+- Separate from CPM_Tools; no existing local app files are replaced.
+- Transfer schema: curriculum_transfer / 3, CREATE-only.
+- No Git commands or remote changes performed.

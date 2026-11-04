@@ -1,0 +1,13 @@
+{
+  "schema": "course-tools-pilot-pack/1",
+  "note": "Fill this with authorized teacher-authored or licensed local content only.",
+  "courses": [ {"id":"mycourse", "name":"My Course"} ],
+  "cards": [
+    {"id":"mycourse-c1","course":"mycourse","lesson":"1.1.1","type":"focus","title":"Learning focus","body":"I can explain ...","answer":"","ican":"LG 01","workspace_pt":0,"figure_width":32,"image":"","image_alt":""},
+    {"id":"mycourse-c2","course":"mycourse","lesson":"1.1.1","type":"example","title":"Example","body":"Show how to ...","answer":"Teacher demo and explanation...","ican":"LG 01","workspace_pt":144,"figure_width":32,"image":"","image_alt":""}
+  ],
+  "questions": [
+    {"id":"mycourse-q1","course":"mycourse","lesson":"1.1.1","type":"frq","title":"Written response","body":"Explain how ...","answer":"Expected reasoning...","ican":"LG 01","workspace_pt":120,"figure_width":32,"choices":[],"image":"","image_alt":""},
+    {"id":"mycourse-q2","course":"mycourse","lesson":"1.1.1","type":"mc","title":"Multiple choice","body":"Which statement is correct?","answer":"Option B: ...","choices":["Option A","Option B","Option C","Option D"],"ican":"LG 01","workspace_pt":0,"figure_width":32,"image":"","image_alt":""}
+  ]
+}

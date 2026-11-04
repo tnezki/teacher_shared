@@ -1,0 +1,6 @@
+# Never publish saved teacher answer keys or teacher-created content by accident.
+saved/
+data/teacher_course_pack.json
+__pycache__/
+*.pyc
+.DS_Store

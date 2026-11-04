@@ -1,0 +1,101 @@
+{
+  "schema": "cpm-course-assessment-plan/v1",
+  "course": "CC1",
+  "chapter": 4,
+  "assessment_plan": "AP4",
+  "chapter_title": "Variables and Ratios",
+  "essentials": [
+    "CC1-ES-05",
+    "CC1-ES-06"
+  ],
+  "lesson_evidence": [
+    {
+      "lesson": "4.1.3",
+      "target_id": "CC1-ES-06-P-9EC1023A",
+      "target": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "essential_standard": "CC1-ES-06",
+      "ladder_rung": "Prerequisite",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "family_ids": [
+        "CC1-AP4-4-1-3-T01-R01",
+        "CC1-AP4-4-1-3-T01-R02",
+        "CC1-AP4-4-1-3-T01-R03",
+        "CC1-AP4-4-1-3-T01-S01",
+        "CC1-AP4-4-1-3-T01-S02",
+        "CC1-AP4-4-1-3-T01-S03",
+        "CC1-AP4-4-1-3-T01-P01",
+        "CC1-AP4-4-1-3-T01-P02",
+        "CC1-AP4-4-1-3-T01-P03"
+      ],
+      "evidence_note": "This is early/partial evidence only; do not infer full Proficient."
+    },
+    {
+      "lesson": "4.1.2",
+      "target_id": "CC1-ES-06-D-C8155064",
+      "target": "I can expand a numerical or algebraic expression and identify or correct an incorrect distribution.",
+      "essential_standard": "CC1-ES-06",
+      "ladder_rung": "Developing",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "family_ids": [
+        "CC1-AP4-4-1-2-T02-R01",
+        "CC1-AP4-4-1-2-T02-R02",
+        "CC1-AP4-4-1-2-T02-R03",
+        "CC1-AP4-4-1-2-T02-S01",
+        "CC1-AP4-4-1-2-T02-S02",
+        "CC1-AP4-4-1-2-T02-S03",
+        "CC1-AP4-4-1-2-T02-P01",
+        "CC1-AP4-4-1-2-T02-P02",
+        "CC1-AP4-4-1-2-T02-P03"
+      ],
+      "evidence_note": "This is early/partial evidence only; do not infer full Proficient."
+    },
+    {
+      "lesson": "4.2.4",
+      "target_id": "CC1-ES-05-D-DCD6DF73",
+      "target": "I can use a consistent scale factor to enlarge, reduce, or interpret measurements.",
+      "essential_standard": "CC1-ES-05",
+      "ladder_rung": "Developing",
+      "evidence_stage": "EXPECT",
+      "family_ids": [
+        "CC1-AP4-4-2-4-T03-R01",
+        "CC1-AP4-4-2-4-T03-R02",
+        "CC1-AP4-4-2-4-T03-R03",
+        "CC1-AP4-4-2-4-T03-S01",
+        "CC1-AP4-4-2-4-T03-S02",
+        "CC1-AP4-4-2-4-T03-S03",
+        "CC1-AP4-4-2-4-T03-P01",
+        "CC1-AP4-4-2-4-T03-P02",
+        "CC1-AP4-4-2-4-T03-P03"
+      ],
+      "evidence_note": "Independent evidence after instruction, practice and feedback."
+    },
+    {
+      "lesson": "4.2.4",
+      "target_id": "CC1-ES-05-D-6A1A3FF6",
+      "target": "I can build a ratio table and show that two pairs of quantities maintain the same multiplicative relationship.",
+      "essential_standard": "CC1-ES-05",
+      "ladder_rung": "Developing",
+      "evidence_stage": "EXPECT",
+      "family_ids": [
+        "CC1-AP4-4-2-4-T04-R01",
+        "CC1-AP4-4-2-4-T04-R02",
+        "CC1-AP4-4-2-4-T04-R03",
+        "CC1-AP4-4-2-4-T04-S01",
+        "CC1-AP4-4-2-4-T04-S02",
+        "CC1-AP4-4-2-4-T04-S03",
+        "CC1-AP4-4-2-4-T04-P01",
+        "CC1-AP4-4-2-4-T04-P02",
+        "CC1-AP4-4-2-4-T04-P03"
+      ],
+      "evidence_note": "Independent evidence after instruction, practice and feedback."
+    }
+  ],
+  "assessment_design": {
+    "practice": "mix direct with spiral; use 2+ current-chapter items",
+    "quick_check": "2 direct and 1 reasoning item from introduced/expected targets; teacher reviews results",
+    "checkpoint": "cover 2+ distinct lesson targets, including explanation",
+    "test": "sample taught chapter evidence plus prior rechecks; report proficiency only for EXPECT targets",
+    "custom": "select any approved source cards plus active bank exemplars",
+    "feedback_recheck": "new comparable response after feedback, not the same exact question"
+  }
+}

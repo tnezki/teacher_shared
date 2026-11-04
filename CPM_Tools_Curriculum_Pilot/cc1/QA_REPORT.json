@@ -1,0 +1,75 @@
+{
+  "checked": "2026-11-03",
+  "result": "STRUCTURAL_PASS",
+  "course": "CC1",
+  "chapters": 6,
+  "total_families": 216,
+  "first_check_not_misrepresented_as_proficient": true,
+  "chapter_breakdown": [
+    {
+      "chapter": 1,
+      "questions": 36,
+      "targets": 4,
+      "categories": {
+        "reasoning": 12,
+        "direct": 12,
+        "spiral": 12
+      }
+    },
+    {
+      "chapter": 2,
+      "questions": 36,
+      "targets": 4,
+      "categories": {
+        "reasoning": 12,
+        "direct": 12,
+        "spiral": 12
+      }
+    },
+    {
+      "chapter": 3,
+      "questions": 36,
+      "targets": 4,
+      "categories": {
+        "reasoning": 12,
+        "direct": 12,
+        "spiral": 12
+      }
+    },
+    {
+      "chapter": 4,
+      "questions": 36,
+      "targets": 4,
+      "categories": {
+        "reasoning": 12,
+        "direct": 12,
+        "spiral": 12
+      }
+    },
+    {
+      "chapter": 5,
+      "questions": 36,
+      "targets": 4,
+      "categories": {
+        "reasoning": 12,
+        "direct": 12,
+        "spiral": 12
+      }
+    },
+    {
+      "chapter": 6,
+      "questions": 36,
+      "targets": 4,
+      "categories": {
+        "reasoning": 12,
+        "direct": 12,
+        "spiral": 12
+      }
+    }
+  ],
+  "limitations": [
+    "Automated structural checks do not substitute for full teacher mathematical review",
+    "Individual generated variants beyond the published exemplars are not included or verified",
+    "This content pack is staged under the approved teacher_shared root; the installed CPM Tools active-course manifest remains Algebra 1 and is not changed by this transfer"
+  ]
+}

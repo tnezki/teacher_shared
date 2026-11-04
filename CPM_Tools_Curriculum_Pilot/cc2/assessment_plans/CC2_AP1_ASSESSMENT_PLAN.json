@@ -1,0 +1,132 @@
+{
+  "schema": "cpm-course-assessment-plan/v1",
+  "course": "CC2",
+  "chapter": 1,
+  "assessment_plan": "AP1",
+  "chapter_title": "Introduction and Probability",
+  "essentials": [
+    "CC2-ES-03",
+    "CC2-ES-05"
+  ],
+  "lesson_evidence": [
+    {
+      "lesson": "1.1.4",
+      "target_id": "CC2-ES-03-PRE-0FB925E5",
+      "target": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "essential_standard": "CC2-ES-03",
+      "ladder_rung": "Prerequisite",
+      "evidence_stage": "READINESS",
+      "family_ids": [
+        "CC2-AP1-1-1-4-T01-R01",
+        "CC2-AP1-1-1-4-T01-R02",
+        "CC2-AP1-1-1-4-T01-R03",
+        "CC2-AP1-1-1-4-T01-S01",
+        "CC2-AP1-1-1-4-T01-S02",
+        "CC2-AP1-1-1-4-T01-S03",
+        "CC2-AP1-1-1-4-T01-P01",
+        "CC2-AP1-1-1-4-T01-P02",
+        "CC2-AP1-1-1-4-T01-P03"
+      ],
+      "evidence_note": "Ratio comparison is readiness; do not assess full ES-03 proportional models until Chapter 4."
+    },
+    {
+      "lesson": "1.2.1",
+      "target_id": "CC2-ES-05-F-FE1D4E14",
+      "target": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "essential_standard": "CC2-ES-05",
+      "ladder_rung": "Foundation",
+      "evidence_stage": "FIRST_CHECK",
+      "family_ids": [
+        "CC2-AP1-1-2-1-T02-R01",
+        "CC2-AP1-1-2-1-T02-R02",
+        "CC2-AP1-1-2-1-T02-R03",
+        "CC2-AP1-1-2-1-T02-S01",
+        "CC2-AP1-1-2-1-T02-S02",
+        "CC2-AP1-1-2-1-T02-S03",
+        "CC2-AP1-1-2-1-T02-P01",
+        "CC2-AP1-1-2-1-T02-P02",
+        "CC2-AP1-1-2-1-T02-P03"
+      ],
+      "evidence_note": "Independent evidence after instruction, practice, and feedback."
+    },
+    {
+      "lesson": "1.2.2",
+      "target_id": "CC2-ES-05-D-14C4F801",
+      "target": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "essential_standard": "CC2-ES-05",
+      "ladder_rung": "Developing",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "family_ids": [
+        "CC2-AP1-1-2-2-T03-R01",
+        "CC2-AP1-1-2-2-T03-R02",
+        "CC2-AP1-1-2-2-T03-R03",
+        "CC2-AP1-1-2-2-T03-S01",
+        "CC2-AP1-1-2-2-T03-S02",
+        "CC2-AP1-1-2-2-T03-S03",
+        "CC2-AP1-1-2-2-T03-P01",
+        "CC2-AP1-1-2-2-T03-P02",
+        "CC2-AP1-1-2-2-T03-P03"
+      ],
+      "evidence_note": "Independent evidence after instruction, practice, and feedback."
+    },
+    {
+      "lesson": "1.2.3",
+      "target_id": "CC2-ES-05-D-A25FB33A",
+      "target": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "essential_standard": "CC2-ES-05",
+      "ladder_rung": "Developing",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "family_ids": [
+        "CC2-AP1-1-2-3-T04-R01",
+        "CC2-AP1-1-2-3-T04-R02",
+        "CC2-AP1-1-2-3-T04-R03",
+        "CC2-AP1-1-2-3-T04-S01",
+        "CC2-AP1-1-2-3-T04-S02",
+        "CC2-AP1-1-2-3-T04-S03",
+        "CC2-AP1-1-2-3-T04-P01",
+        "CC2-AP1-1-2-3-T04-P02",
+        "CC2-AP1-1-2-3-T04-P03"
+      ],
+      "evidence_note": "Independent evidence after instruction, practice, and feedback."
+    },
+    {
+      "lesson": "1.2.7",
+      "target_id": "CC2-ES-05-D-2C450923",
+      "target": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "essential_standard": "CC2-ES-05",
+      "ladder_rung": "Developing",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "family_ids": [
+        "CC2-AP1-1-2-7-T05-R01",
+        "CC2-AP1-1-2-7-T05-R02",
+        "CC2-AP1-1-2-7-T05-R03",
+        "CC2-AP1-1-2-7-T05-S01",
+        "CC2-AP1-1-2-7-T05-S02",
+        "CC2-AP1-1-2-7-T05-S03",
+        "CC2-AP1-1-2-7-T05-P01",
+        "CC2-AP1-1-2-7-T05-P02",
+        "CC2-AP1-1-2-7-T05-P03"
+      ],
+      "evidence_note": "Two-stage listing is partial until complete tables/trees and compound justification in Chapter 5."
+    }
+  ],
+  "assessment_design": {
+    "practice": "select direct plus spiral families and current chapter target",
+    "quick_check": "use concise independent reasoning + direct items from taught targets, do not infer full rung from partial evidence",
+    "checkpoint": "select at least two distinct current targets; include explanation and recheck opportunity",
+    "test": "sample taught chapter evidence plus earlier rechecks; report full proficiency only at appropriate EXPECT stage",
+    "custom": "assemble authored bank exemplars and existing source cards",
+    "feedback_recheck": "use a fresh parallel task after feedback rather than repeating exact data"
+  },
+  "source_authority": {
+    "unit_plan_doc_id": "1hhd8Ov-5FbxAY8vV6cvV_FO1CqEcOBdnsOzAxZysaGI",
+    "assessment_evidence_doc_id": "1wzJ8hnB4eVEv1LX3bLlJwLqJjltGj0z7DOwtIwgkMH0",
+    "ladder_doc_id": "1czYyNY0W9PRP5ldpXjfSWPQTYYt68xzVuSTmDDbnWlU",
+    "textbook_mirror_chapter_folder_id": "1-v6b2l8ntDFafoMY7nl7kwlPcOOjotX9"
+  },
+  "pilot_policy": {
+    "operational": true,
+    "progressive_audit": true,
+    "mastery_rule": "FIRST_CHECK, READINESS and PARTIAL never automatically equal Proficient."
+  }
+}

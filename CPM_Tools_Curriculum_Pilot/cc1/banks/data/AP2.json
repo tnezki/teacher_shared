@@ -1,0 +1,2762 @@
+{
+  "schema": "cpm-family-bank-plan/v1",
+  "course": "Core Connections Course 1",
+  "assessment_plan": "AP2",
+  "chapter": 2,
+  "plan_title": "Arithmetic Strategies and Area",
+  "essential_standard": "CC1-ES-01; CC1-ES-02; CC1-ES-04; CC1-ES-06",
+  "bank_status": "TEACHER_APPROVED",
+  "source_crosswalk": "assessment_plans/CC1_AP2_ASSESSMENT_PLAN.json",
+  "source_authority": "Current CC1 unit plans, Phase 03 Assessment Evidence, Phase 04 Learning Ladders; exemplars newly authored",
+  "family_policy": {
+    "per_i_can": {
+      "reasoning": 3,
+      "direct": 3,
+      "spiral": 3
+    },
+    "review_rule": "Teacher-directed default accept for pilot use; correct the canonical item only when teacher flags a concrete issue.",
+    "variation_rule": "Only use the supplied exemplar unless any generated variant is independently verified.",
+    "evidence_stage": "Never claim full-rung proficiency from an explicitly partial lesson checkpoint."
+  },
+  "sections": [
+    {
+      "section": "2.1.2",
+      "title": "Interpret data displays",
+      "learning_target": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "cpm_lesson": "2.1.2",
+      "ap_section": 2,
+      "i_cans": [
+        {
+          "id": "CC1-ES-01-F-22663BE1",
+          "text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+          "family_ids": [
+            "CC1-AP2-2-1-2-T01-R01",
+            "CC1-AP2-2-1-2-T01-R02",
+            "CC1-AP2-2-1-2-T01-R03",
+            "CC1-AP2-2-1-2-T01-S01",
+            "CC1-AP2-2-1-2-T01-S02",
+            "CC1-AP2-2-1-2-T01-S03",
+            "CC1-AP2-2-1-2-T01-P01",
+            "CC1-AP2-2-1-2-T01-P02",
+            "CC1-AP2-2-1-2-T01-P03"
+          ],
+          "cpm_lesson": "2.1.2",
+          "cpm_title": "Interpret data displays",
+          "learning_goal_id": "CC1-ES-01",
+          "reporting_i_can_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+          "ladder_rung": "Foundation",
+          "evidence_stage": "EXPECT",
+          "scope_note": "Independent evidence after instruction, practice and feedback."
+        }
+      ],
+      "reporting_i_can_id": "CC1-ES-01-F-22663BE1",
+      "reporting_i_can_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "learning_goal_id": "CC1-ES-01"
+    },
+    {
+      "section": "2.2.3",
+      "title": "Explain measurement units",
+      "learning_target": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "cpm_lesson": "2.2.3",
+      "ap_section": 2,
+      "i_cans": [
+        {
+          "id": "CC1-ES-04-F-175BD516",
+          "text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+          "family_ids": [
+            "CC1-AP2-2-2-3-T02-R01",
+            "CC1-AP2-2-2-3-T02-R02",
+            "CC1-AP2-2-2-3-T02-R03",
+            "CC1-AP2-2-2-3-T02-S01",
+            "CC1-AP2-2-2-3-T02-S02",
+            "CC1-AP2-2-2-3-T02-S03",
+            "CC1-AP2-2-2-3-T02-P01",
+            "CC1-AP2-2-2-3-T02-P02",
+            "CC1-AP2-2-2-3-T02-P03"
+          ],
+          "cpm_lesson": "2.2.3",
+          "cpm_title": "Explain measurement units",
+          "learning_goal_id": "CC1-ES-04",
+          "reporting_i_can_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+          "ladder_rung": "Foundation",
+          "evidence_stage": "EXPECT",
+          "scope_note": "Independent evidence after instruction, practice and feedback."
+        }
+      ],
+      "reporting_i_can_id": "CC1-ES-04-F-175BD516",
+      "reporting_i_can_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "learning_goal_id": "CC1-ES-04"
+    },
+    {
+      "section": "2.3.4",
+      "title": "Generic rectangle and distribution",
+      "learning_target": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "cpm_lesson": "2.3.4",
+      "ap_section": 2,
+      "i_cans": [
+        {
+          "id": "CC1-ES-02-D-9D12B3C1",
+          "text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+          "family_ids": [
+            "CC1-AP2-2-3-4-T03-R01",
+            "CC1-AP2-2-3-4-T03-R02",
+            "CC1-AP2-2-3-4-T03-R03",
+            "CC1-AP2-2-3-4-T03-S01",
+            "CC1-AP2-2-3-4-T03-S02",
+            "CC1-AP2-2-3-4-T03-S03",
+            "CC1-AP2-2-3-4-T03-P01",
+            "CC1-AP2-2-3-4-T03-P02",
+            "CC1-AP2-2-3-4-T03-P03"
+          ],
+          "cpm_lesson": "2.3.4",
+          "cpm_title": "Generic rectangle and distribution",
+          "learning_goal_id": "CC1-ES-02",
+          "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "FIRST_CHECK_PARTIAL",
+          "scope_note": "This is early/partial evidence only; do not infer full Proficient."
+        }
+      ],
+      "reporting_i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "learning_goal_id": "CC1-ES-02"
+    },
+    {
+      "section": "2.3.2",
+      "title": "Numerical distribution",
+      "learning_target": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "cpm_lesson": "2.3.2",
+      "ap_section": 2,
+      "i_cans": [
+        {
+          "id": "CC1-ES-06-P-9EC1023A",
+          "text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+          "family_ids": [
+            "CC1-AP2-2-3-2-T04-R01",
+            "CC1-AP2-2-3-2-T04-R02",
+            "CC1-AP2-2-3-2-T04-R03",
+            "CC1-AP2-2-3-2-T04-S01",
+            "CC1-AP2-2-3-2-T04-S02",
+            "CC1-AP2-2-3-2-T04-S03",
+            "CC1-AP2-2-3-2-T04-P01",
+            "CC1-AP2-2-3-2-T04-P02",
+            "CC1-AP2-2-3-2-T04-P03"
+          ],
+          "cpm_lesson": "2.3.2",
+          "cpm_title": "Numerical distribution",
+          "learning_goal_id": "CC1-ES-06",
+          "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+          "ladder_rung": "Prerequisite",
+          "evidence_stage": "FIRST_CHECK_PARTIAL",
+          "scope_note": "This is early/partial evidence only; do not infer full Proficient."
+        }
+      ],
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06"
+    }
+  ],
+  "mastery_goals": [
+    {
+      "id": "CC1-ES-01",
+      "title": "CC1-ES-01 evidence through chapter 2",
+      "assessment_plan": "AP2",
+      "mastery_goal": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "i_cans": [
+        {
+          "id": "CC1-ES-01-F-22663BE1",
+          "text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+          "family_ids": [
+            "CC1-AP2-2-1-2-T01-R01",
+            "CC1-AP2-2-1-2-T01-R02",
+            "CC1-AP2-2-1-2-T01-R03",
+            "CC1-AP2-2-1-2-T01-S01",
+            "CC1-AP2-2-1-2-T01-S02",
+            "CC1-AP2-2-1-2-T01-S03",
+            "CC1-AP2-2-1-2-T01-P01",
+            "CC1-AP2-2-1-2-T01-P02",
+            "CC1-AP2-2-1-2-T01-P03"
+          ],
+          "cpm_lesson": "2.1.2",
+          "cpm_title": "Interpret data displays",
+          "learning_goal_id": "CC1-ES-01",
+          "reporting_i_can_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+          "ladder_rung": "Foundation",
+          "evidence_stage": "EXPECT",
+          "scope_note": "Independent evidence after instruction, practice and feedback."
+        }
+      ],
+      "reporting_contract": "cc1-essential-standards/v1"
+    },
+    {
+      "id": "CC1-ES-02",
+      "title": "CC1-ES-02 evidence through chapter 2",
+      "assessment_plan": "AP2",
+      "mastery_goal": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "i_cans": [
+        {
+          "id": "CC1-ES-02-D-9D12B3C1",
+          "text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+          "family_ids": [
+            "CC1-AP2-2-3-4-T03-R01",
+            "CC1-AP2-2-3-4-T03-R02",
+            "CC1-AP2-2-3-4-T03-R03",
+            "CC1-AP2-2-3-4-T03-S01",
+            "CC1-AP2-2-3-4-T03-S02",
+            "CC1-AP2-2-3-4-T03-S03",
+            "CC1-AP2-2-3-4-T03-P01",
+            "CC1-AP2-2-3-4-T03-P02",
+            "CC1-AP2-2-3-4-T03-P03"
+          ],
+          "cpm_lesson": "2.3.4",
+          "cpm_title": "Generic rectangle and distribution",
+          "learning_goal_id": "CC1-ES-02",
+          "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "FIRST_CHECK_PARTIAL",
+          "scope_note": "This is early/partial evidence only; do not infer full Proficient."
+        }
+      ],
+      "reporting_contract": "cc1-essential-standards/v1"
+    },
+    {
+      "id": "CC1-ES-04",
+      "title": "CC1-ES-04 evidence through chapter 2",
+      "assessment_plan": "AP2",
+      "mastery_goal": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "i_cans": [
+        {
+          "id": "CC1-ES-04-F-175BD516",
+          "text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+          "family_ids": [
+            "CC1-AP2-2-2-3-T02-R01",
+            "CC1-AP2-2-2-3-T02-R02",
+            "CC1-AP2-2-2-3-T02-R03",
+            "CC1-AP2-2-2-3-T02-S01",
+            "CC1-AP2-2-2-3-T02-S02",
+            "CC1-AP2-2-2-3-T02-S03",
+            "CC1-AP2-2-2-3-T02-P01",
+            "CC1-AP2-2-2-3-T02-P02",
+            "CC1-AP2-2-2-3-T02-P03"
+          ],
+          "cpm_lesson": "2.2.3",
+          "cpm_title": "Explain measurement units",
+          "learning_goal_id": "CC1-ES-04",
+          "reporting_i_can_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+          "ladder_rung": "Foundation",
+          "evidence_stage": "EXPECT",
+          "scope_note": "Independent evidence after instruction, practice and feedback."
+        }
+      ],
+      "reporting_contract": "cc1-essential-standards/v1"
+    },
+    {
+      "id": "CC1-ES-06",
+      "title": "CC1-ES-06 evidence through chapter 2",
+      "assessment_plan": "AP2",
+      "mastery_goal": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "i_cans": [
+        {
+          "id": "CC1-ES-06-P-9EC1023A",
+          "text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+          "family_ids": [
+            "CC1-AP2-2-3-2-T04-R01",
+            "CC1-AP2-2-3-2-T04-R02",
+            "CC1-AP2-2-3-2-T04-R03",
+            "CC1-AP2-2-3-2-T04-S01",
+            "CC1-AP2-2-3-2-T04-S02",
+            "CC1-AP2-2-3-2-T04-S03",
+            "CC1-AP2-2-3-2-T04-P01",
+            "CC1-AP2-2-3-2-T04-P02",
+            "CC1-AP2-2-3-2-T04-P03"
+          ],
+          "cpm_lesson": "2.3.2",
+          "cpm_title": "Numerical distribution",
+          "learning_goal_id": "CC1-ES-06",
+          "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+          "ladder_rung": "Prerequisite",
+          "evidence_stage": "FIRST_CHECK_PARTIAL",
+          "scope_note": "This is early/partial evidence only; do not infer full Proficient."
+        }
+      ],
+      "reporting_contract": "cc1-essential-standards/v1"
+    }
+  ],
+  "families": [
+    {
+      "family_id": "CC1-AP2-2-1-2-T01-R01",
+      "teacher_question_id": "Q001",
+      "bank_item_id": "CC1-AP2-Q001",
+      "family_name": "Interpret data displays - reasoning 1",
+      "family_purpose": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "category": "reasoning",
+      "cpm_lesson": "2.1.2",
+      "cpm_title": "Interpret data displays",
+      "i_can_id": "CC1-ES-01-F-22663BE1",
+      "i_can_exact_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "learning_goal_id": "CC1-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "student_action": "Interpret data displays",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Data: 7, 8, 8, 9, 9, 9, 10, 7. Explain how a dot plot reveals the most common value and an unusual value, if one exists.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "data_plot"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Counts: 7:2, 8:2, 9:3, 10:1; count at 9 is 3; modes are values with the greatest count.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Data: 7, 8, 8, 9, 9, 9, 10, 7. Explain how a dot plot reveals the most common value and an unusual value, if one exists.</p>",
+        "answer": "Counts: 7:2, 8:2, 9:3, 10:1; count at 9 is 3; modes are values with the greatest count.",
+        "solution": "Counts: 7:2, 8:2, 9:3, 10:1; count at 9 is 3; modes are values with the greatest count.",
+        "scoring_guidance": "Check: I can organize a collection of data values in a table or simple plot and count frequencies.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.1.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-01-F-22663BE1",
+      "reporting_i_can_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-1-2-T01-R02",
+      "teacher_question_id": "Q002",
+      "bank_item_id": "CC1-AP2-Q002",
+      "family_name": "Interpret data displays - reasoning 2",
+      "family_purpose": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "category": "reasoning",
+      "cpm_lesson": "2.1.2",
+      "cpm_title": "Interpret data displays",
+      "i_can_id": "CC1-ES-01-F-22663BE1",
+      "i_can_exact_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "learning_goal_id": "CC1-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "student_action": "Interpret data displays",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Data: 3, 4, 4, 5, 5, 5, 6, 3. Explain how a dot plot reveals the most common value and an unusual value, if one exists.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "data_plot"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Counts: 3:2, 4:2, 5:3, 6:1; count at 5 is 3; modes are values with the greatest count.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Data: 3, 4, 4, 5, 5, 5, 6, 3. Explain how a dot plot reveals the most common value and an unusual value, if one exists.</p>",
+        "answer": "Counts: 3:2, 4:2, 5:3, 6:1; count at 5 is 3; modes are values with the greatest count.",
+        "solution": "Counts: 3:2, 4:2, 5:3, 6:1; count at 5 is 3; modes are values with the greatest count.",
+        "scoring_guidance": "Check: I can organize a collection of data values in a table or simple plot and count frequencies.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.1.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-01-F-22663BE1",
+      "reporting_i_can_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-1-2-T01-R03",
+      "teacher_question_id": "Q003",
+      "bank_item_id": "CC1-AP2-Q003",
+      "family_name": "Interpret data displays - reasoning 3",
+      "family_purpose": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "category": "reasoning",
+      "cpm_lesson": "2.1.2",
+      "cpm_title": "Interpret data displays",
+      "i_can_id": "CC1-ES-01-F-22663BE1",
+      "i_can_exact_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "learning_goal_id": "CC1-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "student_action": "Interpret data displays",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Data: 4, 5, 5, 6, 6, 6, 7, 6. Explain how a dot plot reveals the most common value and an unusual value, if one exists.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "data_plot"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Counts: 4:1, 5:2, 6:4, 7:1; count at 6 is 4; modes are values with the greatest count.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Data: 4, 5, 5, 6, 6, 6, 7, 6. Explain how a dot plot reveals the most common value and an unusual value, if one exists.</p>",
+        "answer": "Counts: 4:1, 5:2, 6:4, 7:1; count at 6 is 4; modes are values with the greatest count.",
+        "solution": "Counts: 4:1, 5:2, 6:4, 7:1; count at 6 is 4; modes are values with the greatest count.",
+        "scoring_guidance": "Check: I can organize a collection of data values in a table or simple plot and count frequencies.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.1.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-01-F-22663BE1",
+      "reporting_i_can_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-1-2-T01-S01",
+      "teacher_question_id": "Q004",
+      "bank_item_id": "CC1-AP2-Q004",
+      "family_name": "Interpret data displays - direct 1",
+      "family_purpose": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "category": "direct",
+      "cpm_lesson": "2.1.2",
+      "cpm_title": "Interpret data displays",
+      "i_can_id": "CC1-ES-01-F-22663BE1",
+      "i_can_exact_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "learning_goal_id": "CC1-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "student_action": "Interpret data displays",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Construct a dot plot or frequency table for 6, 7, 7, 8, 8, 8, 9, 5. Give the count for 8.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "data_plot"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Counts: 5:1, 6:1, 7:2, 8:3, 9:1; count at 8 is 3; modes are values with the greatest count.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Construct a dot plot or frequency table for 6, 7, 7, 8, 8, 8, 9, 5. Give the count for 8.</p>",
+        "answer": "Counts: 5:1, 6:1, 7:2, 8:3, 9:1; count at 8 is 3; modes are values with the greatest count.",
+        "solution": "Counts: 5:1, 6:1, 7:2, 8:3, 9:1; count at 8 is 3; modes are values with the greatest count.",
+        "scoring_guidance": "Check: I can organize a collection of data values in a table or simple plot and count frequencies.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.1.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-01-F-22663BE1",
+      "reporting_i_can_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-1-2-T01-S02",
+      "teacher_question_id": "Q005",
+      "bank_item_id": "CC1-AP2-Q005",
+      "family_name": "Interpret data displays - direct 2",
+      "family_purpose": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "category": "direct",
+      "cpm_lesson": "2.1.2",
+      "cpm_title": "Interpret data displays",
+      "i_can_id": "CC1-ES-01-F-22663BE1",
+      "i_can_exact_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "learning_goal_id": "CC1-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "student_action": "Interpret data displays",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Construct a dot plot or frequency table for 7, 8, 8, 9, 9, 9, 10, 8. Give the count for 9.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "data_plot"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Counts: 7:1, 8:3, 9:3, 10:1; count at 9 is 3; modes are values with the greatest count.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Construct a dot plot or frequency table for 7, 8, 8, 9, 9, 9, 10, 8. Give the count for 9.</p>",
+        "answer": "Counts: 7:1, 8:3, 9:3, 10:1; count at 9 is 3; modes are values with the greatest count.",
+        "solution": "Counts: 7:1, 8:3, 9:3, 10:1; count at 9 is 3; modes are values with the greatest count.",
+        "scoring_guidance": "Check: I can organize a collection of data values in a table or simple plot and count frequencies.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.1.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-01-F-22663BE1",
+      "reporting_i_can_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-1-2-T01-S03",
+      "teacher_question_id": "Q006",
+      "bank_item_id": "CC1-AP2-Q006",
+      "family_name": "Interpret data displays - direct 3",
+      "family_purpose": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "category": "direct",
+      "cpm_lesson": "2.1.2",
+      "cpm_title": "Interpret data displays",
+      "i_can_id": "CC1-ES-01-F-22663BE1",
+      "i_can_exact_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "learning_goal_id": "CC1-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "student_action": "Interpret data displays",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Construct a dot plot or frequency table for 3, 4, 4, 5, 5, 5, 6, 4. Give the count for 5.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "data_plot"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Counts: 3:1, 4:3, 5:3, 6:1; count at 5 is 3; modes are values with the greatest count.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Construct a dot plot or frequency table for 3, 4, 4, 5, 5, 5, 6, 4. Give the count for 5.</p>",
+        "answer": "Counts: 3:1, 4:3, 5:3, 6:1; count at 5 is 3; modes are values with the greatest count.",
+        "solution": "Counts: 3:1, 4:3, 5:3, 6:1; count at 5 is 3; modes are values with the greatest count.",
+        "scoring_guidance": "Check: I can organize a collection of data values in a table or simple plot and count frequencies.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.1.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-01-F-22663BE1",
+      "reporting_i_can_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-1-2-T01-P01",
+      "teacher_question_id": "Q007",
+      "bank_item_id": "CC1-AP2-Q007",
+      "family_name": "Interpret data displays - spiral 1",
+      "family_purpose": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "category": "spiral",
+      "cpm_lesson": "2.1.2",
+      "cpm_title": "Interpret data displays",
+      "i_can_id": "CC1-ES-01-F-22663BE1",
+      "i_can_exact_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "learning_goal_id": "CC1-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "student_action": "Interpret data displays",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>For 5, 6, 6, 7, 7, 7, 8, 3, identify the minimum, maximum, and range.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "data_plot"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Min=3; max=8; range=5.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>For 5, 6, 6, 7, 7, 7, 8, 3, identify the minimum, maximum, and range.</p>",
+        "answer": "Min=3; max=8; range=5.",
+        "solution": "Min=3; max=8; range=5.",
+        "scoring_guidance": "Check: I can organize a collection of data values in a table or simple plot and count frequencies.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.1.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-01-F-22663BE1",
+      "reporting_i_can_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-1-2-T01-P02",
+      "teacher_question_id": "Q008",
+      "bank_item_id": "CC1-AP2-Q008",
+      "family_name": "Interpret data displays - spiral 2",
+      "family_purpose": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "category": "spiral",
+      "cpm_lesson": "2.1.2",
+      "cpm_title": "Interpret data displays",
+      "i_can_id": "CC1-ES-01-F-22663BE1",
+      "i_can_exact_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "learning_goal_id": "CC1-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "student_action": "Interpret data displays",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>For 6, 7, 7, 8, 8, 8, 9, 6, identify the minimum, maximum, and range.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "data_plot"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Min=6; max=9; range=3.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>For 6, 7, 7, 8, 8, 8, 9, 6, identify the minimum, maximum, and range.</p>",
+        "answer": "Min=6; max=9; range=3.",
+        "solution": "Min=6; max=9; range=3.",
+        "scoring_guidance": "Check: I can organize a collection of data values in a table or simple plot and count frequencies.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.1.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-01-F-22663BE1",
+      "reporting_i_can_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-1-2-T01-P03",
+      "teacher_question_id": "Q009",
+      "bank_item_id": "CC1-AP2-Q009",
+      "family_name": "Interpret data displays - spiral 3",
+      "family_purpose": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "category": "spiral",
+      "cpm_lesson": "2.1.2",
+      "cpm_title": "Interpret data displays",
+      "i_can_id": "CC1-ES-01-F-22663BE1",
+      "i_can_exact_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "learning_goal_id": "CC1-ES-01",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "student_action": "Interpret data displays",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>For 7, 8, 8, 9, 9, 9, 10, 2, identify the minimum, maximum, and range.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "data_plot"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Min=2; max=10; range=8.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>For 7, 8, 8, 9, 9, 9, 10, 2, identify the minimum, maximum, and range.</p>",
+        "answer": "Min=2; max=10; range=8.",
+        "solution": "Min=2; max=10; range=8.",
+        "scoring_guidance": "Check: I can organize a collection of data values in a table or simple plot and count frequencies.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.1.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-01-F-22663BE1",
+      "reporting_i_can_text": "I can organize a collection of data values in a table or simple plot and count frequencies.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-2-3-T02-R01",
+      "teacher_question_id": "Q010",
+      "bank_item_id": "CC1-AP2-Q010",
+      "family_name": "Explain measurement units - reasoning 1",
+      "family_purpose": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "category": "reasoning",
+      "cpm_lesson": "2.2.3",
+      "cpm_title": "Explain measurement units",
+      "i_can_id": "CC1-ES-04-F-175BD516",
+      "i_can_exact_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "student_action": "Explain measurement units",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A rectangle is 4 units by 7 units. Explain, using rows or an array, why area is 28 square units but perimeter is 22 units.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "rectangle_measure"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Area=28 square units; perimeter=22 units. Area counts squares, perimeter counts boundary length.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A rectangle is 4 units by 7 units. Explain, using rows or an array, why area is 28 square units but perimeter is 22 units.</p>",
+        "answer": "Area=28 square units; perimeter=22 units. Area counts squares, perimeter counts boundary length.",
+        "solution": "Area=28 square units; perimeter=22 units. Area counts squares, perimeter counts boundary length.",
+        "scoring_guidance": "Check: I can find the area and perimeter of rectangles and identify the measurements used.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.2.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-F-175BD516",
+      "reporting_i_can_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-2-3-T02-R02",
+      "teacher_question_id": "Q011",
+      "bank_item_id": "CC1-AP2-Q011",
+      "family_name": "Explain measurement units - reasoning 2",
+      "family_purpose": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "category": "reasoning",
+      "cpm_lesson": "2.2.3",
+      "cpm_title": "Explain measurement units",
+      "i_can_id": "CC1-ES-04-F-175BD516",
+      "i_can_exact_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "student_action": "Explain measurement units",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A rectangle is 5 units by 10 units. Explain, using rows or an array, why area is 50 square units but perimeter is 30 units.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "rectangle_measure"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Area=50 square units; perimeter=30 units. Area counts squares, perimeter counts boundary length.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A rectangle is 5 units by 10 units. Explain, using rows or an array, why area is 50 square units but perimeter is 30 units.</p>",
+        "answer": "Area=50 square units; perimeter=30 units. Area counts squares, perimeter counts boundary length.",
+        "solution": "Area=50 square units; perimeter=30 units. Area counts squares, perimeter counts boundary length.",
+        "scoring_guidance": "Check: I can find the area and perimeter of rectangles and identify the measurements used.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.2.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-F-175BD516",
+      "reporting_i_can_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-2-3-T02-R03",
+      "teacher_question_id": "Q012",
+      "bank_item_id": "CC1-AP2-Q012",
+      "family_name": "Explain measurement units - reasoning 3",
+      "family_purpose": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "category": "reasoning",
+      "cpm_lesson": "2.2.3",
+      "cpm_title": "Explain measurement units",
+      "i_can_id": "CC1-ES-04-F-175BD516",
+      "i_can_exact_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "student_action": "Explain measurement units",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A rectangle is 6 units by 6 units. Explain, using rows or an array, why area is 36 square units but perimeter is 24 units.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "rectangle_measure"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Area=36 square units; perimeter=24 units. Area counts squares, perimeter counts boundary length.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A rectangle is 6 units by 6 units. Explain, using rows or an array, why area is 36 square units but perimeter is 24 units.</p>",
+        "answer": "Area=36 square units; perimeter=24 units. Area counts squares, perimeter counts boundary length.",
+        "solution": "Area=36 square units; perimeter=24 units. Area counts squares, perimeter counts boundary length.",
+        "scoring_guidance": "Check: I can find the area and perimeter of rectangles and identify the measurements used.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.2.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-F-175BD516",
+      "reporting_i_can_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-2-3-T02-S01",
+      "teacher_question_id": "Q013",
+      "bank_item_id": "CC1-AP2-Q013",
+      "family_name": "Explain measurement units - direct 1",
+      "family_purpose": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "category": "direct",
+      "cpm_lesson": "2.2.3",
+      "cpm_title": "Explain measurement units",
+      "i_can_id": "CC1-ES-04-F-175BD516",
+      "i_can_exact_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "student_action": "Explain measurement units",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Find the area and perimeter of a 8-by-5 rectangle; include correct units.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "rectangle_measure"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Area=40 square units; perimeter=26 units. Area counts squares, perimeter counts boundary length.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Find the area and perimeter of a 8-by-5 rectangle; include correct units.</p>",
+        "answer": "Area=40 square units; perimeter=26 units. Area counts squares, perimeter counts boundary length.",
+        "solution": "Area=40 square units; perimeter=26 units. Area counts squares, perimeter counts boundary length.",
+        "scoring_guidance": "Check: I can find the area and perimeter of rectangles and identify the measurements used.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.2.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-F-175BD516",
+      "reporting_i_can_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-2-3-T02-S02",
+      "teacher_question_id": "Q014",
+      "bank_item_id": "CC1-AP2-Q014",
+      "family_name": "Explain measurement units - direct 2",
+      "family_purpose": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "category": "direct",
+      "cpm_lesson": "2.2.3",
+      "cpm_title": "Explain measurement units",
+      "i_can_id": "CC1-ES-04-F-175BD516",
+      "i_can_exact_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "student_action": "Explain measurement units",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Find the area and perimeter of a 4-by-8 rectangle; include correct units.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "rectangle_measure"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Area=32 square units; perimeter=24 units. Area counts squares, perimeter counts boundary length.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Find the area and perimeter of a 4-by-8 rectangle; include correct units.</p>",
+        "answer": "Area=32 square units; perimeter=24 units. Area counts squares, perimeter counts boundary length.",
+        "solution": "Area=32 square units; perimeter=24 units. Area counts squares, perimeter counts boundary length.",
+        "scoring_guidance": "Check: I can find the area and perimeter of rectangles and identify the measurements used.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.2.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-F-175BD516",
+      "reporting_i_can_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-2-3-T02-S03",
+      "teacher_question_id": "Q015",
+      "bank_item_id": "CC1-AP2-Q015",
+      "family_name": "Explain measurement units - direct 3",
+      "family_purpose": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "category": "direct",
+      "cpm_lesson": "2.2.3",
+      "cpm_title": "Explain measurement units",
+      "i_can_id": "CC1-ES-04-F-175BD516",
+      "i_can_exact_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "student_action": "Explain measurement units",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Find the area and perimeter of a 5-by-4 rectangle; include correct units.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "rectangle_measure"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Area=20 square units; perimeter=18 units. Area counts squares, perimeter counts boundary length.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Find the area and perimeter of a 5-by-4 rectangle; include correct units.</p>",
+        "answer": "Area=20 square units; perimeter=18 units. Area counts squares, perimeter counts boundary length.",
+        "solution": "Area=20 square units; perimeter=18 units. Area counts squares, perimeter counts boundary length.",
+        "scoring_guidance": "Check: I can find the area and perimeter of rectangles and identify the measurements used.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.2.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-F-175BD516",
+      "reporting_i_can_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-2-3-T02-P01",
+      "teacher_question_id": "Q016",
+      "bank_item_id": "CC1-AP2-Q016",
+      "family_name": "Explain measurement units - spiral 1",
+      "family_purpose": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "category": "spiral",
+      "cpm_lesson": "2.2.3",
+      "cpm_title": "Explain measurement units",
+      "i_can_id": "CC1-ES-04-F-175BD516",
+      "i_can_exact_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "student_action": "Explain measurement units",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>If a 7-by-10 rectangle gains 1 unit of width, how do its area and perimeter change? Explain briefly.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "rectangle_measure"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Area rises by 10 square units; perimeter rises by 2 units.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>If a 7-by-10 rectangle gains 1 unit of width, how do its area and perimeter change? Explain briefly.</p>",
+        "answer": "Area rises by 10 square units; perimeter rises by 2 units.",
+        "solution": "Area rises by 10 square units; perimeter rises by 2 units.",
+        "scoring_guidance": "Check: I can find the area and perimeter of rectangles and identify the measurements used.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.2.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-F-175BD516",
+      "reporting_i_can_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-2-3-T02-P02",
+      "teacher_question_id": "Q017",
+      "bank_item_id": "CC1-AP2-Q017",
+      "family_name": "Explain measurement units - spiral 2",
+      "family_purpose": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "category": "spiral",
+      "cpm_lesson": "2.2.3",
+      "cpm_title": "Explain measurement units",
+      "i_can_id": "CC1-ES-04-F-175BD516",
+      "i_can_exact_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "student_action": "Explain measurement units",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>If a 8-by-6 rectangle gains 1 unit of width, how do its area and perimeter change? Explain briefly.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "rectangle_measure"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Area rises by 6 square units; perimeter rises by 2 units.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>If a 8-by-6 rectangle gains 1 unit of width, how do its area and perimeter change? Explain briefly.</p>",
+        "answer": "Area rises by 6 square units; perimeter rises by 2 units.",
+        "solution": "Area rises by 6 square units; perimeter rises by 2 units.",
+        "scoring_guidance": "Check: I can find the area and perimeter of rectangles and identify the measurements used.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.2.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-F-175BD516",
+      "reporting_i_can_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-2-3-T02-P03",
+      "teacher_question_id": "Q018",
+      "bank_item_id": "CC1-AP2-Q018",
+      "family_name": "Explain measurement units - spiral 3",
+      "family_purpose": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "category": "spiral",
+      "cpm_lesson": "2.2.3",
+      "cpm_title": "Explain measurement units",
+      "i_can_id": "CC1-ES-04-F-175BD516",
+      "i_can_exact_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "student_action": "Explain measurement units",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>If a 4-by-9 rectangle gains 1 unit of width, how do its area and perimeter change? Explain briefly.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "rectangle_measure"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Area rises by 9 square units; perimeter rises by 2 units.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>If a 4-by-9 rectangle gains 1 unit of width, how do its area and perimeter change? Explain briefly.</p>",
+        "answer": "Area rises by 9 square units; perimeter rises by 2 units.",
+        "solution": "Area rises by 9 square units; perimeter rises by 2 units.",
+        "scoring_guidance": "Check: I can find the area and perimeter of rectangles and identify the measurements used.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.2.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-F-175BD516",
+      "reporting_i_can_text": "I can find the area and perimeter of rectangles and identify the measurements used.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-3-4-T03-R01",
+      "teacher_question_id": "Q019",
+      "bank_item_id": "CC1-AP2-Q019",
+      "family_name": "Generic rectangle and distribution - reasoning 1",
+      "family_purpose": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "category": "reasoning",
+      "cpm_lesson": "2.3.4",
+      "cpm_title": "Generic rectangle and distribution",
+      "i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "i_can_exact_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "student_action": "Generic rectangle and distribution",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student computes 14 x 6 as (10 x 6) + (4 x 6). Explain why this strategy works.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "partial_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "(10 x 6) + (4 x 6) = 60 + 24 = 84; distributive property.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A student computes 14 x 6 as (10 x 6) + (4 x 6). Explain why this strategy works.</p>",
+        "answer": "(10 x 6) + (4 x 6) = 60 + 24 = 84; distributive property.",
+        "solution": "(10 x 6) + (4 x 6) = 60 + 24 = 84; distributive property.",
+        "scoring_guidance": "Check: I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.3.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-3-4-T03-R02",
+      "teacher_question_id": "Q020",
+      "bank_item_id": "CC1-AP2-Q020",
+      "family_name": "Generic rectangle and distribution - reasoning 2",
+      "family_purpose": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "category": "reasoning",
+      "cpm_lesson": "2.3.4",
+      "cpm_title": "Generic rectangle and distribution",
+      "i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "i_can_exact_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "student_action": "Generic rectangle and distribution",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student computes 15 x 9 as (10 x 9) + (5 x 9). Explain why this strategy works.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "partial_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "(10 x 9) + (5 x 9) = 90 + 45 = 135; distributive property.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A student computes 15 x 9 as (10 x 9) + (5 x 9). Explain why this strategy works.</p>",
+        "answer": "(10 x 9) + (5 x 9) = 90 + 45 = 135; distributive property.",
+        "solution": "(10 x 9) + (5 x 9) = 90 + 45 = 135; distributive property.",
+        "scoring_guidance": "Check: I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.3.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-3-4-T03-R03",
+      "teacher_question_id": "Q021",
+      "bank_item_id": "CC1-AP2-Q021",
+      "family_name": "Generic rectangle and distribution - reasoning 3",
+      "family_purpose": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "category": "reasoning",
+      "cpm_lesson": "2.3.4",
+      "cpm_title": "Generic rectangle and distribution",
+      "i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "i_can_exact_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "student_action": "Generic rectangle and distribution",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student computes 16 x 5 as (10 x 5) + (6 x 5). Explain why this strategy works.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "partial_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "(10 x 5) + (6 x 5) = 50 + 30 = 80; distributive property.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A student computes 16 x 5 as (10 x 5) + (6 x 5). Explain why this strategy works.</p>",
+        "answer": "(10 x 5) + (6 x 5) = 50 + 30 = 80; distributive property.",
+        "solution": "(10 x 5) + (6 x 5) = 50 + 30 = 80; distributive property.",
+        "scoring_guidance": "Check: I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.3.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-3-4-T03-S01",
+      "teacher_question_id": "Q022",
+      "bank_item_id": "CC1-AP2-Q022",
+      "family_name": "Generic rectangle and distribution - direct 1",
+      "family_purpose": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "category": "direct",
+      "cpm_lesson": "2.3.4",
+      "cpm_title": "Generic rectangle and distribution",
+      "i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "i_can_exact_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "student_action": "Generic rectangle and distribution",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Use partial products to calculate 13 x 11; write the distributive expression.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "partial_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "(10 x 11) + (3 x 11) = 110 + 33 = 143; distributive property.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Use partial products to calculate 13 x 11; write the distributive expression.</p>",
+        "answer": "(10 x 11) + (3 x 11) = 110 + 33 = 143; distributive property.",
+        "solution": "(10 x 11) + (3 x 11) = 110 + 33 = 143; distributive property.",
+        "scoring_guidance": "Check: I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.3.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-3-4-T03-S02",
+      "teacher_question_id": "Q023",
+      "bank_item_id": "CC1-AP2-Q023",
+      "family_name": "Generic rectangle and distribution - direct 2",
+      "family_purpose": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "category": "direct",
+      "cpm_lesson": "2.3.4",
+      "cpm_title": "Generic rectangle and distribution",
+      "i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "i_can_exact_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "student_action": "Generic rectangle and distribution",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Use partial products to calculate 14 x 7; write the distributive expression.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "partial_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "(10 x 7) + (4 x 7) = 70 + 28 = 98; distributive property.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Use partial products to calculate 14 x 7; write the distributive expression.</p>",
+        "answer": "(10 x 7) + (4 x 7) = 70 + 28 = 98; distributive property.",
+        "solution": "(10 x 7) + (4 x 7) = 70 + 28 = 98; distributive property.",
+        "scoring_guidance": "Check: I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.3.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-3-4-T03-S03",
+      "teacher_question_id": "Q024",
+      "bank_item_id": "CC1-AP2-Q024",
+      "family_name": "Generic rectangle and distribution - direct 3",
+      "family_purpose": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "category": "direct",
+      "cpm_lesson": "2.3.4",
+      "cpm_title": "Generic rectangle and distribution",
+      "i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "i_can_exact_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "student_action": "Generic rectangle and distribution",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Use partial products to calculate 15 x 10; write the distributive expression.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "partial_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "(10 x 10) + (5 x 10) = 100 + 50 = 150; distributive property.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Use partial products to calculate 15 x 10; write the distributive expression.</p>",
+        "answer": "(10 x 10) + (5 x 10) = 100 + 50 = 150; distributive property.",
+        "solution": "(10 x 10) + (5 x 10) = 100 + 50 = 150; distributive property.",
+        "scoring_guidance": "Check: I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.3.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-3-4-T03-P01",
+      "teacher_question_id": "Q025",
+      "bank_item_id": "CC1-AP2-Q025",
+      "family_name": "Generic rectangle and distribution - spiral 1",
+      "family_purpose": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "category": "spiral",
+      "cpm_lesson": "2.3.4",
+      "cpm_title": "Generic rectangle and distribution",
+      "i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "i_can_exact_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "student_action": "Generic rectangle and distribution",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute 9 x 17 mentally by decomposing 17 into 10 and 7.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "partial_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "(10 x 9) + (7 x 9) = 90 + 63 = 153; distributive property.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute 9 x 17 mentally by decomposing 17 into 10 and 7.</p>",
+        "answer": "(10 x 9) + (7 x 9) = 90 + 63 = 153; distributive property.",
+        "solution": "(10 x 9) + (7 x 9) = 90 + 63 = 153; distributive property.",
+        "scoring_guidance": "Check: I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.3.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-3-4-T03-P02",
+      "teacher_question_id": "Q026",
+      "bank_item_id": "CC1-AP2-Q026",
+      "family_name": "Generic rectangle and distribution - spiral 2",
+      "family_purpose": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "category": "spiral",
+      "cpm_lesson": "2.3.4",
+      "cpm_title": "Generic rectangle and distribution",
+      "i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "i_can_exact_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "student_action": "Generic rectangle and distribution",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute 5 x 13 mentally by decomposing 13 into 10 and 3.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "partial_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "(10 x 5) + (3 x 5) = 50 + 15 = 65; distributive property.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute 5 x 13 mentally by decomposing 13 into 10 and 3.</p>",
+        "answer": "(10 x 5) + (3 x 5) = 50 + 15 = 65; distributive property.",
+        "solution": "(10 x 5) + (3 x 5) = 50 + 15 = 65; distributive property.",
+        "scoring_guidance": "Check: I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.3.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-3-4-T03-P03",
+      "teacher_question_id": "Q027",
+      "bank_item_id": "CC1-AP2-Q027",
+      "family_name": "Generic rectangle and distribution - spiral 3",
+      "family_purpose": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "category": "spiral",
+      "cpm_lesson": "2.3.4",
+      "cpm_title": "Generic rectangle and distribution",
+      "i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "i_can_exact_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "student_action": "Generic rectangle and distribution",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute 8 x 14 mentally by decomposing 14 into 10 and 4.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "partial_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "(10 x 8) + (4 x 8) = 80 + 32 = 112; distributive property.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute 8 x 14 mentally by decomposing 14 into 10 and 4.</p>",
+        "answer": "(10 x 8) + (4 x 8) = 80 + 32 = 112; distributive property.",
+        "solution": "(10 x 8) + (4 x 8) = 80 + 32 = 112; distributive property.",
+        "scoring_guidance": "Check: I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.3.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-3-2-T04-R01",
+      "teacher_question_id": "Q028",
+      "bank_item_id": "CC1-AP2-Q028",
+      "family_name": "Numerical distribution - reasoning 1",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "reasoning",
+      "cpm_lesson": "2.3.2",
+      "cpm_title": "Numerical distribution",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Numerical distribution",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student computes 15 x 11 as (10 x 11) + (5 x 11). Explain why this strategy works.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "partial_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "(10 x 11) + (5 x 11) = 110 + 55 = 165; distributive property.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A student computes 15 x 11 as (10 x 11) + (5 x 11). Explain why this strategy works.</p>",
+        "answer": "(10 x 11) + (5 x 11) = 110 + 55 = 165; distributive property.",
+        "solution": "(10 x 11) + (5 x 11) = 110 + 55 = 165; distributive property.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.3.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-3-2-T04-R02",
+      "teacher_question_id": "Q029",
+      "bank_item_id": "CC1-AP2-Q029",
+      "family_name": "Numerical distribution - reasoning 2",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "reasoning",
+      "cpm_lesson": "2.3.2",
+      "cpm_title": "Numerical distribution",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Numerical distribution",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student computes 16 x 7 as (10 x 7) + (6 x 7). Explain why this strategy works.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "partial_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "(10 x 7) + (6 x 7) = 70 + 42 = 112; distributive property.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A student computes 16 x 7 as (10 x 7) + (6 x 7). Explain why this strategy works.</p>",
+        "answer": "(10 x 7) + (6 x 7) = 70 + 42 = 112; distributive property.",
+        "solution": "(10 x 7) + (6 x 7) = 70 + 42 = 112; distributive property.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.3.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-3-2-T04-R03",
+      "teacher_question_id": "Q030",
+      "bank_item_id": "CC1-AP2-Q030",
+      "family_name": "Numerical distribution - reasoning 3",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "reasoning",
+      "cpm_lesson": "2.3.2",
+      "cpm_title": "Numerical distribution",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Numerical distribution",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student computes 17 x 10 as (10 x 10) + (7 x 10). Explain why this strategy works.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "partial_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "(10 x 10) + (7 x 10) = 100 + 70 = 170; distributive property.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A student computes 17 x 10 as (10 x 10) + (7 x 10). Explain why this strategy works.</p>",
+        "answer": "(10 x 10) + (7 x 10) = 100 + 70 = 170; distributive property.",
+        "solution": "(10 x 10) + (7 x 10) = 100 + 70 = 170; distributive property.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.3.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-3-2-T04-S01",
+      "teacher_question_id": "Q031",
+      "bank_item_id": "CC1-AP2-Q031",
+      "family_name": "Numerical distribution - direct 1",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "direct",
+      "cpm_lesson": "2.3.2",
+      "cpm_title": "Numerical distribution",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Numerical distribution",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Use partial products to calculate 14 x 9; write the distributive expression.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "partial_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "(10 x 9) + (4 x 9) = 90 + 36 = 126; distributive property.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Use partial products to calculate 14 x 9; write the distributive expression.</p>",
+        "answer": "(10 x 9) + (4 x 9) = 90 + 36 = 126; distributive property.",
+        "solution": "(10 x 9) + (4 x 9) = 90 + 36 = 126; distributive property.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.3.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-3-2-T04-S02",
+      "teacher_question_id": "Q032",
+      "bank_item_id": "CC1-AP2-Q032",
+      "family_name": "Numerical distribution - direct 2",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "direct",
+      "cpm_lesson": "2.3.2",
+      "cpm_title": "Numerical distribution",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Numerical distribution",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Use partial products to calculate 15 x 5; write the distributive expression.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "partial_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "(10 x 5) + (5 x 5) = 50 + 25 = 75; distributive property.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Use partial products to calculate 15 x 5; write the distributive expression.</p>",
+        "answer": "(10 x 5) + (5 x 5) = 50 + 25 = 75; distributive property.",
+        "solution": "(10 x 5) + (5 x 5) = 50 + 25 = 75; distributive property.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.3.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-3-2-T04-S03",
+      "teacher_question_id": "Q033",
+      "bank_item_id": "CC1-AP2-Q033",
+      "family_name": "Numerical distribution - direct 3",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "direct",
+      "cpm_lesson": "2.3.2",
+      "cpm_title": "Numerical distribution",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Numerical distribution",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Use partial products to calculate 16 x 8; write the distributive expression.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "partial_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "(10 x 8) + (6 x 8) = 80 + 48 = 128; distributive property.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Use partial products to calculate 16 x 8; write the distributive expression.</p>",
+        "answer": "(10 x 8) + (6 x 8) = 80 + 48 = 128; distributive property.",
+        "solution": "(10 x 8) + (6 x 8) = 80 + 48 = 128; distributive property.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.3.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-3-2-T04-P01",
+      "teacher_question_id": "Q034",
+      "bank_item_id": "CC1-AP2-Q034",
+      "family_name": "Numerical distribution - spiral 1",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "spiral",
+      "cpm_lesson": "2.3.2",
+      "cpm_title": "Numerical distribution",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Numerical distribution",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute 7 x 13 mentally by decomposing 13 into 10 and 3.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "partial_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "(10 x 7) + (3 x 7) = 70 + 21 = 91; distributive property.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute 7 x 13 mentally by decomposing 13 into 10 and 3.</p>",
+        "answer": "(10 x 7) + (3 x 7) = 70 + 21 = 91; distributive property.",
+        "solution": "(10 x 7) + (3 x 7) = 70 + 21 = 91; distributive property.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.3.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-3-2-T04-P02",
+      "teacher_question_id": "Q035",
+      "bank_item_id": "CC1-AP2-Q035",
+      "family_name": "Numerical distribution - spiral 2",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "spiral",
+      "cpm_lesson": "2.3.2",
+      "cpm_title": "Numerical distribution",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Numerical distribution",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute 10 x 14 mentally by decomposing 14 into 10 and 4.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "partial_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "(10 x 10) + (4 x 10) = 100 + 40 = 140; distributive property.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute 10 x 14 mentally by decomposing 14 into 10 and 4.</p>",
+        "answer": "(10 x 10) + (4 x 10) = 100 + 40 = 140; distributive property.",
+        "solution": "(10 x 10) + (4 x 10) = 100 + 40 = 140; distributive property.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.3.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP2-2-3-2-T04-P03",
+      "teacher_question_id": "Q036",
+      "bank_item_id": "CC1-AP2-Q036",
+      "family_name": "Numerical distribution - spiral 3",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "spiral",
+      "cpm_lesson": "2.3.2",
+      "cpm_title": "Numerical distribution",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP2",
+      "ap_section": 2,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Numerical distribution",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute 6 x 15 mentally by decomposing 15 into 10 and 5.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "partial_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "(10 x 6) + (5 x 6) = 60 + 30 = 90; distributive property.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute 6 x 15 mentally by decomposing 15 into 10 and 5.</p>",
+        "answer": "(10 x 6) + (5 x 6) = 60 + 30 = 90; distributive property.",
+        "solution": "(10 x 6) + (5 x 6) = 60 + 30 = 90; distributive property.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "2.3.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    }
+  ],
+  "review_summary": {
+    "active_family_count": 36,
+    "review_gate": "teacher feedback is corrective, not a prerequisite to initial use"
+  },
+  "reporting_contract": {
+    "schema_version": 1,
+    "source": "CC1 Assessment Evidence and chapter unit plans",
+    "learning_goal_ids": [
+      "CC1-ES-01",
+      "CC1-ES-02",
+      "CC1-ES-04",
+      "CC1-ES-06"
+    ],
+    "reporting_i_can_ids": [
+      "CC1-ES-01-F-22663BE1",
+      "CC1-ES-04-F-175BD516",
+      "CC1-ES-02-D-9D12B3C1",
+      "CC1-ES-06-P-9EC1023A"
+    ],
+    "family_id_policy": "immutable stable family ID",
+    "question_content_policy": "original teacher-created questions; no textbook reproduction"
+  },
+  "pilot_policy": {
+    "default": "usable immediately",
+    "teacher_approval": "operationally accepted by teacher instruction; not individually proofread",
+    "feedback": "correct and version the canonical bank family when a problem is reported"
+  }
+}

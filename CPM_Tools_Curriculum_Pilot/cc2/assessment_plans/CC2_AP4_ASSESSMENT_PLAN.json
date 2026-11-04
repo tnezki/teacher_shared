@@ -1,0 +1,152 @@
+{
+  "schema": "cpm-course-assessment-plan/v1",
+  "course": "CC2",
+  "chapter": 4,
+  "assessment_plan": "AP4",
+  "chapter_title": "Proportions and Expressions",
+  "essentials": [
+    "CC2-ES-02",
+    "CC2-ES-03"
+  ],
+  "lesson_evidence": [
+    {
+      "lesson": "4.1.2",
+      "target_id": "CC2-ES-03-D-01C7DE0E",
+      "target": "I can use a stated scale factor to find corresponding lengths and explain the units.",
+      "essential_standard": "CC2-ES-03",
+      "ladder_rung": "Developing",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "family_ids": [
+        "CC2-AP4-4-1-2-T01-R01",
+        "CC2-AP4-4-1-2-T01-R02",
+        "CC2-AP4-4-1-2-T01-R03",
+        "CC2-AP4-4-1-2-T01-S01",
+        "CC2-AP4-4-1-2-T01-S02",
+        "CC2-AP4-4-1-2-T01-S03",
+        "CC2-AP4-4-1-2-T01-P01",
+        "CC2-AP4-4-1-2-T01-P02",
+        "CC2-AP4-4-1-2-T01-P03"
+      ],
+      "evidence_note": "Scale-drawing check alone is partial for the integrated ES-03 proportional-model target."
+    },
+    {
+      "lesson": "4.2.2",
+      "target_id": "CC2-ES-03-D-2F28BB63",
+      "target": "I can decide whether a table is proportional by comparing output-to-input ratios.",
+      "essential_standard": "CC2-ES-03",
+      "ladder_rung": "Developing",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "family_ids": [
+        "CC2-AP4-4-2-2-T02-R01",
+        "CC2-AP4-4-2-2-T02-R02",
+        "CC2-AP4-4-2-2-T02-R03",
+        "CC2-AP4-4-2-2-T02-S01",
+        "CC2-AP4-4-2-2-T02-S02",
+        "CC2-AP4-4-2-2-T02-S03",
+        "CC2-AP4-4-2-2-T02-P01",
+        "CC2-AP4-4-2-2-T02-P02",
+        "CC2-AP4-4-2-2-T02-P03"
+      ],
+      "evidence_note": "Independent evidence after instruction, practice, and feedback."
+    },
+    {
+      "lesson": "4.2.3",
+      "target_id": "CC2-ES-03-D-13551904",
+      "target": "I can complete ratio tables and interpret the unit rate with correct units.",
+      "essential_standard": "CC2-ES-03",
+      "ladder_rung": "Developing",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "family_ids": [
+        "CC2-AP4-4-2-3-T03-R01",
+        "CC2-AP4-4-2-3-T03-R02",
+        "CC2-AP4-4-2-3-T03-R03",
+        "CC2-AP4-4-2-3-T03-S01",
+        "CC2-AP4-4-2-3-T03-S02",
+        "CC2-AP4-4-2-3-T03-S03",
+        "CC2-AP4-4-2-3-T03-P01",
+        "CC2-AP4-4-2-3-T03-P02",
+        "CC2-AP4-4-2-3-T03-P03"
+      ],
+      "evidence_note": "Independent evidence after instruction, practice, and feedback."
+    },
+    {
+      "lesson": "4.2.4",
+      "target_id": "CC2-ES-03-PRO-FAD70B31",
+      "target": "I can represent a proportional relationship with a table, a graph through the origin, and y=kx.",
+      "essential_standard": "CC2-ES-03",
+      "ladder_rung": "Proficient",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "family_ids": [
+        "CC2-AP4-4-2-4-T04-R01",
+        "CC2-AP4-4-2-4-T04-R02",
+        "CC2-AP4-4-2-4-T04-R03",
+        "CC2-AP4-4-2-4-T04-S01",
+        "CC2-AP4-4-2-4-T04-S02",
+        "CC2-AP4-4-2-4-T04-S03",
+        "CC2-AP4-4-2-4-T04-P01",
+        "CC2-AP4-4-2-4-T04-P02",
+        "CC2-AP4-4-2-4-T04-P03"
+      ],
+      "evidence_note": "Proficient component for table/graph/equation; full contextual ES-03 extends to Chapter 7."
+    },
+    {
+      "lesson": "4.3.1",
+      "target_id": "CC2-ES-02-D-49F1DB20",
+      "target": "I can combine like terms and evaluate simple expressions correctly.",
+      "essential_standard": "CC2-ES-02",
+      "ladder_rung": "Developing",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "family_ids": [
+        "CC2-AP4-4-3-1-T05-R01",
+        "CC2-AP4-4-3-1-T05-R02",
+        "CC2-AP4-4-3-1-T05-R03",
+        "CC2-AP4-4-3-1-T05-S01",
+        "CC2-AP4-4-3-1-T05-S02",
+        "CC2-AP4-4-3-1-T05-S03",
+        "CC2-AP4-4-3-1-T05-P01",
+        "CC2-AP4-4-3-1-T05-P02",
+        "CC2-AP4-4-3-1-T05-P03"
+      ],
+      "evidence_note": "Independent evidence after instruction, practice, and feedback."
+    },
+    {
+      "lesson": "4.3.3",
+      "target_id": "CC2-ES-02-PRO-F49E90B5",
+      "target": "I can distribute positive and negative factors, combine terms, and prove expression equivalence.",
+      "essential_standard": "CC2-ES-02",
+      "ladder_rung": "Proficient",
+      "evidence_stage": "INDEPENDENT_NEGATIVE_FACTOR_CHECK",
+      "family_ids": [
+        "CC2-AP4-4-3-3-T06-R01",
+        "CC2-AP4-4-3-3-T06-R02",
+        "CC2-AP4-4-3-3-T06-R03",
+        "CC2-AP4-4-3-3-T06-S01",
+        "CC2-AP4-4-3-3-T06-S02",
+        "CC2-AP4-4-3-3-T06-S03",
+        "CC2-AP4-4-3-3-T06-P01",
+        "CC2-AP4-4-3-3-T06-P02",
+        "CC2-AP4-4-3-3-T06-P03"
+      ],
+      "evidence_note": "Explicit negative-outside distribution and all-values justification required; do not treat 4.3.3 alone as proof of that instruction."
+    }
+  ],
+  "assessment_design": {
+    "practice": "select direct plus spiral families and current chapter target",
+    "quick_check": "use concise independent reasoning + direct items from taught targets, do not infer full rung from partial evidence",
+    "checkpoint": "select at least two distinct current targets; include explanation and recheck opportunity",
+    "test": "sample taught chapter evidence plus earlier rechecks; report full proficiency only at appropriate EXPECT stage",
+    "custom": "assemble authored bank exemplars and existing source cards",
+    "feedback_recheck": "use a fresh parallel task after feedback rather than repeating exact data"
+  },
+  "source_authority": {
+    "unit_plan_doc_id": "17YH8Kt-_wzvYAp53T51OuseYeeSALoj8x3P9oYBaxrE",
+    "assessment_evidence_doc_id": "1wzJ8hnB4eVEv1LX3bLlJwLqJjltGj0z7DOwtIwgkMH0",
+    "ladder_doc_id": "1czYyNY0W9PRP5ldpXjfSWPQTYYt68xzVuSTmDDbnWlU",
+    "textbook_mirror_chapter_folder_id": "1Q8AWAWBLKopagtuNIHztzk6Mp0J-n665"
+  },
+  "pilot_policy": {
+    "operational": true,
+    "progressive_audit": true,
+    "mastery_rule": "FIRST_CHECK, READINESS and PARTIAL never automatically equal Proficient."
+  }
+}

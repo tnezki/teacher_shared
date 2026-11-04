@@ -1,0 +1,3717 @@
+{
+  "schema": "cpm-family-bank-plan/v1",
+  "course": "Core Connections Course 2",
+  "assessment_plan": "AP3",
+  "chapter": 3,
+  "plan_title": "Arithmetic Properties",
+  "essential_standard": "Chapter assessment evidence targets from CC2 Learning Ladders and assessment plan",
+  "bank_status": "PILOT_BASELINE_ACTIVE",
+  "source_crosswalk": "assessment_plans/CC2_AP3_ASSESSMENT_PLAN.json",
+  "source_authority": "Current CC2 Chapter Unit Plans; ladder-aligned assessment evidence; mirrored lesson sequence",
+  "family_policy": {
+    "per_i_can": {
+      "reasoning": 3,
+      "direct": 3,
+      "spiral": 3
+    },
+    "approval_gate": "Teacher-directed pilot baseline: questions available now; corrections made when flagged.",
+    "runtime_variation": "Only authored exemplars are included; generated variants need independent mathematical verification.",
+    "review_preview": "Three concise spiral / prerequisite review families per I Can. No source textbook problem text copied.",
+    "visual_rule": "Use registered CPM Tools graph renderer if a supplied graph is necessary; prompts here ask students to draw themselves."
+  },
+  "sections": [
+    {
+      "section": "3.1.2",
+      "title": "Identifying Terms in Expressions",
+      "topic_title": "Numerical grouping and properties",
+      "learning_target": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "cpm_lesson": "3.1.2",
+      "ap_section": 3,
+      "i_cans": [
+        {
+          "id": "CC2-ES-02-PRE-77FECC16",
+          "text": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+          "family_ids": [
+            "CC2-AP3-3-1-2-T01-R01",
+            "CC2-AP3-3-1-2-T01-R02",
+            "CC2-AP3-3-1-2-T01-R03",
+            "CC2-AP3-3-1-2-T01-S01",
+            "CC2-AP3-3-1-2-T01-S02",
+            "CC2-AP3-3-1-2-T01-S03",
+            "CC2-AP3-3-1-2-T01-P01",
+            "CC2-AP3-3-1-2-T01-P02",
+            "CC2-AP3-3-1-2-T01-P03"
+          ],
+          "cpm_lesson": "3.1.2",
+          "cpm_title": "Identifying Terms in Expressions",
+          "topic_title": "Numerical grouping and properties",
+          "learning_goal_id": "CC2-ES-02",
+          "reporting_i_can_text": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+          "ladder_rung": "Prerequisite",
+          "evidence_stage": "READINESS",
+          "scope_note": "Numerical readiness does not itself prove algebraic equivalence for all variable values."
+        }
+      ],
+      "reporting_i_can_id": "CC2-ES-02-PRE-77FECC16",
+      "reporting_i_can_text": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "learning_goal_id": "CC2-ES-02"
+    },
+    {
+      "section": "3.2.2",
+      "title": "Connecting Addition and Subtraction",
+      "topic_title": "Signed addition and subtraction",
+      "learning_target": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "cpm_lesson": "3.2.2",
+      "ap_section": 3,
+      "i_cans": [
+        {
+          "id": "CC2-ES-01-D-318CB6C7",
+          "text": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+          "family_ids": [
+            "CC2-AP3-3-2-2-T02-R01",
+            "CC2-AP3-3-2-2-T02-R02",
+            "CC2-AP3-3-2-2-T02-R03",
+            "CC2-AP3-3-2-2-T02-S01",
+            "CC2-AP3-3-2-2-T02-S02",
+            "CC2-AP3-3-2-2-T02-S03",
+            "CC2-AP3-3-2-2-T02-P01",
+            "CC2-AP3-3-2-2-T02-P02",
+            "CC2-AP3-3-2-2-T02-P03"
+          ],
+          "cpm_lesson": "3.2.2",
+          "cpm_title": "Connecting Addition and Subtraction",
+          "topic_title": "Signed addition and subtraction",
+          "learning_goal_id": "CC2-ES-01",
+          "reporting_i_can_text": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+          "scope_note": ""
+        }
+      ],
+      "reporting_i_can_id": "CC2-ES-01-D-318CB6C7",
+      "reporting_i_can_text": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "learning_goal_id": "CC2-ES-01"
+    },
+    {
+      "section": "3.3.1",
+      "title": "Division with Rational Numbers",
+      "topic_title": "Signs in products and quotients",
+      "learning_target": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "cpm_lesson": "3.3.1",
+      "ap_section": 3,
+      "i_cans": [
+        {
+          "id": "CC2-ES-01-D-815C67D1",
+          "text": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+          "family_ids": [
+            "CC2-AP3-3-3-1-T03-R01",
+            "CC2-AP3-3-3-1-T03-R02",
+            "CC2-AP3-3-3-1-T03-R03",
+            "CC2-AP3-3-3-1-T03-S01",
+            "CC2-AP3-3-3-1-T03-S02",
+            "CC2-AP3-3-3-1-T03-S03",
+            "CC2-AP3-3-3-1-T03-P01",
+            "CC2-AP3-3-3-1-T03-P02",
+            "CC2-AP3-3-3-1-T03-P03"
+          ],
+          "cpm_lesson": "3.3.1",
+          "cpm_title": "Division with Rational Numbers",
+          "topic_title": "Signs in products and quotients",
+          "learning_goal_id": "CC2-ES-01",
+          "reporting_i_can_text": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+          "scope_note": ""
+        }
+      ],
+      "reporting_i_can_id": "CC2-ES-01-D-815C67D1",
+      "reporting_i_can_text": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "learning_goal_id": "CC2-ES-01"
+    },
+    {
+      "section": "3.3.3",
+      "title": "Arithmetic Properties",
+      "topic_title": "Mixed rational-number operations",
+      "learning_target": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "cpm_lesson": "3.3.3",
+      "ap_section": 3,
+      "i_cans": [
+        {
+          "id": "CC2-ES-01-PRO-E9C686D9",
+          "text": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+          "family_ids": [
+            "CC2-AP3-3-3-3-T04-R01",
+            "CC2-AP3-3-3-3-T04-R02",
+            "CC2-AP3-3-3-3-T04-R03",
+            "CC2-AP3-3-3-3-T04-S01",
+            "CC2-AP3-3-3-3-T04-S02",
+            "CC2-AP3-3-3-3-T04-S03",
+            "CC2-AP3-3-3-3-T04-P01",
+            "CC2-AP3-3-3-3-T04-P02",
+            "CC2-AP3-3-3-3-T04-P03"
+          ],
+          "cpm_lesson": "3.3.3",
+          "cpm_title": "Arithmetic Properties",
+          "topic_title": "Mixed rational-number operations",
+          "learning_goal_id": "CC2-ES-01",
+          "reporting_i_can_text": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+          "ladder_rung": "Proficient",
+          "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+          "scope_note": ""
+        },
+        {
+          "id": "CC2-ES-01-PRO-63EAD757",
+          "text": "I can solve a multistep signed-rational situation and interpret the result in context.",
+          "family_ids": [
+            "CC2-AP3-3-3-3-T05-R01",
+            "CC2-AP3-3-3-3-T05-R02",
+            "CC2-AP3-3-3-3-T05-R03",
+            "CC2-AP3-3-3-3-T05-S01",
+            "CC2-AP3-3-3-3-T05-S02",
+            "CC2-AP3-3-3-3-T05-S03",
+            "CC2-AP3-3-3-3-T05-P01",
+            "CC2-AP3-3-3-3-T05-P02",
+            "CC2-AP3-3-3-3-T05-P03"
+          ],
+          "cpm_lesson": "3.3.3",
+          "cpm_title": "Arithmetic Properties",
+          "topic_title": "Interpret a signed-number situation",
+          "learning_goal_id": "CC2-ES-01",
+          "reporting_i_can_text": "I can solve a multistep signed-rational situation and interpret the result in context.",
+          "ladder_rung": "Proficient",
+          "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+          "scope_note": "Proficient needs an independently interpreted context as well as accurate operations."
+        }
+      ],
+      "reporting_i_can_id": "CC2-ES-01-PRO-E9C686D9",
+      "reporting_i_can_text": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "learning_goal_id": "CC2-ES-01"
+    }
+  ],
+  "mastery_goals": [
+    {
+      "id": "CC2-ES-01",
+      "title": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "mastery_goal": "I can add and subtract signed rational numbers using models and inverse reasoning. I can multiply and divide signed rational numbers and justify the sign with patterns or properties. I can calculate with fractions, decimals, and signed numbers and justify the order and signs. I can solve a multistep signed-rational situation and interpret the result in context.",
+      "i_cans": [
+        {
+          "id": "CC2-ES-01-D-318CB6C7",
+          "text": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+          "family_ids": [
+            "CC2-AP3-3-2-2-T02-R01",
+            "CC2-AP3-3-2-2-T02-R02",
+            "CC2-AP3-3-2-2-T02-R03",
+            "CC2-AP3-3-2-2-T02-S01",
+            "CC2-AP3-3-2-2-T02-S02",
+            "CC2-AP3-3-2-2-T02-S03",
+            "CC2-AP3-3-2-2-T02-P01",
+            "CC2-AP3-3-2-2-T02-P02",
+            "CC2-AP3-3-2-2-T02-P03"
+          ],
+          "cpm_lesson": "3.2.2",
+          "cpm_title": "Connecting Addition and Subtraction",
+          "topic_title": "Signed addition and subtraction",
+          "learning_goal_id": "CC2-ES-01",
+          "reporting_i_can_text": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+          "scope_note": ""
+        },
+        {
+          "id": "CC2-ES-01-D-815C67D1",
+          "text": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+          "family_ids": [
+            "CC2-AP3-3-3-1-T03-R01",
+            "CC2-AP3-3-3-1-T03-R02",
+            "CC2-AP3-3-3-1-T03-R03",
+            "CC2-AP3-3-3-1-T03-S01",
+            "CC2-AP3-3-3-1-T03-S02",
+            "CC2-AP3-3-3-1-T03-S03",
+            "CC2-AP3-3-3-1-T03-P01",
+            "CC2-AP3-3-3-1-T03-P02",
+            "CC2-AP3-3-3-1-T03-P03"
+          ],
+          "cpm_lesson": "3.3.1",
+          "cpm_title": "Division with Rational Numbers",
+          "topic_title": "Signs in products and quotients",
+          "learning_goal_id": "CC2-ES-01",
+          "reporting_i_can_text": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+          "scope_note": ""
+        },
+        {
+          "id": "CC2-ES-01-PRO-E9C686D9",
+          "text": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+          "family_ids": [
+            "CC2-AP3-3-3-3-T04-R01",
+            "CC2-AP3-3-3-3-T04-R02",
+            "CC2-AP3-3-3-3-T04-R03",
+            "CC2-AP3-3-3-3-T04-S01",
+            "CC2-AP3-3-3-3-T04-S02",
+            "CC2-AP3-3-3-3-T04-S03",
+            "CC2-AP3-3-3-3-T04-P01",
+            "CC2-AP3-3-3-3-T04-P02",
+            "CC2-AP3-3-3-3-T04-P03"
+          ],
+          "cpm_lesson": "3.3.3",
+          "cpm_title": "Arithmetic Properties",
+          "topic_title": "Mixed rational-number operations",
+          "learning_goal_id": "CC2-ES-01",
+          "reporting_i_can_text": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+          "ladder_rung": "Proficient",
+          "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+          "scope_note": ""
+        },
+        {
+          "id": "CC2-ES-01-PRO-63EAD757",
+          "text": "I can solve a multistep signed-rational situation and interpret the result in context.",
+          "family_ids": [
+            "CC2-AP3-3-3-3-T05-R01",
+            "CC2-AP3-3-3-3-T05-R02",
+            "CC2-AP3-3-3-3-T05-R03",
+            "CC2-AP3-3-3-3-T05-S01",
+            "CC2-AP3-3-3-3-T05-S02",
+            "CC2-AP3-3-3-3-T05-S03",
+            "CC2-AP3-3-3-3-T05-P01",
+            "CC2-AP3-3-3-3-T05-P02",
+            "CC2-AP3-3-3-3-T05-P03"
+          ],
+          "cpm_lesson": "3.3.3",
+          "cpm_title": "Arithmetic Properties",
+          "topic_title": "Interpret a signed-number situation",
+          "learning_goal_id": "CC2-ES-01",
+          "reporting_i_can_text": "I can solve a multistep signed-rational situation and interpret the result in context.",
+          "ladder_rung": "Proficient",
+          "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+          "scope_note": "Proficient needs an independently interpreted context as well as accurate operations."
+        }
+      ],
+      "reporting_contract": "cc2-essential-standards/v1"
+    },
+    {
+      "id": "CC2-ES-02",
+      "title": "CC2-ES-02",
+      "assessment_plan": "AP3",
+      "mastery_goal": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "i_cans": [
+        {
+          "id": "CC2-ES-02-PRE-77FECC16",
+          "text": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+          "family_ids": [
+            "CC2-AP3-3-1-2-T01-R01",
+            "CC2-AP3-3-1-2-T01-R02",
+            "CC2-AP3-3-1-2-T01-R03",
+            "CC2-AP3-3-1-2-T01-S01",
+            "CC2-AP3-3-1-2-T01-S02",
+            "CC2-AP3-3-1-2-T01-S03",
+            "CC2-AP3-3-1-2-T01-P01",
+            "CC2-AP3-3-1-2-T01-P02",
+            "CC2-AP3-3-1-2-T01-P03"
+          ],
+          "cpm_lesson": "3.1.2",
+          "cpm_title": "Identifying Terms in Expressions",
+          "topic_title": "Numerical grouping and properties",
+          "learning_goal_id": "CC2-ES-02",
+          "reporting_i_can_text": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+          "ladder_rung": "Prerequisite",
+          "evidence_stage": "READINESS",
+          "scope_note": "Numerical readiness does not itself prove algebraic equivalence for all variable values."
+        }
+      ],
+      "reporting_contract": "cc2-essential-standards/v1"
+    }
+  ],
+  "families": [
+    {
+      "family_id": "CC2-AP3-3-1-2-T01-R01",
+      "teacher_question_id": "Q001",
+      "bank_item_id": "CC2-AP3-Q001",
+      "family_name": "Numerical grouping and properties — reasoning 1",
+      "family_purpose": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "category": "reasoning",
+      "cpm_lesson": "3.1.2",
+      "cpm_title": "Identifying Terms in Expressions",
+      "topic_title": "Numerical grouping and properties",
+      "i_can_id": "CC2-ES-02-PRE-77FECC16",
+      "i_can_exact_text": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "learning_goal_id": "CC2-ES-02",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "student_action": "Compare 4+3×5 with (4+3)×5. Explain the different results.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compare 4+3×5 with (4+3)×5. Explain the different results.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-1-2-T01-R01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "19 versus 35: multiplication first unless parentheses change grouping.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compare 4+3×5 with (4+3)×5. Explain the different results.</p>",
+        "answer": "19 versus 35: multiplication first unless parentheses change grouping.",
+        "solution": "19 versus 35: multiplication first unless parentheses change grouping.",
+        "scoring_guidance": "Assess I can use parentheses, operation order, and number properties to evaluate numerical expressions. (evidence: READINESS). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.1.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-02-PRE-77FECC16",
+      "reporting_i_can_text": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "READINESS",
+      "ladder_rung": "Prerequisite",
+      "scope_note": "Numerical readiness does not itself prove algebraic equivalence for all variable values."
+    },
+    {
+      "family_id": "CC2-AP3-3-1-2-T01-R02",
+      "teacher_question_id": "Q002",
+      "bank_item_id": "CC2-AP3-Q002",
+      "family_name": "Numerical grouping and properties — reasoning 2",
+      "family_purpose": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "category": "reasoning",
+      "cpm_lesson": "3.1.2",
+      "cpm_title": "Identifying Terms in Expressions",
+      "topic_title": "Numerical grouping and properties",
+      "i_can_id": "CC2-ES-02-PRE-77FECC16",
+      "i_can_exact_text": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "learning_goal_id": "CC2-ES-02",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "student_action": "A student writes 12-4÷2=4. Explain and correct the operation order.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student writes 12-4÷2=4. Explain and correct the operation order.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-1-2-T01-R02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "Divide first: 12-2=10.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A student writes 12-4÷2=4. Explain and correct the operation order.</p>",
+        "answer": "Divide first: 12-2=10.",
+        "solution": "Divide first: 12-2=10.",
+        "scoring_guidance": "Assess I can use parentheses, operation order, and number properties to evaluate numerical expressions. (evidence: READINESS). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.1.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-02-PRE-77FECC16",
+      "reporting_i_can_text": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "READINESS",
+      "ladder_rung": "Prerequisite",
+      "scope_note": "Numerical readiness does not itself prove algebraic equivalence for all variable values."
+    },
+    {
+      "family_id": "CC2-AP3-3-1-2-T01-R03",
+      "teacher_question_id": "Q003",
+      "bank_item_id": "CC2-AP3-Q003",
+      "family_name": "Numerical grouping and properties — reasoning 3",
+      "family_purpose": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "category": "reasoning",
+      "cpm_lesson": "3.1.2",
+      "cpm_title": "Identifying Terms in Expressions",
+      "topic_title": "Numerical grouping and properties",
+      "i_can_id": "CC2-ES-02-PRE-77FECC16",
+      "i_can_exact_text": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "learning_goal_id": "CC2-ES-02",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "student_action": "Show that 6(10+2)=6×10+6×2 without naming variable properties yet.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Show that 6(10+2)=6×10+6×2 without naming variable properties yet.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-1-2-T01-R03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "72=60+12=72; distribute 6 to each addend.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Show that 6(10+2)=6×10+6×2 without naming variable properties yet.</p>",
+        "answer": "72=60+12=72; distribute 6 to each addend.",
+        "solution": "72=60+12=72; distribute 6 to each addend.",
+        "scoring_guidance": "Assess I can use parentheses, operation order, and number properties to evaluate numerical expressions. (evidence: READINESS). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.1.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-02-PRE-77FECC16",
+      "reporting_i_can_text": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "READINESS",
+      "ladder_rung": "Prerequisite",
+      "scope_note": "Numerical readiness does not itself prove algebraic equivalence for all variable values."
+    },
+    {
+      "family_id": "CC2-AP3-3-1-2-T01-S01",
+      "teacher_question_id": "Q004",
+      "bank_item_id": "CC2-AP3-Q004",
+      "family_name": "Numerical grouping and properties — direct skill 1",
+      "family_purpose": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "category": "direct",
+      "cpm_lesson": "3.1.2",
+      "cpm_title": "Identifying Terms in Expressions",
+      "topic_title": "Numerical grouping and properties",
+      "i_can_id": "CC2-ES-02-PRE-77FECC16",
+      "i_can_exact_text": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "learning_goal_id": "CC2-ES-02",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "student_action": "Evaluate 5+2(7-3).",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Evaluate 5+2(7-3).</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-1-2-T01-S01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "13.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Evaluate 5+2(7-3).</p>",
+        "answer": "13.",
+        "solution": "13.",
+        "scoring_guidance": "Assess I can use parentheses, operation order, and number properties to evaluate numerical expressions. (evidence: READINESS). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.1.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-02-PRE-77FECC16",
+      "reporting_i_can_text": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "READINESS",
+      "ladder_rung": "Prerequisite",
+      "scope_note": "Numerical readiness does not itself prove algebraic equivalence for all variable values."
+    },
+    {
+      "family_id": "CC2-AP3-3-1-2-T01-S02",
+      "teacher_question_id": "Q005",
+      "bank_item_id": "CC2-AP3-Q005",
+      "family_name": "Numerical grouping and properties — direct skill 2",
+      "family_purpose": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "category": "direct",
+      "cpm_lesson": "3.1.2",
+      "cpm_title": "Identifying Terms in Expressions",
+      "topic_title": "Numerical grouping and properties",
+      "i_can_id": "CC2-ES-02-PRE-77FECC16",
+      "i_can_exact_text": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "learning_goal_id": "CC2-ES-02",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "student_action": "Evaluate 24÷(2×3).",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Evaluate 24÷(2×3).</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-1-2-T01-S02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Evaluate 24÷(2×3).</p>",
+        "answer": "4.",
+        "solution": "4.",
+        "scoring_guidance": "Assess I can use parentheses, operation order, and number properties to evaluate numerical expressions. (evidence: READINESS). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.1.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-02-PRE-77FECC16",
+      "reporting_i_can_text": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "READINESS",
+      "ladder_rung": "Prerequisite",
+      "scope_note": "Numerical readiness does not itself prove algebraic equivalence for all variable values."
+    },
+    {
+      "family_id": "CC2-AP3-3-1-2-T01-S03",
+      "teacher_question_id": "Q006",
+      "bank_item_id": "CC2-AP3-Q006",
+      "family_name": "Numerical grouping and properties — direct skill 3",
+      "family_purpose": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "category": "direct",
+      "cpm_lesson": "3.1.2",
+      "cpm_title": "Identifying Terms in Expressions",
+      "topic_title": "Numerical grouping and properties",
+      "i_can_id": "CC2-ES-02-PRE-77FECC16",
+      "i_can_exact_text": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "learning_goal_id": "CC2-ES-02",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "student_action": "Evaluate 9-2×4.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Evaluate 9-2×4.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-1-2-T01-S03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "1.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Evaluate 9-2×4.</p>",
+        "answer": "1.",
+        "solution": "1.",
+        "scoring_guidance": "Assess I can use parentheses, operation order, and number properties to evaluate numerical expressions. (evidence: READINESS). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.1.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-02-PRE-77FECC16",
+      "reporting_i_can_text": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "READINESS",
+      "ladder_rung": "Prerequisite",
+      "scope_note": "Numerical readiness does not itself prove algebraic equivalence for all variable values."
+    },
+    {
+      "family_id": "CC2-AP3-3-1-2-T01-P01",
+      "teacher_question_id": "Q007",
+      "bank_item_id": "CC2-AP3-Q007",
+      "family_name": "Numerical grouping and properties — review & preview 1",
+      "family_purpose": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "category": "spiral",
+      "cpm_lesson": "3.1.2",
+      "cpm_title": "Identifying Terms in Expressions",
+      "topic_title": "Numerical grouping and properties",
+      "i_can_id": "CC2-ES-02-PRE-77FECC16",
+      "i_can_exact_text": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "learning_goal_id": "CC2-ES-02",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward numerical grouping and properties",
+      "student_action": "Compute 3×(4+1).",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute 3×(4+1).</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-1-2-T01-P01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "15.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute 3×(4+1).</p>",
+        "answer": "15.",
+        "solution": "15.",
+        "scoring_guidance": "Assess I can use parentheses, operation order, and number properties to evaluate numerical expressions. (evidence: READINESS). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.1.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-02-PRE-77FECC16",
+      "reporting_i_can_text": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "READINESS",
+      "ladder_rung": "Prerequisite",
+      "scope_note": "Numerical readiness does not itself prove algebraic equivalence for all variable values."
+    },
+    {
+      "family_id": "CC2-AP3-3-1-2-T01-P02",
+      "teacher_question_id": "Q008",
+      "bank_item_id": "CC2-AP3-Q008",
+      "family_name": "Numerical grouping and properties — review & preview 2",
+      "family_purpose": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "category": "spiral",
+      "cpm_lesson": "3.1.2",
+      "cpm_title": "Identifying Terms in Expressions",
+      "topic_title": "Numerical grouping and properties",
+      "i_can_id": "CC2-ES-02-PRE-77FECC16",
+      "i_can_exact_text": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "learning_goal_id": "CC2-ES-02",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward numerical grouping and properties",
+      "student_action": "Find the opposite of -6.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Find the opposite of -6.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-1-2-T01-P02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "6.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Find the opposite of -6.</p>",
+        "answer": "6.",
+        "solution": "6.",
+        "scoring_guidance": "Assess I can use parentheses, operation order, and number properties to evaluate numerical expressions. (evidence: READINESS). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.1.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-02-PRE-77FECC16",
+      "reporting_i_can_text": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "READINESS",
+      "ladder_rung": "Prerequisite",
+      "scope_note": "Numerical readiness does not itself prove algebraic equivalence for all variable values."
+    },
+    {
+      "family_id": "CC2-AP3-3-1-2-T01-P03",
+      "teacher_question_id": "Q009",
+      "bank_item_id": "CC2-AP3-Q009",
+      "family_name": "Numerical grouping and properties — review & preview 3",
+      "family_purpose": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "category": "spiral",
+      "cpm_lesson": "3.1.2",
+      "cpm_title": "Identifying Terms in Expressions",
+      "topic_title": "Numerical grouping and properties",
+      "i_can_id": "CC2-ES-02-PRE-77FECC16",
+      "i_can_exact_text": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "learning_goal_id": "CC2-ES-02",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward numerical grouping and properties",
+      "student_action": "Simplify 12/16.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Simplify 12/16.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-1-2-T01-P03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "3/4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Simplify 12/16.</p>",
+        "answer": "3/4.",
+        "solution": "3/4.",
+        "scoring_guidance": "Assess I can use parentheses, operation order, and number properties to evaluate numerical expressions. (evidence: READINESS). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.1.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-02-PRE-77FECC16",
+      "reporting_i_can_text": "I can use parentheses, operation order, and number properties to evaluate numerical expressions.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "READINESS",
+      "ladder_rung": "Prerequisite",
+      "scope_note": "Numerical readiness does not itself prove algebraic equivalence for all variable values."
+    },
+    {
+      "family_id": "CC2-AP3-3-2-2-T02-R01",
+      "teacher_question_id": "Q010",
+      "bank_item_id": "CC2-AP3-Q010",
+      "family_name": "Signed addition and subtraction — reasoning 1",
+      "family_purpose": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "category": "reasoning",
+      "cpm_lesson": "3.2.2",
+      "cpm_title": "Connecting Addition and Subtraction",
+      "topic_title": "Signed addition and subtraction",
+      "i_can_id": "CC2-ES-01-D-318CB6C7",
+      "i_can_exact_text": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "student_action": "A temperature changes from -2.5°C to 3°C. Explain the change with subtraction and a number line.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A temperature changes from -2.5°C to 3°C. Explain the change with subtraction and a number line.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-2-2-T02-R01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "3-(-2.5)=5.5°C rise; subtraction of a negative adds 2.5.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A temperature changes from -2.5°C to 3°C. Explain the change with subtraction and a number line.</p>",
+        "answer": "3-(-2.5)=5.5°C rise; subtraction of a negative adds 2.5.",
+        "solution": "3-(-2.5)=5.5°C rise; subtraction of a negative adds 2.5.",
+        "scoring_guidance": "Assess I can add and subtract signed rational numbers using models and inverse reasoning. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.2.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-D-318CB6C7",
+      "reporting_i_can_text": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP3-3-2-2-T02-R02",
+      "teacher_question_id": "Q011",
+      "bank_item_id": "CC2-AP3-Q011",
+      "family_name": "Signed addition and subtraction — reasoning 2",
+      "family_purpose": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "category": "reasoning",
+      "cpm_lesson": "3.2.2",
+      "cpm_title": "Connecting Addition and Subtraction",
+      "topic_title": "Signed addition and subtraction",
+      "i_can_id": "CC2-ES-01-D-318CB6C7",
+      "i_can_exact_text": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "student_action": "A student computes -3-(-4)=-7. Identify the mistake with a model.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student computes -3-(-4)=-7. Identify the mistake with a model.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-2-2-T02-R02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "Subtracting -4 is adding 4: -3+4=1.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A student computes -3-(-4)=-7. Identify the mistake with a model.</p>",
+        "answer": "Subtracting -4 is adding 4: -3+4=1.",
+        "solution": "Subtracting -4 is adding 4: -3+4=1.",
+        "scoring_guidance": "Assess I can add and subtract signed rational numbers using models and inverse reasoning. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.2.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-D-318CB6C7",
+      "reporting_i_can_text": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP3-3-2-2-T02-R03",
+      "teacher_question_id": "Q012",
+      "bank_item_id": "CC2-AP3-Q012",
+      "family_name": "Signed addition and subtraction — reasoning 3",
+      "family_purpose": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "category": "reasoning",
+      "cpm_lesson": "3.2.2",
+      "cpm_title": "Connecting Addition and Subtraction",
+      "topic_title": "Signed addition and subtraction",
+      "i_can_id": "CC2-ES-01-D-318CB6C7",
+      "i_can_exact_text": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "student_action": "Explain why 1/2-(-3/4) is larger than 1/2.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Explain why 1/2-(-3/4) is larger than 1/2.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-2-2-T02-R03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "Removing a negative adds: 1/2+3/4=5/4=1 1/4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Explain why 1/2-(-3/4) is larger than 1/2.</p>",
+        "answer": "Removing a negative adds: 1/2+3/4=5/4=1 1/4.",
+        "solution": "Removing a negative adds: 1/2+3/4=5/4=1 1/4.",
+        "scoring_guidance": "Assess I can add and subtract signed rational numbers using models and inverse reasoning. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.2.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-D-318CB6C7",
+      "reporting_i_can_text": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP3-3-2-2-T02-S01",
+      "teacher_question_id": "Q013",
+      "bank_item_id": "CC2-AP3-Q013",
+      "family_name": "Signed addition and subtraction — direct skill 1",
+      "family_purpose": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "category": "direct",
+      "cpm_lesson": "3.2.2",
+      "cpm_title": "Connecting Addition and Subtraction",
+      "topic_title": "Signed addition and subtraction",
+      "i_can_id": "CC2-ES-01-D-318CB6C7",
+      "i_can_exact_text": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "student_action": "Compute -5-(-2).",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute -5-(-2).</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-2-2-T02-S01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "-3.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute -5-(-2).</p>",
+        "answer": "-3.",
+        "solution": "-3.",
+        "scoring_guidance": "Assess I can add and subtract signed rational numbers using models and inverse reasoning. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.2.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-D-318CB6C7",
+      "reporting_i_can_text": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP3-3-2-2-T02-S02",
+      "teacher_question_id": "Q014",
+      "bank_item_id": "CC2-AP3-Q014",
+      "family_name": "Signed addition and subtraction — direct skill 2",
+      "family_purpose": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "category": "direct",
+      "cpm_lesson": "3.2.2",
+      "cpm_title": "Connecting Addition and Subtraction",
+      "topic_title": "Signed addition and subtraction",
+      "i_can_id": "CC2-ES-01-D-318CB6C7",
+      "i_can_exact_text": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "student_action": "Compute -1/4 + 5/8.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute -1/4 + 5/8.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-2-2-T02-S02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "3/8.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute -1/4 + 5/8.</p>",
+        "answer": "3/8.",
+        "solution": "3/8.",
+        "scoring_guidance": "Assess I can add and subtract signed rational numbers using models and inverse reasoning. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.2.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-D-318CB6C7",
+      "reporting_i_can_text": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP3-3-2-2-T02-S03",
+      "teacher_question_id": "Q015",
+      "bank_item_id": "CC2-AP3-Q015",
+      "family_name": "Signed addition and subtraction — direct skill 3",
+      "family_purpose": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "category": "direct",
+      "cpm_lesson": "3.2.2",
+      "cpm_title": "Connecting Addition and Subtraction",
+      "topic_title": "Signed addition and subtraction",
+      "i_can_id": "CC2-ES-01-D-318CB6C7",
+      "i_can_exact_text": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "student_action": "Compute 2.5-(-1.75).",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute 2.5-(-1.75).</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-2-2-T02-S03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "4.25.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute 2.5-(-1.75).</p>",
+        "answer": "4.25.",
+        "solution": "4.25.",
+        "scoring_guidance": "Assess I can add and subtract signed rational numbers using models and inverse reasoning. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.2.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-D-318CB6C7",
+      "reporting_i_can_text": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP3-3-2-2-T02-P01",
+      "teacher_question_id": "Q016",
+      "bank_item_id": "CC2-AP3-Q016",
+      "family_name": "Signed addition and subtraction — review & preview 1",
+      "family_purpose": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "category": "spiral",
+      "cpm_lesson": "3.2.2",
+      "cpm_title": "Connecting Addition and Subtraction",
+      "topic_title": "Signed addition and subtraction",
+      "i_can_id": "CC2-ES-01-D-318CB6C7",
+      "i_can_exact_text": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward signed addition and subtraction",
+      "student_action": "Compute -3+7.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute -3+7.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-2-2-T02-P01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute -3+7.</p>",
+        "answer": "4.",
+        "solution": "4.",
+        "scoring_guidance": "Assess I can add and subtract signed rational numbers using models and inverse reasoning. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.2.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-D-318CB6C7",
+      "reporting_i_can_text": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP3-3-2-2-T02-P02",
+      "teacher_question_id": "Q017",
+      "bank_item_id": "CC2-AP3-Q017",
+      "family_name": "Signed addition and subtraction — review & preview 2",
+      "family_purpose": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "category": "spiral",
+      "cpm_lesson": "3.2.2",
+      "cpm_title": "Connecting Addition and Subtraction",
+      "topic_title": "Signed addition and subtraction",
+      "i_can_id": "CC2-ES-01-D-318CB6C7",
+      "i_can_exact_text": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward signed addition and subtraction",
+      "student_action": "Order -1/2,0,-1.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Order -1/2,0,-1.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-2-2-T02-P02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "-1,-1/2,0.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Order -1/2,0,-1.</p>",
+        "answer": "-1,-1/2,0.",
+        "solution": "-1,-1/2,0.",
+        "scoring_guidance": "Assess I can add and subtract signed rational numbers using models and inverse reasoning. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.2.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-D-318CB6C7",
+      "reporting_i_can_text": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP3-3-2-2-T02-P03",
+      "teacher_question_id": "Q018",
+      "bank_item_id": "CC2-AP3-Q018",
+      "family_name": "Signed addition and subtraction — review & preview 3",
+      "family_purpose": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "category": "spiral",
+      "cpm_lesson": "3.2.2",
+      "cpm_title": "Connecting Addition and Subtraction",
+      "topic_title": "Signed addition and subtraction",
+      "i_can_id": "CC2-ES-01-D-318CB6C7",
+      "i_can_exact_text": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward signed addition and subtraction",
+      "student_action": "Convert 0.25 to fraction.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Convert 0.25 to fraction.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-2-2-T02-P03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "1/4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Convert 0.25 to fraction.</p>",
+        "answer": "1/4.",
+        "solution": "1/4.",
+        "scoring_guidance": "Assess I can add and subtract signed rational numbers using models and inverse reasoning. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.2.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-D-318CB6C7",
+      "reporting_i_can_text": "I can add and subtract signed rational numbers using models and inverse reasoning.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP3-3-3-1-T03-R01",
+      "teacher_question_id": "Q019",
+      "bank_item_id": "CC2-AP3-Q019",
+      "family_name": "Signs in products and quotients — reasoning 1",
+      "family_purpose": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "category": "reasoning",
+      "cpm_lesson": "3.3.1",
+      "cpm_title": "Division with Rational Numbers",
+      "topic_title": "Signs in products and quotients",
+      "i_can_id": "CC2-ES-01-D-815C67D1",
+      "i_can_exact_text": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "student_action": "Explain why (-3/4)×(-8/9) must be positive and compute it.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Explain why (-3/4)×(-8/9) must be positive and compute it.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-3-1-T03-R01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "Two negative factors yield a positive; 24/36=2/3.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Explain why (-3/4)×(-8/9) must be positive and compute it.</p>",
+        "answer": "Two negative factors yield a positive; 24/36=2/3.",
+        "solution": "Two negative factors yield a positive; 24/36=2/3.",
+        "scoring_guidance": "Assess I can multiply and divide signed rational numbers and justify the sign with patterns or properties. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.3.1",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-D-815C67D1",
+      "reporting_i_can_text": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP3-3-3-1-T03-R02",
+      "teacher_question_id": "Q020",
+      "bank_item_id": "CC2-AP3-Q020",
+      "family_name": "Signs in products and quotients — reasoning 2",
+      "family_purpose": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "category": "reasoning",
+      "cpm_lesson": "3.3.1",
+      "cpm_title": "Division with Rational Numbers",
+      "topic_title": "Signs in products and quotients",
+      "i_can_id": "CC2-ES-01-D-815C67D1",
+      "i_can_exact_text": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "student_action": "A student claims (-2.4)÷0.6=4. Explain why the sign must be negative.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student claims (-2.4)÷0.6=4. Explain why the sign must be negative.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-3-1-T03-R02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "Different signs give a negative quotient; 2.4÷0.6=4, so -4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A student claims (-2.4)÷0.6=4. Explain why the sign must be negative.</p>",
+        "answer": "Different signs give a negative quotient; 2.4÷0.6=4, so -4.",
+        "solution": "Different signs give a negative quotient; 2.4÷0.6=4, so -4.",
+        "scoring_guidance": "Assess I can multiply and divide signed rational numbers and justify the sign with patterns or properties. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.3.1",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-D-815C67D1",
+      "reporting_i_can_text": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP3-3-3-1-T03-R03",
+      "teacher_question_id": "Q021",
+      "bank_item_id": "CC2-AP3-Q021",
+      "family_name": "Signs in products and quotients — reasoning 3",
+      "family_purpose": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "category": "reasoning",
+      "cpm_lesson": "3.3.1",
+      "cpm_title": "Division with Rational Numbers",
+      "topic_title": "Signs in products and quotients",
+      "i_can_id": "CC2-ES-01-D-815C67D1",
+      "i_can_exact_text": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "student_action": "Use a pattern (-2)×3,(-2)×2,(-2)×1,(-2)×0 to infer (-2)×(-1).",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Use a pattern (-2)×3,(-2)×2,(-2)×1,(-2)×0 to infer (-2)×(-1).</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-3-1-T03-R03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "-6,-4,-2,0, then +2; (-2)×(-1)=2.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Use a pattern (-2)×3,(-2)×2,(-2)×1,(-2)×0 to infer (-2)×(-1).</p>",
+        "answer": "-6,-4,-2,0, then +2; (-2)×(-1)=2.",
+        "solution": "-6,-4,-2,0, then +2; (-2)×(-1)=2.",
+        "scoring_guidance": "Assess I can multiply and divide signed rational numbers and justify the sign with patterns or properties. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.3.1",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-D-815C67D1",
+      "reporting_i_can_text": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP3-3-3-1-T03-S01",
+      "teacher_question_id": "Q022",
+      "bank_item_id": "CC2-AP3-Q022",
+      "family_name": "Signs in products and quotients — direct skill 1",
+      "family_purpose": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "category": "direct",
+      "cpm_lesson": "3.3.1",
+      "cpm_title": "Division with Rational Numbers",
+      "topic_title": "Signs in products and quotients",
+      "i_can_id": "CC2-ES-01-D-815C67D1",
+      "i_can_exact_text": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "student_action": "Compute (-5/6)÷(5/3).",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute (-5/6)÷(5/3).</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-3-1-T03-S01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "-1/2.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute (-5/6)÷(5/3).</p>",
+        "answer": "-1/2.",
+        "solution": "-1/2.",
+        "scoring_guidance": "Assess I can multiply and divide signed rational numbers and justify the sign with patterns or properties. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.3.1",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-D-815C67D1",
+      "reporting_i_can_text": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP3-3-3-1-T03-S02",
+      "teacher_question_id": "Q023",
+      "bank_item_id": "CC2-AP3-Q023",
+      "family_name": "Signs in products and quotients — direct skill 2",
+      "family_purpose": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "category": "direct",
+      "cpm_lesson": "3.3.1",
+      "cpm_title": "Division with Rational Numbers",
+      "topic_title": "Signs in products and quotients",
+      "i_can_id": "CC2-ES-01-D-815C67D1",
+      "i_can_exact_text": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "student_action": "Compute (-0.8)×(-0.5).",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute (-0.8)×(-0.5).</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-3-1-T03-S02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "0.4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute (-0.8)×(-0.5).</p>",
+        "answer": "0.4.",
+        "solution": "0.4.",
+        "scoring_guidance": "Assess I can multiply and divide signed rational numbers and justify the sign with patterns or properties. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.3.1",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-D-815C67D1",
+      "reporting_i_can_text": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP3-3-3-1-T03-S03",
+      "teacher_question_id": "Q024",
+      "bank_item_id": "CC2-AP3-Q024",
+      "family_name": "Signs in products and quotients — direct skill 3",
+      "family_purpose": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "category": "direct",
+      "cpm_lesson": "3.3.1",
+      "cpm_title": "Division with Rational Numbers",
+      "topic_title": "Signs in products and quotients",
+      "i_can_id": "CC2-ES-01-D-815C67D1",
+      "i_can_exact_text": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "student_action": "Compute (-7)×(3/7).",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute (-7)×(3/7).</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-3-1-T03-S03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "-3.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute (-7)×(3/7).</p>",
+        "answer": "-3.",
+        "solution": "-3.",
+        "scoring_guidance": "Assess I can multiply and divide signed rational numbers and justify the sign with patterns or properties. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.3.1",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-D-815C67D1",
+      "reporting_i_can_text": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP3-3-3-1-T03-P01",
+      "teacher_question_id": "Q025",
+      "bank_item_id": "CC2-AP3-Q025",
+      "family_name": "Signs in products and quotients — review & preview 1",
+      "family_purpose": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "category": "spiral",
+      "cpm_lesson": "3.3.1",
+      "cpm_title": "Division with Rational Numbers",
+      "topic_title": "Signs in products and quotients",
+      "i_can_id": "CC2-ES-01-D-815C67D1",
+      "i_can_exact_text": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward signs in products and quotients",
+      "student_action": "Compute -18÷3.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute -18÷3.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-3-1-T03-P01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "-6.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute -18÷3.</p>",
+        "answer": "-6.",
+        "solution": "-6.",
+        "scoring_guidance": "Assess I can multiply and divide signed rational numbers and justify the sign with patterns or properties. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.3.1",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-D-815C67D1",
+      "reporting_i_can_text": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP3-3-3-1-T03-P02",
+      "teacher_question_id": "Q026",
+      "bank_item_id": "CC2-AP3-Q026",
+      "family_name": "Signs in products and quotients — review & preview 2",
+      "family_purpose": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "category": "spiral",
+      "cpm_lesson": "3.3.1",
+      "cpm_title": "Division with Rational Numbers",
+      "topic_title": "Signs in products and quotients",
+      "i_can_id": "CC2-ES-01-D-815C67D1",
+      "i_can_exact_text": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward signs in products and quotients",
+      "student_action": "Compute -1/2+3/4.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute -1/2+3/4.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-3-1-T03-P02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "1/4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute -1/2+3/4.</p>",
+        "answer": "1/4.",
+        "solution": "1/4.",
+        "scoring_guidance": "Assess I can multiply and divide signed rational numbers and justify the sign with patterns or properties. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.3.1",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-D-815C67D1",
+      "reporting_i_can_text": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP3-3-3-1-T03-P03",
+      "teacher_question_id": "Q027",
+      "bank_item_id": "CC2-AP3-Q027",
+      "family_name": "Signs in products and quotients — review & preview 3",
+      "family_purpose": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "category": "spiral",
+      "cpm_lesson": "3.3.1",
+      "cpm_title": "Division with Rational Numbers",
+      "topic_title": "Signs in products and quotients",
+      "i_can_id": "CC2-ES-01-D-815C67D1",
+      "i_can_exact_text": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward signs in products and quotients",
+      "student_action": "Compute 2×(-5).",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute 2×(-5).</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-3-1-T03-P03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "-10.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute 2×(-5).</p>",
+        "answer": "-10.",
+        "solution": "-10.",
+        "scoring_guidance": "Assess I can multiply and divide signed rational numbers and justify the sign with patterns or properties. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.3.1",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-D-815C67D1",
+      "reporting_i_can_text": "I can multiply and divide signed rational numbers and justify the sign with patterns or properties.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP3-3-3-3-T04-R01",
+      "teacher_question_id": "Q028",
+      "bank_item_id": "CC2-AP3-Q028",
+      "family_name": "Mixed rational-number operations — reasoning 1",
+      "family_purpose": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "category": "reasoning",
+      "cpm_lesson": "3.3.3",
+      "cpm_title": "Arithmetic Properties",
+      "topic_title": "Mixed rational-number operations",
+      "i_can_id": "CC2-ES-01-PRO-E9C686D9",
+      "i_can_exact_text": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "student_action": "Evaluate -1.2÷0.3+(-3/4)(-8) and justify signs.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Evaluate -1.2÷0.3+(-3/4)(-8) and justify signs.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-3-3-T04-R01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "-4+6=2; negative÷positive is negative, negative×negative is positive.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Evaluate -1.2÷0.3+(-3/4)(-8) and justify signs.</p>",
+        "answer": "-4+6=2; negative÷positive is negative, negative×negative is positive.",
+        "solution": "-4+6=2; negative÷positive is negative, negative×negative is positive.",
+        "scoring_guidance": "Assess I can calculate with fractions, decimals, and signed numbers and justify the order and signs. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.3.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRO-E9C686D9",
+      "reporting_i_can_text": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP3-3-3-3-T04-R02",
+      "teacher_question_id": "Q029",
+      "bank_item_id": "CC2-AP3-Q029",
+      "family_name": "Mixed rational-number operations — reasoning 2",
+      "family_purpose": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "category": "reasoning",
+      "cpm_lesson": "3.3.3",
+      "cpm_title": "Arithmetic Properties",
+      "topic_title": "Mixed rational-number operations",
+      "i_can_id": "CC2-ES-01-PRO-E9C686D9",
+      "i_can_exact_text": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "student_action": "A student does (-2)^2=-4. Explain the mistake and calculate (-2)^2 - 3.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student does (-2)^2=-4. Explain the mistake and calculate (-2)^2 - 3.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-3-3-T04-R02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "(-2)^2=4, so 4-3=1; exponent applies to grouped -2.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A student does (-2)^2=-4. Explain the mistake and calculate (-2)^2 - 3.</p>",
+        "answer": "(-2)^2=4, so 4-3=1; exponent applies to grouped -2.",
+        "solution": "(-2)^2=4, so 4-3=1; exponent applies to grouped -2.",
+        "scoring_guidance": "Assess I can calculate with fractions, decimals, and signed numbers and justify the order and signs. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.3.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRO-E9C686D9",
+      "reporting_i_can_text": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP3-3-3-3-T04-R03",
+      "teacher_question_id": "Q030",
+      "bank_item_id": "CC2-AP3-Q030",
+      "family_name": "Mixed rational-number operations — reasoning 3",
+      "family_purpose": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "category": "reasoning",
+      "cpm_lesson": "3.3.3",
+      "cpm_title": "Arithmetic Properties",
+      "topic_title": "Mixed rational-number operations",
+      "i_can_id": "CC2-ES-01-PRO-E9C686D9",
+      "i_can_exact_text": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "student_action": "Explain why (5/6-3/2)÷(-2/3) is positive, then calculate.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Explain why (5/6-3/2)÷(-2/3) is positive, then calculate.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-3-3-T04-R03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "5/6-9/6=-2/3; dividing by -2/3 gives 1.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Explain why (5/6-3/2)÷(-2/3) is positive, then calculate.</p>",
+        "answer": "5/6-9/6=-2/3; dividing by -2/3 gives 1.",
+        "solution": "5/6-9/6=-2/3; dividing by -2/3 gives 1.",
+        "scoring_guidance": "Assess I can calculate with fractions, decimals, and signed numbers and justify the order and signs. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.3.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRO-E9C686D9",
+      "reporting_i_can_text": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP3-3-3-3-T04-S01",
+      "teacher_question_id": "Q031",
+      "bank_item_id": "CC2-AP3-Q031",
+      "family_name": "Mixed rational-number operations — direct skill 1",
+      "family_purpose": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "category": "direct",
+      "cpm_lesson": "3.3.3",
+      "cpm_title": "Arithmetic Properties",
+      "topic_title": "Mixed rational-number operations",
+      "i_can_id": "CC2-ES-01-PRO-E9C686D9",
+      "i_can_exact_text": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "student_action": "Compute -6+3(2-5).",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute -6+3(2-5).</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-3-3-T04-S01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "-15.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute -6+3(2-5).</p>",
+        "answer": "-15.",
+        "solution": "-15.",
+        "scoring_guidance": "Assess I can calculate with fractions, decimals, and signed numbers and justify the order and signs. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.3.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRO-E9C686D9",
+      "reporting_i_can_text": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP3-3-3-3-T04-S02",
+      "teacher_question_id": "Q032",
+      "bank_item_id": "CC2-AP3-Q032",
+      "family_name": "Mixed rational-number operations — direct skill 2",
+      "family_purpose": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "category": "direct",
+      "cpm_lesson": "3.3.3",
+      "cpm_title": "Arithmetic Properties",
+      "topic_title": "Mixed rational-number operations",
+      "i_can_id": "CC2-ES-01-PRO-E9C686D9",
+      "i_can_exact_text": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "student_action": "Compute (-3/4)×(-8)+1.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute (-3/4)×(-8)+1.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-3-3-T04-S02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "7.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute (-3/4)×(-8)+1.</p>",
+        "answer": "7.",
+        "solution": "7.",
+        "scoring_guidance": "Assess I can calculate with fractions, decimals, and signed numbers and justify the order and signs. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.3.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRO-E9C686D9",
+      "reporting_i_can_text": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP3-3-3-3-T04-S03",
+      "teacher_question_id": "Q033",
+      "bank_item_id": "CC2-AP3-Q033",
+      "family_name": "Mixed rational-number operations — direct skill 3",
+      "family_purpose": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "category": "direct",
+      "cpm_lesson": "3.3.3",
+      "cpm_title": "Arithmetic Properties",
+      "topic_title": "Mixed rational-number operations",
+      "i_can_id": "CC2-ES-01-PRO-E9C686D9",
+      "i_can_exact_text": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "student_action": "Compute 2.5-(-1/2)×4.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute 2.5-(-1/2)×4.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-3-3-T04-S03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "4.5.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute 2.5-(-1/2)×4.</p>",
+        "answer": "4.5.",
+        "solution": "4.5.",
+        "scoring_guidance": "Assess I can calculate with fractions, decimals, and signed numbers and justify the order and signs. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.3.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRO-E9C686D9",
+      "reporting_i_can_text": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP3-3-3-3-T04-P01",
+      "teacher_question_id": "Q034",
+      "bank_item_id": "CC2-AP3-Q034",
+      "family_name": "Mixed rational-number operations — review & preview 1",
+      "family_purpose": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "category": "spiral",
+      "cpm_lesson": "3.3.3",
+      "cpm_title": "Arithmetic Properties",
+      "topic_title": "Mixed rational-number operations",
+      "i_can_id": "CC2-ES-01-PRO-E9C686D9",
+      "i_can_exact_text": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward mixed rational-number operations",
+      "student_action": "Compute 8÷(-2)+6.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute 8÷(-2)+6.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-3-3-T04-P01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "2.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute 8÷(-2)+6.</p>",
+        "answer": "2.",
+        "solution": "2.",
+        "scoring_guidance": "Assess I can calculate with fractions, decimals, and signed numbers and justify the order and signs. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.3.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRO-E9C686D9",
+      "reporting_i_can_text": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP3-3-3-3-T04-P02",
+      "teacher_question_id": "Q035",
+      "bank_item_id": "CC2-AP3-Q035",
+      "family_name": "Mixed rational-number operations — review & preview 2",
+      "family_purpose": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "category": "spiral",
+      "cpm_lesson": "3.3.3",
+      "cpm_title": "Arithmetic Properties",
+      "topic_title": "Mixed rational-number operations",
+      "i_can_id": "CC2-ES-01-PRO-E9C686D9",
+      "i_can_exact_text": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward mixed rational-number operations",
+      "student_action": "Compute -1/2+1/4.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute -1/2+1/4.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-3-3-T04-P02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "-1/4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute -1/2+1/4.</p>",
+        "answer": "-1/4.",
+        "solution": "-1/4.",
+        "scoring_guidance": "Assess I can calculate with fractions, decimals, and signed numbers and justify the order and signs. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.3.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRO-E9C686D9",
+      "reporting_i_can_text": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP3-3-3-3-T04-P03",
+      "teacher_question_id": "Q036",
+      "bank_item_id": "CC2-AP3-Q036",
+      "family_name": "Mixed rational-number operations — review & preview 3",
+      "family_purpose": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "category": "spiral",
+      "cpm_lesson": "3.3.3",
+      "cpm_title": "Arithmetic Properties",
+      "topic_title": "Mixed rational-number operations",
+      "i_can_id": "CC2-ES-01-PRO-E9C686D9",
+      "i_can_exact_text": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward mixed rational-number operations",
+      "student_action": "Compute 3×(-4).",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute 3×(-4).</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-3-3-T04-P03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "-12.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute 3×(-4).</p>",
+        "answer": "-12.",
+        "solution": "-12.",
+        "scoring_guidance": "Assess I can calculate with fractions, decimals, and signed numbers and justify the order and signs. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.3.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRO-E9C686D9",
+      "reporting_i_can_text": "I can calculate with fractions, decimals, and signed numbers and justify the order and signs.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP3-3-3-3-T05-R01",
+      "teacher_question_id": "Q037",
+      "bank_item_id": "CC2-AP3-Q037",
+      "family_name": "Interpret a signed-number situation — reasoning 1",
+      "family_purpose": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "category": "reasoning",
+      "cpm_lesson": "3.3.3",
+      "cpm_title": "Arithmetic Properties",
+      "topic_title": "Interpret a signed-number situation",
+      "i_can_id": "CC2-ES-01-PRO-63EAD757",
+      "i_can_exact_text": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "student_action": "An account starts at -$12.50, has two charges of $4.75, then a $30 deposit. Find and interpret the ending balance.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>An account starts at -$12.50, has two charges of $4.75, then a $30 deposit. Find and interpret the ending balance.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-3-3-T05-R01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "-12.50-2(4.75)+30=$8.00; the account ends $8 above zero.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>An account starts at -$12.50, has two charges of $4.75, then a $30 deposit. Find and interpret the ending balance.</p>",
+        "answer": "-12.50-2(4.75)+30=$8.00; the account ends $8 above zero.",
+        "solution": "-12.50-2(4.75)+30=$8.00; the account ends $8 above zero.",
+        "scoring_guidance": "Assess I can solve a multistep signed-rational situation and interpret the result in context. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.3.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRO-63EAD757",
+      "reporting_i_can_text": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": "Proficient needs an independently interpreted context as well as accurate operations."
+    },
+    {
+      "family_id": "CC2-AP3-3-3-3-T05-R02",
+      "teacher_question_id": "Q038",
+      "bank_item_id": "CC2-AP3-Q038",
+      "family_name": "Interpret a signed-number situation — reasoning 2",
+      "family_purpose": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "category": "reasoning",
+      "cpm_lesson": "3.3.3",
+      "cpm_title": "Arithmetic Properties",
+      "topic_title": "Interpret a signed-number situation",
+      "i_can_id": "CC2-ES-01-PRO-63EAD757",
+      "i_can_exact_text": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "student_action": "A submarine starts 4.5 m below sea level, rises 7 m, then descends 3.25 m. Explain the final position.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A submarine starts 4.5 m below sea level, rises 7 m, then descends 3.25 m. Explain the final position.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-3-3-T05-R02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "-4.5+7-3.25=-0.75 m; 0.75 m below sea level.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A submarine starts 4.5 m below sea level, rises 7 m, then descends 3.25 m. Explain the final position.</p>",
+        "answer": "-4.5+7-3.25=-0.75 m; 0.75 m below sea level.",
+        "solution": "-4.5+7-3.25=-0.75 m; 0.75 m below sea level.",
+        "scoring_guidance": "Assess I can solve a multistep signed-rational situation and interpret the result in context. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.3.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRO-63EAD757",
+      "reporting_i_can_text": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": "Proficient needs an independently interpreted context as well as accurate operations."
+    },
+    {
+      "family_id": "CC2-AP3-3-3-3-T05-R03",
+      "teacher_question_id": "Q039",
+      "bank_item_id": "CC2-AP3-Q039",
+      "family_name": "Interpret a signed-number situation — reasoning 3",
+      "family_purpose": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "category": "reasoning",
+      "cpm_lesson": "3.3.3",
+      "cpm_title": "Arithmetic Properties",
+      "topic_title": "Interpret a signed-number situation",
+      "i_can_id": "CC2-ES-01-PRO-63EAD757",
+      "i_can_exact_text": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "student_action": "A game begins at -2.5 points, earns 3 rounds of 1.75 points, then loses 2.25. Interpret the score.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A game begins at -2.5 points, earns 3 rounds of 1.75 points, then loses 2.25. Interpret the score.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-3-3-T05-R03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "-2.5+3(1.75)-2.25=0.5 point; finishes positive.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A game begins at -2.5 points, earns 3 rounds of 1.75 points, then loses 2.25. Interpret the score.</p>",
+        "answer": "-2.5+3(1.75)-2.25=0.5 point; finishes positive.",
+        "solution": "-2.5+3(1.75)-2.25=0.5 point; finishes positive.",
+        "scoring_guidance": "Assess I can solve a multistep signed-rational situation and interpret the result in context. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.3.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRO-63EAD757",
+      "reporting_i_can_text": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": "Proficient needs an independently interpreted context as well as accurate operations."
+    },
+    {
+      "family_id": "CC2-AP3-3-3-3-T05-S01",
+      "teacher_question_id": "Q040",
+      "bank_item_id": "CC2-AP3-Q040",
+      "family_name": "Interpret a signed-number situation — direct skill 1",
+      "family_purpose": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "category": "direct",
+      "cpm_lesson": "3.3.3",
+      "cpm_title": "Arithmetic Properties",
+      "topic_title": "Interpret a signed-number situation",
+      "i_can_id": "CC2-ES-01-PRO-63EAD757",
+      "i_can_exact_text": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "student_action": "A bank balance of -$5 receives $18 and pays $7.50. Find the balance.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A bank balance of -$5 receives $18 and pays $7.50. Find the balance.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-3-3-T05-S01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "$5.50.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A bank balance of -$5 receives $18 and pays $7.50. Find the balance.</p>",
+        "answer": "$5.50.",
+        "solution": "$5.50.",
+        "scoring_guidance": "Assess I can solve a multistep signed-rational situation and interpret the result in context. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.3.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRO-63EAD757",
+      "reporting_i_can_text": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": "Proficient needs an independently interpreted context as well as accurate operations."
+    },
+    {
+      "family_id": "CC2-AP3-3-3-3-T05-S02",
+      "teacher_question_id": "Q041",
+      "bank_item_id": "CC2-AP3-Q041",
+      "family_name": "Interpret a signed-number situation — direct skill 2",
+      "family_purpose": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "category": "direct",
+      "cpm_lesson": "3.3.3",
+      "cpm_title": "Arithmetic Properties",
+      "topic_title": "Interpret a signed-number situation",
+      "i_can_id": "CC2-ES-01-PRO-63EAD757",
+      "i_can_exact_text": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "student_action": "The temperature is -3°C, rises 4.5°C, and falls 2°C. Find the final temperature.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>The temperature is -3°C, rises 4.5°C, and falls 2°C. Find the final temperature.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-3-3-T05-S02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "-0.5°C.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>The temperature is -3°C, rises 4.5°C, and falls 2°C. Find the final temperature.</p>",
+        "answer": "-0.5°C.",
+        "solution": "-0.5°C.",
+        "scoring_guidance": "Assess I can solve a multistep signed-rational situation and interpret the result in context. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.3.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRO-63EAD757",
+      "reporting_i_can_text": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": "Proficient needs an independently interpreted context as well as accurate operations."
+    },
+    {
+      "family_id": "CC2-AP3-3-3-3-T05-S03",
+      "teacher_question_id": "Q042",
+      "bank_item_id": "CC2-AP3-Q042",
+      "family_name": "Interpret a signed-number situation — direct skill 3",
+      "family_purpose": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "category": "direct",
+      "cpm_lesson": "3.3.3",
+      "cpm_title": "Arithmetic Properties",
+      "topic_title": "Interpret a signed-number situation",
+      "i_can_id": "CC2-ES-01-PRO-63EAD757",
+      "i_can_exact_text": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "student_action": "An elevator starts at floor -2, rises 7 floors, then drops 3. Find the final floor.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>An elevator starts at floor -2, rises 7 floors, then drops 3. Find the final floor.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-3-3-T05-S03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "Floor 2.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>An elevator starts at floor -2, rises 7 floors, then drops 3. Find the final floor.</p>",
+        "answer": "Floor 2.",
+        "solution": "Floor 2.",
+        "scoring_guidance": "Assess I can solve a multistep signed-rational situation and interpret the result in context. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.3.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRO-63EAD757",
+      "reporting_i_can_text": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": "Proficient needs an independently interpreted context as well as accurate operations."
+    },
+    {
+      "family_id": "CC2-AP3-3-3-3-T05-P01",
+      "teacher_question_id": "Q043",
+      "bank_item_id": "CC2-AP3-Q043",
+      "family_name": "Interpret a signed-number situation — review & preview 1",
+      "family_purpose": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "category": "spiral",
+      "cpm_lesson": "3.3.3",
+      "cpm_title": "Arithmetic Properties",
+      "topic_title": "Interpret a signed-number situation",
+      "i_can_id": "CC2-ES-01-PRO-63EAD757",
+      "i_can_exact_text": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward interpret a signed-number situation",
+      "student_action": "Compute -4+9-3.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute -4+9-3.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-3-3-T05-P01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "2.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute -4+9-3.</p>",
+        "answer": "2.",
+        "solution": "2.",
+        "scoring_guidance": "Assess I can solve a multistep signed-rational situation and interpret the result in context. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.3.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRO-63EAD757",
+      "reporting_i_can_text": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": "Proficient needs an independently interpreted context as well as accurate operations."
+    },
+    {
+      "family_id": "CC2-AP3-3-3-3-T05-P02",
+      "teacher_question_id": "Q044",
+      "bank_item_id": "CC2-AP3-Q044",
+      "family_name": "Interpret a signed-number situation — review & preview 2",
+      "family_purpose": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "category": "spiral",
+      "cpm_lesson": "3.3.3",
+      "cpm_title": "Arithmetic Properties",
+      "topic_title": "Interpret a signed-number situation",
+      "i_can_id": "CC2-ES-01-PRO-63EAD757",
+      "i_can_exact_text": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward interpret a signed-number situation",
+      "student_action": "Compute 1/2+1/4.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute 1/2+1/4.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-3-3-T05-P02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "3/4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute 1/2+1/4.</p>",
+        "answer": "3/4.",
+        "solution": "3/4.",
+        "scoring_guidance": "Assess I can solve a multistep signed-rational situation and interpret the result in context. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.3.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRO-63EAD757",
+      "reporting_i_can_text": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": "Proficient needs an independently interpreted context as well as accurate operations."
+    },
+    {
+      "family_id": "CC2-AP3-3-3-3-T05-P03",
+      "teacher_question_id": "Q045",
+      "bank_item_id": "CC2-AP3-Q045",
+      "family_name": "Interpret a signed-number situation — review & preview 3",
+      "family_purpose": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "category": "spiral",
+      "cpm_lesson": "3.3.3",
+      "cpm_title": "Arithmetic Properties",
+      "topic_title": "Interpret a signed-number situation",
+      "i_can_id": "CC2-ES-01-PRO-63EAD757",
+      "i_can_exact_text": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "learning_goal_id": "CC2-ES-01",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward interpret a signed-number situation",
+      "student_action": "What is the opposite of -6.5?",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>What is the opposite of -6.5?</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP3-3-3-3-T05-P03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "6.5.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>What is the opposite of -6.5?</p>",
+        "answer": "6.5.",
+        "solution": "6.5.",
+        "scoring_guidance": "Assess I can solve a multistep signed-rational situation and interpret the result in context. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "3.3.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-01-PRO-63EAD757",
+      "reporting_i_can_text": "I can solve a multistep signed-rational situation and interpret the result in context.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Proficient",
+      "scope_note": "Proficient needs an independently interpreted context as well as accurate operations."
+    }
+  ],
+  "review_summary": {
+    "question_families": 45,
+    "reasoning": 15,
+    "direct": 15,
+    "spiral": 15
+  },
+  "reporting_contract": "cc2-essential-standards/v1",
+  "pilot_policy": {
+    "operational": true,
+    "teacher_review_required_before_use": false,
+    "per_question_teacher_approved": false,
+    "actual_approval_state": "not individually reviewed by teacher",
+    "feedback_strategy": "Update stable canonical family when teacher flags an issue; preserve IDs."
+  }
+}

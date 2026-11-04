@@ -1,0 +1,3730 @@
+{
+  "schema": "cpm-family-bank-plan/v1",
+  "course": "Core Connections Course 2",
+  "assessment_plan": "AP1",
+  "chapter": 1,
+  "plan_title": "Introduction and Probability",
+  "essential_standard": "Chapter assessment evidence targets from CC2 Learning Ladders and assessment plan",
+  "bank_status": "PILOT_BASELINE_ACTIVE",
+  "source_crosswalk": "assessment_plans/CC2_AP1_ASSESSMENT_PLAN.json",
+  "source_authority": "Current CC2 Chapter Unit Plans; ladder-aligned assessment evidence; mirrored lesson sequence",
+  "family_policy": {
+    "per_i_can": {
+      "reasoning": 3,
+      "direct": 3,
+      "spiral": 3
+    },
+    "approval_gate": "Teacher-directed pilot baseline: questions available now; corrections made when flagged.",
+    "runtime_variation": "Only authored exemplars are included; generated variants need independent mathematical verification.",
+    "review_preview": "Three concise spiral / prerequisite review families per I Can. No source textbook problem text copied.",
+    "visual_rule": "Use registered CPM Tools graph renderer if a supplied graph is necessary; prompts here ask students to draw themselves."
+  },
+  "sections": [
+    {
+      "section": "1.1.4",
+      "title": "Investigating a Proportional Relationship",
+      "topic_title": "Ratio reasoning",
+      "learning_target": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "cpm_lesson": "1.1.4",
+      "ap_section": 1,
+      "i_cans": [
+        {
+          "id": "CC2-ES-03-PRE-0FB925E5",
+          "text": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+          "family_ids": [
+            "CC2-AP1-1-1-4-T01-R01",
+            "CC2-AP1-1-1-4-T01-R02",
+            "CC2-AP1-1-1-4-T01-R03",
+            "CC2-AP1-1-1-4-T01-S01",
+            "CC2-AP1-1-1-4-T01-S02",
+            "CC2-AP1-1-1-4-T01-S03",
+            "CC2-AP1-1-1-4-T01-P01",
+            "CC2-AP1-1-1-4-T01-P02",
+            "CC2-AP1-1-1-4-T01-P03"
+          ],
+          "cpm_lesson": "1.1.4",
+          "cpm_title": "Investigating a Proportional Relationship",
+          "topic_title": "Ratio reasoning",
+          "learning_goal_id": "CC2-ES-03",
+          "reporting_i_can_text": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+          "ladder_rung": "Prerequisite",
+          "evidence_stage": "READINESS",
+          "scope_note": "Ratio comparison is readiness; do not assess full ES-03 proportional models until Chapter 4."
+        }
+      ],
+      "reporting_i_can_id": "CC2-ES-03-PRE-0FB925E5",
+      "reporting_i_can_text": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "learning_goal_id": "CC2-ES-03"
+    },
+    {
+      "section": "1.2.1",
+      "title": "Introduction to Probability",
+      "topic_title": "Favorable and total outcomes",
+      "learning_target": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "cpm_lesson": "1.2.1",
+      "ap_section": 1,
+      "i_cans": [
+        {
+          "id": "CC2-ES-05-F-FE1D4E14",
+          "text": "I can identify favorable and total equally likely outcomes in a single experiment.",
+          "family_ids": [
+            "CC2-AP1-1-2-1-T02-R01",
+            "CC2-AP1-1-2-1-T02-R02",
+            "CC2-AP1-1-2-1-T02-R03",
+            "CC2-AP1-1-2-1-T02-S01",
+            "CC2-AP1-1-2-1-T02-S02",
+            "CC2-AP1-1-2-1-T02-S03",
+            "CC2-AP1-1-2-1-T02-P01",
+            "CC2-AP1-1-2-1-T02-P02",
+            "CC2-AP1-1-2-1-T02-P03"
+          ],
+          "cpm_lesson": "1.2.1",
+          "cpm_title": "Introduction to Probability",
+          "topic_title": "Favorable and total outcomes",
+          "learning_goal_id": "CC2-ES-05",
+          "reporting_i_can_text": "I can identify favorable and total equally likely outcomes in a single experiment.",
+          "ladder_rung": "Foundation",
+          "evidence_stage": "FIRST_CHECK",
+          "scope_note": ""
+        }
+      ],
+      "reporting_i_can_id": "CC2-ES-05-F-FE1D4E14",
+      "reporting_i_can_text": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "learning_goal_id": "CC2-ES-05"
+    },
+    {
+      "section": "1.2.2",
+      "title": "Investigating Probability",
+      "topic_title": "Likelihood and simple probability",
+      "learning_target": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "cpm_lesson": "1.2.2",
+      "ap_section": 1,
+      "i_cans": [
+        {
+          "id": "CC2-ES-05-D-14C4F801",
+          "text": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+          "family_ids": [
+            "CC2-AP1-1-2-2-T03-R01",
+            "CC2-AP1-1-2-2-T03-R02",
+            "CC2-AP1-1-2-2-T03-R03",
+            "CC2-AP1-1-2-2-T03-S01",
+            "CC2-AP1-1-2-2-T03-S02",
+            "CC2-AP1-1-2-2-T03-S03",
+            "CC2-AP1-1-2-2-T03-P01",
+            "CC2-AP1-1-2-2-T03-P02",
+            "CC2-AP1-1-2-2-T03-P03"
+          ],
+          "cpm_lesson": "1.2.2",
+          "cpm_title": "Investigating Probability",
+          "topic_title": "Likelihood and simple probability",
+          "learning_goal_id": "CC2-ES-05",
+          "reporting_i_can_text": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+          "scope_note": ""
+        }
+      ],
+      "reporting_i_can_id": "CC2-ES-05-D-14C4F801",
+      "reporting_i_can_text": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "learning_goal_id": "CC2-ES-05"
+    },
+    {
+      "section": "1.2.3",
+      "title": "Modifying the Sample Space",
+      "topic_title": "Changing the sample space",
+      "learning_target": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "cpm_lesson": "1.2.3",
+      "ap_section": 1,
+      "i_cans": [
+        {
+          "id": "CC2-ES-05-D-A25FB33A",
+          "text": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+          "family_ids": [
+            "CC2-AP1-1-2-3-T04-R01",
+            "CC2-AP1-1-2-3-T04-R02",
+            "CC2-AP1-1-2-3-T04-R03",
+            "CC2-AP1-1-2-3-T04-S01",
+            "CC2-AP1-1-2-3-T04-S02",
+            "CC2-AP1-1-2-3-T04-S03",
+            "CC2-AP1-1-2-3-T04-P01",
+            "CC2-AP1-1-2-3-T04-P02",
+            "CC2-AP1-1-2-3-T04-P03"
+          ],
+          "cpm_lesson": "1.2.3",
+          "cpm_title": "Modifying the Sample Space",
+          "topic_title": "Changing the sample space",
+          "learning_goal_id": "CC2-ES-05",
+          "reporting_i_can_text": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "FIRST_CHECK_PARTIAL",
+          "scope_note": ""
+        }
+      ],
+      "reporting_i_can_id": "CC2-ES-05-D-A25FB33A",
+      "reporting_i_can_text": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "learning_goal_id": "CC2-ES-05"
+    },
+    {
+      "section": "1.2.7",
+      "title": "Compound Probability",
+      "topic_title": "Early two-stage outcomes",
+      "learning_target": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "cpm_lesson": "1.2.7",
+      "ap_section": 1,
+      "i_cans": [
+        {
+          "id": "CC2-ES-05-D-2C450923",
+          "text": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+          "family_ids": [
+            "CC2-AP1-1-2-7-T05-R01",
+            "CC2-AP1-1-2-7-T05-R02",
+            "CC2-AP1-1-2-7-T05-R03",
+            "CC2-AP1-1-2-7-T05-S01",
+            "CC2-AP1-1-2-7-T05-S02",
+            "CC2-AP1-1-2-7-T05-S03",
+            "CC2-AP1-1-2-7-T05-P01",
+            "CC2-AP1-1-2-7-T05-P02",
+            "CC2-AP1-1-2-7-T05-P03"
+          ],
+          "cpm_lesson": "1.2.7",
+          "cpm_title": "Compound Probability",
+          "topic_title": "Early two-stage outcomes",
+          "learning_goal_id": "CC2-ES-05",
+          "reporting_i_can_text": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "FIRST_CHECK_PARTIAL",
+          "scope_note": "Two-stage listing is partial until complete tables/trees and compound justification in Chapter 5."
+        }
+      ],
+      "reporting_i_can_id": "CC2-ES-05-D-2C450923",
+      "reporting_i_can_text": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "learning_goal_id": "CC2-ES-05"
+    }
+  ],
+  "mastery_goals": [
+    {
+      "id": "CC2-ES-03",
+      "title": "CC2-ES-03",
+      "assessment_plan": "AP1",
+      "mastery_goal": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "i_cans": [
+        {
+          "id": "CC2-ES-03-PRE-0FB925E5",
+          "text": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+          "family_ids": [
+            "CC2-AP1-1-1-4-T01-R01",
+            "CC2-AP1-1-1-4-T01-R02",
+            "CC2-AP1-1-1-4-T01-R03",
+            "CC2-AP1-1-1-4-T01-S01",
+            "CC2-AP1-1-1-4-T01-S02",
+            "CC2-AP1-1-1-4-T01-S03",
+            "CC2-AP1-1-1-4-T01-P01",
+            "CC2-AP1-1-1-4-T01-P02",
+            "CC2-AP1-1-1-4-T01-P03"
+          ],
+          "cpm_lesson": "1.1.4",
+          "cpm_title": "Investigating a Proportional Relationship",
+          "topic_title": "Ratio reasoning",
+          "learning_goal_id": "CC2-ES-03",
+          "reporting_i_can_text": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+          "ladder_rung": "Prerequisite",
+          "evidence_stage": "READINESS",
+          "scope_note": "Ratio comparison is readiness; do not assess full ES-03 proportional models until Chapter 4."
+        }
+      ],
+      "reporting_contract": "cc2-essential-standards/v1"
+    },
+    {
+      "id": "CC2-ES-05",
+      "title": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "mastery_goal": "I can identify favorable and total equally likely outcomes in a single experiment. I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions. I can explain how adding or removing possible outcomes changes the probability of a simple event. I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "i_cans": [
+        {
+          "id": "CC2-ES-05-F-FE1D4E14",
+          "text": "I can identify favorable and total equally likely outcomes in a single experiment.",
+          "family_ids": [
+            "CC2-AP1-1-2-1-T02-R01",
+            "CC2-AP1-1-2-1-T02-R02",
+            "CC2-AP1-1-2-1-T02-R03",
+            "CC2-AP1-1-2-1-T02-S01",
+            "CC2-AP1-1-2-1-T02-S02",
+            "CC2-AP1-1-2-1-T02-S03",
+            "CC2-AP1-1-2-1-T02-P01",
+            "CC2-AP1-1-2-1-T02-P02",
+            "CC2-AP1-1-2-1-T02-P03"
+          ],
+          "cpm_lesson": "1.2.1",
+          "cpm_title": "Introduction to Probability",
+          "topic_title": "Favorable and total outcomes",
+          "learning_goal_id": "CC2-ES-05",
+          "reporting_i_can_text": "I can identify favorable and total equally likely outcomes in a single experiment.",
+          "ladder_rung": "Foundation",
+          "evidence_stage": "FIRST_CHECK",
+          "scope_note": ""
+        },
+        {
+          "id": "CC2-ES-05-D-14C4F801",
+          "text": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+          "family_ids": [
+            "CC2-AP1-1-2-2-T03-R01",
+            "CC2-AP1-1-2-2-T03-R02",
+            "CC2-AP1-1-2-2-T03-R03",
+            "CC2-AP1-1-2-2-T03-S01",
+            "CC2-AP1-1-2-2-T03-S02",
+            "CC2-AP1-1-2-2-T03-S03",
+            "CC2-AP1-1-2-2-T03-P01",
+            "CC2-AP1-1-2-2-T03-P02",
+            "CC2-AP1-1-2-2-T03-P03"
+          ],
+          "cpm_lesson": "1.2.2",
+          "cpm_title": "Investigating Probability",
+          "topic_title": "Likelihood and simple probability",
+          "learning_goal_id": "CC2-ES-05",
+          "reporting_i_can_text": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+          "scope_note": ""
+        },
+        {
+          "id": "CC2-ES-05-D-A25FB33A",
+          "text": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+          "family_ids": [
+            "CC2-AP1-1-2-3-T04-R01",
+            "CC2-AP1-1-2-3-T04-R02",
+            "CC2-AP1-1-2-3-T04-R03",
+            "CC2-AP1-1-2-3-T04-S01",
+            "CC2-AP1-1-2-3-T04-S02",
+            "CC2-AP1-1-2-3-T04-S03",
+            "CC2-AP1-1-2-3-T04-P01",
+            "CC2-AP1-1-2-3-T04-P02",
+            "CC2-AP1-1-2-3-T04-P03"
+          ],
+          "cpm_lesson": "1.2.3",
+          "cpm_title": "Modifying the Sample Space",
+          "topic_title": "Changing the sample space",
+          "learning_goal_id": "CC2-ES-05",
+          "reporting_i_can_text": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "FIRST_CHECK_PARTIAL",
+          "scope_note": ""
+        },
+        {
+          "id": "CC2-ES-05-D-2C450923",
+          "text": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+          "family_ids": [
+            "CC2-AP1-1-2-7-T05-R01",
+            "CC2-AP1-1-2-7-T05-R02",
+            "CC2-AP1-1-2-7-T05-R03",
+            "CC2-AP1-1-2-7-T05-S01",
+            "CC2-AP1-1-2-7-T05-S02",
+            "CC2-AP1-1-2-7-T05-S03",
+            "CC2-AP1-1-2-7-T05-P01",
+            "CC2-AP1-1-2-7-T05-P02",
+            "CC2-AP1-1-2-7-T05-P03"
+          ],
+          "cpm_lesson": "1.2.7",
+          "cpm_title": "Compound Probability",
+          "topic_title": "Early two-stage outcomes",
+          "learning_goal_id": "CC2-ES-05",
+          "reporting_i_can_text": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "FIRST_CHECK_PARTIAL",
+          "scope_note": "Two-stage listing is partial until complete tables/trees and compound justification in Chapter 5."
+        }
+      ],
+      "reporting_contract": "cc2-essential-standards/v1"
+    }
+  ],
+  "families": [
+    {
+      "family_id": "CC2-AP1-1-1-4-T01-R01",
+      "teacher_question_id": "Q001",
+      "bank_item_id": "CC2-AP1-Q001",
+      "family_name": "Ratio reasoning — reasoning 1",
+      "family_purpose": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "category": "reasoning",
+      "cpm_lesson": "1.1.4",
+      "cpm_title": "Investigating a Proportional Relationship",
+      "topic_title": "Ratio reasoning",
+      "i_can_id": "CC2-ES-03-PRE-0FB925E5",
+      "i_can_exact_text": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "learning_goal_id": "CC2-ES-03",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "student_action": "Two teams mix 2 cups of juice with 5 cups of water and 4 cups with 10 cups. Explain why their mixtures have the same ratio.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Two teams mix 2 cups of juice with 5 cups of water and 4 cups with 10 cups. Explain why their mixtures have the same ratio.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-1-4-T01-R01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "The second mixture doubles each quantity; both juice-to-water ratios are 2:5.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Two teams mix 2 cups of juice with 5 cups of water and 4 cups with 10 cups. Explain why their mixtures have the same ratio.</p>",
+        "answer": "The second mixture doubles each quantity; both juice-to-water ratios are 2:5.",
+        "solution": "The second mixture doubles each quantity; both juice-to-water ratios are 2:5.",
+        "scoring_guidance": "Assess I can compare quantities using equivalent ratios without assuming a complete proportional model. (evidence: READINESS). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.1.4",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-03-PRE-0FB925E5",
+      "reporting_i_can_text": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "READINESS",
+      "ladder_rung": "Prerequisite",
+      "scope_note": "Ratio comparison is readiness; do not assess full ES-03 proportional models until Chapter 4."
+    },
+    {
+      "family_id": "CC2-AP1-1-1-4-T01-R02",
+      "teacher_question_id": "Q002",
+      "bank_item_id": "CC2-AP1-Q002",
+      "family_name": "Ratio reasoning — reasoning 2",
+      "family_purpose": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "category": "reasoning",
+      "cpm_lesson": "1.1.4",
+      "cpm_title": "Investigating a Proportional Relationship",
+      "topic_title": "Ratio reasoning",
+      "i_can_id": "CC2-ES-03-PRE-0FB925E5",
+      "i_can_exact_text": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "learning_goal_id": "CC2-ES-03",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "student_action": "A student says 3:4 and 6:7 are equivalent because both numbers grow. Evaluate the claim.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student says 3:4 and 6:7 are equivalent because both numbers grow. Evaluate the claim.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-1-4-T01-R02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "Not equivalent: doubling 3:4 gives 6:8, not 6:7.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A student says 3:4 and 6:7 are equivalent because both numbers grow. Evaluate the claim.</p>",
+        "answer": "Not equivalent: doubling 3:4 gives 6:8, not 6:7.",
+        "solution": "Not equivalent: doubling 3:4 gives 6:8, not 6:7.",
+        "scoring_guidance": "Assess I can compare quantities using equivalent ratios without assuming a complete proportional model. (evidence: READINESS). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.1.4",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-03-PRE-0FB925E5",
+      "reporting_i_can_text": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "READINESS",
+      "ladder_rung": "Prerequisite",
+      "scope_note": "Ratio comparison is readiness; do not assess full ES-03 proportional models until Chapter 4."
+    },
+    {
+      "family_id": "CC2-AP1-1-1-4-T01-R03",
+      "teacher_question_id": "Q003",
+      "bank_item_id": "CC2-AP1-Q003",
+      "family_name": "Ratio reasoning — reasoning 3",
+      "family_purpose": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "category": "reasoning",
+      "cpm_lesson": "1.1.4",
+      "cpm_title": "Investigating a Proportional Relationship",
+      "topic_title": "Ratio reasoning",
+      "i_can_id": "CC2-ES-03-PRE-0FB925E5",
+      "i_can_exact_text": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "learning_goal_id": "CC2-ES-03",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "student_action": "Explain whether 4 red tiles for every 6 blue tiles is the same ratio as 2 red tiles for every 3 blue tiles.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Explain whether 4 red tiles for every 6 blue tiles is the same ratio as 2 red tiles for every 3 blue tiles.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-1-4-T01-R03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "Yes; divide both parts of 4:6 by 2.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Explain whether 4 red tiles for every 6 blue tiles is the same ratio as 2 red tiles for every 3 blue tiles.</p>",
+        "answer": "Yes; divide both parts of 4:6 by 2.",
+        "solution": "Yes; divide both parts of 4:6 by 2.",
+        "scoring_guidance": "Assess I can compare quantities using equivalent ratios without assuming a complete proportional model. (evidence: READINESS). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.1.4",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-03-PRE-0FB925E5",
+      "reporting_i_can_text": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "READINESS",
+      "ladder_rung": "Prerequisite",
+      "scope_note": "Ratio comparison is readiness; do not assess full ES-03 proportional models until Chapter 4."
+    },
+    {
+      "family_id": "CC2-AP1-1-1-4-T01-S01",
+      "teacher_question_id": "Q004",
+      "bank_item_id": "CC2-AP1-Q004",
+      "family_name": "Ratio reasoning — direct skill 1",
+      "family_purpose": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "category": "direct",
+      "cpm_lesson": "1.1.4",
+      "cpm_title": "Investigating a Proportional Relationship",
+      "topic_title": "Ratio reasoning",
+      "i_can_id": "CC2-ES-03-PRE-0FB925E5",
+      "i_can_exact_text": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "learning_goal_id": "CC2-ES-03",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "student_action": "Fill in: 3:5 = 6:__ .",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Fill in: 3:5 = 6:__ .</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-1-4-T01-S01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "10.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Fill in: 3:5 = 6:__ .</p>",
+        "answer": "10.",
+        "solution": "10.",
+        "scoring_guidance": "Assess I can compare quantities using equivalent ratios without assuming a complete proportional model. (evidence: READINESS). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.1.4",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-03-PRE-0FB925E5",
+      "reporting_i_can_text": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "READINESS",
+      "ladder_rung": "Prerequisite",
+      "scope_note": "Ratio comparison is readiness; do not assess full ES-03 proportional models until Chapter 4."
+    },
+    {
+      "family_id": "CC2-AP1-1-1-4-T01-S02",
+      "teacher_question_id": "Q005",
+      "bank_item_id": "CC2-AP1-Q005",
+      "family_name": "Ratio reasoning — direct skill 2",
+      "family_purpose": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "category": "direct",
+      "cpm_lesson": "1.1.4",
+      "cpm_title": "Investigating a Proportional Relationship",
+      "topic_title": "Ratio reasoning",
+      "i_can_id": "CC2-ES-03-PRE-0FB925E5",
+      "i_can_exact_text": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "learning_goal_id": "CC2-ES-03",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "student_action": "Complete: 2 pencils cost $6; 4 pencils cost $__.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Complete: 2 pencils cost $6; 4 pencils cost $__.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-1-4-T01-S02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "12.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Complete: 2 pencils cost $6; 4 pencils cost $__.</p>",
+        "answer": "12.",
+        "solution": "12.",
+        "scoring_guidance": "Assess I can compare quantities using equivalent ratios without assuming a complete proportional model. (evidence: READINESS). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.1.4",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-03-PRE-0FB925E5",
+      "reporting_i_can_text": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "READINESS",
+      "ladder_rung": "Prerequisite",
+      "scope_note": "Ratio comparison is readiness; do not assess full ES-03 proportional models until Chapter 4."
+    },
+    {
+      "family_id": "CC2-AP1-1-1-4-T01-S03",
+      "teacher_question_id": "Q006",
+      "bank_item_id": "CC2-AP1-Q006",
+      "family_name": "Ratio reasoning — direct skill 3",
+      "family_purpose": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "category": "direct",
+      "cpm_lesson": "1.1.4",
+      "cpm_title": "Investigating a Proportional Relationship",
+      "topic_title": "Ratio reasoning",
+      "i_can_id": "CC2-ES-03-PRE-0FB925E5",
+      "i_can_exact_text": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "learning_goal_id": "CC2-ES-03",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "student_action": "Simplify the ratio 12:18.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Simplify the ratio 12:18.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-1-4-T01-S03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "2:3.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Simplify the ratio 12:18.</p>",
+        "answer": "2:3.",
+        "solution": "2:3.",
+        "scoring_guidance": "Assess I can compare quantities using equivalent ratios without assuming a complete proportional model. (evidence: READINESS). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.1.4",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-03-PRE-0FB925E5",
+      "reporting_i_can_text": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "READINESS",
+      "ladder_rung": "Prerequisite",
+      "scope_note": "Ratio comparison is readiness; do not assess full ES-03 proportional models until Chapter 4."
+    },
+    {
+      "family_id": "CC2-AP1-1-1-4-T01-P01",
+      "teacher_question_id": "Q007",
+      "bank_item_id": "CC2-AP1-Q007",
+      "family_name": "Ratio reasoning — review & preview 1",
+      "family_purpose": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "category": "spiral",
+      "cpm_lesson": "1.1.4",
+      "cpm_title": "Investigating a Proportional Relationship",
+      "topic_title": "Ratio reasoning",
+      "i_can_id": "CC2-ES-03-PRE-0FB925E5",
+      "i_can_exact_text": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "learning_goal_id": "CC2-ES-03",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward ratio reasoning",
+      "student_action": "Find two factors of 24 with product 24 and sum 10.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Find two factors of 24 with product 24 and sum 10.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-1-4-T01-P01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "4 and 6.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Find two factors of 24 with product 24 and sum 10.</p>",
+        "answer": "4 and 6.",
+        "solution": "4 and 6.",
+        "scoring_guidance": "Assess I can compare quantities using equivalent ratios without assuming a complete proportional model. (evidence: READINESS). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.1.4",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-03-PRE-0FB925E5",
+      "reporting_i_can_text": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "READINESS",
+      "ladder_rung": "Prerequisite",
+      "scope_note": "Ratio comparison is readiness; do not assess full ES-03 proportional models until Chapter 4."
+    },
+    {
+      "family_id": "CC2-AP1-1-1-4-T01-P02",
+      "teacher_question_id": "Q008",
+      "bank_item_id": "CC2-AP1-Q008",
+      "family_name": "Ratio reasoning — review & preview 2",
+      "family_purpose": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "category": "spiral",
+      "cpm_lesson": "1.1.4",
+      "cpm_title": "Investigating a Proportional Relationship",
+      "topic_title": "Ratio reasoning",
+      "i_can_id": "CC2-ES-03-PRE-0FB925E5",
+      "i_can_exact_text": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "learning_goal_id": "CC2-ES-03",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward ratio reasoning",
+      "student_action": "Compute 3 × 8 + 4.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Compute 3 × 8 + 4.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-1-4-T01-P02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "28.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Compute 3 × 8 + 4.</p>",
+        "answer": "28.",
+        "solution": "28.",
+        "scoring_guidance": "Assess I can compare quantities using equivalent ratios without assuming a complete proportional model. (evidence: READINESS). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.1.4",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-03-PRE-0FB925E5",
+      "reporting_i_can_text": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "READINESS",
+      "ladder_rung": "Prerequisite",
+      "scope_note": "Ratio comparison is readiness; do not assess full ES-03 proportional models until Chapter 4."
+    },
+    {
+      "family_id": "CC2-AP1-1-1-4-T01-P03",
+      "teacher_question_id": "Q009",
+      "bank_item_id": "CC2-AP1-Q009",
+      "family_name": "Ratio reasoning — review & preview 3",
+      "family_purpose": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "category": "spiral",
+      "cpm_lesson": "1.1.4",
+      "cpm_title": "Investigating a Proportional Relationship",
+      "topic_title": "Ratio reasoning",
+      "i_can_id": "CC2-ES-03-PRE-0FB925E5",
+      "i_can_exact_text": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "learning_goal_id": "CC2-ES-03",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward ratio reasoning",
+      "student_action": "A pattern begins 5, 10, 15, __. Find the next value.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A pattern begins 5, 10, 15, __. Find the next value.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-1-4-T01-P03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "20.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A pattern begins 5, 10, 15, __. Find the next value.</p>",
+        "answer": "20.",
+        "solution": "20.",
+        "scoring_guidance": "Assess I can compare quantities using equivalent ratios without assuming a complete proportional model. (evidence: READINESS). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.1.4",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-03-PRE-0FB925E5",
+      "reporting_i_can_text": "I can compare quantities using equivalent ratios without assuming a complete proportional model.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "READINESS",
+      "ladder_rung": "Prerequisite",
+      "scope_note": "Ratio comparison is readiness; do not assess full ES-03 proportional models until Chapter 4."
+    },
+    {
+      "family_id": "CC2-AP1-1-2-1-T02-R01",
+      "teacher_question_id": "Q010",
+      "bank_item_id": "CC2-AP1-Q010",
+      "family_name": "Favorable and total outcomes — reasoning 1",
+      "family_purpose": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "category": "reasoning",
+      "cpm_lesson": "1.2.1",
+      "cpm_title": "Introduction to Probability",
+      "topic_title": "Favorable and total outcomes",
+      "i_can_id": "CC2-ES-05-F-FE1D4E14",
+      "i_can_exact_text": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "student_action": "A fair six-sided die is rolled. Explain why the chance of rolling a number greater than 4 is 2/6, not 2/4.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A fair six-sided die is rolled. Explain why the chance of rolling a number greater than 4 is 2/6, not 2/4.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-1-T02-R01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "There are 2 favorable outcomes (5,6) among all 6 equally likely outcomes; P=2/6=1/3.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A fair six-sided die is rolled. Explain why the chance of rolling a number greater than 4 is 2/6, not 2/4.</p>",
+        "answer": "There are 2 favorable outcomes (5,6) among all 6 equally likely outcomes; P=2/6=1/3.",
+        "solution": "There are 2 favorable outcomes (5,6) among all 6 equally likely outcomes; P=2/6=1/3.",
+        "scoring_guidance": "Assess I can identify favorable and total equally likely outcomes in a single experiment. (evidence: FIRST_CHECK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.1",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-F-FE1D4E14",
+      "reporting_i_can_text": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK",
+      "ladder_rung": "Foundation",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP1-1-2-1-T02-R02",
+      "teacher_question_id": "Q011",
+      "bank_item_id": "CC2-AP1-Q011",
+      "family_name": "Favorable and total outcomes — reasoning 2",
+      "family_purpose": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "category": "reasoning",
+      "cpm_lesson": "1.2.1",
+      "cpm_title": "Introduction to Probability",
+      "topic_title": "Favorable and total outcomes",
+      "i_can_id": "CC2-ES-05-F-FE1D4E14",
+      "i_can_exact_text": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "student_action": "A bag has 3 green and 2 yellow identical counters. Explain how the total and favorable outcomes determine the chance of green.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A bag has 3 green and 2 yellow identical counters. Explain how the total and favorable outcomes determine the chance of green.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-1-T02-R02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "3 favorable out of 5 equally likely counters; P(green)=3/5.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A bag has 3 green and 2 yellow identical counters. Explain how the total and favorable outcomes determine the chance of green.</p>",
+        "answer": "3 favorable out of 5 equally likely counters; P(green)=3/5.",
+        "solution": "3 favorable out of 5 equally likely counters; P(green)=3/5.",
+        "scoring_guidance": "Assess I can identify favorable and total equally likely outcomes in a single experiment. (evidence: FIRST_CHECK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.1",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-F-FE1D4E14",
+      "reporting_i_can_text": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK",
+      "ladder_rung": "Foundation",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP1-1-2-1-T02-R03",
+      "teacher_question_id": "Q012",
+      "bank_item_id": "CC2-AP1-Q012",
+      "family_name": "Favorable and total outcomes — reasoning 3",
+      "family_purpose": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "category": "reasoning",
+      "cpm_lesson": "1.2.1",
+      "cpm_title": "Introduction to Probability",
+      "topic_title": "Favorable and total outcomes",
+      "i_can_id": "CC2-ES-05-F-FE1D4E14",
+      "i_can_exact_text": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "student_action": "A spinner has 8 equal sections labeled 1 to 8. Compare P(odd) and P(number > 6), explaining denominators.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A spinner has 8 equal sections labeled 1 to 8. Compare P(odd) and P(number &gt; 6), explaining denominators.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-1-T02-R03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "P(odd)=4/8; P(>6)=2/8; odd is twice as likely and both denominators are 8.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A spinner has 8 equal sections labeled 1 to 8. Compare P(odd) and P(number &gt; 6), explaining denominators.</p>",
+        "answer": "P(odd)=4/8; P(>6)=2/8; odd is twice as likely and both denominators are 8.",
+        "solution": "P(odd)=4/8; P(>6)=2/8; odd is twice as likely and both denominators are 8.",
+        "scoring_guidance": "Assess I can identify favorable and total equally likely outcomes in a single experiment. (evidence: FIRST_CHECK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.1",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-F-FE1D4E14",
+      "reporting_i_can_text": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK",
+      "ladder_rung": "Foundation",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP1-1-2-1-T02-S01",
+      "teacher_question_id": "Q013",
+      "bank_item_id": "CC2-AP1-Q013",
+      "family_name": "Favorable and total outcomes — direct skill 1",
+      "family_purpose": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "category": "direct",
+      "cpm_lesson": "1.2.1",
+      "cpm_title": "Introduction to Probability",
+      "topic_title": "Favorable and total outcomes",
+      "i_can_id": "CC2-ES-05-F-FE1D4E14",
+      "i_can_exact_text": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "student_action": "A fair coin is flipped. Write P(heads).",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A fair coin is flipped. Write P(heads).</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-1-T02-S01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "1/2.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A fair coin is flipped. Write P(heads).</p>",
+        "answer": "1/2.",
+        "solution": "1/2.",
+        "scoring_guidance": "Assess I can identify favorable and total equally likely outcomes in a single experiment. (evidence: FIRST_CHECK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.1",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-F-FE1D4E14",
+      "reporting_i_can_text": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK",
+      "ladder_rung": "Foundation",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP1-1-2-1-T02-S02",
+      "teacher_question_id": "Q014",
+      "bank_item_id": "CC2-AP1-Q014",
+      "family_name": "Favorable and total outcomes — direct skill 2",
+      "family_purpose": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "category": "direct",
+      "cpm_lesson": "1.2.1",
+      "cpm_title": "Introduction to Probability",
+      "topic_title": "Favorable and total outcomes",
+      "i_can_id": "CC2-ES-05-F-FE1D4E14",
+      "i_can_exact_text": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "student_action": "Roll a fair die. Write P(3).",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Roll a fair die. Write P(3).</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-1-T02-S02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "1/6.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Roll a fair die. Write P(3).</p>",
+        "answer": "1/6.",
+        "solution": "1/6.",
+        "scoring_guidance": "Assess I can identify favorable and total equally likely outcomes in a single experiment. (evidence: FIRST_CHECK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.1",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-F-FE1D4E14",
+      "reporting_i_can_text": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK",
+      "ladder_rung": "Foundation",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP1-1-2-1-T02-S03",
+      "teacher_question_id": "Q015",
+      "bank_item_id": "CC2-AP1-Q015",
+      "family_name": "Favorable and total outcomes — direct skill 3",
+      "family_purpose": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "category": "direct",
+      "cpm_lesson": "1.2.1",
+      "cpm_title": "Introduction to Probability",
+      "topic_title": "Favorable and total outcomes",
+      "i_can_id": "CC2-ES-05-F-FE1D4E14",
+      "i_can_exact_text": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "student_action": "A bag contains 4 blue and 6 red identical chips. Write P(blue).",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A bag contains 4 blue and 6 red identical chips. Write P(blue).</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-1-T02-S03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "4/10=2/5.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A bag contains 4 blue and 6 red identical chips. Write P(blue).</p>",
+        "answer": "4/10=2/5.",
+        "solution": "4/10=2/5.",
+        "scoring_guidance": "Assess I can identify favorable and total equally likely outcomes in a single experiment. (evidence: FIRST_CHECK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.1",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-F-FE1D4E14",
+      "reporting_i_can_text": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK",
+      "ladder_rung": "Foundation",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP1-1-2-1-T02-P01",
+      "teacher_question_id": "Q016",
+      "bank_item_id": "CC2-AP1-Q016",
+      "family_name": "Favorable and total outcomes — review & preview 1",
+      "family_purpose": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "category": "spiral",
+      "cpm_lesson": "1.2.1",
+      "cpm_title": "Introduction to Probability",
+      "topic_title": "Favorable and total outcomes",
+      "i_can_id": "CC2-ES-05-F-FE1D4E14",
+      "i_can_exact_text": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward favorable and total outcomes",
+      "student_action": "Simplify 4/12.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Simplify 4/12.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-1-T02-P01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "1/3.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Simplify 4/12.</p>",
+        "answer": "1/3.",
+        "solution": "1/3.",
+        "scoring_guidance": "Assess I can identify favorable and total equally likely outcomes in a single experiment. (evidence: FIRST_CHECK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.1",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-F-FE1D4E14",
+      "reporting_i_can_text": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK",
+      "ladder_rung": "Foundation",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP1-1-2-1-T02-P02",
+      "teacher_question_id": "Q017",
+      "bank_item_id": "CC2-AP1-Q017",
+      "family_name": "Favorable and total outcomes — review & preview 2",
+      "family_purpose": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "category": "spiral",
+      "cpm_lesson": "1.2.1",
+      "cpm_title": "Introduction to Probability",
+      "topic_title": "Favorable and total outcomes",
+      "i_can_id": "CC2-ES-05-F-FE1D4E14",
+      "i_can_exact_text": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward favorable and total outcomes",
+      "student_action": "Find 25% of 20.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Find 25% of 20.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-1-T02-P02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "5.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Find 25% of 20.</p>",
+        "answer": "5.",
+        "solution": "5.",
+        "scoring_guidance": "Assess I can identify favorable and total equally likely outcomes in a single experiment. (evidence: FIRST_CHECK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.1",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-F-FE1D4E14",
+      "reporting_i_can_text": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK",
+      "ladder_rung": "Foundation",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP1-1-2-1-T02-P03",
+      "teacher_question_id": "Q018",
+      "bank_item_id": "CC2-AP1-Q018",
+      "family_name": "Favorable and total outcomes — review & preview 3",
+      "family_purpose": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "category": "spiral",
+      "cpm_lesson": "1.2.1",
+      "cpm_title": "Introduction to Probability",
+      "topic_title": "Favorable and total outcomes",
+      "i_can_id": "CC2-ES-05-F-FE1D4E14",
+      "i_can_exact_text": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward favorable and total outcomes",
+      "student_action": "Write 1/2 as a percent.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Write 1/2 as a percent.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-1-T02-P03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "50%.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Write 1/2 as a percent.</p>",
+        "answer": "50%.",
+        "solution": "50%.",
+        "scoring_guidance": "Assess I can identify favorable and total equally likely outcomes in a single experiment. (evidence: FIRST_CHECK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.1",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-F-FE1D4E14",
+      "reporting_i_can_text": "I can identify favorable and total equally likely outcomes in a single experiment.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK",
+      "ladder_rung": "Foundation",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP1-1-2-2-T03-R01",
+      "teacher_question_id": "Q019",
+      "bank_item_id": "CC2-AP1-Q019",
+      "family_name": "Likelihood and simple probability — reasoning 1",
+      "family_purpose": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "category": "reasoning",
+      "cpm_lesson": "1.2.2",
+      "cpm_title": "Investigating Probability",
+      "topic_title": "Likelihood and simple probability",
+      "i_can_id": "CC2-ES-05-D-14C4F801",
+      "i_can_exact_text": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "student_action": "A jar holds 7 black and 3 white chips. Is drawing black likely or unlikely? Justify with a fraction.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A jar holds 7 black and 3 white chips. Is drawing black likely or unlikely? Justify with a fraction.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-2-T03-R01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "Likely; 7 of 10 equally likely chips are black, P=7/10>1/2.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A jar holds 7 black and 3 white chips. Is drawing black likely or unlikely? Justify with a fraction.</p>",
+        "answer": "Likely; 7 of 10 equally likely chips are black, P=7/10>1/2.",
+        "solution": "Likely; 7 of 10 equally likely chips are black, P=7/10>1/2.",
+        "scoring_guidance": "Assess I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-D-14C4F801",
+      "reporting_i_can_text": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP1-1-2-2-T03-R02",
+      "teacher_question_id": "Q020",
+      "bank_item_id": "CC2-AP1-Q020",
+      "family_name": "Likelihood and simple probability — reasoning 2",
+      "family_purpose": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "category": "reasoning",
+      "cpm_lesson": "1.2.2",
+      "cpm_title": "Investigating Probability",
+      "topic_title": "Likelihood and simple probability",
+      "i_can_id": "CC2-ES-05-D-14C4F801",
+      "i_can_exact_text": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "student_action": "A fair number cube has faces 1–6. Classify rolling a 9, an even number, and a number below 7. Explain.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A fair number cube has faces 1–6. Classify rolling a 9, an even number, and a number below 7. Explain.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-2-T03-R02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "9 impossible (0/6); even 3/6, equally likely as not; below 7 certain (6/6).",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A fair number cube has faces 1–6. Classify rolling a 9, an even number, and a number below 7. Explain.</p>",
+        "answer": "9 impossible (0/6); even 3/6, equally likely as not; below 7 certain (6/6).",
+        "solution": "9 impossible (0/6); even 3/6, equally likely as not; below 7 certain (6/6).",
+        "scoring_guidance": "Assess I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-D-14C4F801",
+      "reporting_i_can_text": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP1-1-2-2-T03-R03",
+      "teacher_question_id": "Q021",
+      "bank_item_id": "CC2-AP1-Q021",
+      "family_name": "Likelihood and simple probability — reasoning 3",
+      "family_purpose": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "category": "reasoning",
+      "cpm_lesson": "1.2.2",
+      "cpm_title": "Investigating Probability",
+      "topic_title": "Likelihood and simple probability",
+      "i_can_id": "CC2-ES-05-D-14C4F801",
+      "i_can_exact_text": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "student_action": "A spinner has 12 equal sections, 2 blue and 10 red. A student calls blue “likely.” Correct the claim.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A spinner has 12 equal sections, 2 blue and 10 red. A student calls blue “likely.” Correct the claim.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-2-T03-R03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "Blue is unlikely because P(blue)=2/12=1/6.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A spinner has 12 equal sections, 2 blue and 10 red. A student calls blue “likely.” Correct the claim.</p>",
+        "answer": "Blue is unlikely because P(blue)=2/12=1/6.",
+        "solution": "Blue is unlikely because P(blue)=2/12=1/6.",
+        "scoring_guidance": "Assess I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-D-14C4F801",
+      "reporting_i_can_text": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP1-1-2-2-T03-S01",
+      "teacher_question_id": "Q022",
+      "bank_item_id": "CC2-AP1-Q022",
+      "family_name": "Likelihood and simple probability — direct skill 1",
+      "family_purpose": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "category": "direct",
+      "cpm_lesson": "1.2.2",
+      "cpm_title": "Investigating Probability",
+      "topic_title": "Likelihood and simple probability",
+      "i_can_id": "CC2-ES-05-D-14C4F801",
+      "i_can_exact_text": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "student_action": "A bag has 5 yellow and 1 purple chip. Find P(purple).",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A bag has 5 yellow and 1 purple chip. Find P(purple).</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-2-T03-S01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "1/6.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A bag has 5 yellow and 1 purple chip. Find P(purple).</p>",
+        "answer": "1/6.",
+        "solution": "1/6.",
+        "scoring_guidance": "Assess I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-D-14C4F801",
+      "reporting_i_can_text": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP1-1-2-2-T03-S02",
+      "teacher_question_id": "Q023",
+      "bank_item_id": "CC2-AP1-Q023",
+      "family_name": "Likelihood and simple probability — direct skill 2",
+      "family_purpose": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "category": "direct",
+      "cpm_lesson": "1.2.2",
+      "cpm_title": "Investigating Probability",
+      "topic_title": "Likelihood and simple probability",
+      "i_can_id": "CC2-ES-05-D-14C4F801",
+      "i_can_exact_text": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "student_action": "Roll a fair die. Find P(number < 5).",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Roll a fair die. Find P(number &lt; 5).</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-2-T03-S02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "4/6=2/3.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Roll a fair die. Find P(number &lt; 5).</p>",
+        "answer": "4/6=2/3.",
+        "solution": "4/6=2/3.",
+        "scoring_guidance": "Assess I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-D-14C4F801",
+      "reporting_i_can_text": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP1-1-2-2-T03-S03",
+      "teacher_question_id": "Q024",
+      "bank_item_id": "CC2-AP1-Q024",
+      "family_name": "Likelihood and simple probability — direct skill 3",
+      "family_purpose": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "category": "direct",
+      "cpm_lesson": "1.2.2",
+      "cpm_title": "Investigating Probability",
+      "topic_title": "Likelihood and simple probability",
+      "i_can_id": "CC2-ES-05-D-14C4F801",
+      "i_can_exact_text": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "student_action": "Classify choosing a weekday from a set of seven cards labeled Monday–Sunday as certain, likely, unlikely, or impossible.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Classify choosing a weekday from a set of seven cards labeled Monday–Sunday as certain, likely, unlikely, or impossible.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-2-T03-S03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "Likely, with probability 5/7.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Classify choosing a weekday from a set of seven cards labeled Monday–Sunday as certain, likely, unlikely, or impossible.</p>",
+        "answer": "Likely, with probability 5/7.",
+        "solution": "Likely, with probability 5/7.",
+        "scoring_guidance": "Assess I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-D-14C4F801",
+      "reporting_i_can_text": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP1-1-2-2-T03-P01",
+      "teacher_question_id": "Q025",
+      "bank_item_id": "CC2-AP1-Q025",
+      "family_name": "Likelihood and simple probability — review & preview 1",
+      "family_purpose": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "category": "spiral",
+      "cpm_lesson": "1.2.2",
+      "cpm_title": "Investigating Probability",
+      "topic_title": "Likelihood and simple probability",
+      "i_can_id": "CC2-ES-05-D-14C4F801",
+      "i_can_exact_text": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward likelihood and simple probability",
+      "student_action": "Write 3/4 as a percent.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Write 3/4 as a percent.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-2-T03-P01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "75%.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Write 3/4 as a percent.</p>",
+        "answer": "75%.",
+        "solution": "75%.",
+        "scoring_guidance": "Assess I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-D-14C4F801",
+      "reporting_i_can_text": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP1-1-2-2-T03-P02",
+      "teacher_question_id": "Q026",
+      "bank_item_id": "CC2-AP1-Q026",
+      "family_name": "Likelihood and simple probability — review & preview 2",
+      "family_purpose": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "category": "spiral",
+      "cpm_lesson": "1.2.2",
+      "cpm_title": "Investigating Probability",
+      "topic_title": "Likelihood and simple probability",
+      "i_can_id": "CC2-ES-05-D-14C4F801",
+      "i_can_exact_text": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward likelihood and simple probability",
+      "student_action": "What is the complement of 2/5?",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>What is the complement of 2/5?</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-2-T03-P02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "3/5.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>What is the complement of 2/5?</p>",
+        "answer": "3/5.",
+        "solution": "3/5.",
+        "scoring_guidance": "Assess I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-D-14C4F801",
+      "reporting_i_can_text": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP1-1-2-2-T03-P03",
+      "teacher_question_id": "Q027",
+      "bank_item_id": "CC2-AP1-Q027",
+      "family_name": "Likelihood and simple probability — review & preview 3",
+      "family_purpose": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "category": "spiral",
+      "cpm_lesson": "1.2.2",
+      "cpm_title": "Investigating Probability",
+      "topic_title": "Likelihood and simple probability",
+      "i_can_id": "CC2-ES-05-D-14C4F801",
+      "i_can_exact_text": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward likelihood and simple probability",
+      "student_action": "Simplify 6/9.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Simplify 6/9.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-2-T03-P03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "2/3.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Simplify 6/9.</p>",
+        "answer": "2/3.",
+        "solution": "2/3.",
+        "scoring_guidance": "Assess I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions. (evidence: EXPECT_AFTER_FEEDBACK). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.2",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-D-14C4F801",
+      "reporting_i_can_text": "I can distinguish likely, unlikely, certain, and impossible events and express simple probabilities as fractions.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "EXPECT_AFTER_FEEDBACK",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP1-1-2-3-T04-R01",
+      "teacher_question_id": "Q028",
+      "bank_item_id": "CC2-AP1-Q028",
+      "family_name": "Changing the sample space — reasoning 1",
+      "family_purpose": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "category": "reasoning",
+      "cpm_lesson": "1.2.3",
+      "cpm_title": "Modifying the Sample Space",
+      "topic_title": "Changing the sample space",
+      "i_can_id": "CC2-ES-05-D-A25FB33A",
+      "i_can_exact_text": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "student_action": "A bag has 2 blue and 3 red chips. Add 2 red chips. Explain what happens to P(blue).",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A bag has 2 blue and 3 red chips. Add 2 red chips. Explain what happens to P(blue).</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-3-T04-R01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "P(blue) falls from 2/5 to 2/7; favorable blue stays 2, total increases.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A bag has 2 blue and 3 red chips. Add 2 red chips. Explain what happens to P(blue).</p>",
+        "answer": "P(blue) falls from 2/5 to 2/7; favorable blue stays 2, total increases.",
+        "solution": "P(blue) falls from 2/5 to 2/7; favorable blue stays 2, total increases.",
+        "scoring_guidance": "Assess I can explain how adding or removing possible outcomes changes the probability of a simple event. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-D-A25FB33A",
+      "reporting_i_can_text": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP1-1-2-3-T04-R02",
+      "teacher_question_id": "Q029",
+      "bank_item_id": "CC2-AP1-Q029",
+      "family_name": "Changing the sample space — reasoning 2",
+      "family_purpose": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "category": "reasoning",
+      "cpm_lesson": "1.2.3",
+      "cpm_title": "Modifying the Sample Space",
+      "topic_title": "Changing the sample space",
+      "i_can_id": "CC2-ES-05-D-A25FB33A",
+      "i_can_exact_text": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "student_action": "A spinner has 4 red and 4 green equal sectors. One green sector becomes red. Explain how P(red) changes.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A spinner has 4 red and 4 green equal sectors. One green sector becomes red. Explain how P(red) changes.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-3-T04-R02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "It rises from 4/8=1/2 to 5/8.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A spinner has 4 red and 4 green equal sectors. One green sector becomes red. Explain how P(red) changes.</p>",
+        "answer": "It rises from 4/8=1/2 to 5/8.",
+        "solution": "It rises from 4/8=1/2 to 5/8.",
+        "scoring_guidance": "Assess I can explain how adding or removing possible outcomes changes the probability of a simple event. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-D-A25FB33A",
+      "reporting_i_can_text": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP1-1-2-3-T04-R03",
+      "teacher_question_id": "Q030",
+      "bank_item_id": "CC2-AP1-Q030",
+      "family_name": "Changing the sample space — reasoning 3",
+      "family_purpose": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "category": "reasoning",
+      "cpm_lesson": "1.2.3",
+      "cpm_title": "Modifying the Sample Space",
+      "topic_title": "Changing the sample space",
+      "i_can_id": "CC2-ES-05-D-A25FB33A",
+      "i_can_exact_text": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "student_action": "A jar has 5 gold and 5 silver counters. Remove 3 silver counters. Explain whether gold is now more likely than before.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A jar has 5 gold and 5 silver counters. Remove 3 silver counters. Explain whether gold is now more likely than before.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-3-T04-R03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "Yes; P(gold) rises from 5/10 to 5/7.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A jar has 5 gold and 5 silver counters. Remove 3 silver counters. Explain whether gold is now more likely than before.</p>",
+        "answer": "Yes; P(gold) rises from 5/10 to 5/7.",
+        "solution": "Yes; P(gold) rises from 5/10 to 5/7.",
+        "scoring_guidance": "Assess I can explain how adding or removing possible outcomes changes the probability of a simple event. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-D-A25FB33A",
+      "reporting_i_can_text": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP1-1-2-3-T04-S01",
+      "teacher_question_id": "Q031",
+      "bank_item_id": "CC2-AP1-Q031",
+      "family_name": "Changing the sample space — direct skill 1",
+      "family_purpose": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "category": "direct",
+      "cpm_lesson": "1.2.3",
+      "cpm_title": "Modifying the Sample Space",
+      "topic_title": "Changing the sample space",
+      "i_can_id": "CC2-ES-05-D-A25FB33A",
+      "i_can_exact_text": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "student_action": "A bag has 3 red and 2 blue chips. Add 1 red chip. Find the new P(red).",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A bag has 3 red and 2 blue chips. Add 1 red chip. Find the new P(red).</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-3-T04-S01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "4/6=2/3.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A bag has 3 red and 2 blue chips. Add 1 red chip. Find the new P(red).</p>",
+        "answer": "4/6=2/3.",
+        "solution": "4/6=2/3.",
+        "scoring_guidance": "Assess I can explain how adding or removing possible outcomes changes the probability of a simple event. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-D-A25FB33A",
+      "reporting_i_can_text": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP1-1-2-3-T04-S02",
+      "teacher_question_id": "Q032",
+      "bank_item_id": "CC2-AP1-Q032",
+      "family_name": "Changing the sample space — direct skill 2",
+      "family_purpose": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "category": "direct",
+      "cpm_lesson": "1.2.3",
+      "cpm_title": "Modifying the Sample Space",
+      "topic_title": "Changing the sample space",
+      "i_can_id": "CC2-ES-05-D-A25FB33A",
+      "i_can_exact_text": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "student_action": "A set has 4 equally likely winning and 6 losing tickets. Remove 2 losing tickets. Find P(win).",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A set has 4 equally likely winning and 6 losing tickets. Remove 2 losing tickets. Find P(win).</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-3-T04-S02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "4/8=1/2.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A set has 4 equally likely winning and 6 losing tickets. Remove 2 losing tickets. Find P(win).</p>",
+        "answer": "4/8=1/2.",
+        "solution": "4/8=1/2.",
+        "scoring_guidance": "Assess I can explain how adding or removing possible outcomes changes the probability of a simple event. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-D-A25FB33A",
+      "reporting_i_can_text": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP1-1-2-3-T04-S03",
+      "teacher_question_id": "Q033",
+      "bank_item_id": "CC2-AP1-Q033",
+      "family_name": "Changing the sample space — direct skill 3",
+      "family_purpose": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "category": "direct",
+      "cpm_lesson": "1.2.3",
+      "cpm_title": "Modifying the Sample Space",
+      "topic_title": "Changing the sample space",
+      "i_can_id": "CC2-ES-05-D-A25FB33A",
+      "i_can_exact_text": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "student_action": "A spinner has 3 blue and 5 yellow equal sections. Recolor one yellow blue. Find P(blue).",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A spinner has 3 blue and 5 yellow equal sections. Recolor one yellow blue. Find P(blue).</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-3-T04-S03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "4/8=1/2.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>A spinner has 3 blue and 5 yellow equal sections. Recolor one yellow blue. Find P(blue).</p>",
+        "answer": "4/8=1/2.",
+        "solution": "4/8=1/2.",
+        "scoring_guidance": "Assess I can explain how adding or removing possible outcomes changes the probability of a simple event. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-D-A25FB33A",
+      "reporting_i_can_text": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP1-1-2-3-T04-P01",
+      "teacher_question_id": "Q034",
+      "bank_item_id": "CC2-AP1-Q034",
+      "family_name": "Changing the sample space — review & preview 1",
+      "family_purpose": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "category": "spiral",
+      "cpm_lesson": "1.2.3",
+      "cpm_title": "Modifying the Sample Space",
+      "topic_title": "Changing the sample space",
+      "i_can_id": "CC2-ES-05-D-A25FB33A",
+      "i_can_exact_text": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward changing the sample space",
+      "student_action": "Find 2/5 of 20.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Find 2/5 of 20.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-3-T04-P01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "8.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Find 2/5 of 20.</p>",
+        "answer": "8.",
+        "solution": "8.",
+        "scoring_guidance": "Assess I can explain how adding or removing possible outcomes changes the probability of a simple event. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-D-A25FB33A",
+      "reporting_i_can_text": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP1-1-2-3-T04-P02",
+      "teacher_question_id": "Q035",
+      "bank_item_id": "CC2-AP1-Q035",
+      "family_name": "Changing the sample space — review & preview 2",
+      "family_purpose": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "category": "spiral",
+      "cpm_lesson": "1.2.3",
+      "cpm_title": "Modifying the Sample Space",
+      "topic_title": "Changing the sample space",
+      "i_can_id": "CC2-ES-05-D-A25FB33A",
+      "i_can_exact_text": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward changing the sample space",
+      "student_action": "Simplify 9/12.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Simplify 9/12.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-3-T04-P02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "3/4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Simplify 9/12.</p>",
+        "answer": "3/4.",
+        "solution": "3/4.",
+        "scoring_guidance": "Assess I can explain how adding or removing possible outcomes changes the probability of a simple event. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-D-A25FB33A",
+      "reporting_i_can_text": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP1-1-2-3-T04-P03",
+      "teacher_question_id": "Q036",
+      "bank_item_id": "CC2-AP1-Q036",
+      "family_name": "Changing the sample space — review & preview 3",
+      "family_purpose": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "category": "spiral",
+      "cpm_lesson": "1.2.3",
+      "cpm_title": "Modifying the Sample Space",
+      "topic_title": "Changing the sample space",
+      "i_can_id": "CC2-ES-05-D-A25FB33A",
+      "i_can_exact_text": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward changing the sample space",
+      "student_action": "Order 1/2 and 2/3 from least to greatest.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Order 1/2 and 2/3 from least to greatest.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-3-T04-P03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "1/2, 2/3.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Order 1/2 and 2/3 from least to greatest.</p>",
+        "answer": "1/2, 2/3.",
+        "solution": "1/2, 2/3.",
+        "scoring_guidance": "Assess I can explain how adding or removing possible outcomes changes the probability of a simple event. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.3",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-D-A25FB33A",
+      "reporting_i_can_text": "I can explain how adding or removing possible outcomes changes the probability of a simple event.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Developing",
+      "scope_note": ""
+    },
+    {
+      "family_id": "CC2-AP1-1-2-7-T05-R01",
+      "teacher_question_id": "Q037",
+      "bank_item_id": "CC2-AP1-Q037",
+      "family_name": "Early two-stage outcomes — reasoning 1",
+      "family_purpose": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "category": "reasoning",
+      "cpm_lesson": "1.2.7",
+      "cpm_title": "Compound Probability",
+      "topic_title": "Early two-stage outcomes",
+      "i_can_id": "CC2-ES-05-D-2C450923",
+      "i_can_exact_text": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "student_action": "Flip a coin then choose a card labeled A or B. List all equally likely outcomes and explain the count.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Flip a coin then choose a card labeled A or B. List all equally likely outcomes and explain the count.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-7-T05-R01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "HA, HB, TA, TB; 2×2=4 outcomes.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Flip a coin then choose a card labeled A or B. List all equally likely outcomes and explain the count.</p>",
+        "answer": "HA, HB, TA, TB; 2×2=4 outcomes.",
+        "solution": "HA, HB, TA, TB; 2×2=4 outcomes.",
+        "scoring_guidance": "Assess I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.7",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-D-2C450923",
+      "reporting_i_can_text": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Developing",
+      "scope_note": "Two-stage listing is partial until complete tables/trees and compound justification in Chapter 5."
+    },
+    {
+      "family_id": "CC2-AP1-1-2-7-T05-R02",
+      "teacher_question_id": "Q038",
+      "bank_item_id": "CC2-AP1-Q038",
+      "family_name": "Early two-stage outcomes — reasoning 2",
+      "family_purpose": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "category": "reasoning",
+      "cpm_lesson": "1.2.7",
+      "cpm_title": "Compound Probability",
+      "topic_title": "Early two-stage outcomes",
+      "i_can_id": "CC2-ES-05-D-2C450923",
+      "i_can_exact_text": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "student_action": "Spin a 1–3 spinner then flip a coin. Explain whether (2,H) is one of six outcomes.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Spin a 1–3 spinner then flip a coin. Explain whether (2,H) is one of six outcomes.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-7-T05-R02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "Yes: (1,H),(1,T),(2,H),(2,T),(3,H),(3,T); six.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Spin a 1–3 spinner then flip a coin. Explain whether (2,H) is one of six outcomes.</p>",
+        "answer": "Yes: (1,H),(1,T),(2,H),(2,T),(3,H),(3,T); six.",
+        "solution": "Yes: (1,H),(1,T),(2,H),(2,T),(3,H),(3,T); six.",
+        "scoring_guidance": "Assess I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.7",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-D-2C450923",
+      "reporting_i_can_text": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Developing",
+      "scope_note": "Two-stage listing is partial until complete tables/trees and compound justification in Chapter 5."
+    },
+    {
+      "family_id": "CC2-AP1-1-2-7-T05-R03",
+      "teacher_question_id": "Q039",
+      "bank_item_id": "CC2-AP1-Q039",
+      "family_name": "Early two-stage outcomes — reasoning 3",
+      "family_purpose": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "category": "reasoning",
+      "cpm_lesson": "1.2.7",
+      "cpm_title": "Compound Probability",
+      "topic_title": "Early two-stage outcomes",
+      "i_can_id": "CC2-ES-05-D-2C450923",
+      "i_can_exact_text": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "REPTRANS-REASONING-01",
+      "response_mode": "constructed response",
+      "representation_mode": "words/tables/diagrams/number line as requested",
+      "evidence_job": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "student_action": "Choose red or green, then choose a number 1,2,3. Explain why an organized list needs six entries.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Choose red or green, then choose a number 1,2,3. Explain why an organized list needs six entries.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-7-T05-R03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "2 colors ×3 numbers=6 possible ordered outcomes.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Choose red or green, then choose a number 1,2,3. Explain why an organized list needs six entries.</p>",
+        "answer": "2 colors ×3 numbers=6 possible ordered outcomes.",
+        "solution": "2 colors ×3 numbers=6 possible ordered outcomes.",
+        "scoring_guidance": "Assess I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.7",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-D-2C450923",
+      "reporting_i_can_text": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Developing",
+      "scope_note": "Two-stage listing is partial until complete tables/trees and compound justification in Chapter 5."
+    },
+    {
+      "family_id": "CC2-AP1-1-2-7-T05-S01",
+      "teacher_question_id": "Q040",
+      "bank_item_id": "CC2-AP1-Q040",
+      "family_name": "Early two-stage outcomes — direct skill 1",
+      "family_purpose": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "category": "direct",
+      "cpm_lesson": "1.2.7",
+      "cpm_title": "Compound Probability",
+      "topic_title": "Early two-stage outcomes",
+      "i_can_id": "CC2-ES-05-D-2C450923",
+      "i_can_exact_text": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "student_action": "Flip two coins. List all ordered results.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Flip two coins. List all ordered results.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-7-T05-S01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "HH, HT, TH, TT.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Flip two coins. List all ordered results.</p>",
+        "answer": "HH, HT, TH, TT.",
+        "solution": "HH, HT, TH, TT.",
+        "scoring_guidance": "Assess I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.7",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-D-2C450923",
+      "reporting_i_can_text": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Developing",
+      "scope_note": "Two-stage listing is partial until complete tables/trees and compound justification in Chapter 5."
+    },
+    {
+      "family_id": "CC2-AP1-1-2-7-T05-S02",
+      "teacher_question_id": "Q041",
+      "bank_item_id": "CC2-AP1-Q041",
+      "family_name": "Early two-stage outcomes — direct skill 2",
+      "family_purpose": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "category": "direct",
+      "cpm_lesson": "1.2.7",
+      "cpm_title": "Compound Probability",
+      "topic_title": "Early two-stage outcomes",
+      "i_can_id": "CC2-ES-05-D-2C450923",
+      "i_can_exact_text": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "student_action": "Choose a letter A or B then digit 1 or 2. How many ordered outcomes?",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Choose a letter A or B then digit 1 or 2. How many ordered outcomes?</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-7-T05-S02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Choose a letter A or B then digit 1 or 2. How many ordered outcomes?</p>",
+        "answer": "4.",
+        "solution": "4.",
+        "scoring_guidance": "Assess I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.7",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-D-2C450923",
+      "reporting_i_can_text": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Developing",
+      "scope_note": "Two-stage listing is partial until complete tables/trees and compound justification in Chapter 5."
+    },
+    {
+      "family_id": "CC2-AP1-1-2-7-T05-S03",
+      "teacher_question_id": "Q042",
+      "bank_item_id": "CC2-AP1-Q042",
+      "family_name": "Early two-stage outcomes — direct skill 3",
+      "family_purpose": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "category": "direct",
+      "cpm_lesson": "1.2.7",
+      "cpm_title": "Compound Probability",
+      "topic_title": "Early two-stage outcomes",
+      "i_can_id": "CC2-ES-05-D-2C450923",
+      "i_can_exact_text": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "student_action": "Roll a 1–4 die then flip a coin. How many ordered outcomes?",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Roll a 1–4 die then flip a coin. How many ordered outcomes?</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-7-T05-S03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "8.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Roll a 1–4 die then flip a coin. How many ordered outcomes?</p>",
+        "answer": "8.",
+        "solution": "8.",
+        "scoring_guidance": "Assess I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.7",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-D-2C450923",
+      "reporting_i_can_text": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Developing",
+      "scope_note": "Two-stage listing is partial until complete tables/trees and compound justification in Chapter 5."
+    },
+    {
+      "family_id": "CC2-AP1-1-2-7-T05-P01",
+      "teacher_question_id": "Q043",
+      "bank_item_id": "CC2-AP1-Q043",
+      "family_name": "Early two-stage outcomes — review & preview 1",
+      "family_purpose": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "category": "spiral",
+      "cpm_lesson": "1.2.7",
+      "cpm_title": "Compound Probability",
+      "topic_title": "Early two-stage outcomes",
+      "i_can_id": "CC2-ES-05-D-2C450923",
+      "i_can_exact_text": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward early two-stage outcomes",
+      "student_action": "Find P(heads) for one fair coin toss.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Find P(heads) for one fair coin toss.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-7-T05-P01",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "1/2.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Find P(heads) for one fair coin toss.</p>",
+        "answer": "1/2.",
+        "solution": "1/2.",
+        "scoring_guidance": "Assess I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.7",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-D-2C450923",
+      "reporting_i_can_text": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Developing",
+      "scope_note": "Two-stage listing is partial until complete tables/trees and compound justification in Chapter 5."
+    },
+    {
+      "family_id": "CC2-AP1-1-2-7-T05-P02",
+      "teacher_question_id": "Q044",
+      "bank_item_id": "CC2-AP1-Q044",
+      "family_name": "Early two-stage outcomes — review & preview 2",
+      "family_purpose": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "category": "spiral",
+      "cpm_lesson": "1.2.7",
+      "cpm_title": "Compound Probability",
+      "topic_title": "Early two-stage outcomes",
+      "i_can_id": "CC2-ES-05-D-2C450923",
+      "i_can_exact_text": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward early two-stage outcomes",
+      "student_action": "Simplify 4/8.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Simplify 4/8.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-7-T05-P02",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "1/2.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Simplify 4/8.</p>",
+        "answer": "1/2.",
+        "solution": "1/2.",
+        "scoring_guidance": "Assess I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.7",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-D-2C450923",
+      "reporting_i_can_text": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Developing",
+      "scope_note": "Two-stage listing is partial until complete tables/trees and compound justification in Chapter 5."
+    },
+    {
+      "family_id": "CC2-AP1-1-2-7-T05-P03",
+      "teacher_question_id": "Q045",
+      "bank_item_id": "CC2-AP1-Q045",
+      "family_name": "Early two-stage outcomes — review & preview 3",
+      "family_purpose": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "category": "spiral",
+      "cpm_lesson": "1.2.7",
+      "cpm_title": "Compound Probability",
+      "topic_title": "Early two-stage outcomes",
+      "i_can_id": "CC2-ES-05-D-2C450923",
+      "i_can_exact_text": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "learning_goal_id": "CC2-ES-05",
+      "assessment_plan": "AP1",
+      "ap_section": 1,
+      "question_structure_id": "SPIRAL-BRIEF-REVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "algebraic/numerical or drawing as requested",
+      "evidence_job": "Review earlier prerequisite while working toward early two-stage outcomes",
+      "student_action": "Complete 3, 6, 9, __.",
+      "invariant": "Keep correct mathematics, representation, answer and lesson-rung boundary.",
+      "variation_axes": [
+        "vary at least two meaningful numerical values",
+        "vary context, table, or representation without changing target"
+      ],
+      "forbidden_variations": [
+        "copying the CPM textbook question text",
+        "using a later-chapter skill as early full proficiency",
+        "changing only names without changing mathematics",
+        "replacing a required drawing with vague verbal directions"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Complete 3, 6, 9, __.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "source_question_id": "CC2-AP1-1-2-7-T05-P03",
+          "variant_generation": "not yet automated"
+        },
+        "constraints": [
+          "keep full prompt and answer together",
+          "new values need new independent mathematical verification",
+          "maintain assigned CC2 evidence stage"
+        ],
+        "answer_rule": "12.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax; use registered Graph Tool if a pre-drawn Cartesian figure is added"
+      },
+      "exemplar": {
+        "student_html": "<p>Complete 3, 6, 9, __.</p>",
+        "answer": "12.",
+        "solution": "12.",
+        "scoring_guidance": "Assess I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability. (evidence: FIRST_CHECK_PARTIAL). Accept equivalent work; check representation and units."
+      },
+      "source_basis": {
+        "crosswalk": "CC2 Chapters 1–6 Unit Plans + 03 CC2 Assessment Evidence + 04 Learning Ladders",
+        "cpm_lesson": "1.2.7",
+        "source_type": "original teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC2-ES-05-D-2C450923",
+      "reporting_i_can_text": "I can list outcomes from two simple experiments, recognizing that this is partial evidence of compound probability.",
+      "operational_policy": "pilot baseline - usable now; revise canonical item on feedback",
+      "evidence_stage": "FIRST_CHECK_PARTIAL",
+      "ladder_rung": "Developing",
+      "scope_note": "Two-stage listing is partial until complete tables/trees and compound justification in Chapter 5."
+    }
+  ],
+  "review_summary": {
+    "question_families": 45,
+    "reasoning": 15,
+    "direct": 15,
+    "spiral": 15
+  },
+  "reporting_contract": "cc2-essential-standards/v1",
+  "pilot_policy": {
+    "operational": true,
+    "teacher_review_required_before_use": false,
+    "per_question_teacher_approved": false,
+    "actual_approval_state": "not individually reviewed by teacher",
+    "feedback_strategy": "Update stable canonical family when teacher flags an issue; preserve IDs."
+  }
+}

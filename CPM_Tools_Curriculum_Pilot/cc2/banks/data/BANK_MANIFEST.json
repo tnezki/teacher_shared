@@ -1,0 +1,121 @@
+{
+  "schema": "cpm-family-bank-manifest/v1",
+  "course": "Core Connections Course 2",
+  "plans": [
+    {
+      "plan": "AP1",
+      "chapter": 1,
+      "chapter_title": "Introduction and Probability",
+      "status": "PILOT_BASELINE_ACTIVE",
+      "data": "AP1.json",
+      "lesson_count": 5,
+      "i_can_count": 5,
+      "family_count": 45,
+      "learning_goal_ids": [
+        "CC2-ES-03",
+        "CC2-ES-05"
+      ],
+      "assessment_generation": "AUTHORED_EXEMPLARS_ONLY",
+      "pilot_default_use": true,
+      "teacher_approved_family_count": 0,
+      "per_question_audited": false
+    },
+    {
+      "plan": "AP2",
+      "chapter": 2,
+      "chapter_title": "Fractions and Integer Addition",
+      "status": "PILOT_BASELINE_ACTIVE",
+      "data": "AP2.json",
+      "lesson_count": 5,
+      "i_can_count": 5,
+      "family_count": 45,
+      "learning_goal_ids": [
+        "CC2-ES-01",
+        "CC2-ES-03"
+      ],
+      "assessment_generation": "AUTHORED_EXEMPLARS_ONLY",
+      "pilot_default_use": true,
+      "teacher_approved_family_count": 0,
+      "per_question_audited": false
+    },
+    {
+      "plan": "AP3",
+      "chapter": 3,
+      "chapter_title": "Arithmetic Properties",
+      "status": "PILOT_BASELINE_ACTIVE",
+      "data": "AP3.json",
+      "lesson_count": 4,
+      "i_can_count": 5,
+      "family_count": 45,
+      "learning_goal_ids": [
+        "CC2-ES-01",
+        "CC2-ES-02"
+      ],
+      "assessment_generation": "AUTHORED_EXEMPLARS_ONLY",
+      "pilot_default_use": true,
+      "teacher_approved_family_count": 0,
+      "per_question_audited": false
+    },
+    {
+      "plan": "AP4",
+      "chapter": 4,
+      "chapter_title": "Proportions and Expressions",
+      "status": "PILOT_BASELINE_ACTIVE",
+      "data": "AP4.json",
+      "lesson_count": 6,
+      "i_can_count": 6,
+      "family_count": 54,
+      "learning_goal_ids": [
+        "CC2-ES-02",
+        "CC2-ES-03"
+      ],
+      "assessment_generation": "AUTHORED_EXEMPLARS_ONLY",
+      "pilot_default_use": true,
+      "teacher_approved_family_count": 0,
+      "per_question_audited": false
+    },
+    {
+      "plan": "AP5",
+      "chapter": 5,
+      "chapter_title": "Probability and Solving Word Problems",
+      "status": "PILOT_BASELINE_ACTIVE",
+      "data": "AP5.json",
+      "lesson_count": 5,
+      "i_can_count": 5,
+      "family_count": 45,
+      "learning_goal_ids": [
+        "CC2-ES-03",
+        "CC2-ES-04",
+        "CC2-ES-05"
+      ],
+      "assessment_generation": "AUTHORED_EXEMPLARS_ONLY",
+      "pilot_default_use": true,
+      "teacher_approved_family_count": 0,
+      "per_question_audited": false
+    },
+    {
+      "plan": "AP6",
+      "chapter": 6,
+      "chapter_title": "Solving Inequalities and Equations",
+      "status": "PILOT_BASELINE_ACTIVE",
+      "data": "AP6.json",
+      "lesson_count": 4,
+      "i_can_count": 5,
+      "family_count": 45,
+      "learning_goal_ids": [
+        "CC2-ES-04"
+      ],
+      "assessment_generation": "AUTHORED_EXEMPLARS_ONLY",
+      "pilot_default_use": true,
+      "teacher_approved_family_count": 0,
+      "per_question_audited": false
+    }
+  ],
+  "question_id_policy": "Stable CC2 family IDs; chapter-local Q###. Fix in place on teacher feedback.",
+  "review_convention": "Operational baseline active by teacher instruction; no individual item approval asserted.",
+  "teacher_approval": {
+    "status": "TEACHER_DIRECTION_PILOT_ACTIVE",
+    "scope": "Treat baseline as usable until identified issues; not individual question approval"
+  },
+  "reporting_source": "assessment_plans/CC2_APN_ASSESSMENT_PLAN.json"
+}

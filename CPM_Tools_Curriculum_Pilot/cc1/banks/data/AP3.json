@@ -1,0 +1,2742 @@
+{
+  "schema": "cpm-family-bank-plan/v1",
+  "course": "Core Connections Course 1",
+  "assessment_plan": "AP3",
+  "chapter": 3,
+  "plan_title": "Portions and Integers",
+  "essential_standard": "CC1-ES-02; CC1-ES-03",
+  "bank_status": "TEACHER_APPROVED",
+  "source_crosswalk": "assessment_plans/CC1_AP3_ASSESSMENT_PLAN.json",
+  "source_authority": "Current CC1 unit plans, Phase 03 Assessment Evidence, Phase 04 Learning Ladders; exemplars newly authored",
+  "family_policy": {
+    "per_i_can": {
+      "reasoning": 3,
+      "direct": 3,
+      "spiral": 3
+    },
+    "review_rule": "Teacher-directed default accept for pilot use; correct the canonical item only when teacher flags a concrete issue.",
+    "variation_rule": "Only use the supplied exemplar unless any generated variant is independently verified.",
+    "evidence_stage": "Never claim full-rung proficiency from an explicitly partial lesson checkpoint."
+  },
+  "sections": [
+    {
+      "section": "3.1.5",
+      "title": "Equivalent portions",
+      "learning_target": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "cpm_lesson": "3.1.5",
+      "ap_section": 3,
+      "i_cans": [
+        {
+          "id": "CC1-ES-02-F-E83B030B",
+          "text": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+          "family_ids": [
+            "CC1-AP3-3-1-5-T01-R01",
+            "CC1-AP3-3-1-5-T01-R02",
+            "CC1-AP3-3-1-5-T01-R03",
+            "CC1-AP3-3-1-5-T01-S01",
+            "CC1-AP3-3-1-5-T01-S02",
+            "CC1-AP3-3-1-5-T01-S03",
+            "CC1-AP3-3-1-5-T01-P01",
+            "CC1-AP3-3-1-5-T01-P02",
+            "CC1-AP3-3-1-5-T01-P03"
+          ],
+          "cpm_lesson": "3.1.5",
+          "cpm_title": "Equivalent portions",
+          "learning_goal_id": "CC1-ES-02",
+          "reporting_i_can_text": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+          "ladder_rung": "Foundation",
+          "evidence_stage": "EXPECT",
+          "scope_note": "Independent evidence after instruction, practice and feedback."
+        }
+      ],
+      "reporting_i_can_id": "CC1-ES-02-F-E83B030B",
+      "reporting_i_can_text": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "learning_goal_id": "CC1-ES-02"
+    },
+    {
+      "section": "3.2.3",
+      "title": "Signed contextual changes",
+      "learning_target": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "cpm_lesson": "3.2.3",
+      "ap_section": 3,
+      "i_cans": [
+        {
+          "id": "CC1-ES-03-D-3413A124",
+          "text": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+          "family_ids": [
+            "CC1-AP3-3-2-3-T02-R01",
+            "CC1-AP3-3-2-3-T02-R02",
+            "CC1-AP3-3-2-3-T02-R03",
+            "CC1-AP3-3-2-3-T02-S01",
+            "CC1-AP3-3-2-3-T02-S02",
+            "CC1-AP3-3-2-3-T02-S03",
+            "CC1-AP3-3-2-3-T02-P01",
+            "CC1-AP3-3-2-3-T02-P02",
+            "CC1-AP3-3-2-3-T02-P03"
+          ],
+          "cpm_lesson": "3.2.3",
+          "cpm_title": "Signed contextual changes",
+          "learning_goal_id": "CC1-ES-03",
+          "reporting_i_can_text": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "EXPECT",
+          "scope_note": "Independent evidence after instruction, practice and feedback."
+        }
+      ],
+      "reporting_i_can_id": "CC1-ES-03-D-3413A124",
+      "reporting_i_can_text": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "learning_goal_id": "CC1-ES-03"
+    },
+    {
+      "section": "3.2.3",
+      "title": "Opposites and absolute value",
+      "learning_target": "I can use absolute value and opposites to explain position and distance from zero.",
+      "cpm_lesson": "3.2.3",
+      "ap_section": 3,
+      "i_cans": [
+        {
+          "id": "CC1-ES-03-D-058F04BF",
+          "text": "I can use absolute value and opposites to explain position and distance from zero.",
+          "family_ids": [
+            "CC1-AP3-3-2-3-T03-R01",
+            "CC1-AP3-3-2-3-T03-R02",
+            "CC1-AP3-3-2-3-T03-R03",
+            "CC1-AP3-3-2-3-T03-S01",
+            "CC1-AP3-3-2-3-T03-S02",
+            "CC1-AP3-3-2-3-T03-S03",
+            "CC1-AP3-3-2-3-T03-P01",
+            "CC1-AP3-3-2-3-T03-P02",
+            "CC1-AP3-3-2-3-T03-P03"
+          ],
+          "cpm_lesson": "3.2.3",
+          "cpm_title": "Opposites and absolute value",
+          "learning_goal_id": "CC1-ES-03",
+          "reporting_i_can_text": "I can use absolute value and opposites to explain position and distance from zero.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "EXPECT",
+          "scope_note": "Independent evidence after instruction, practice and feedback."
+        }
+      ],
+      "reporting_i_can_id": "CC1-ES-03-D-058F04BF",
+      "reporting_i_can_text": "I can use absolute value and opposites to explain position and distance from zero.",
+      "learning_goal_id": "CC1-ES-03"
+    },
+    {
+      "section": "3.2.4",
+      "title": "Coordinate distances",
+      "learning_target": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "cpm_lesson": "3.2.4",
+      "ap_section": 3,
+      "i_cans": [
+        {
+          "id": "CC1-ES-03-P-00501570",
+          "text": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+          "family_ids": [
+            "CC1-AP3-3-2-4-T04-R01",
+            "CC1-AP3-3-2-4-T04-R02",
+            "CC1-AP3-3-2-4-T04-R03",
+            "CC1-AP3-3-2-4-T04-S01",
+            "CC1-AP3-3-2-4-T04-S02",
+            "CC1-AP3-3-2-4-T04-S03",
+            "CC1-AP3-3-2-4-T04-P01",
+            "CC1-AP3-3-2-4-T04-P02",
+            "CC1-AP3-3-2-4-T04-P03"
+          ],
+          "cpm_lesson": "3.2.4",
+          "cpm_title": "Coordinate distances",
+          "learning_goal_id": "CC1-ES-03",
+          "reporting_i_can_text": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+          "ladder_rung": "Proficient",
+          "evidence_stage": "EXPECT",
+          "scope_note": "Independent evidence after instruction, practice and feedback."
+        }
+      ],
+      "reporting_i_can_id": "CC1-ES-03-P-00501570",
+      "reporting_i_can_text": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "learning_goal_id": "CC1-ES-03"
+    }
+  ],
+  "mastery_goals": [
+    {
+      "id": "CC1-ES-02",
+      "title": "CC1-ES-02 evidence through chapter 3",
+      "assessment_plan": "AP3",
+      "mastery_goal": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "i_cans": [
+        {
+          "id": "CC1-ES-02-F-E83B030B",
+          "text": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+          "family_ids": [
+            "CC1-AP3-3-1-5-T01-R01",
+            "CC1-AP3-3-1-5-T01-R02",
+            "CC1-AP3-3-1-5-T01-R03",
+            "CC1-AP3-3-1-5-T01-S01",
+            "CC1-AP3-3-1-5-T01-S02",
+            "CC1-AP3-3-1-5-T01-S03",
+            "CC1-AP3-3-1-5-T01-P01",
+            "CC1-AP3-3-1-5-T01-P02",
+            "CC1-AP3-3-1-5-T01-P03"
+          ],
+          "cpm_lesson": "3.1.5",
+          "cpm_title": "Equivalent portions",
+          "learning_goal_id": "CC1-ES-02",
+          "reporting_i_can_text": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+          "ladder_rung": "Foundation",
+          "evidence_stage": "EXPECT",
+          "scope_note": "Independent evidence after instruction, practice and feedback."
+        }
+      ],
+      "reporting_contract": "cc1-essential-standards/v1"
+    },
+    {
+      "id": "CC1-ES-03",
+      "title": "CC1-ES-03 evidence through chapter 3",
+      "assessment_plan": "AP3",
+      "mastery_goal": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning. I can use absolute value and opposites to explain position and distance from zero. I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "i_cans": [
+        {
+          "id": "CC1-ES-03-D-3413A124",
+          "text": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+          "family_ids": [
+            "CC1-AP3-3-2-3-T02-R01",
+            "CC1-AP3-3-2-3-T02-R02",
+            "CC1-AP3-3-2-3-T02-R03",
+            "CC1-AP3-3-2-3-T02-S01",
+            "CC1-AP3-3-2-3-T02-S02",
+            "CC1-AP3-3-2-3-T02-S03",
+            "CC1-AP3-3-2-3-T02-P01",
+            "CC1-AP3-3-2-3-T02-P02",
+            "CC1-AP3-3-2-3-T02-P03"
+          ],
+          "cpm_lesson": "3.2.3",
+          "cpm_title": "Signed contextual changes",
+          "learning_goal_id": "CC1-ES-03",
+          "reporting_i_can_text": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "EXPECT",
+          "scope_note": "Independent evidence after instruction, practice and feedback."
+        },
+        {
+          "id": "CC1-ES-03-D-058F04BF",
+          "text": "I can use absolute value and opposites to explain position and distance from zero.",
+          "family_ids": [
+            "CC1-AP3-3-2-3-T03-R01",
+            "CC1-AP3-3-2-3-T03-R02",
+            "CC1-AP3-3-2-3-T03-R03",
+            "CC1-AP3-3-2-3-T03-S01",
+            "CC1-AP3-3-2-3-T03-S02",
+            "CC1-AP3-3-2-3-T03-S03",
+            "CC1-AP3-3-2-3-T03-P01",
+            "CC1-AP3-3-2-3-T03-P02",
+            "CC1-AP3-3-2-3-T03-P03"
+          ],
+          "cpm_lesson": "3.2.3",
+          "cpm_title": "Opposites and absolute value",
+          "learning_goal_id": "CC1-ES-03",
+          "reporting_i_can_text": "I can use absolute value and opposites to explain position and distance from zero.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "EXPECT",
+          "scope_note": "Independent evidence after instruction, practice and feedback."
+        },
+        {
+          "id": "CC1-ES-03-P-00501570",
+          "text": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+          "family_ids": [
+            "CC1-AP3-3-2-4-T04-R01",
+            "CC1-AP3-3-2-4-T04-R02",
+            "CC1-AP3-3-2-4-T04-R03",
+            "CC1-AP3-3-2-4-T04-S01",
+            "CC1-AP3-3-2-4-T04-S02",
+            "CC1-AP3-3-2-4-T04-S03",
+            "CC1-AP3-3-2-4-T04-P01",
+            "CC1-AP3-3-2-4-T04-P02",
+            "CC1-AP3-3-2-4-T04-P03"
+          ],
+          "cpm_lesson": "3.2.4",
+          "cpm_title": "Coordinate distances",
+          "learning_goal_id": "CC1-ES-03",
+          "reporting_i_can_text": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+          "ladder_rung": "Proficient",
+          "evidence_stage": "EXPECT",
+          "scope_note": "Independent evidence after instruction, practice and feedback."
+        }
+      ],
+      "reporting_contract": "cc1-essential-standards/v1"
+    }
+  ],
+  "families": [
+    {
+      "family_id": "CC1-AP3-3-1-5-T01-R01",
+      "teacher_question_id": "Q001",
+      "bank_item_id": "CC1-AP3-Q001",
+      "family_name": "Equivalent portions - reasoning 1",
+      "family_purpose": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "category": "reasoning",
+      "cpm_lesson": "3.1.5",
+      "cpm_title": "Equivalent portions",
+      "i_can_id": "CC1-ES-02-F-E83B030B",
+      "i_can_exact_text": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "student_action": "Equivalent portions",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Explain why 1/5 and 0.2 and 20% represent the same portion; refer to equivalent subdivisions.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "portion_equivalence"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "1/5 = 0.2 = 20%; same part of a whole.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Explain why 1/5 and 0.2 and 20% represent the same portion; refer to equivalent subdivisions.</p>",
+        "answer": "1/5 = 0.2 = 20%; same part of a whole.",
+        "solution": "1/5 = 0.2 = 20%; same part of a whole.",
+        "scoring_guidance": "Check: I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.1.5",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-F-E83B030B",
+      "reporting_i_can_text": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-1-5-T01-R02",
+      "teacher_question_id": "Q002",
+      "bank_item_id": "CC1-AP3-Q002",
+      "family_name": "Equivalent portions - reasoning 2",
+      "family_purpose": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "category": "reasoning",
+      "cpm_lesson": "3.1.5",
+      "cpm_title": "Equivalent portions",
+      "i_can_id": "CC1-ES-02-F-E83B030B",
+      "i_can_exact_text": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "student_action": "Equivalent portions",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Explain why 1/2 and 0.5 and 50% represent the same portion; refer to equivalent subdivisions.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "portion_equivalence"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "1/2 = 0.5 = 50%; same part of a whole.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Explain why 1/2 and 0.5 and 50% represent the same portion; refer to equivalent subdivisions.</p>",
+        "answer": "1/2 = 0.5 = 50%; same part of a whole.",
+        "solution": "1/2 = 0.5 = 50%; same part of a whole.",
+        "scoring_guidance": "Check: I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.1.5",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-F-E83B030B",
+      "reporting_i_can_text": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-1-5-T01-R03",
+      "teacher_question_id": "Q003",
+      "bank_item_id": "CC1-AP3-Q003",
+      "family_name": "Equivalent portions - reasoning 3",
+      "family_purpose": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "category": "reasoning",
+      "cpm_lesson": "3.1.5",
+      "cpm_title": "Equivalent portions",
+      "i_can_id": "CC1-ES-02-F-E83B030B",
+      "i_can_exact_text": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "student_action": "Equivalent portions",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Explain why 3/5 and 0.6 and 60% represent the same portion; refer to equivalent subdivisions.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "portion_equivalence"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "3/5 = 0.6 = 60%; same part of a whole.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Explain why 3/5 and 0.6 and 60% represent the same portion; refer to equivalent subdivisions.</p>",
+        "answer": "3/5 = 0.6 = 60%; same part of a whole.",
+        "solution": "3/5 = 0.6 = 60%; same part of a whole.",
+        "scoring_guidance": "Check: I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.1.5",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-F-E83B030B",
+      "reporting_i_can_text": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-1-5-T01-S01",
+      "teacher_question_id": "Q004",
+      "bank_item_id": "CC1-AP3-Q004",
+      "family_name": "Equivalent portions - direct 1",
+      "family_purpose": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "category": "direct",
+      "cpm_lesson": "3.1.5",
+      "cpm_title": "Equivalent portions",
+      "i_can_id": "CC1-ES-02-F-E83B030B",
+      "i_can_exact_text": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "student_action": "Equivalent portions",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Convert 2/5 to a decimal and percent.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "portion_equivalence"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "2/5 = 0.4 = 40%; same part of a whole.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Convert 2/5 to a decimal and percent.</p>",
+        "answer": "2/5 = 0.4 = 40%; same part of a whole.",
+        "solution": "2/5 = 0.4 = 40%; same part of a whole.",
+        "scoring_guidance": "Check: I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.1.5",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-F-E83B030B",
+      "reporting_i_can_text": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-1-5-T01-S02",
+      "teacher_question_id": "Q005",
+      "bank_item_id": "CC1-AP3-Q005",
+      "family_name": "Equivalent portions - direct 2",
+      "family_purpose": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "category": "direct",
+      "cpm_lesson": "3.1.5",
+      "cpm_title": "Equivalent portions",
+      "i_can_id": "CC1-ES-02-F-E83B030B",
+      "i_can_exact_text": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "student_action": "Equivalent portions",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Convert 3/4 to a decimal and percent.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "portion_equivalence"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "3/4 = 0.75 = 75%; same part of a whole.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Convert 3/4 to a decimal and percent.</p>",
+        "answer": "3/4 = 0.75 = 75%; same part of a whole.",
+        "solution": "3/4 = 0.75 = 75%; same part of a whole.",
+        "scoring_guidance": "Check: I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.1.5",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-F-E83B030B",
+      "reporting_i_can_text": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-1-5-T01-S03",
+      "teacher_question_id": "Q006",
+      "bank_item_id": "CC1-AP3-Q006",
+      "family_name": "Equivalent portions - direct 3",
+      "family_purpose": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "category": "direct",
+      "cpm_lesson": "3.1.5",
+      "cpm_title": "Equivalent portions",
+      "i_can_id": "CC1-ES-02-F-E83B030B",
+      "i_can_exact_text": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "student_action": "Equivalent portions",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Convert 1/5 to a decimal and percent.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "portion_equivalence"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "1/5 = 0.2 = 20%; same part of a whole.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Convert 1/5 to a decimal and percent.</p>",
+        "answer": "1/5 = 0.2 = 20%; same part of a whole.",
+        "solution": "1/5 = 0.2 = 20%; same part of a whole.",
+        "scoring_guidance": "Check: I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.1.5",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-F-E83B030B",
+      "reporting_i_can_text": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-1-5-T01-P01",
+      "teacher_question_id": "Q007",
+      "bank_item_id": "CC1-AP3-Q007",
+      "family_name": "Equivalent portions - spiral 1",
+      "family_purpose": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "category": "spiral",
+      "cpm_lesson": "3.1.5",
+      "cpm_title": "Equivalent portions",
+      "i_can_id": "CC1-ES-02-F-E83B030B",
+      "i_can_exact_text": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "student_action": "Equivalent portions",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A grid has 60% shaded. What fraction of the whole is shaded, in simplest form?</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "portion_equivalence"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "3/5 = 0.6 = 60%; same part of a whole.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A grid has 60% shaded. What fraction of the whole is shaded, in simplest form?</p>",
+        "answer": "3/5 = 0.6 = 60%; same part of a whole.",
+        "solution": "3/5 = 0.6 = 60%; same part of a whole.",
+        "scoring_guidance": "Check: I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.1.5",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-F-E83B030B",
+      "reporting_i_can_text": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-1-5-T01-P02",
+      "teacher_question_id": "Q008",
+      "bank_item_id": "CC1-AP3-Q008",
+      "family_name": "Equivalent portions - spiral 2",
+      "family_purpose": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "category": "spiral",
+      "cpm_lesson": "3.1.5",
+      "cpm_title": "Equivalent portions",
+      "i_can_id": "CC1-ES-02-F-E83B030B",
+      "i_can_exact_text": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "student_action": "Equivalent portions",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A grid has 25% shaded. What fraction of the whole is shaded, in simplest form?</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "portion_equivalence"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "1/4 = 0.25 = 25%; same part of a whole.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A grid has 25% shaded. What fraction of the whole is shaded, in simplest form?</p>",
+        "answer": "1/4 = 0.25 = 25%; same part of a whole.",
+        "solution": "1/4 = 0.25 = 25%; same part of a whole.",
+        "scoring_guidance": "Check: I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.1.5",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-F-E83B030B",
+      "reporting_i_can_text": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-1-5-T01-P03",
+      "teacher_question_id": "Q009",
+      "bank_item_id": "CC1-AP3-Q009",
+      "family_name": "Equivalent portions - spiral 3",
+      "family_purpose": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "category": "spiral",
+      "cpm_lesson": "3.1.5",
+      "cpm_title": "Equivalent portions",
+      "i_can_id": "CC1-ES-02-F-E83B030B",
+      "i_can_exact_text": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "student_action": "Equivalent portions",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A grid has 40% shaded. What fraction of the whole is shaded, in simplest form?</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "portion_equivalence"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "2/5 = 0.4 = 40%; same part of a whole.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A grid has 40% shaded. What fraction of the whole is shaded, in simplest form?</p>",
+        "answer": "2/5 = 0.4 = 40%; same part of a whole.",
+        "solution": "2/5 = 0.4 = 40%; same part of a whole.",
+        "scoring_guidance": "Check: I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.1.5",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-F-E83B030B",
+      "reporting_i_can_text": "I can express a quantity as an equivalent fraction, decimal, or percent and explain the connection.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-2-3-T02-R01",
+      "teacher_question_id": "Q010",
+      "bank_item_id": "CC1-AP3-Q010",
+      "family_name": "Signed contextual changes - reasoning 1",
+      "family_purpose": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "category": "reasoning",
+      "cpm_lesson": "3.2.3",
+      "cpm_title": "Signed contextual changes",
+      "i_can_id": "CC1-ES-03-D-3413A124",
+      "i_can_exact_text": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "learning_goal_id": "CC1-ES-03",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "student_action": "Signed contextual changes",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>The temperature changes from -11 C to 8 C. Explain why the change is positive and show a number-line path.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "signed_change"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Change = 8 - (-11) = +19. A rise of 19 units.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>The temperature changes from -11 C to 8 C. Explain why the change is positive and show a number-line path.</p>",
+        "answer": "Change = 8 - (-11) = +19. A rise of 19 units.",
+        "solution": "Change = 8 - (-11) = +19. A rise of 19 units.",
+        "scoring_guidance": "Check: I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.2.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-03-D-3413A124",
+      "reporting_i_can_text": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-2-3-T02-R02",
+      "teacher_question_id": "Q011",
+      "bank_item_id": "CC1-AP3-Q011",
+      "family_name": "Signed contextual changes - reasoning 2",
+      "family_purpose": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "category": "reasoning",
+      "cpm_lesson": "3.2.3",
+      "cpm_title": "Signed contextual changes",
+      "i_can_id": "CC1-ES-03-D-3413A124",
+      "i_can_exact_text": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "learning_goal_id": "CC1-ES-03",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "student_action": "Signed contextual changes",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>The temperature changes from -8 C to 4 C. Explain why the change is positive and show a number-line path.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "signed_change"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Change = 4 - (-8) = +12. A rise of 12 units.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>The temperature changes from -8 C to 4 C. Explain why the change is positive and show a number-line path.</p>",
+        "answer": "Change = 4 - (-8) = +12. A rise of 12 units.",
+        "solution": "Change = 4 - (-8) = +12. A rise of 12 units.",
+        "scoring_guidance": "Check: I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.2.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-03-D-3413A124",
+      "reporting_i_can_text": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-2-3-T02-R03",
+      "teacher_question_id": "Q012",
+      "bank_item_id": "CC1-AP3-Q012",
+      "family_name": "Signed contextual changes - reasoning 3",
+      "family_purpose": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "category": "reasoning",
+      "cpm_lesson": "3.2.3",
+      "cpm_title": "Signed contextual changes",
+      "i_can_id": "CC1-ES-03-D-3413A124",
+      "i_can_exact_text": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "learning_goal_id": "CC1-ES-03",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "student_action": "Signed contextual changes",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>The temperature changes from -12 C to 6 C. Explain why the change is positive and show a number-line path.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "signed_change"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Change = 6 - (-12) = +18. A rise of 18 units.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>The temperature changes from -12 C to 6 C. Explain why the change is positive and show a number-line path.</p>",
+        "answer": "Change = 6 - (-12) = +18. A rise of 18 units.",
+        "solution": "Change = 6 - (-12) = +18. A rise of 18 units.",
+        "scoring_guidance": "Check: I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.2.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-03-D-3413A124",
+      "reporting_i_can_text": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-2-3-T02-S01",
+      "teacher_question_id": "Q013",
+      "bank_item_id": "CC1-AP3-Q013",
+      "family_name": "Signed contextual changes - direct 1",
+      "family_purpose": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "category": "direct",
+      "cpm_lesson": "3.2.3",
+      "cpm_title": "Signed contextual changes",
+      "i_can_id": "CC1-ES-03-D-3413A124",
+      "i_can_exact_text": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "learning_goal_id": "CC1-ES-03",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "student_action": "Signed contextual changes",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Find the change from -8 C to 4 C, including its sign.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "signed_change"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Change = 4 - (-8) = +12. A rise of 12 units.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Find the change from -8 C to 4 C, including its sign.</p>",
+        "answer": "Change = 4 - (-8) = +12. A rise of 12 units.",
+        "solution": "Change = 4 - (-8) = +12. A rise of 12 units.",
+        "scoring_guidance": "Check: I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.2.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-03-D-3413A124",
+      "reporting_i_can_text": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-2-3-T02-S02",
+      "teacher_question_id": "Q014",
+      "bank_item_id": "CC1-AP3-Q014",
+      "family_name": "Signed contextual changes - direct 2",
+      "family_purpose": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "category": "direct",
+      "cpm_lesson": "3.2.3",
+      "cpm_title": "Signed contextual changes",
+      "i_can_id": "CC1-ES-03-D-3413A124",
+      "i_can_exact_text": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "learning_goal_id": "CC1-ES-03",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "student_action": "Signed contextual changes",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Find the change from -12 C to 6 C, including its sign.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "signed_change"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Change = 6 - (-12) = +18. A rise of 18 units.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Find the change from -12 C to 6 C, including its sign.</p>",
+        "answer": "Change = 6 - (-12) = +18. A rise of 18 units.",
+        "solution": "Change = 6 - (-12) = +18. A rise of 18 units.",
+        "scoring_guidance": "Check: I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.2.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-03-D-3413A124",
+      "reporting_i_can_text": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-2-3-T02-S03",
+      "teacher_question_id": "Q015",
+      "bank_item_id": "CC1-AP3-Q015",
+      "family_name": "Signed contextual changes - direct 3",
+      "family_purpose": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "category": "direct",
+      "cpm_lesson": "3.2.3",
+      "cpm_title": "Signed contextual changes",
+      "i_can_id": "CC1-ES-03-D-3413A124",
+      "i_can_exact_text": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "learning_goal_id": "CC1-ES-03",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "student_action": "Signed contextual changes",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Find the change from -9 C to 8 C, including its sign.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "signed_change"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Change = 8 - (-9) = +17. A rise of 17 units.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Find the change from -9 C to 8 C, including its sign.</p>",
+        "answer": "Change = 8 - (-9) = +17. A rise of 17 units.",
+        "solution": "Change = 8 - (-9) = +17. A rise of 17 units.",
+        "scoring_guidance": "Check: I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.2.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-03-D-3413A124",
+      "reporting_i_can_text": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-2-3-T02-P01",
+      "teacher_question_id": "Q016",
+      "bank_item_id": "CC1-AP3-Q016",
+      "family_name": "Signed contextual changes - spiral 1",
+      "family_purpose": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "category": "spiral",
+      "cpm_lesson": "3.2.3",
+      "cpm_title": "Signed contextual changes",
+      "i_can_id": "CC1-ES-03-D-3413A124",
+      "i_can_exact_text": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "learning_goal_id": "CC1-ES-03",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "student_action": "Signed contextual changes",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A diver moves from -10 m to 6 m. How many meters upward did the diver travel?</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "signed_change"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Change = 6 - (-10) = +16. A rise of 16 units.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A diver moves from -10 m to 6 m. How many meters upward did the diver travel?</p>",
+        "answer": "Change = 6 - (-10) = +16. A rise of 16 units.",
+        "solution": "Change = 6 - (-10) = +16. A rise of 16 units.",
+        "scoring_guidance": "Check: I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.2.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-03-D-3413A124",
+      "reporting_i_can_text": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-2-3-T02-P02",
+      "teacher_question_id": "Q017",
+      "bank_item_id": "CC1-AP3-Q017",
+      "family_name": "Signed contextual changes - spiral 2",
+      "family_purpose": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "category": "spiral",
+      "cpm_lesson": "3.2.3",
+      "cpm_title": "Signed contextual changes",
+      "i_can_id": "CC1-ES-03-D-3413A124",
+      "i_can_exact_text": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "learning_goal_id": "CC1-ES-03",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "student_action": "Signed contextual changes",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A diver moves from -9 m to 8 m. How many meters upward did the diver travel?</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "signed_change"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Change = 8 - (-9) = +17. A rise of 17 units.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A diver moves from -9 m to 8 m. How many meters upward did the diver travel?</p>",
+        "answer": "Change = 8 - (-9) = +17. A rise of 17 units.",
+        "solution": "Change = 8 - (-9) = +17. A rise of 17 units.",
+        "scoring_guidance": "Check: I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.2.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-03-D-3413A124",
+      "reporting_i_can_text": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-2-3-T02-P03",
+      "teacher_question_id": "Q018",
+      "bank_item_id": "CC1-AP3-Q018",
+      "family_name": "Signed contextual changes - spiral 3",
+      "family_purpose": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "category": "spiral",
+      "cpm_lesson": "3.2.3",
+      "cpm_title": "Signed contextual changes",
+      "i_can_id": "CC1-ES-03-D-3413A124",
+      "i_can_exact_text": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "learning_goal_id": "CC1-ES-03",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "student_action": "Signed contextual changes",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A diver moves from -6 m to 4 m. How many meters upward did the diver travel?</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "signed_change"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "Change = 4 - (-6) = +10. A rise of 10 units.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A diver moves from -6 m to 4 m. How many meters upward did the diver travel?</p>",
+        "answer": "Change = 4 - (-6) = +10. A rise of 10 units.",
+        "solution": "Change = 4 - (-6) = +10. A rise of 10 units.",
+        "scoring_guidance": "Check: I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.2.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-03-D-3413A124",
+      "reporting_i_can_text": "I can solve real-world problems involving changes across zero using a number line or equivalent reasoning.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-2-3-T03-R01",
+      "teacher_question_id": "Q019",
+      "bank_item_id": "CC1-AP3-Q019",
+      "family_name": "Opposites and absolute value - reasoning 1",
+      "family_purpose": "I can use absolute value and opposites to explain position and distance from zero.",
+      "category": "reasoning",
+      "cpm_lesson": "3.2.3",
+      "cpm_title": "Opposites and absolute value",
+      "i_can_id": "CC1-ES-03-D-058F04BF",
+      "i_can_exact_text": "I can use absolute value and opposites to explain position and distance from zero.",
+      "learning_goal_id": "CC1-ES-03",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can use absolute value and opposites to explain position and distance from zero.",
+      "student_action": "Opposites and absolute value",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Someone says -10 is farther from zero than 5 because it is a smaller number. Explain the correct reasoning using absolute value.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "absolute_value"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "|-10|=10; opposite is 10; -10 is farther from zero because 10>5.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Someone says -10 is farther from zero than 5 because it is a smaller number. Explain the correct reasoning using absolute value.</p>",
+        "answer": "|-10|=10; opposite is 10; -10 is farther from zero because 10>5.",
+        "solution": "|-10|=10; opposite is 10; -10 is farther from zero because 10>5.",
+        "scoring_guidance": "Check: I can use absolute value and opposites to explain position and distance from zero.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.2.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-03-D-058F04BF",
+      "reporting_i_can_text": "I can use absolute value and opposites to explain position and distance from zero.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-2-3-T03-R02",
+      "teacher_question_id": "Q020",
+      "bank_item_id": "CC1-AP3-Q020",
+      "family_name": "Opposites and absolute value - reasoning 2",
+      "family_purpose": "I can use absolute value and opposites to explain position and distance from zero.",
+      "category": "reasoning",
+      "cpm_lesson": "3.2.3",
+      "cpm_title": "Opposites and absolute value",
+      "i_can_id": "CC1-ES-03-D-058F04BF",
+      "i_can_exact_text": "I can use absolute value and opposites to explain position and distance from zero.",
+      "learning_goal_id": "CC1-ES-03",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can use absolute value and opposites to explain position and distance from zero.",
+      "student_action": "Opposites and absolute value",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Someone says -14 is farther from zero than 8 because it is a smaller number. Explain the correct reasoning using absolute value.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "absolute_value"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "|-14|=14; opposite is 14; -14 is farther from zero because 14>8.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Someone says -14 is farther from zero than 8 because it is a smaller number. Explain the correct reasoning using absolute value.</p>",
+        "answer": "|-14|=14; opposite is 14; -14 is farther from zero because 14>8.",
+        "solution": "|-14|=14; opposite is 14; -14 is farther from zero because 14>8.",
+        "scoring_guidance": "Check: I can use absolute value and opposites to explain position and distance from zero.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.2.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-03-D-058F04BF",
+      "reporting_i_can_text": "I can use absolute value and opposites to explain position and distance from zero.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-2-3-T03-R03",
+      "teacher_question_id": "Q021",
+      "bank_item_id": "CC1-AP3-Q021",
+      "family_name": "Opposites and absolute value - reasoning 3",
+      "family_purpose": "I can use absolute value and opposites to explain position and distance from zero.",
+      "category": "reasoning",
+      "cpm_lesson": "3.2.3",
+      "cpm_title": "Opposites and absolute value",
+      "i_can_id": "CC1-ES-03-D-058F04BF",
+      "i_can_exact_text": "I can use absolute value and opposites to explain position and distance from zero.",
+      "learning_goal_id": "CC1-ES-03",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can use absolute value and opposites to explain position and distance from zero.",
+      "student_action": "Opposites and absolute value",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Someone says -11 is farther from zero than 4 because it is a smaller number. Explain the correct reasoning using absolute value.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "absolute_value"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "|-11|=11; opposite is 11; -11 is farther from zero because 11>4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Someone says -11 is farther from zero than 4 because it is a smaller number. Explain the correct reasoning using absolute value.</p>",
+        "answer": "|-11|=11; opposite is 11; -11 is farther from zero because 11>4.",
+        "solution": "|-11|=11; opposite is 11; -11 is farther from zero because 11>4.",
+        "scoring_guidance": "Check: I can use absolute value and opposites to explain position and distance from zero.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.2.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-03-D-058F04BF",
+      "reporting_i_can_text": "I can use absolute value and opposites to explain position and distance from zero.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-2-3-T03-S01",
+      "teacher_question_id": "Q022",
+      "bank_item_id": "CC1-AP3-Q022",
+      "family_name": "Opposites and absolute value - direct 1",
+      "family_purpose": "I can use absolute value and opposites to explain position and distance from zero.",
+      "category": "direct",
+      "cpm_lesson": "3.2.3",
+      "cpm_title": "Opposites and absolute value",
+      "i_can_id": "CC1-ES-03-D-058F04BF",
+      "i_can_exact_text": "I can use absolute value and opposites to explain position and distance from zero.",
+      "learning_goal_id": "CC1-ES-03",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can use absolute value and opposites to explain position and distance from zero.",
+      "student_action": "Opposites and absolute value",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Find |-7| and the opposite of -7.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "absolute_value"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "|-7|=7; opposite is 7; -7 is farther from zero because 7>3.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Find |-7| and the opposite of -7.</p>",
+        "answer": "|-7|=7; opposite is 7; -7 is farther from zero because 7>3.",
+        "solution": "|-7|=7; opposite is 7; -7 is farther from zero because 7>3.",
+        "scoring_guidance": "Check: I can use absolute value and opposites to explain position and distance from zero.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.2.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-03-D-058F04BF",
+      "reporting_i_can_text": "I can use absolute value and opposites to explain position and distance from zero.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-2-3-T03-S02",
+      "teacher_question_id": "Q023",
+      "bank_item_id": "CC1-AP3-Q023",
+      "family_name": "Opposites and absolute value - direct 2",
+      "family_purpose": "I can use absolute value and opposites to explain position and distance from zero.",
+      "category": "direct",
+      "cpm_lesson": "3.2.3",
+      "cpm_title": "Opposites and absolute value",
+      "i_can_id": "CC1-ES-03-D-058F04BF",
+      "i_can_exact_text": "I can use absolute value and opposites to explain position and distance from zero.",
+      "learning_goal_id": "CC1-ES-03",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can use absolute value and opposites to explain position and distance from zero.",
+      "student_action": "Opposites and absolute value",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Find |-11| and the opposite of -11.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "absolute_value"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "|-11|=11; opposite is 11; -11 is farther from zero because 11>6.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Find |-11| and the opposite of -11.</p>",
+        "answer": "|-11|=11; opposite is 11; -11 is farther from zero because 11>6.",
+        "solution": "|-11|=11; opposite is 11; -11 is farther from zero because 11>6.",
+        "scoring_guidance": "Check: I can use absolute value and opposites to explain position and distance from zero.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.2.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-03-D-058F04BF",
+      "reporting_i_can_text": "I can use absolute value and opposites to explain position and distance from zero.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-2-3-T03-S03",
+      "teacher_question_id": "Q024",
+      "bank_item_id": "CC1-AP3-Q024",
+      "family_name": "Opposites and absolute value - direct 3",
+      "family_purpose": "I can use absolute value and opposites to explain position and distance from zero.",
+      "category": "direct",
+      "cpm_lesson": "3.2.3",
+      "cpm_title": "Opposites and absolute value",
+      "i_can_id": "CC1-ES-03-D-058F04BF",
+      "i_can_exact_text": "I can use absolute value and opposites to explain position and distance from zero.",
+      "learning_goal_id": "CC1-ES-03",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can use absolute value and opposites to explain position and distance from zero.",
+      "student_action": "Opposites and absolute value",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Find |-8| and the opposite of -8.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "absolute_value"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "|-8|=8; opposite is 8; -8 is farther from zero because 8>2.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Find |-8| and the opposite of -8.</p>",
+        "answer": "|-8|=8; opposite is 8; -8 is farther from zero because 8>2.",
+        "solution": "|-8|=8; opposite is 8; -8 is farther from zero because 8>2.",
+        "scoring_guidance": "Check: I can use absolute value and opposites to explain position and distance from zero.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.2.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-03-D-058F04BF",
+      "reporting_i_can_text": "I can use absolute value and opposites to explain position and distance from zero.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-2-3-T03-P01",
+      "teacher_question_id": "Q025",
+      "bank_item_id": "CC1-AP3-Q025",
+      "family_name": "Opposites and absolute value - spiral 1",
+      "family_purpose": "I can use absolute value and opposites to explain position and distance from zero.",
+      "category": "spiral",
+      "cpm_lesson": "3.2.3",
+      "cpm_title": "Opposites and absolute value",
+      "i_can_id": "CC1-ES-03-D-058F04BF",
+      "i_can_exact_text": "I can use absolute value and opposites to explain position and distance from zero.",
+      "learning_goal_id": "CC1-ES-03",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can use absolute value and opposites to explain position and distance from zero.",
+      "student_action": "Opposites and absolute value",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Which is farther from zero: -11 or 8? Explain.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "absolute_value"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "|-11|=11; opposite is 11; -11 is farther from zero because 11>8.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Which is farther from zero: -11 or 8? Explain.</p>",
+        "answer": "|-11|=11; opposite is 11; -11 is farther from zero because 11>8.",
+        "solution": "|-11|=11; opposite is 11; -11 is farther from zero because 11>8.",
+        "scoring_guidance": "Check: I can use absolute value and opposites to explain position and distance from zero.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.2.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-03-D-058F04BF",
+      "reporting_i_can_text": "I can use absolute value and opposites to explain position and distance from zero.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-2-3-T03-P02",
+      "teacher_question_id": "Q026",
+      "bank_item_id": "CC1-AP3-Q026",
+      "family_name": "Opposites and absolute value - spiral 2",
+      "family_purpose": "I can use absolute value and opposites to explain position and distance from zero.",
+      "category": "spiral",
+      "cpm_lesson": "3.2.3",
+      "cpm_title": "Opposites and absolute value",
+      "i_can_id": "CC1-ES-03-D-058F04BF",
+      "i_can_exact_text": "I can use absolute value and opposites to explain position and distance from zero.",
+      "learning_goal_id": "CC1-ES-03",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can use absolute value and opposites to explain position and distance from zero.",
+      "student_action": "Opposites and absolute value",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Which is farther from zero: -8 or 4? Explain.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "absolute_value"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "|-8|=8; opposite is 8; -8 is farther from zero because 8>4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Which is farther from zero: -8 or 4? Explain.</p>",
+        "answer": "|-8|=8; opposite is 8; -8 is farther from zero because 8>4.",
+        "solution": "|-8|=8; opposite is 8; -8 is farther from zero because 8>4.",
+        "scoring_guidance": "Check: I can use absolute value and opposites to explain position and distance from zero.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.2.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-03-D-058F04BF",
+      "reporting_i_can_text": "I can use absolute value and opposites to explain position and distance from zero.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-2-3-T03-P03",
+      "teacher_question_id": "Q027",
+      "bank_item_id": "CC1-AP3-Q027",
+      "family_name": "Opposites and absolute value - spiral 3",
+      "family_purpose": "I can use absolute value and opposites to explain position and distance from zero.",
+      "category": "spiral",
+      "cpm_lesson": "3.2.3",
+      "cpm_title": "Opposites and absolute value",
+      "i_can_id": "CC1-ES-03-D-058F04BF",
+      "i_can_exact_text": "I can use absolute value and opposites to explain position and distance from zero.",
+      "learning_goal_id": "CC1-ES-03",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can use absolute value and opposites to explain position and distance from zero.",
+      "student_action": "Opposites and absolute value",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Which is farther from zero: -12 or 7? Explain.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "absolute_value"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "|-12|=12; opposite is 12; -12 is farther from zero because 12>7.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Which is farther from zero: -12 or 7? Explain.</p>",
+        "answer": "|-12|=12; opposite is 12; -12 is farther from zero because 12>7.",
+        "solution": "|-12|=12; opposite is 12; -12 is farther from zero because 12>7.",
+        "scoring_guidance": "Check: I can use absolute value and opposites to explain position and distance from zero.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.2.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-03-D-058F04BF",
+      "reporting_i_can_text": "I can use absolute value and opposites to explain position and distance from zero.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-2-4-T04-R01",
+      "teacher_question_id": "Q028",
+      "bank_item_id": "CC1-AP3-Q028",
+      "family_name": "Coordinate distances - reasoning 1",
+      "family_purpose": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "category": "reasoning",
+      "cpm_lesson": "3.2.4",
+      "cpm_title": "Coordinate distances",
+      "i_can_id": "CC1-ES-03-P-00501570",
+      "i_can_exact_text": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "learning_goal_id": "CC1-ES-03",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "student_action": "Coordinate distances",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Points P=(-6,-3) and Q=(-6,4) lie vertically in the coordinate plane. Explain why their distance is not negative.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "coordinate_distance"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "|4-(-3)|=7 units; distance is a nonnegative magnitude.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Points P=(-6,-3) and Q=(-6,4) lie vertically in the coordinate plane. Explain why their distance is not negative.</p>",
+        "answer": "|4-(-3)|=7 units; distance is a nonnegative magnitude.",
+        "solution": "|4-(-3)|=7 units; distance is a nonnegative magnitude.",
+        "scoring_guidance": "Check: I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-03-P-00501570",
+      "reporting_i_can_text": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-2-4-T04-R02",
+      "teacher_question_id": "Q029",
+      "bank_item_id": "CC1-AP3-Q029",
+      "family_name": "Coordinate distances - reasoning 2",
+      "family_purpose": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "category": "reasoning",
+      "cpm_lesson": "3.2.4",
+      "cpm_title": "Coordinate distances",
+      "i_can_id": "CC1-ES-03-P-00501570",
+      "i_can_exact_text": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "learning_goal_id": "CC1-ES-03",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "student_action": "Coordinate distances",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Points P=(-7,-6) and Q=(-7,6) lie vertically in the coordinate plane. Explain why their distance is not negative.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "coordinate_distance"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "|6-(-6)|=12 units; distance is a nonnegative magnitude.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Points P=(-7,-6) and Q=(-7,6) lie vertically in the coordinate plane. Explain why their distance is not negative.</p>",
+        "answer": "|6-(-6)|=12 units; distance is a nonnegative magnitude.",
+        "solution": "|6-(-6)|=12 units; distance is a nonnegative magnitude.",
+        "scoring_guidance": "Check: I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-03-P-00501570",
+      "reporting_i_can_text": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-2-4-T04-R03",
+      "teacher_question_id": "Q030",
+      "bank_item_id": "CC1-AP3-Q030",
+      "family_name": "Coordinate distances - reasoning 3",
+      "family_purpose": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "category": "reasoning",
+      "cpm_lesson": "3.2.4",
+      "cpm_title": "Coordinate distances",
+      "i_can_id": "CC1-ES-03-P-00501570",
+      "i_can_exact_text": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "learning_goal_id": "CC1-ES-03",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "student_action": "Coordinate distances",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Points P=(-3,-2) and Q=(-3,8) lie vertically in the coordinate plane. Explain why their distance is not negative.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "coordinate_distance"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "|8-(-2)|=10 units; distance is a nonnegative magnitude.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Points P=(-3,-2) and Q=(-3,8) lie vertically in the coordinate plane. Explain why their distance is not negative.</p>",
+        "answer": "|8-(-2)|=10 units; distance is a nonnegative magnitude.",
+        "solution": "|8-(-2)|=10 units; distance is a nonnegative magnitude.",
+        "scoring_guidance": "Check: I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-03-P-00501570",
+      "reporting_i_can_text": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-2-4-T04-S01",
+      "teacher_question_id": "Q031",
+      "bank_item_id": "CC1-AP3-Q031",
+      "family_name": "Coordinate distances - direct 1",
+      "family_purpose": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "category": "direct",
+      "cpm_lesson": "3.2.4",
+      "cpm_title": "Coordinate distances",
+      "i_can_id": "CC1-ES-03-P-00501570",
+      "i_can_exact_text": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "learning_goal_id": "CC1-ES-03",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "student_action": "Coordinate distances",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Find the distance between P=(-5,-8) and Q=(-5,6).</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "coordinate_distance"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "|6-(-8)|=14 units; distance is a nonnegative magnitude.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Find the distance between P=(-5,-8) and Q=(-5,6).</p>",
+        "answer": "|6-(-8)|=14 units; distance is a nonnegative magnitude.",
+        "solution": "|6-(-8)|=14 units; distance is a nonnegative magnitude.",
+        "scoring_guidance": "Check: I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-03-P-00501570",
+      "reporting_i_can_text": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-2-4-T04-S02",
+      "teacher_question_id": "Q032",
+      "bank_item_id": "CC1-AP3-Q032",
+      "family_name": "Coordinate distances - direct 2",
+      "family_purpose": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "category": "direct",
+      "cpm_lesson": "3.2.4",
+      "cpm_title": "Coordinate distances",
+      "i_can_id": "CC1-ES-03-P-00501570",
+      "i_can_exact_text": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "learning_goal_id": "CC1-ES-03",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "student_action": "Coordinate distances",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Find the distance between P=(-6,-4) and Q=(-6,8).</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "coordinate_distance"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "|8-(-4)|=12 units; distance is a nonnegative magnitude.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Find the distance between P=(-6,-4) and Q=(-6,8).</p>",
+        "answer": "|8-(-4)|=12 units; distance is a nonnegative magnitude.",
+        "solution": "|8-(-4)|=12 units; distance is a nonnegative magnitude.",
+        "scoring_guidance": "Check: I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-03-P-00501570",
+      "reporting_i_can_text": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-2-4-T04-S03",
+      "teacher_question_id": "Q033",
+      "bank_item_id": "CC1-AP3-Q033",
+      "family_name": "Coordinate distances - direct 3",
+      "family_purpose": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "category": "direct",
+      "cpm_lesson": "3.2.4",
+      "cpm_title": "Coordinate distances",
+      "i_can_id": "CC1-ES-03-P-00501570",
+      "i_can_exact_text": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "learning_goal_id": "CC1-ES-03",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "student_action": "Coordinate distances",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Find the distance between P=(-7,-7) and Q=(-7,4).</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "coordinate_distance"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "|4-(-7)|=11 units; distance is a nonnegative magnitude.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Find the distance between P=(-7,-7) and Q=(-7,4).</p>",
+        "answer": "|4-(-7)|=11 units; distance is a nonnegative magnitude.",
+        "solution": "|4-(-7)|=11 units; distance is a nonnegative magnitude.",
+        "scoring_guidance": "Check: I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-03-P-00501570",
+      "reporting_i_can_text": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-2-4-T04-P01",
+      "teacher_question_id": "Q034",
+      "bank_item_id": "CC1-AP3-Q034",
+      "family_name": "Coordinate distances - spiral 1",
+      "family_purpose": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "category": "spiral",
+      "cpm_lesson": "3.2.4",
+      "cpm_title": "Coordinate distances",
+      "i_can_id": "CC1-ES-03-P-00501570",
+      "i_can_exact_text": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "learning_goal_id": "CC1-ES-03",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "student_action": "Coordinate distances",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Two points share x=-4 and have y-values -6 and 8. What is their distance?</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "coordinate_distance"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "|8-(-6)|=14 units; distance is a nonnegative magnitude.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Two points share x=-4 and have y-values -6 and 8. What is their distance?</p>",
+        "answer": "|8-(-6)|=14 units; distance is a nonnegative magnitude.",
+        "solution": "|8-(-6)|=14 units; distance is a nonnegative magnitude.",
+        "scoring_guidance": "Check: I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-03-P-00501570",
+      "reporting_i_can_text": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-2-4-T04-P02",
+      "teacher_question_id": "Q035",
+      "bank_item_id": "CC1-AP3-Q035",
+      "family_name": "Coordinate distances - spiral 2",
+      "family_purpose": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "category": "spiral",
+      "cpm_lesson": "3.2.4",
+      "cpm_title": "Coordinate distances",
+      "i_can_id": "CC1-ES-03-P-00501570",
+      "i_can_exact_text": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "learning_goal_id": "CC1-ES-03",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "student_action": "Coordinate distances",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Two points share x=-5 and have y-values -2 and 4. What is their distance?</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "coordinate_distance"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "|4-(-2)|=6 units; distance is a nonnegative magnitude.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Two points share x=-5 and have y-values -2 and 4. What is their distance?</p>",
+        "answer": "|4-(-2)|=6 units; distance is a nonnegative magnitude.",
+        "solution": "|4-(-2)|=6 units; distance is a nonnegative magnitude.",
+        "scoring_guidance": "Check: I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-03-P-00501570",
+      "reporting_i_can_text": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP3-3-2-4-T04-P03",
+      "teacher_question_id": "Q036",
+      "bank_item_id": "CC1-AP3-Q036",
+      "family_name": "Coordinate distances - spiral 3",
+      "family_purpose": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "category": "spiral",
+      "cpm_lesson": "3.2.4",
+      "cpm_title": "Coordinate distances",
+      "i_can_id": "CC1-ES-03-P-00501570",
+      "i_can_exact_text": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "learning_goal_id": "CC1-ES-03",
+      "assessment_plan": "AP3",
+      "ap_section": 3,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "student_action": "Coordinate distances",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Two points share x=-6 and have y-values -5 and 6. What is their distance?</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "coordinate_distance"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "|6-(-5)|=11 units; distance is a nonnegative magnitude.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Two points share x=-6 and have y-values -5 and 6. What is their distance?</p>",
+        "answer": "|6-(-5)|=11 units; distance is a nonnegative magnitude.",
+        "solution": "|6-(-5)|=11 units; distance is a nonnegative magnitude.",
+        "scoring_guidance": "Check: I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "3.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-03-P-00501570",
+      "reporting_i_can_text": "I can find distances between points with equal x- or y-coordinates and explain why distance is nonnegative.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    }
+  ],
+  "review_summary": {
+    "active_family_count": 36,
+    "review_gate": "teacher feedback is corrective, not a prerequisite to initial use"
+  },
+  "reporting_contract": {
+    "schema_version": 1,
+    "source": "CC1 Assessment Evidence and chapter unit plans",
+    "learning_goal_ids": [
+      "CC1-ES-02",
+      "CC1-ES-03"
+    ],
+    "reporting_i_can_ids": [
+      "CC1-ES-02-F-E83B030B",
+      "CC1-ES-03-D-3413A124",
+      "CC1-ES-03-D-058F04BF",
+      "CC1-ES-03-P-00501570"
+    ],
+    "family_id_policy": "immutable stable family ID",
+    "question_content_policy": "original teacher-created questions; no textbook reproduction"
+  },
+  "pilot_policy": {
+    "default": "usable immediately",
+    "teacher_approval": "operationally accepted by teacher instruction; not individually proofread",
+    "feedback": "correct and version the canonical bank family when a problem is reported"
+  }
+}

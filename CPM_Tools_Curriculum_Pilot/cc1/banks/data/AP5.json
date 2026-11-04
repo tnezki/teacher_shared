@@ -1,0 +1,2742 @@
+{
+  "schema": "cpm-family-bank-plan/v1",
+  "course": "Core Connections Course 1",
+  "assessment_plan": "AP5",
+  "chapter": 5,
+  "plan_title": "Multiplying Fractions and Area",
+  "essential_standard": "CC1-ES-02; CC1-ES-04",
+  "bank_status": "TEACHER_APPROVED",
+  "source_crosswalk": "assessment_plans/CC1_AP5_ASSESSMENT_PLAN.json",
+  "source_authority": "Current CC1 unit plans, Phase 03 Assessment Evidence, Phase 04 Learning Ladders; exemplars newly authored",
+  "family_policy": {
+    "per_i_can": {
+      "reasoning": 3,
+      "direct": 3,
+      "spiral": 3
+    },
+    "review_rule": "Teacher-directed default accept for pilot use; correct the canonical item only when teacher flags a concrete issue.",
+    "variation_rule": "Only use the supplied exemplar unless any generated variant is independently verified.",
+    "evidence_stage": "Never claim full-rung proficiency from an explicitly partial lesson checkpoint."
+  },
+  "sections": [
+    {
+      "section": "5.1.3",
+      "title": "Multiplying fractions by models",
+      "learning_target": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "cpm_lesson": "5.1.3",
+      "ap_section": 5,
+      "i_cans": [
+        {
+          "id": "CC1-ES-02-D-9D12B3C1",
+          "text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+          "family_ids": [
+            "CC1-AP5-5-1-3-T01-R01",
+            "CC1-AP5-5-1-3-T01-R02",
+            "CC1-AP5-5-1-3-T01-R03",
+            "CC1-AP5-5-1-3-T01-S01",
+            "CC1-AP5-5-1-3-T01-S02",
+            "CC1-AP5-5-1-3-T01-S03",
+            "CC1-AP5-5-1-3-T01-P01",
+            "CC1-AP5-5-1-3-T01-P02",
+            "CC1-AP5-5-1-3-T01-P03"
+          ],
+          "cpm_lesson": "5.1.3",
+          "cpm_title": "Multiplying fractions by models",
+          "learning_goal_id": "CC1-ES-02",
+          "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "FIRST_CHECK_PARTIAL",
+          "scope_note": "This is early/partial evidence only; do not infer full Proficient."
+        }
+      ],
+      "reporting_i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "learning_goal_id": "CC1-ES-02"
+    },
+    {
+      "section": "5.2.2",
+      "title": "Reason about decimal products",
+      "learning_target": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "cpm_lesson": "5.2.2",
+      "ap_section": 5,
+      "i_cans": [
+        {
+          "id": "CC1-ES-02-P-07BF7666",
+          "text": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+          "family_ids": [
+            "CC1-AP5-5-2-2-T02-R01",
+            "CC1-AP5-5-2-2-T02-R02",
+            "CC1-AP5-5-2-2-T02-R03",
+            "CC1-AP5-5-2-2-T02-S01",
+            "CC1-AP5-5-2-2-T02-S02",
+            "CC1-AP5-5-2-2-T02-S03",
+            "CC1-AP5-5-2-2-T02-P01",
+            "CC1-AP5-5-2-2-T02-P02",
+            "CC1-AP5-5-2-2-T02-P03"
+          ],
+          "cpm_lesson": "5.2.2",
+          "cpm_title": "Reason about decimal products",
+          "learning_goal_id": "CC1-ES-02",
+          "reporting_i_can_text": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+          "ladder_rung": "Proficient",
+          "evidence_stage": "FIRST_CHECK_PARTIAL",
+          "scope_note": "This is early/partial evidence only; do not infer full Proficient."
+        }
+      ],
+      "reporting_i_can_id": "CC1-ES-02-P-07BF7666",
+      "reporting_i_can_text": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "learning_goal_id": "CC1-ES-02"
+    },
+    {
+      "section": "5.3.3",
+      "title": "Areas of polygons (volume later)",
+      "learning_target": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "cpm_lesson": "5.3.3",
+      "ap_section": 5,
+      "i_cans": [
+        {
+          "id": "CC1-ES-04-D-3844FC11",
+          "text": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+          "family_ids": [
+            "CC1-AP5-5-3-3-T03-R01",
+            "CC1-AP5-5-3-3-T03-R02",
+            "CC1-AP5-5-3-3-T03-R03",
+            "CC1-AP5-5-3-3-T03-S01",
+            "CC1-AP5-5-3-3-T03-S02",
+            "CC1-AP5-5-3-3-T03-S03",
+            "CC1-AP5-5-3-3-T03-P01",
+            "CC1-AP5-5-3-3-T03-P02",
+            "CC1-AP5-5-3-3-T03-P03"
+          ],
+          "cpm_lesson": "5.3.3",
+          "cpm_title": "Areas of polygons (volume later)",
+          "learning_goal_id": "CC1-ES-04",
+          "reporting_i_can_text": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "FIRST_CHECK_PARTIAL",
+          "scope_note": "This is early/partial evidence only; do not infer full Proficient."
+        }
+      ],
+      "reporting_i_can_id": "CC1-ES-04-D-3844FC11",
+      "reporting_i_can_text": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "learning_goal_id": "CC1-ES-04"
+    },
+    {
+      "section": "5.3.4",
+      "title": "Decompose and recompose area",
+      "learning_target": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "cpm_lesson": "5.3.4",
+      "ap_section": 5,
+      "i_cans": [
+        {
+          "id": "CC1-ES-04-D-EDF0DFD2",
+          "text": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+          "family_ids": [
+            "CC1-AP5-5-3-4-T04-R01",
+            "CC1-AP5-5-3-4-T04-R02",
+            "CC1-AP5-5-3-4-T04-R03",
+            "CC1-AP5-5-3-4-T04-S01",
+            "CC1-AP5-5-3-4-T04-S02",
+            "CC1-AP5-5-3-4-T04-S03",
+            "CC1-AP5-5-3-4-T04-P01",
+            "CC1-AP5-5-3-4-T04-P02",
+            "CC1-AP5-5-3-4-T04-P03"
+          ],
+          "cpm_lesson": "5.3.4",
+          "cpm_title": "Decompose and recompose area",
+          "learning_goal_id": "CC1-ES-04",
+          "reporting_i_can_text": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "EXPECT",
+          "scope_note": "Independent evidence after instruction, practice and feedback."
+        }
+      ],
+      "reporting_i_can_id": "CC1-ES-04-D-EDF0DFD2",
+      "reporting_i_can_text": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "learning_goal_id": "CC1-ES-04"
+    }
+  ],
+  "mastery_goals": [
+    {
+      "id": "CC1-ES-02",
+      "title": "CC1-ES-02 evidence through chapter 5",
+      "assessment_plan": "AP5",
+      "mastery_goal": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable. I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "i_cans": [
+        {
+          "id": "CC1-ES-02-D-9D12B3C1",
+          "text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+          "family_ids": [
+            "CC1-AP5-5-1-3-T01-R01",
+            "CC1-AP5-5-1-3-T01-R02",
+            "CC1-AP5-5-1-3-T01-R03",
+            "CC1-AP5-5-1-3-T01-S01",
+            "CC1-AP5-5-1-3-T01-S02",
+            "CC1-AP5-5-1-3-T01-S03",
+            "CC1-AP5-5-1-3-T01-P01",
+            "CC1-AP5-5-1-3-T01-P02",
+            "CC1-AP5-5-1-3-T01-P03"
+          ],
+          "cpm_lesson": "5.1.3",
+          "cpm_title": "Multiplying fractions by models",
+          "learning_goal_id": "CC1-ES-02",
+          "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "FIRST_CHECK_PARTIAL",
+          "scope_note": "This is early/partial evidence only; do not infer full Proficient."
+        },
+        {
+          "id": "CC1-ES-02-P-07BF7666",
+          "text": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+          "family_ids": [
+            "CC1-AP5-5-2-2-T02-R01",
+            "CC1-AP5-5-2-2-T02-R02",
+            "CC1-AP5-5-2-2-T02-R03",
+            "CC1-AP5-5-2-2-T02-S01",
+            "CC1-AP5-5-2-2-T02-S02",
+            "CC1-AP5-5-2-2-T02-S03",
+            "CC1-AP5-5-2-2-T02-P01",
+            "CC1-AP5-5-2-2-T02-P02",
+            "CC1-AP5-5-2-2-T02-P03"
+          ],
+          "cpm_lesson": "5.2.2",
+          "cpm_title": "Reason about decimal products",
+          "learning_goal_id": "CC1-ES-02",
+          "reporting_i_can_text": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+          "ladder_rung": "Proficient",
+          "evidence_stage": "FIRST_CHECK_PARTIAL",
+          "scope_note": "This is early/partial evidence only; do not infer full Proficient."
+        }
+      ],
+      "reporting_contract": "cc1-essential-standards/v1"
+    },
+    {
+      "id": "CC1-ES-04",
+      "title": "CC1-ES-04 evidence through chapter 5",
+      "assessment_plan": "AP5",
+      "mastery_goal": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements. I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "i_cans": [
+        {
+          "id": "CC1-ES-04-D-3844FC11",
+          "text": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+          "family_ids": [
+            "CC1-AP5-5-3-3-T03-R01",
+            "CC1-AP5-5-3-3-T03-R02",
+            "CC1-AP5-5-3-3-T03-R03",
+            "CC1-AP5-5-3-3-T03-S01",
+            "CC1-AP5-5-3-3-T03-S02",
+            "CC1-AP5-5-3-3-T03-S03",
+            "CC1-AP5-5-3-3-T03-P01",
+            "CC1-AP5-5-3-3-T03-P02",
+            "CC1-AP5-5-3-3-T03-P03"
+          ],
+          "cpm_lesson": "5.3.3",
+          "cpm_title": "Areas of polygons (volume later)",
+          "learning_goal_id": "CC1-ES-04",
+          "reporting_i_can_text": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "FIRST_CHECK_PARTIAL",
+          "scope_note": "This is early/partial evidence only; do not infer full Proficient."
+        },
+        {
+          "id": "CC1-ES-04-D-EDF0DFD2",
+          "text": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+          "family_ids": [
+            "CC1-AP5-5-3-4-T04-R01",
+            "CC1-AP5-5-3-4-T04-R02",
+            "CC1-AP5-5-3-4-T04-R03",
+            "CC1-AP5-5-3-4-T04-S01",
+            "CC1-AP5-5-3-4-T04-S02",
+            "CC1-AP5-5-3-4-T04-S03",
+            "CC1-AP5-5-3-4-T04-P01",
+            "CC1-AP5-5-3-4-T04-P02",
+            "CC1-AP5-5-3-4-T04-P03"
+          ],
+          "cpm_lesson": "5.3.4",
+          "cpm_title": "Decompose and recompose area",
+          "learning_goal_id": "CC1-ES-04",
+          "reporting_i_can_text": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "EXPECT",
+          "scope_note": "Independent evidence after instruction, practice and feedback."
+        }
+      ],
+      "reporting_contract": "cc1-essential-standards/v1"
+    }
+  ],
+  "families": [
+    {
+      "family_id": "CC1-AP5-5-1-3-T01-R01",
+      "teacher_question_id": "Q001",
+      "bank_item_id": "CC1-AP5-Q001",
+      "family_name": "Multiplying fractions by models - reasoning 1",
+      "family_purpose": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "category": "reasoning",
+      "cpm_lesson": "5.1.3",
+      "cpm_title": "Multiplying fractions by models",
+      "i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "i_can_exact_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "student_action": "Multiplying fractions by models",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Explain with an area model what 2/3 of 1/2 means and why its product is 1/3.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "fraction_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "2/3 x 1/2 = 1/3; the first fraction selects that portion of the second quantity.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Explain with an area model what 2/3 of 1/2 means and why its product is 1/3.</p>",
+        "answer": "2/3 x 1/2 = 1/3; the first fraction selects that portion of the second quantity.",
+        "solution": "2/3 x 1/2 = 1/3; the first fraction selects that portion of the second quantity.",
+        "scoring_guidance": "Check: I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.1.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-1-3-T01-R02",
+      "teacher_question_id": "Q002",
+      "bank_item_id": "CC1-AP5-Q002",
+      "family_name": "Multiplying fractions by models - reasoning 2",
+      "family_purpose": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "category": "reasoning",
+      "cpm_lesson": "5.1.3",
+      "cpm_title": "Multiplying fractions by models",
+      "i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "i_can_exact_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "student_action": "Multiplying fractions by models",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Explain with an area model what 1/2 of 1/3 means and why its product is 1/6.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "fraction_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "1/2 x 1/3 = 1/6; the first fraction selects that portion of the second quantity.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Explain with an area model what 1/2 of 1/3 means and why its product is 1/6.</p>",
+        "answer": "1/2 x 1/3 = 1/6; the first fraction selects that portion of the second quantity.",
+        "solution": "1/2 x 1/3 = 1/6; the first fraction selects that portion of the second quantity.",
+        "scoring_guidance": "Check: I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.1.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-1-3-T01-R03",
+      "teacher_question_id": "Q003",
+      "bank_item_id": "CC1-AP5-Q003",
+      "family_name": "Multiplying fractions by models - reasoning 3",
+      "family_purpose": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "category": "reasoning",
+      "cpm_lesson": "5.1.3",
+      "cpm_title": "Multiplying fractions by models",
+      "i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "i_can_exact_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "student_action": "Multiplying fractions by models",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Explain with an area model what 3/5 of 1/2 means and why its product is 3/10.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "fraction_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "3/5 x 1/2 = 3/10; the first fraction selects that portion of the second quantity.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Explain with an area model what 3/5 of 1/2 means and why its product is 3/10.</p>",
+        "answer": "3/5 x 1/2 = 3/10; the first fraction selects that portion of the second quantity.",
+        "solution": "3/5 x 1/2 = 3/10; the first fraction selects that portion of the second quantity.",
+        "scoring_guidance": "Check: I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.1.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-1-3-T01-S01",
+      "teacher_question_id": "Q004",
+      "bank_item_id": "CC1-AP5-Q004",
+      "family_name": "Multiplying fractions by models - direct 1",
+      "family_purpose": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "category": "direct",
+      "cpm_lesson": "5.1.3",
+      "cpm_title": "Multiplying fractions by models",
+      "i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "i_can_exact_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "student_action": "Multiplying fractions by models",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Calculate 1/2 x 1/2; simplify the fraction.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "fraction_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "1/2 x 1/2 = 1/4; the first fraction selects that portion of the second quantity.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Calculate 1/2 x 1/2; simplify the fraction.</p>",
+        "answer": "1/2 x 1/2 = 1/4; the first fraction selects that portion of the second quantity.",
+        "solution": "1/2 x 1/2 = 1/4; the first fraction selects that portion of the second quantity.",
+        "scoring_guidance": "Check: I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.1.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-1-3-T01-S02",
+      "teacher_question_id": "Q005",
+      "bank_item_id": "CC1-AP5-Q005",
+      "family_name": "Multiplying fractions by models - direct 2",
+      "family_purpose": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "category": "direct",
+      "cpm_lesson": "5.1.3",
+      "cpm_title": "Multiplying fractions by models",
+      "i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "i_can_exact_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "student_action": "Multiplying fractions by models",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Calculate 3/5 x 1/3; simplify the fraction.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "fraction_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "3/5 x 1/3 = 1/5; the first fraction selects that portion of the second quantity.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Calculate 3/5 x 1/3; simplify the fraction.</p>",
+        "answer": "3/5 x 1/3 = 1/5; the first fraction selects that portion of the second quantity.",
+        "solution": "3/5 x 1/3 = 1/5; the first fraction selects that portion of the second quantity.",
+        "scoring_guidance": "Check: I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.1.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-1-3-T01-S03",
+      "teacher_question_id": "Q006",
+      "bank_item_id": "CC1-AP5-Q006",
+      "family_name": "Multiplying fractions by models - direct 3",
+      "family_purpose": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "category": "direct",
+      "cpm_lesson": "5.1.3",
+      "cpm_title": "Multiplying fractions by models",
+      "i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "i_can_exact_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "student_action": "Multiplying fractions by models",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Calculate 2/3 x 1/2; simplify the fraction.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "fraction_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "2/3 x 1/2 = 1/3; the first fraction selects that portion of the second quantity.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Calculate 2/3 x 1/2; simplify the fraction.</p>",
+        "answer": "2/3 x 1/2 = 1/3; the first fraction selects that portion of the second quantity.",
+        "solution": "2/3 x 1/2 = 1/3; the first fraction selects that portion of the second quantity.",
+        "scoring_guidance": "Check: I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.1.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-1-3-T01-P01",
+      "teacher_question_id": "Q007",
+      "bank_item_id": "CC1-AP5-Q007",
+      "family_name": "Multiplying fractions by models - spiral 1",
+      "family_purpose": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "category": "spiral",
+      "cpm_lesson": "5.1.3",
+      "cpm_title": "Multiplying fractions by models",
+      "i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "i_can_exact_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "student_action": "Multiplying fractions by models",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A recipe uses 3/5 cup per batch. Find 1/2 of a batch.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "fraction_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "3/5 x 1/2 = 3/10; the first fraction selects that portion of the second quantity.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A recipe uses 3/5 cup per batch. Find 1/2 of a batch.</p>",
+        "answer": "3/5 x 1/2 = 3/10; the first fraction selects that portion of the second quantity.",
+        "solution": "3/5 x 1/2 = 3/10; the first fraction selects that portion of the second quantity.",
+        "scoring_guidance": "Check: I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.1.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-1-3-T01-P02",
+      "teacher_question_id": "Q008",
+      "bank_item_id": "CC1-AP5-Q008",
+      "family_name": "Multiplying fractions by models - spiral 2",
+      "family_purpose": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "category": "spiral",
+      "cpm_lesson": "5.1.3",
+      "cpm_title": "Multiplying fractions by models",
+      "i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "i_can_exact_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "student_action": "Multiplying fractions by models",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A recipe uses 2/3 cup per batch. Find 1/3 of a batch.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "fraction_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "2/3 x 1/3 = 2/9; the first fraction selects that portion of the second quantity.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A recipe uses 2/3 cup per batch. Find 1/3 of a batch.</p>",
+        "answer": "2/3 x 1/3 = 2/9; the first fraction selects that portion of the second quantity.",
+        "solution": "2/3 x 1/3 = 2/9; the first fraction selects that portion of the second quantity.",
+        "scoring_guidance": "Check: I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.1.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-1-3-T01-P03",
+      "teacher_question_id": "Q009",
+      "bank_item_id": "CC1-AP5-Q009",
+      "family_name": "Multiplying fractions by models - spiral 3",
+      "family_purpose": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "category": "spiral",
+      "cpm_lesson": "5.1.3",
+      "cpm_title": "Multiplying fractions by models",
+      "i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "i_can_exact_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "student_action": "Multiplying fractions by models",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A recipe uses 1/2 cup per batch. Find 1/2 of a batch.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "fraction_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "1/2 x 1/2 = 1/4; the first fraction selects that portion of the second quantity.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A recipe uses 1/2 cup per batch. Find 1/2 of a batch.</p>",
+        "answer": "1/2 x 1/2 = 1/4; the first fraction selects that portion of the second quantity.",
+        "solution": "1/2 x 1/2 = 1/4; the first fraction selects that portion of the second quantity.",
+        "scoring_guidance": "Check: I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.1.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-2-2-T02-R01",
+      "teacher_question_id": "Q010",
+      "bank_item_id": "CC1-AP5-Q010",
+      "family_name": "Reason about decimal products - reasoning 1",
+      "family_purpose": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "category": "reasoning",
+      "cpm_lesson": "5.2.2",
+      "cpm_title": "Reason about decimal products",
+      "i_can_id": "CC1-ES-02-P-07BF7666",
+      "i_can_exact_text": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "student_action": "Reason about decimal products",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Explain why 0.6 x 0.4 = 0.24 is less than both positive factors.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "decimal_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "0.24; multiplication by a positive factor below one produces a smaller positive number.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Explain why 0.6 x 0.4 = 0.24 is less than both positive factors.</p>",
+        "answer": "0.24; multiplication by a positive factor below one produces a smaller positive number.",
+        "solution": "0.24; multiplication by a positive factor below one produces a smaller positive number.",
+        "scoring_guidance": "Check: I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.2.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-P-07BF7666",
+      "reporting_i_can_text": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-2-2-T02-R02",
+      "teacher_question_id": "Q011",
+      "bank_item_id": "CC1-AP5-Q011",
+      "family_name": "Reason about decimal products - reasoning 2",
+      "family_purpose": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "category": "reasoning",
+      "cpm_lesson": "5.2.2",
+      "cpm_title": "Reason about decimal products",
+      "i_can_id": "CC1-ES-02-P-07BF7666",
+      "i_can_exact_text": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "student_action": "Reason about decimal products",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Explain why 0.7 x 0.7 = 0.49 is less than both positive factors.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "decimal_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "0.49; multiplication by a positive factor below one produces a smaller positive number.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Explain why 0.7 x 0.7 = 0.49 is less than both positive factors.</p>",
+        "answer": "0.49; multiplication by a positive factor below one produces a smaller positive number.",
+        "solution": "0.49; multiplication by a positive factor below one produces a smaller positive number.",
+        "scoring_guidance": "Check: I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.2.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-P-07BF7666",
+      "reporting_i_can_text": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-2-2-T02-R03",
+      "teacher_question_id": "Q012",
+      "bank_item_id": "CC1-AP5-Q012",
+      "family_name": "Reason about decimal products - reasoning 3",
+      "family_purpose": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "category": "reasoning",
+      "cpm_lesson": "5.2.2",
+      "cpm_title": "Reason about decimal products",
+      "i_can_id": "CC1-ES-02-P-07BF7666",
+      "i_can_exact_text": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "student_action": "Reason about decimal products",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Explain why 0.3 x 0.3 = 0.09 is less than both positive factors.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "decimal_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "0.09; multiplication by a positive factor below one produces a smaller positive number.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Explain why 0.3 x 0.3 = 0.09 is less than both positive factors.</p>",
+        "answer": "0.09; multiplication by a positive factor below one produces a smaller positive number.",
+        "solution": "0.09; multiplication by a positive factor below one produces a smaller positive number.",
+        "scoring_guidance": "Check: I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.2.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-P-07BF7666",
+      "reporting_i_can_text": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-2-2-T02-S01",
+      "teacher_question_id": "Q013",
+      "bank_item_id": "CC1-AP5-Q013",
+      "family_name": "Reason about decimal products - direct 1",
+      "family_purpose": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "category": "direct",
+      "cpm_lesson": "5.2.2",
+      "cpm_title": "Reason about decimal products",
+      "i_can_id": "CC1-ES-02-P-07BF7666",
+      "i_can_exact_text": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "student_action": "Reason about decimal products",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Calculate 0.5 x 0.2 and show a place-value check.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "decimal_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "0.1; multiplication by a positive factor below one produces a smaller positive number.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Calculate 0.5 x 0.2 and show a place-value check.</p>",
+        "answer": "0.1; multiplication by a positive factor below one produces a smaller positive number.",
+        "solution": "0.1; multiplication by a positive factor below one produces a smaller positive number.",
+        "scoring_guidance": "Check: I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.2.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-P-07BF7666",
+      "reporting_i_can_text": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-2-2-T02-S02",
+      "teacher_question_id": "Q014",
+      "bank_item_id": "CC1-AP5-Q014",
+      "family_name": "Reason about decimal products - direct 2",
+      "family_purpose": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "category": "direct",
+      "cpm_lesson": "5.2.2",
+      "cpm_title": "Reason about decimal products",
+      "i_can_id": "CC1-ES-02-P-07BF7666",
+      "i_can_exact_text": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "student_action": "Reason about decimal products",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Calculate 0.6 x 0.5 and show a place-value check.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "decimal_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "0.3; multiplication by a positive factor below one produces a smaller positive number.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Calculate 0.6 x 0.5 and show a place-value check.</p>",
+        "answer": "0.3; multiplication by a positive factor below one produces a smaller positive number.",
+        "solution": "0.3; multiplication by a positive factor below one produces a smaller positive number.",
+        "scoring_guidance": "Check: I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.2.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-P-07BF7666",
+      "reporting_i_can_text": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-2-2-T02-S03",
+      "teacher_question_id": "Q015",
+      "bank_item_id": "CC1-AP5-Q015",
+      "family_name": "Reason about decimal products - direct 3",
+      "family_purpose": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "category": "direct",
+      "cpm_lesson": "5.2.2",
+      "cpm_title": "Reason about decimal products",
+      "i_can_id": "CC1-ES-02-P-07BF7666",
+      "i_can_exact_text": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "student_action": "Reason about decimal products",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Calculate 0.7 x 0.8 and show a place-value check.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "decimal_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "0.56; multiplication by a positive factor below one produces a smaller positive number.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Calculate 0.7 x 0.8 and show a place-value check.</p>",
+        "answer": "0.56; multiplication by a positive factor below one produces a smaller positive number.",
+        "solution": "0.56; multiplication by a positive factor below one produces a smaller positive number.",
+        "scoring_guidance": "Check: I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.2.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-P-07BF7666",
+      "reporting_i_can_text": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-2-2-T02-P01",
+      "teacher_question_id": "Q016",
+      "bank_item_id": "CC1-AP5-Q016",
+      "family_name": "Reason about decimal products - spiral 1",
+      "family_purpose": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "category": "spiral",
+      "cpm_lesson": "5.2.2",
+      "cpm_title": "Reason about decimal products",
+      "i_can_id": "CC1-ES-02-P-07BF7666",
+      "i_can_exact_text": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "student_action": "Reason about decimal products",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Estimate then calculate the cost of 0.4 kg at $0.7 per kg.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "decimal_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "0.28; multiplication by a positive factor below one produces a smaller positive number.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Estimate then calculate the cost of 0.4 kg at $0.7 per kg.</p>",
+        "answer": "0.28; multiplication by a positive factor below one produces a smaller positive number.",
+        "solution": "0.28; multiplication by a positive factor below one produces a smaller positive number.",
+        "scoring_guidance": "Check: I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.2.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-P-07BF7666",
+      "reporting_i_can_text": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-2-2-T02-P02",
+      "teacher_question_id": "Q017",
+      "bank_item_id": "CC1-AP5-Q017",
+      "family_name": "Reason about decimal products - spiral 2",
+      "family_purpose": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "category": "spiral",
+      "cpm_lesson": "5.2.2",
+      "cpm_title": "Reason about decimal products",
+      "i_can_id": "CC1-ES-02-P-07BF7666",
+      "i_can_exact_text": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "student_action": "Reason about decimal products",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Estimate then calculate the cost of 0.5 kg at $0.3 per kg.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "decimal_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "0.15; multiplication by a positive factor below one produces a smaller positive number.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Estimate then calculate the cost of 0.5 kg at $0.3 per kg.</p>",
+        "answer": "0.15; multiplication by a positive factor below one produces a smaller positive number.",
+        "solution": "0.15; multiplication by a positive factor below one produces a smaller positive number.",
+        "scoring_guidance": "Check: I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.2.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-P-07BF7666",
+      "reporting_i_can_text": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-2-2-T02-P03",
+      "teacher_question_id": "Q018",
+      "bank_item_id": "CC1-AP5-Q018",
+      "family_name": "Reason about decimal products - spiral 3",
+      "family_purpose": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "category": "spiral",
+      "cpm_lesson": "5.2.2",
+      "cpm_title": "Reason about decimal products",
+      "i_can_id": "CC1-ES-02-P-07BF7666",
+      "i_can_exact_text": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "student_action": "Reason about decimal products",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Estimate then calculate the cost of 0.6 kg at $0.6 per kg.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "decimal_product"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "0.36; multiplication by a positive factor below one produces a smaller positive number.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Estimate then calculate the cost of 0.6 kg at $0.6 per kg.</p>",
+        "answer": "0.36; multiplication by a positive factor below one produces a smaller positive number.",
+        "solution": "0.36; multiplication by a positive factor below one produces a smaller positive number.",
+        "scoring_guidance": "Check: I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.2.2",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-P-07BF7666",
+      "reporting_i_can_text": "I can choose, calculate, and check operations with fractions and decimals and interpret percent as a rate per 100.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-3-3-T03-R01",
+      "teacher_question_id": "Q019",
+      "bank_item_id": "CC1-AP5-Q019",
+      "family_name": "Areas of polygons (volume later) - reasoning 1",
+      "family_purpose": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "category": "reasoning",
+      "cpm_lesson": "5.3.3",
+      "cpm_title": "Areas of polygons (volume later)",
+      "i_can_id": "CC1-ES-04-D-3844FC11",
+      "i_can_exact_text": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "student_action": "Areas of polygons (volume later)",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A triangle has base 14 cm and perpendicular height 3 cm. Explain why its area is half the corresponding parallelogram.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "triangle_area"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "14 x 3 / 2 = 21 square centimeters; perpendicular height is required.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A triangle has base 14 cm and perpendicular height 3 cm. Explain why its area is half the corresponding parallelogram.</p>",
+        "answer": "14 x 3 / 2 = 21 square centimeters; perpendicular height is required.",
+        "solution": "14 x 3 / 2 = 21 square centimeters; perpendicular height is required.",
+        "scoring_guidance": "Check: I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.3.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-D-3844FC11",
+      "reporting_i_can_text": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-3-3-T03-R02",
+      "teacher_question_id": "Q020",
+      "bank_item_id": "CC1-AP5-Q020",
+      "family_name": "Areas of polygons (volume later) - reasoning 2",
+      "family_purpose": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "category": "reasoning",
+      "cpm_lesson": "5.3.3",
+      "cpm_title": "Areas of polygons (volume later)",
+      "i_can_id": "CC1-ES-04-D-3844FC11",
+      "i_can_exact_text": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "student_action": "Areas of polygons (volume later)",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A triangle has base 6 cm and perpendicular height 6 cm. Explain why its area is half the corresponding parallelogram.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "triangle_area"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "6 x 6 / 2 = 18 square centimeters; perpendicular height is required.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A triangle has base 6 cm and perpendicular height 6 cm. Explain why its area is half the corresponding parallelogram.</p>",
+        "answer": "6 x 6 / 2 = 18 square centimeters; perpendicular height is required.",
+        "solution": "6 x 6 / 2 = 18 square centimeters; perpendicular height is required.",
+        "scoring_guidance": "Check: I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.3.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-D-3844FC11",
+      "reporting_i_can_text": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-3-3-T03-R03",
+      "teacher_question_id": "Q021",
+      "bank_item_id": "CC1-AP5-Q021",
+      "family_name": "Areas of polygons (volume later) - reasoning 3",
+      "family_purpose": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "category": "reasoning",
+      "cpm_lesson": "5.3.3",
+      "cpm_title": "Areas of polygons (volume later)",
+      "i_can_id": "CC1-ES-04-D-3844FC11",
+      "i_can_exact_text": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "student_action": "Areas of polygons (volume later)",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A triangle has base 8 cm and perpendicular height 9 cm. Explain why its area is half the corresponding parallelogram.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "triangle_area"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "8 x 9 / 2 = 36 square centimeters; perpendicular height is required.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A triangle has base 8 cm and perpendicular height 9 cm. Explain why its area is half the corresponding parallelogram.</p>",
+        "answer": "8 x 9 / 2 = 36 square centimeters; perpendicular height is required.",
+        "solution": "8 x 9 / 2 = 36 square centimeters; perpendicular height is required.",
+        "scoring_guidance": "Check: I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.3.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-D-3844FC11",
+      "reporting_i_can_text": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-3-3-T03-S01",
+      "teacher_question_id": "Q022",
+      "bank_item_id": "CC1-AP5-Q022",
+      "family_name": "Areas of polygons (volume later) - direct 1",
+      "family_purpose": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "category": "direct",
+      "cpm_lesson": "5.3.3",
+      "cpm_title": "Areas of polygons (volume later)",
+      "i_can_id": "CC1-ES-04-D-3844FC11",
+      "i_can_exact_text": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "student_action": "Areas of polygons (volume later)",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Find the area of a triangle with base 12 cm and perpendicular height 8 cm.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "triangle_area"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "12 x 8 / 2 = 48 square centimeters; perpendicular height is required.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Find the area of a triangle with base 12 cm and perpendicular height 8 cm.</p>",
+        "answer": "12 x 8 / 2 = 48 square centimeters; perpendicular height is required.",
+        "solution": "12 x 8 / 2 = 48 square centimeters; perpendicular height is required.",
+        "scoring_guidance": "Check: I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.3.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-D-3844FC11",
+      "reporting_i_can_text": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-3-3-T03-S02",
+      "teacher_question_id": "Q023",
+      "bank_item_id": "CC1-AP5-Q023",
+      "family_name": "Areas of polygons (volume later) - direct 2",
+      "family_purpose": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "category": "direct",
+      "cpm_lesson": "5.3.3",
+      "cpm_title": "Areas of polygons (volume later)",
+      "i_can_id": "CC1-ES-04-D-3844FC11",
+      "i_can_exact_text": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "student_action": "Areas of polygons (volume later)",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Find the area of a triangle with base 14 cm and perpendicular height 4 cm.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "triangle_area"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "14 x 4 / 2 = 28 square centimeters; perpendicular height is required.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Find the area of a triangle with base 14 cm and perpendicular height 4 cm.</p>",
+        "answer": "14 x 4 / 2 = 28 square centimeters; perpendicular height is required.",
+        "solution": "14 x 4 / 2 = 28 square centimeters; perpendicular height is required.",
+        "scoring_guidance": "Check: I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.3.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-D-3844FC11",
+      "reporting_i_can_text": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-3-3-T03-S03",
+      "teacher_question_id": "Q024",
+      "bank_item_id": "CC1-AP5-Q024",
+      "family_name": "Areas of polygons (volume later) - direct 3",
+      "family_purpose": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "category": "direct",
+      "cpm_lesson": "5.3.3",
+      "cpm_title": "Areas of polygons (volume later)",
+      "i_can_id": "CC1-ES-04-D-3844FC11",
+      "i_can_exact_text": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "student_action": "Areas of polygons (volume later)",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Find the area of a triangle with base 6 cm and perpendicular height 7 cm.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "triangle_area"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "6 x 7 / 2 = 21 square centimeters; perpendicular height is required.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Find the area of a triangle with base 6 cm and perpendicular height 7 cm.</p>",
+        "answer": "6 x 7 / 2 = 21 square centimeters; perpendicular height is required.",
+        "solution": "6 x 7 / 2 = 21 square centimeters; perpendicular height is required.",
+        "scoring_guidance": "Check: I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.3.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-D-3844FC11",
+      "reporting_i_can_text": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-3-3-T03-P01",
+      "teacher_question_id": "Q025",
+      "bank_item_id": "CC1-AP5-Q025",
+      "family_name": "Areas of polygons (volume later) - spiral 1",
+      "family_purpose": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "category": "spiral",
+      "cpm_lesson": "5.3.3",
+      "cpm_title": "Areas of polygons (volume later)",
+      "i_can_id": "CC1-ES-04-D-3844FC11",
+      "i_can_exact_text": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "student_action": "Areas of polygons (volume later)",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A parallelogram with base 10 and height 6 is cut along a diagonal. What is the area of one triangle?</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "triangle_area"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "10 x 6 / 2 = 30 square centimeters; perpendicular height is required.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A parallelogram with base 10 and height 6 is cut along a diagonal. What is the area of one triangle?</p>",
+        "answer": "10 x 6 / 2 = 30 square centimeters; perpendicular height is required.",
+        "solution": "10 x 6 / 2 = 30 square centimeters; perpendicular height is required.",
+        "scoring_guidance": "Check: I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.3.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-D-3844FC11",
+      "reporting_i_can_text": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-3-3-T03-P02",
+      "teacher_question_id": "Q026",
+      "bank_item_id": "CC1-AP5-Q026",
+      "family_name": "Areas of polygons (volume later) - spiral 2",
+      "family_purpose": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "category": "spiral",
+      "cpm_lesson": "5.3.3",
+      "cpm_title": "Areas of polygons (volume later)",
+      "i_can_id": "CC1-ES-04-D-3844FC11",
+      "i_can_exact_text": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "student_action": "Areas of polygons (volume later)",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A parallelogram with base 12 and height 9 is cut along a diagonal. What is the area of one triangle?</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "triangle_area"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "12 x 9 / 2 = 54 square centimeters; perpendicular height is required.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A parallelogram with base 12 and height 9 is cut along a diagonal. What is the area of one triangle?</p>",
+        "answer": "12 x 9 / 2 = 54 square centimeters; perpendicular height is required.",
+        "solution": "12 x 9 / 2 = 54 square centimeters; perpendicular height is required.",
+        "scoring_guidance": "Check: I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.3.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-D-3844FC11",
+      "reporting_i_can_text": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-3-3-T03-P03",
+      "teacher_question_id": "Q027",
+      "bank_item_id": "CC1-AP5-Q027",
+      "family_name": "Areas of polygons (volume later) - spiral 3",
+      "family_purpose": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "category": "spiral",
+      "cpm_lesson": "5.3.3",
+      "cpm_title": "Areas of polygons (volume later)",
+      "i_can_id": "CC1-ES-04-D-3844FC11",
+      "i_can_exact_text": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "student_action": "Areas of polygons (volume later)",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A parallelogram with base 14 and height 5 is cut along a diagonal. What is the area of one triangle?</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "triangle_area"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "14 x 5 / 2 = 35 square centimeters; perpendicular height is required.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A parallelogram with base 14 and height 5 is cut along a diagonal. What is the area of one triangle?</p>",
+        "answer": "14 x 5 / 2 = 35 square centimeters; perpendicular height is required.",
+        "solution": "14 x 5 / 2 = 35 square centimeters; perpendicular height is required.",
+        "scoring_guidance": "Check: I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.3.3",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-D-3844FC11",
+      "reporting_i_can_text": "I can find areas of triangles and parallelograms and volumes of rectangular prisms using measurements.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-3-4-T04-R01",
+      "teacher_question_id": "Q028",
+      "bank_item_id": "CC1-AP5-Q028",
+      "family_name": "Decompose and recompose area - reasoning 1",
+      "family_purpose": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "category": "reasoning",
+      "cpm_lesson": "5.3.4",
+      "cpm_title": "Decompose and recompose area",
+      "i_can_id": "CC1-ES-04-D-EDF0DFD2",
+      "i_can_exact_text": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "student_action": "Decompose and recompose area",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>An L-shaped region fits inside a 5-by-11 rectangle with a 2-by-2 corner missing. Explain why subtracting the missing area gives the L-shape area.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "composite_area"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "55-4=51 square units; the missing corner has area 4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>An L-shaped region fits inside a 5-by-11 rectangle with a 2-by-2 corner missing. Explain why subtracting the missing area gives the L-shape area.</p>",
+        "answer": "55-4=51 square units; the missing corner has area 4.",
+        "solution": "55-4=51 square units; the missing corner has area 4.",
+        "scoring_guidance": "Check: I can decompose and recompose a figure to justify its area rather than memorizing only a formula.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.3.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-D-EDF0DFD2",
+      "reporting_i_can_text": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-3-4-T04-R02",
+      "teacher_question_id": "Q029",
+      "bank_item_id": "CC1-AP5-Q029",
+      "family_name": "Decompose and recompose area - reasoning 2",
+      "family_purpose": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "category": "reasoning",
+      "cpm_lesson": "5.3.4",
+      "cpm_title": "Decompose and recompose area",
+      "i_can_id": "CC1-ES-04-D-EDF0DFD2",
+      "i_can_exact_text": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "student_action": "Decompose and recompose area",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>An L-shaped region fits inside a 6-by-7 rectangle with a 2-by-2 corner missing. Explain why subtracting the missing area gives the L-shape area.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "composite_area"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "42-4=38 square units; the missing corner has area 4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>An L-shaped region fits inside a 6-by-7 rectangle with a 2-by-2 corner missing. Explain why subtracting the missing area gives the L-shape area.</p>",
+        "answer": "42-4=38 square units; the missing corner has area 4.",
+        "solution": "42-4=38 square units; the missing corner has area 4.",
+        "scoring_guidance": "Check: I can decompose and recompose a figure to justify its area rather than memorizing only a formula.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.3.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-D-EDF0DFD2",
+      "reporting_i_can_text": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-3-4-T04-R03",
+      "teacher_question_id": "Q030",
+      "bank_item_id": "CC1-AP5-Q030",
+      "family_name": "Decompose and recompose area - reasoning 3",
+      "family_purpose": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "category": "reasoning",
+      "cpm_lesson": "5.3.4",
+      "cpm_title": "Decompose and recompose area",
+      "i_can_id": "CC1-ES-04-D-EDF0DFD2",
+      "i_can_exact_text": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "student_action": "Decompose and recompose area",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>An L-shaped region fits inside a 7-by-10 rectangle with a 2-by-2 corner missing. Explain why subtracting the missing area gives the L-shape area.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "composite_area"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "70-4=66 square units; the missing corner has area 4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>An L-shaped region fits inside a 7-by-10 rectangle with a 2-by-2 corner missing. Explain why subtracting the missing area gives the L-shape area.</p>",
+        "answer": "70-4=66 square units; the missing corner has area 4.",
+        "solution": "70-4=66 square units; the missing corner has area 4.",
+        "scoring_guidance": "Check: I can decompose and recompose a figure to justify its area rather than memorizing only a formula.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.3.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-D-EDF0DFD2",
+      "reporting_i_can_text": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-3-4-T04-S01",
+      "teacher_question_id": "Q031",
+      "bank_item_id": "CC1-AP5-Q031",
+      "family_name": "Decompose and recompose area - direct 1",
+      "family_purpose": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "category": "direct",
+      "cpm_lesson": "5.3.4",
+      "cpm_title": "Decompose and recompose area",
+      "i_can_id": "CC1-ES-04-D-EDF0DFD2",
+      "i_can_exact_text": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "student_action": "Decompose and recompose area",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Find the area of a 9-by-9 rectangle after removing a 2-by-2 corner.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "composite_area"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "81-4=77 square units; the missing corner has area 4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Find the area of a 9-by-9 rectangle after removing a 2-by-2 corner.</p>",
+        "answer": "81-4=77 square units; the missing corner has area 4.",
+        "solution": "81-4=77 square units; the missing corner has area 4.",
+        "scoring_guidance": "Check: I can decompose and recompose a figure to justify its area rather than memorizing only a formula.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.3.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-D-EDF0DFD2",
+      "reporting_i_can_text": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-3-4-T04-S02",
+      "teacher_question_id": "Q032",
+      "bank_item_id": "CC1-AP5-Q032",
+      "family_name": "Decompose and recompose area - direct 2",
+      "family_purpose": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "category": "direct",
+      "cpm_lesson": "5.3.4",
+      "cpm_title": "Decompose and recompose area",
+      "i_can_id": "CC1-ES-04-D-EDF0DFD2",
+      "i_can_exact_text": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "student_action": "Decompose and recompose area",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Find the area of a 5-by-12 rectangle after removing a 2-by-2 corner.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "composite_area"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "60-4=56 square units; the missing corner has area 4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Find the area of a 5-by-12 rectangle after removing a 2-by-2 corner.</p>",
+        "answer": "60-4=56 square units; the missing corner has area 4.",
+        "solution": "60-4=56 square units; the missing corner has area 4.",
+        "scoring_guidance": "Check: I can decompose and recompose a figure to justify its area rather than memorizing only a formula.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.3.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-D-EDF0DFD2",
+      "reporting_i_can_text": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-3-4-T04-S03",
+      "teacher_question_id": "Q033",
+      "bank_item_id": "CC1-AP5-Q033",
+      "family_name": "Decompose and recompose area - direct 3",
+      "family_purpose": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "category": "direct",
+      "cpm_lesson": "5.3.4",
+      "cpm_title": "Decompose and recompose area",
+      "i_can_id": "CC1-ES-04-D-EDF0DFD2",
+      "i_can_exact_text": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "student_action": "Decompose and recompose area",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Find the area of a 6-by-8 rectangle after removing a 2-by-2 corner.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "composite_area"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "48-4=44 square units; the missing corner has area 4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Find the area of a 6-by-8 rectangle after removing a 2-by-2 corner.</p>",
+        "answer": "48-4=44 square units; the missing corner has area 4.",
+        "solution": "48-4=44 square units; the missing corner has area 4.",
+        "scoring_guidance": "Check: I can decompose and recompose a figure to justify its area rather than memorizing only a formula.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.3.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-D-EDF0DFD2",
+      "reporting_i_can_text": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-3-4-T04-P01",
+      "teacher_question_id": "Q034",
+      "bank_item_id": "CC1-AP5-Q034",
+      "family_name": "Decompose and recompose area - spiral 1",
+      "family_purpose": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "category": "spiral",
+      "cpm_lesson": "5.3.4",
+      "cpm_title": "Decompose and recompose area",
+      "i_can_id": "CC1-ES-04-D-EDF0DFD2",
+      "i_can_exact_text": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "student_action": "Decompose and recompose area",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Why is the area of the L-shape obtained by subtracting 4 from 56? State its area.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "composite_area"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "56-4=52 square units; the missing corner has area 4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Why is the area of the L-shape obtained by subtracting 4 from 56? State its area.</p>",
+        "answer": "56-4=52 square units; the missing corner has area 4.",
+        "solution": "56-4=52 square units; the missing corner has area 4.",
+        "scoring_guidance": "Check: I can decompose and recompose a figure to justify its area rather than memorizing only a formula.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.3.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-D-EDF0DFD2",
+      "reporting_i_can_text": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-3-4-T04-P02",
+      "teacher_question_id": "Q035",
+      "bank_item_id": "CC1-AP5-Q035",
+      "family_name": "Decompose and recompose area - spiral 2",
+      "family_purpose": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "category": "spiral",
+      "cpm_lesson": "5.3.4",
+      "cpm_title": "Decompose and recompose area",
+      "i_can_id": "CC1-ES-04-D-EDF0DFD2",
+      "i_can_exact_text": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "student_action": "Decompose and recompose area",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Why is the area of the L-shape obtained by subtracting 4 from 90? State its area.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "composite_area"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "90-4=86 square units; the missing corner has area 4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Why is the area of the L-shape obtained by subtracting 4 from 90? State its area.</p>",
+        "answer": "90-4=86 square units; the missing corner has area 4.",
+        "solution": "90-4=86 square units; the missing corner has area 4.",
+        "scoring_guidance": "Check: I can decompose and recompose a figure to justify its area rather than memorizing only a formula.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.3.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-D-EDF0DFD2",
+      "reporting_i_can_text": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP5-5-3-4-T04-P03",
+      "teacher_question_id": "Q036",
+      "bank_item_id": "CC1-AP5-Q036",
+      "family_name": "Decompose and recompose area - spiral 3",
+      "family_purpose": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "category": "spiral",
+      "cpm_lesson": "5.3.4",
+      "cpm_title": "Decompose and recompose area",
+      "i_can_id": "CC1-ES-04-D-EDF0DFD2",
+      "i_can_exact_text": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "learning_goal_id": "CC1-ES-04",
+      "assessment_plan": "AP5",
+      "ap_section": 5,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "student_action": "Decompose and recompose area",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Why is the area of the L-shape obtained by subtracting 4 from 30? State its area.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "composite_area"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "30-4=26 square units; the missing corner has area 4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Why is the area of the L-shape obtained by subtracting 4 from 30? State its area.</p>",
+        "answer": "30-4=26 square units; the missing corner has area 4.",
+        "solution": "30-4=26 square units; the missing corner has area 4.",
+        "scoring_guidance": "Check: I can decompose and recompose a figure to justify its area rather than memorizing only a formula.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "5.3.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-04-D-EDF0DFD2",
+      "reporting_i_can_text": "I can decompose and recompose a figure to justify its area rather than memorizing only a formula.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    }
+  ],
+  "review_summary": {
+    "active_family_count": 36,
+    "review_gate": "teacher feedback is corrective, not a prerequisite to initial use"
+  },
+  "reporting_contract": {
+    "schema_version": 1,
+    "source": "CC1 Assessment Evidence and chapter unit plans",
+    "learning_goal_ids": [
+      "CC1-ES-02",
+      "CC1-ES-04"
+    ],
+    "reporting_i_can_ids": [
+      "CC1-ES-02-D-9D12B3C1",
+      "CC1-ES-02-P-07BF7666",
+      "CC1-ES-04-D-3844FC11",
+      "CC1-ES-04-D-EDF0DFD2"
+    ],
+    "family_id_policy": "immutable stable family ID",
+    "question_content_policy": "original teacher-created questions; no textbook reproduction"
+  },
+  "pilot_policy": {
+    "default": "usable immediately",
+    "teacher_approval": "operationally accepted by teacher instruction; not individually proofread",
+    "feedback": "correct and version the canonical bank family when a problem is reported"
+  }
+}

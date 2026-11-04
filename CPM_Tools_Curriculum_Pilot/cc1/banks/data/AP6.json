@@ -1,0 +1,2742 @@
+{
+  "schema": "cpm-family-bank-plan/v1",
+  "course": "Core Connections Course 1",
+  "assessment_plan": "AP6",
+  "chapter": 6,
+  "plan_title": "Dividing and Building Expressions",
+  "essential_standard": "CC1-ES-02; CC1-ES-06",
+  "bank_status": "TEACHER_APPROVED",
+  "source_crosswalk": "assessment_plans/CC1_AP6_ASSESSMENT_PLAN.json",
+  "source_authority": "Current CC1 unit plans, Phase 03 Assessment Evidence, Phase 04 Learning Ladders; exemplars newly authored",
+  "family_policy": {
+    "per_i_can": {
+      "reasoning": 3,
+      "direct": 3,
+      "spiral": 3
+    },
+    "review_rule": "Teacher-directed default accept for pilot use; correct the canonical item only when teacher flags a concrete issue.",
+    "variation_rule": "Only use the supplied exemplar unless any generated variant is independently verified.",
+    "evidence_stage": "Never claim full-rung proficiency from an explicitly partial lesson checkpoint."
+  },
+  "sections": [
+    {
+      "section": "6.1.4",
+      "title": "Fraction division and checking",
+      "learning_target": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "cpm_lesson": "6.1.4",
+      "ap_section": 6,
+      "i_cans": [
+        {
+          "id": "CC1-ES-02-D-9D12B3C1",
+          "text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+          "family_ids": [
+            "CC1-AP6-6-1-4-T01-R01",
+            "CC1-AP6-6-1-4-T01-R02",
+            "CC1-AP6-6-1-4-T01-R03",
+            "CC1-AP6-6-1-4-T01-S01",
+            "CC1-AP6-6-1-4-T01-S02",
+            "CC1-AP6-6-1-4-T01-S03",
+            "CC1-AP6-6-1-4-T01-P01",
+            "CC1-AP6-6-1-4-T01-P02",
+            "CC1-AP6-6-1-4-T01-P03"
+          ],
+          "cpm_lesson": "6.1.4",
+          "cpm_title": "Fraction division and checking",
+          "learning_goal_id": "CC1-ES-02",
+          "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "EXPECT",
+          "scope_note": "Independent evidence after instruction, practice and feedback."
+        }
+      ],
+      "reporting_i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "learning_goal_id": "CC1-ES-02"
+    },
+    {
+      "section": "6.2.1",
+      "title": "Order of operations",
+      "learning_target": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "cpm_lesson": "6.2.1",
+      "ap_section": 6,
+      "i_cans": [
+        {
+          "id": "CC1-ES-06-P-9EC1023A",
+          "text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+          "family_ids": [
+            "CC1-AP6-6-2-1-T02-R01",
+            "CC1-AP6-6-2-1-T02-R02",
+            "CC1-AP6-6-2-1-T02-R03",
+            "CC1-AP6-6-2-1-T02-S01",
+            "CC1-AP6-6-2-1-T02-S02",
+            "CC1-AP6-6-2-1-T02-S03",
+            "CC1-AP6-6-2-1-T02-P01",
+            "CC1-AP6-6-2-1-T02-P02",
+            "CC1-AP6-6-2-1-T02-P03"
+          ],
+          "cpm_lesson": "6.2.1",
+          "cpm_title": "Order of operations",
+          "learning_goal_id": "CC1-ES-06",
+          "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+          "ladder_rung": "Prerequisite",
+          "evidence_stage": "RECHECK",
+          "scope_note": "This is early/partial evidence only; do not infer full Proficient."
+        }
+      ],
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06"
+    },
+    {
+      "section": "6.2.4",
+      "title": "Combining like terms",
+      "learning_target": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "cpm_lesson": "6.2.4",
+      "ap_section": 6,
+      "i_cans": [
+        {
+          "id": "CC1-ES-06-D-F79B595C",
+          "text": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+          "family_ids": [
+            "CC1-AP6-6-2-4-T03-R01",
+            "CC1-AP6-6-2-4-T03-R02",
+            "CC1-AP6-6-2-4-T03-R03",
+            "CC1-AP6-6-2-4-T03-S01",
+            "CC1-AP6-6-2-4-T03-S02",
+            "CC1-AP6-6-2-4-T03-S03",
+            "CC1-AP6-6-2-4-T03-P01",
+            "CC1-AP6-6-2-4-T03-P02",
+            "CC1-AP6-6-2-4-T03-P03"
+          ],
+          "cpm_lesson": "6.2.4",
+          "cpm_title": "Combining like terms",
+          "learning_goal_id": "CC1-ES-06",
+          "reporting_i_can_text": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "EXPECT",
+          "scope_note": "Independent evidence after instruction, practice and feedback."
+        }
+      ],
+      "reporting_i_can_id": "CC1-ES-06-D-F79B595C",
+      "reporting_i_can_text": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "learning_goal_id": "CC1-ES-06"
+    },
+    {
+      "section": "6.2.5",
+      "title": "Evaluate variable expressions",
+      "learning_target": "I can evaluate an expression by substituting a value for its variable.",
+      "cpm_lesson": "6.2.5",
+      "ap_section": 6,
+      "i_cans": [
+        {
+          "id": "CC1-ES-06-F-A796BF96",
+          "text": "I can evaluate an expression by substituting a value for its variable.",
+          "family_ids": [
+            "CC1-AP6-6-2-5-T04-R01",
+            "CC1-AP6-6-2-5-T04-R02",
+            "CC1-AP6-6-2-5-T04-R03",
+            "CC1-AP6-6-2-5-T04-S01",
+            "CC1-AP6-6-2-5-T04-S02",
+            "CC1-AP6-6-2-5-T04-S03",
+            "CC1-AP6-6-2-5-T04-P01",
+            "CC1-AP6-6-2-5-T04-P02",
+            "CC1-AP6-6-2-5-T04-P03"
+          ],
+          "cpm_lesson": "6.2.5",
+          "cpm_title": "Evaluate variable expressions",
+          "learning_goal_id": "CC1-ES-06",
+          "reporting_i_can_text": "I can evaluate an expression by substituting a value for its variable.",
+          "ladder_rung": "Foundation",
+          "evidence_stage": "EXPECT",
+          "scope_note": "Independent evidence after instruction, practice and feedback."
+        }
+      ],
+      "reporting_i_can_id": "CC1-ES-06-F-A796BF96",
+      "reporting_i_can_text": "I can evaluate an expression by substituting a value for its variable.",
+      "learning_goal_id": "CC1-ES-06"
+    }
+  ],
+  "mastery_goals": [
+    {
+      "id": "CC1-ES-02",
+      "title": "CC1-ES-02 evidence through chapter 6",
+      "assessment_plan": "AP6",
+      "mastery_goal": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "i_cans": [
+        {
+          "id": "CC1-ES-02-D-9D12B3C1",
+          "text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+          "family_ids": [
+            "CC1-AP6-6-1-4-T01-R01",
+            "CC1-AP6-6-1-4-T01-R02",
+            "CC1-AP6-6-1-4-T01-R03",
+            "CC1-AP6-6-1-4-T01-S01",
+            "CC1-AP6-6-1-4-T01-S02",
+            "CC1-AP6-6-1-4-T01-S03",
+            "CC1-AP6-6-1-4-T01-P01",
+            "CC1-AP6-6-1-4-T01-P02",
+            "CC1-AP6-6-1-4-T01-P03"
+          ],
+          "cpm_lesson": "6.1.4",
+          "cpm_title": "Fraction division and checking",
+          "learning_goal_id": "CC1-ES-02",
+          "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "EXPECT",
+          "scope_note": "Independent evidence after instruction, practice and feedback."
+        }
+      ],
+      "reporting_contract": "cc1-essential-standards/v1"
+    },
+    {
+      "id": "CC1-ES-06",
+      "title": "CC1-ES-06 evidence through chapter 6",
+      "assessment_plan": "AP6",
+      "mastery_goal": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns. I can collect like terms and use algebra-tile or area representations to explain simplification. I can evaluate an expression by substituting a value for its variable.",
+      "i_cans": [
+        {
+          "id": "CC1-ES-06-P-9EC1023A",
+          "text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+          "family_ids": [
+            "CC1-AP6-6-2-1-T02-R01",
+            "CC1-AP6-6-2-1-T02-R02",
+            "CC1-AP6-6-2-1-T02-R03",
+            "CC1-AP6-6-2-1-T02-S01",
+            "CC1-AP6-6-2-1-T02-S02",
+            "CC1-AP6-6-2-1-T02-S03",
+            "CC1-AP6-6-2-1-T02-P01",
+            "CC1-AP6-6-2-1-T02-P02",
+            "CC1-AP6-6-2-1-T02-P03"
+          ],
+          "cpm_lesson": "6.2.1",
+          "cpm_title": "Order of operations",
+          "learning_goal_id": "CC1-ES-06",
+          "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+          "ladder_rung": "Prerequisite",
+          "evidence_stage": "RECHECK",
+          "scope_note": "This is early/partial evidence only; do not infer full Proficient."
+        },
+        {
+          "id": "CC1-ES-06-D-F79B595C",
+          "text": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+          "family_ids": [
+            "CC1-AP6-6-2-4-T03-R01",
+            "CC1-AP6-6-2-4-T03-R02",
+            "CC1-AP6-6-2-4-T03-R03",
+            "CC1-AP6-6-2-4-T03-S01",
+            "CC1-AP6-6-2-4-T03-S02",
+            "CC1-AP6-6-2-4-T03-S03",
+            "CC1-AP6-6-2-4-T03-P01",
+            "CC1-AP6-6-2-4-T03-P02",
+            "CC1-AP6-6-2-4-T03-P03"
+          ],
+          "cpm_lesson": "6.2.4",
+          "cpm_title": "Combining like terms",
+          "learning_goal_id": "CC1-ES-06",
+          "reporting_i_can_text": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+          "ladder_rung": "Developing",
+          "evidence_stage": "EXPECT",
+          "scope_note": "Independent evidence after instruction, practice and feedback."
+        },
+        {
+          "id": "CC1-ES-06-F-A796BF96",
+          "text": "I can evaluate an expression by substituting a value for its variable.",
+          "family_ids": [
+            "CC1-AP6-6-2-5-T04-R01",
+            "CC1-AP6-6-2-5-T04-R02",
+            "CC1-AP6-6-2-5-T04-R03",
+            "CC1-AP6-6-2-5-T04-S01",
+            "CC1-AP6-6-2-5-T04-S02",
+            "CC1-AP6-6-2-5-T04-S03",
+            "CC1-AP6-6-2-5-T04-P01",
+            "CC1-AP6-6-2-5-T04-P02",
+            "CC1-AP6-6-2-5-T04-P03"
+          ],
+          "cpm_lesson": "6.2.5",
+          "cpm_title": "Evaluate variable expressions",
+          "learning_goal_id": "CC1-ES-06",
+          "reporting_i_can_text": "I can evaluate an expression by substituting a value for its variable.",
+          "ladder_rung": "Foundation",
+          "evidence_stage": "EXPECT",
+          "scope_note": "Independent evidence after instruction, practice and feedback."
+        }
+      ],
+      "reporting_contract": "cc1-essential-standards/v1"
+    }
+  ],
+  "families": [
+    {
+      "family_id": "CC1-AP6-6-1-4-T01-R01",
+      "teacher_question_id": "Q001",
+      "bank_item_id": "CC1-AP6-Q001",
+      "family_name": "Fraction division and checking - reasoning 1",
+      "family_purpose": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "category": "reasoning",
+      "cpm_lesson": "6.1.4",
+      "cpm_title": "Fraction division and checking",
+      "i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "i_can_exact_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "student_action": "Fraction division and checking",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A ribbon has length 6 m, cut into pieces 1/2 m long. Explain why dividing by a fraction counts the pieces.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "fraction_division"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "6 / 1/2 = 12 pieces; check 12 x 1/2 = 6.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A ribbon has length 6 m, cut into pieces 1/2 m long. Explain why dividing by a fraction counts the pieces.</p>",
+        "answer": "6 / 1/2 = 12 pieces; check 12 x 1/2 = 6.",
+        "solution": "6 / 1/2 = 12 pieces; check 12 x 1/2 = 6.",
+        "scoring_guidance": "Check: I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.1.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-1-4-T01-R02",
+      "teacher_question_id": "Q002",
+      "bank_item_id": "CC1-AP6-Q002",
+      "family_name": "Fraction division and checking - reasoning 2",
+      "family_purpose": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "category": "reasoning",
+      "cpm_lesson": "6.1.4",
+      "cpm_title": "Fraction division and checking",
+      "i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "i_can_exact_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "student_action": "Fraction division and checking",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A ribbon has length 7 m, cut into pieces 1/3 m long. Explain why dividing by a fraction counts the pieces.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "fraction_division"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "7 / 1/3 = 21 pieces; check 21 x 1/3 = 7.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A ribbon has length 7 m, cut into pieces 1/3 m long. Explain why dividing by a fraction counts the pieces.</p>",
+        "answer": "7 / 1/3 = 21 pieces; check 21 x 1/3 = 7.",
+        "solution": "7 / 1/3 = 21 pieces; check 21 x 1/3 = 7.",
+        "scoring_guidance": "Check: I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.1.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-1-4-T01-R03",
+      "teacher_question_id": "Q003",
+      "bank_item_id": "CC1-AP6-Q003",
+      "family_name": "Fraction division and checking - reasoning 3",
+      "family_purpose": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "category": "reasoning",
+      "cpm_lesson": "6.1.4",
+      "cpm_title": "Fraction division and checking",
+      "i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "i_can_exact_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "student_action": "Fraction division and checking",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A ribbon has length 3 m, cut into pieces 1/4 m long. Explain why dividing by a fraction counts the pieces.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "fraction_division"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "3 / 1/4 = 12 pieces; check 12 x 1/4 = 3.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A ribbon has length 3 m, cut into pieces 1/4 m long. Explain why dividing by a fraction counts the pieces.</p>",
+        "answer": "3 / 1/4 = 12 pieces; check 12 x 1/4 = 3.",
+        "solution": "3 / 1/4 = 12 pieces; check 12 x 1/4 = 3.",
+        "scoring_guidance": "Check: I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.1.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-1-4-T01-S01",
+      "teacher_question_id": "Q004",
+      "bank_item_id": "CC1-AP6-Q004",
+      "family_name": "Fraction division and checking - direct 1",
+      "family_purpose": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "category": "direct",
+      "cpm_lesson": "6.1.4",
+      "cpm_title": "Fraction division and checking",
+      "i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "i_can_exact_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "student_action": "Fraction division and checking",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>How many 1/3-m pieces are in 5 m? Show a calculation.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "fraction_division"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "5 / 1/3 = 15 pieces; check 15 x 1/3 = 5.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>How many 1/3-m pieces are in 5 m? Show a calculation.</p>",
+        "answer": "5 / 1/3 = 15 pieces; check 15 x 1/3 = 5.",
+        "solution": "5 / 1/3 = 15 pieces; check 15 x 1/3 = 5.",
+        "scoring_guidance": "Check: I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.1.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-1-4-T01-S02",
+      "teacher_question_id": "Q005",
+      "bank_item_id": "CC1-AP6-Q005",
+      "family_name": "Fraction division and checking - direct 2",
+      "family_purpose": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "category": "direct",
+      "cpm_lesson": "6.1.4",
+      "cpm_title": "Fraction division and checking",
+      "i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "i_can_exact_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "student_action": "Fraction division and checking",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>How many 1/4-m pieces are in 6 m? Show a calculation.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "fraction_division"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "6 / 1/4 = 24 pieces; check 24 x 1/4 = 6.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>How many 1/4-m pieces are in 6 m? Show a calculation.</p>",
+        "answer": "6 / 1/4 = 24 pieces; check 24 x 1/4 = 6.",
+        "solution": "6 / 1/4 = 24 pieces; check 24 x 1/4 = 6.",
+        "scoring_guidance": "Check: I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.1.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-1-4-T01-S03",
+      "teacher_question_id": "Q006",
+      "bank_item_id": "CC1-AP6-Q006",
+      "family_name": "Fraction division and checking - direct 3",
+      "family_purpose": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "category": "direct",
+      "cpm_lesson": "6.1.4",
+      "cpm_title": "Fraction division and checking",
+      "i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "i_can_exact_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "student_action": "Fraction division and checking",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>How many 1/2-m pieces are in 7 m? Show a calculation.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "fraction_division"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "7 / 1/2 = 14 pieces; check 14 x 1/2 = 7.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>How many 1/2-m pieces are in 7 m? Show a calculation.</p>",
+        "answer": "7 / 1/2 = 14 pieces; check 14 x 1/2 = 7.",
+        "solution": "7 / 1/2 = 14 pieces; check 14 x 1/2 = 7.",
+        "scoring_guidance": "Check: I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.1.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-1-4-T01-P01",
+      "teacher_question_id": "Q007",
+      "bank_item_id": "CC1-AP6-Q007",
+      "family_name": "Fraction division and checking - spiral 1",
+      "family_purpose": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "category": "spiral",
+      "cpm_lesson": "6.1.4",
+      "cpm_title": "Fraction division and checking",
+      "i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "i_can_exact_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "student_action": "Fraction division and checking",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Calculate 4 divided by 1/4. Check by multiplication.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "fraction_division"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "4 / 1/4 = 16 pieces; check 16 x 1/4 = 4.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Calculate 4 divided by 1/4. Check by multiplication.</p>",
+        "answer": "4 / 1/4 = 16 pieces; check 16 x 1/4 = 4.",
+        "solution": "4 / 1/4 = 16 pieces; check 16 x 1/4 = 4.",
+        "scoring_guidance": "Check: I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.1.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-1-4-T01-P02",
+      "teacher_question_id": "Q008",
+      "bank_item_id": "CC1-AP6-Q008",
+      "family_name": "Fraction division and checking - spiral 2",
+      "family_purpose": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "category": "spiral",
+      "cpm_lesson": "6.1.4",
+      "cpm_title": "Fraction division and checking",
+      "i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "i_can_exact_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "student_action": "Fraction division and checking",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Calculate 5 divided by 1/2. Check by multiplication.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "fraction_division"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "5 / 1/2 = 10 pieces; check 10 x 1/2 = 5.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Calculate 5 divided by 1/2. Check by multiplication.</p>",
+        "answer": "5 / 1/2 = 10 pieces; check 10 x 1/2 = 5.",
+        "solution": "5 / 1/2 = 10 pieces; check 10 x 1/2 = 5.",
+        "scoring_guidance": "Check: I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.1.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-1-4-T01-P03",
+      "teacher_question_id": "Q009",
+      "bank_item_id": "CC1-AP6-Q009",
+      "family_name": "Fraction division and checking - spiral 3",
+      "family_purpose": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "category": "spiral",
+      "cpm_lesson": "6.1.4",
+      "cpm_title": "Fraction division and checking",
+      "i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "i_can_exact_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "learning_goal_id": "CC1-ES-02",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "student_action": "Fraction division and checking",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Calculate 6 divided by 1/3. Check by multiplication.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "fraction_division"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "6 / 1/3 = 18 pieces; check 18 x 1/3 = 6.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Calculate 6 divided by 1/3. Check by multiplication.</p>",
+        "answer": "6 / 1/3 = 18 pieces; check 18 x 1/3 = 6.",
+        "solution": "6 / 1/3 = 18 pieces; check 18 x 1/3 = 6.",
+        "scoring_guidance": "Check: I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.1.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-02-D-9D12B3C1",
+      "reporting_i_can_text": "I can choose and carry out a sensible numerical strategy and explain why my answer is reasonable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-2-1-T02-R01",
+      "teacher_question_id": "Q010",
+      "bank_item_id": "CC1-AP6-Q010",
+      "family_name": "Order of operations - reasoning 1",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "reasoning",
+      "cpm_lesson": "6.2.1",
+      "cpm_title": "Order of operations",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Order of operations",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student calculates 7+6x8 left-to-right. Explain the order mistake and give the correct result.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "order_ops"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "7+(6x8)=55; grouped alternative (7+6)x8=104.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A student calculates 7+6x8 left-to-right. Explain the order mistake and give the correct result.</p>",
+        "answer": "7+(6x8)=55; grouped alternative (7+6)x8=104.",
+        "solution": "7+(6x8)=55; grouped alternative (7+6)x8=104.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.2.1",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-2-1-T02-R02",
+      "teacher_question_id": "Q011",
+      "bank_item_id": "CC1-AP6-Q011",
+      "family_name": "Order of operations - reasoning 2",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "reasoning",
+      "cpm_lesson": "6.2.1",
+      "cpm_title": "Order of operations",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Order of operations",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student calculates 3+2x4 left-to-right. Explain the order mistake and give the correct result.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "order_ops"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "3+(2x4)=11; grouped alternative (3+2)x4=20.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A student calculates 3+2x4 left-to-right. Explain the order mistake and give the correct result.</p>",
+        "answer": "3+(2x4)=11; grouped alternative (3+2)x4=20.",
+        "solution": "3+(2x4)=11; grouped alternative (3+2)x4=20.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.2.1",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-2-1-T02-R03",
+      "teacher_question_id": "Q012",
+      "bank_item_id": "CC1-AP6-Q012",
+      "family_name": "Order of operations - reasoning 3",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "reasoning",
+      "cpm_lesson": "6.2.1",
+      "cpm_title": "Order of operations",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Order of operations",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student calculates 4+5x6 left-to-right. Explain the order mistake and give the correct result.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "order_ops"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "4+(5x6)=34; grouped alternative (4+5)x6=54.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A student calculates 4+5x6 left-to-right. Explain the order mistake and give the correct result.</p>",
+        "answer": "4+(5x6)=34; grouped alternative (4+5)x6=54.",
+        "solution": "4+(5x6)=34; grouped alternative (4+5)x6=54.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.2.1",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-2-1-T02-S01",
+      "teacher_question_id": "Q013",
+      "bank_item_id": "CC1-AP6-Q013",
+      "family_name": "Order of operations - direct 1",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "direct",
+      "cpm_lesson": "6.2.1",
+      "cpm_title": "Order of operations",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Order of operations",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Evaluate 6+4x4 using the order of operations.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "order_ops"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "6+(4x4)=22; grouped alternative (6+4)x4=40.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Evaluate 6+4x4 using the order of operations.</p>",
+        "answer": "6+(4x4)=22; grouped alternative (6+4)x4=40.",
+        "solution": "6+(4x4)=22; grouped alternative (6+4)x4=40.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.2.1",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-2-1-T02-S02",
+      "teacher_question_id": "Q014",
+      "bank_item_id": "CC1-AP6-Q014",
+      "family_name": "Order of operations - direct 2",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "direct",
+      "cpm_lesson": "6.2.1",
+      "cpm_title": "Order of operations",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Order of operations",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Evaluate 7+7x6 using the order of operations.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "order_ops"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "7+(7x6)=49; grouped alternative (7+7)x6=84.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Evaluate 7+7x6 using the order of operations.</p>",
+        "answer": "7+(7x6)=49; grouped alternative (7+7)x6=84.",
+        "solution": "7+(7x6)=49; grouped alternative (7+7)x6=84.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.2.1",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-2-1-T02-S03",
+      "teacher_question_id": "Q015",
+      "bank_item_id": "CC1-AP6-Q015",
+      "family_name": "Order of operations - direct 3",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "direct",
+      "cpm_lesson": "6.2.1",
+      "cpm_title": "Order of operations",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Order of operations",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Evaluate 3+3x8 using the order of operations.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "order_ops"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "3+(3x8)=27; grouped alternative (3+3)x8=48.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Evaluate 3+3x8 using the order of operations.</p>",
+        "answer": "3+(3x8)=27; grouped alternative (3+3)x8=48.",
+        "solution": "3+(3x8)=27; grouped alternative (3+3)x8=48.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.2.1",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-2-1-T02-P01",
+      "teacher_question_id": "Q016",
+      "bank_item_id": "CC1-AP6-Q016",
+      "family_name": "Order of operations - spiral 1",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "spiral",
+      "cpm_lesson": "6.2.1",
+      "cpm_title": "Order of operations",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Order of operations",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Which is larger: 5+2x6 or (5+2)x6? Compute both.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "order_ops"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "5+(2x6)=17; grouped alternative (5+2)x6=42.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Which is larger: 5+2x6 or (5+2)x6? Compute both.</p>",
+        "answer": "5+(2x6)=17; grouped alternative (5+2)x6=42.",
+        "solution": "5+(2x6)=17; grouped alternative (5+2)x6=42.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.2.1",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-2-1-T02-P02",
+      "teacher_question_id": "Q017",
+      "bank_item_id": "CC1-AP6-Q017",
+      "family_name": "Order of operations - spiral 2",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "spiral",
+      "cpm_lesson": "6.2.1",
+      "cpm_title": "Order of operations",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Order of operations",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Which is larger: 6+5x8 or (6+5)x8? Compute both.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "order_ops"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "6+(5x8)=46; grouped alternative (6+5)x8=88.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Which is larger: 6+5x8 or (6+5)x8? Compute both.</p>",
+        "answer": "6+(5x8)=46; grouped alternative (6+5)x8=88.",
+        "solution": "6+(5x8)=46; grouped alternative (6+5)x8=88.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.2.1",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-2-1-T02-P03",
+      "teacher_question_id": "Q018",
+      "bank_item_id": "CC1-AP6-Q018",
+      "family_name": "Order of operations - spiral 3",
+      "family_purpose": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "category": "spiral",
+      "cpm_lesson": "6.2.1",
+      "cpm_title": "Order of operations",
+      "i_can_id": "CC1-ES-06-P-9EC1023A",
+      "i_can_exact_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "student_action": "Order of operations",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Which is larger: 7+8x4 or (7+8)x4? Compute both.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "order_ops"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "7+(8x4)=39; grouped alternative (7+8)x4=60.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Which is larger: 7+8x4 or (7+8)x4? Compute both.</p>",
+        "answer": "7+(8x4)=39; grouped alternative (7+8)x4=60.",
+        "solution": "7+(8x4)=39; grouped alternative (7+8)x4=60.",
+        "scoring_guidance": "Check: I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.2.1",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-P-9EC1023A",
+      "reporting_i_can_text": "I can evaluate numerical expressions and translate simple verbal phrases into expressions with unknowns.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-2-4-T03-R01",
+      "teacher_question_id": "Q019",
+      "bank_item_id": "CC1-AP6-Q019",
+      "family_name": "Combining like terms - reasoning 1",
+      "family_purpose": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "category": "reasoning",
+      "cpm_lesson": "6.2.4",
+      "cpm_title": "Combining like terms",
+      "i_can_id": "CC1-ES-06-D-F79B595C",
+      "i_can_exact_text": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "student_action": "Combining like terms",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student simplifies 3x+6+4x+3 to 16x. Explain why this is wrong and give the correct result.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "like_terms"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "(3+4)x+(6+3) = 7x+9; variable terms and constants cannot be combined.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A student simplifies 3x+6+4x+3 to 16x. Explain why this is wrong and give the correct result.</p>",
+        "answer": "(3+4)x+(6+3) = 7x+9; variable terms and constants cannot be combined.",
+        "solution": "(3+4)x+(6+3) = 7x+9; variable terms and constants cannot be combined.",
+        "scoring_guidance": "Check: I can collect like terms and use algebra-tile or area representations to explain simplification.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-D-F79B595C",
+      "reporting_i_can_text": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-2-4-T03-R02",
+      "teacher_question_id": "Q020",
+      "bank_item_id": "CC1-AP6-Q020",
+      "family_name": "Combining like terms - reasoning 2",
+      "family_purpose": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "category": "reasoning",
+      "cpm_lesson": "6.2.4",
+      "cpm_title": "Combining like terms",
+      "i_can_id": "CC1-ES-06-D-F79B595C",
+      "i_can_exact_text": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "student_action": "Combining like terms",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student simplifies 4x+8+7x+4 to 23x. Explain why this is wrong and give the correct result.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "like_terms"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "(4+7)x+(8+4) = 11x+12; variable terms and constants cannot be combined.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A student simplifies 4x+8+7x+4 to 23x. Explain why this is wrong and give the correct result.</p>",
+        "answer": "(4+7)x+(8+4) = 11x+12; variable terms and constants cannot be combined.",
+        "solution": "(4+7)x+(8+4) = 11x+12; variable terms and constants cannot be combined.",
+        "scoring_guidance": "Check: I can collect like terms and use algebra-tile or area representations to explain simplification.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-D-F79B595C",
+      "reporting_i_can_text": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-2-4-T03-R03",
+      "teacher_question_id": "Q021",
+      "bank_item_id": "CC1-AP6-Q021",
+      "family_name": "Combining like terms - reasoning 3",
+      "family_purpose": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "category": "reasoning",
+      "cpm_lesson": "6.2.4",
+      "cpm_title": "Combining like terms",
+      "i_can_id": "CC1-ES-06-D-F79B595C",
+      "i_can_exact_text": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "student_action": "Combining like terms",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student simplifies 5x+4+3x+2 to 14x. Explain why this is wrong and give the correct result.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "like_terms"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "(5+3)x+(4+2) = 8x+6; variable terms and constants cannot be combined.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A student simplifies 5x+4+3x+2 to 14x. Explain why this is wrong and give the correct result.</p>",
+        "answer": "(5+3)x+(4+2) = 8x+6; variable terms and constants cannot be combined.",
+        "solution": "(5+3)x+(4+2) = 8x+6; variable terms and constants cannot be combined.",
+        "scoring_guidance": "Check: I can collect like terms and use algebra-tile or area representations to explain simplification.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-D-F79B595C",
+      "reporting_i_can_text": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-2-4-T03-S01",
+      "teacher_question_id": "Q022",
+      "bank_item_id": "CC1-AP6-Q022",
+      "family_name": "Combining like terms - direct 1",
+      "family_purpose": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "category": "direct",
+      "cpm_lesson": "6.2.4",
+      "cpm_title": "Combining like terms",
+      "i_can_id": "CC1-ES-06-D-F79B595C",
+      "i_can_exact_text": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "student_action": "Combining like terms",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Simplify 7x+8+2x+4.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "like_terms"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "(7+2)x+(8+4) = 9x+12; variable terms and constants cannot be combined.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Simplify 7x+8+2x+4.</p>",
+        "answer": "(7+2)x+(8+4) = 9x+12; variable terms and constants cannot be combined.",
+        "solution": "(7+2)x+(8+4) = 9x+12; variable terms and constants cannot be combined.",
+        "scoring_guidance": "Check: I can collect like terms and use algebra-tile or area representations to explain simplification.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-D-F79B595C",
+      "reporting_i_can_text": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-2-4-T03-S02",
+      "teacher_question_id": "Q023",
+      "bank_item_id": "CC1-AP6-Q023",
+      "family_name": "Combining like terms - direct 2",
+      "family_purpose": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "category": "direct",
+      "cpm_lesson": "6.2.4",
+      "cpm_title": "Combining like terms",
+      "i_can_id": "CC1-ES-06-D-F79B595C",
+      "i_can_exact_text": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "student_action": "Combining like terms",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Simplify 3x+4+5x+2.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "like_terms"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "(3+5)x+(4+2) = 8x+6; variable terms and constants cannot be combined.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Simplify 3x+4+5x+2.</p>",
+        "answer": "(3+5)x+(4+2) = 8x+6; variable terms and constants cannot be combined.",
+        "solution": "(3+5)x+(4+2) = 8x+6; variable terms and constants cannot be combined.",
+        "scoring_guidance": "Check: I can collect like terms and use algebra-tile or area representations to explain simplification.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-D-F79B595C",
+      "reporting_i_can_text": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-2-4-T03-S03",
+      "teacher_question_id": "Q024",
+      "bank_item_id": "CC1-AP6-Q024",
+      "family_name": "Combining like terms - direct 3",
+      "family_purpose": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "category": "direct",
+      "cpm_lesson": "6.2.4",
+      "cpm_title": "Combining like terms",
+      "i_can_id": "CC1-ES-06-D-F79B595C",
+      "i_can_exact_text": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "student_action": "Combining like terms",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Simplify 4x+6+8x+3.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "like_terms"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "(4+8)x+(6+3) = 12x+9; variable terms and constants cannot be combined.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Simplify 4x+6+8x+3.</p>",
+        "answer": "(4+8)x+(6+3) = 12x+9; variable terms and constants cannot be combined.",
+        "solution": "(4+8)x+(6+3) = 12x+9; variable terms and constants cannot be combined.",
+        "scoring_guidance": "Check: I can collect like terms and use algebra-tile or area representations to explain simplification.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-D-F79B595C",
+      "reporting_i_can_text": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-2-4-T03-P01",
+      "teacher_question_id": "Q025",
+      "bank_item_id": "CC1-AP6-Q025",
+      "family_name": "Combining like terms - spiral 1",
+      "family_purpose": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "category": "spiral",
+      "cpm_lesson": "6.2.4",
+      "cpm_title": "Combining like terms",
+      "i_can_id": "CC1-ES-06-D-F79B595C",
+      "i_can_exact_text": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "student_action": "Combining like terms",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Combine like terms in 7x+2+6x+4; identify the coefficient and constant.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "like_terms"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "(6+7)x+(4+2) = 13x+6; variable terms and constants cannot be combined.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Combine like terms in 7x+2+6x+4; identify the coefficient and constant.</p>",
+        "answer": "(6+7)x+(4+2) = 13x+6; variable terms and constants cannot be combined.",
+        "solution": "(6+7)x+(4+2) = 13x+6; variable terms and constants cannot be combined.",
+        "scoring_guidance": "Check: I can collect like terms and use algebra-tile or area representations to explain simplification.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-D-F79B595C",
+      "reporting_i_can_text": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-2-4-T03-P02",
+      "teacher_question_id": "Q026",
+      "bank_item_id": "CC1-AP6-Q026",
+      "family_name": "Combining like terms - spiral 2",
+      "family_purpose": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "category": "spiral",
+      "cpm_lesson": "6.2.4",
+      "cpm_title": "Combining like terms",
+      "i_can_id": "CC1-ES-06-D-F79B595C",
+      "i_can_exact_text": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "student_action": "Combining like terms",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Combine like terms in 3x+3+7x+6; identify the coefficient and constant.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "like_terms"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "(7+3)x+(6+3) = 10x+9; variable terms and constants cannot be combined.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Combine like terms in 3x+3+7x+6; identify the coefficient and constant.</p>",
+        "answer": "(7+3)x+(6+3) = 10x+9; variable terms and constants cannot be combined.",
+        "solution": "(7+3)x+(6+3) = 10x+9; variable terms and constants cannot be combined.",
+        "scoring_guidance": "Check: I can collect like terms and use algebra-tile or area representations to explain simplification.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-D-F79B595C",
+      "reporting_i_can_text": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-2-4-T03-P03",
+      "teacher_question_id": "Q027",
+      "bank_item_id": "CC1-AP6-Q027",
+      "family_name": "Combining like terms - spiral 3",
+      "family_purpose": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "category": "spiral",
+      "cpm_lesson": "6.2.4",
+      "cpm_title": "Combining like terms",
+      "i_can_id": "CC1-ES-06-D-F79B595C",
+      "i_can_exact_text": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "student_action": "Combining like terms",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Combine like terms in 6x+4+3x+8; identify the coefficient and constant.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "like_terms"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "(3+6)x+(8+4) = 9x+12; variable terms and constants cannot be combined.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Combine like terms in 6x+4+3x+8; identify the coefficient and constant.</p>",
+        "answer": "(3+6)x+(8+4) = 9x+12; variable terms and constants cannot be combined.",
+        "solution": "(3+6)x+(8+4) = 9x+12; variable terms and constants cannot be combined.",
+        "scoring_guidance": "Check: I can collect like terms and use algebra-tile or area representations to explain simplification.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.2.4",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-D-F79B595C",
+      "reporting_i_can_text": "I can collect like terms and use algebra-tile or area representations to explain simplification.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-2-5-T04-R01",
+      "teacher_question_id": "Q028",
+      "bank_item_id": "CC1-AP6-Q028",
+      "family_name": "Evaluate variable expressions - reasoning 1",
+      "family_purpose": "I can evaluate an expression by substituting a value for its variable.",
+      "category": "reasoning",
+      "cpm_lesson": "6.2.5",
+      "cpm_title": "Evaluate variable expressions",
+      "i_can_id": "CC1-ES-06-F-A796BF96",
+      "i_can_exact_text": "I can evaluate an expression by substituting a value for its variable.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate an expression by substituting a value for its variable.",
+      "student_action": "Evaluate variable expressions",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student substitutes x=4 into 4x+2 and gets 10. Explain the error and evaluate correctly.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "substitution"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "4(4)+2=18; 4x means multiplication.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A student substitutes x=4 into 4x+2 and gets 10. Explain the error and evaluate correctly.</p>",
+        "answer": "4(4)+2=18; 4x means multiplication.",
+        "solution": "4(4)+2=18; 4x means multiplication.",
+        "scoring_guidance": "Check: I can evaluate an expression by substituting a value for its variable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.2.5",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-F-A796BF96",
+      "reporting_i_can_text": "I can evaluate an expression by substituting a value for its variable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-2-5-T04-R02",
+      "teacher_question_id": "Q029",
+      "bank_item_id": "CC1-AP6-Q029",
+      "family_name": "Evaluate variable expressions - reasoning 2",
+      "family_purpose": "I can evaluate an expression by substituting a value for its variable.",
+      "category": "reasoning",
+      "cpm_lesson": "6.2.5",
+      "cpm_title": "Evaluate variable expressions",
+      "i_can_id": "CC1-ES-06-F-A796BF96",
+      "i_can_exact_text": "I can evaluate an expression by substituting a value for its variable.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate an expression by substituting a value for its variable.",
+      "student_action": "Evaluate variable expressions",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student substitutes x=6 into 5x+5 and gets 16. Explain the error and evaluate correctly.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "substitution"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "5(6)+5=35; 5x means multiplication.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A student substitutes x=6 into 5x+5 and gets 16. Explain the error and evaluate correctly.</p>",
+        "answer": "5(6)+5=35; 5x means multiplication.",
+        "solution": "5(6)+5=35; 5x means multiplication.",
+        "scoring_guidance": "Check: I can evaluate an expression by substituting a value for its variable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.2.5",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-F-A796BF96",
+      "reporting_i_can_text": "I can evaluate an expression by substituting a value for its variable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-2-5-T04-R03",
+      "teacher_question_id": "Q030",
+      "bank_item_id": "CC1-AP6-Q030",
+      "family_name": "Evaluate variable expressions - reasoning 3",
+      "family_purpose": "I can evaluate an expression by substituting a value for its variable.",
+      "category": "reasoning",
+      "cpm_lesson": "6.2.5",
+      "cpm_title": "Evaluate variable expressions",
+      "i_can_id": "CC1-ES-06-F-A796BF96",
+      "i_can_exact_text": "I can evaluate an expression by substituting a value for its variable.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "REPTRANS-MULTI-REPRESENTATION-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate an expression by substituting a value for its variable.",
+      "student_action": "Evaluate variable expressions",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A student substitutes x=8 into 6x+8 and gets 22. Explain the error and evaluate correctly.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "substitution"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "6(8)+8=56; 6x means multiplication.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A student substitutes x=8 into 6x+8 and gets 22. Explain the error and evaluate correctly.</p>",
+        "answer": "6(8)+8=56; 6x means multiplication.",
+        "solution": "6(8)+8=56; 6x means multiplication.",
+        "scoring_guidance": "Check: I can evaluate an expression by substituting a value for its variable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.2.5",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-F-A796BF96",
+      "reporting_i_can_text": "I can evaluate an expression by substituting a value for its variable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-2-5-T04-S01",
+      "teacher_question_id": "Q031",
+      "bank_item_id": "CC1-AP6-Q031",
+      "family_name": "Evaluate variable expressions - direct 1",
+      "family_purpose": "I can evaluate an expression by substituting a value for its variable.",
+      "category": "direct",
+      "cpm_lesson": "6.2.5",
+      "cpm_title": "Evaluate variable expressions",
+      "i_can_id": "CC1-ES-06-F-A796BF96",
+      "i_can_exact_text": "I can evaluate an expression by substituting a value for its variable.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate an expression by substituting a value for its variable.",
+      "student_action": "Evaluate variable expressions",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Evaluate 3x+7 when x=6.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "substitution"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "3(6)+7=25; 3x means multiplication.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Evaluate 3x+7 when x=6.</p>",
+        "answer": "3(6)+7=25; 3x means multiplication.",
+        "solution": "3(6)+7=25; 3x means multiplication.",
+        "scoring_guidance": "Check: I can evaluate an expression by substituting a value for its variable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.2.5",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-F-A796BF96",
+      "reporting_i_can_text": "I can evaluate an expression by substituting a value for its variable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-2-5-T04-S02",
+      "teacher_question_id": "Q032",
+      "bank_item_id": "CC1-AP6-Q032",
+      "family_name": "Evaluate variable expressions - direct 2",
+      "family_purpose": "I can evaluate an expression by substituting a value for its variable.",
+      "category": "direct",
+      "cpm_lesson": "6.2.5",
+      "cpm_title": "Evaluate variable expressions",
+      "i_can_id": "CC1-ES-06-F-A796BF96",
+      "i_can_exact_text": "I can evaluate an expression by substituting a value for its variable.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate an expression by substituting a value for its variable.",
+      "student_action": "Evaluate variable expressions",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Evaluate 4x+3 when x=8.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "substitution"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "4(8)+3=35; 4x means multiplication.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Evaluate 4x+3 when x=8.</p>",
+        "answer": "4(8)+3=35; 4x means multiplication.",
+        "solution": "4(8)+3=35; 4x means multiplication.",
+        "scoring_guidance": "Check: I can evaluate an expression by substituting a value for its variable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.2.5",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-F-A796BF96",
+      "reporting_i_can_text": "I can evaluate an expression by substituting a value for its variable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-2-5-T04-S03",
+      "teacher_question_id": "Q033",
+      "bank_item_id": "CC1-AP6-Q033",
+      "family_name": "Evaluate variable expressions - direct 3",
+      "family_purpose": "I can evaluate an expression by substituting a value for its variable.",
+      "category": "direct",
+      "cpm_lesson": "6.2.5",
+      "cpm_title": "Evaluate variable expressions",
+      "i_can_id": "CC1-ES-06-F-A796BF96",
+      "i_can_exact_text": "I can evaluate an expression by substituting a value for its variable.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "PROC-DIRECT-EXECUTE-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate an expression by substituting a value for its variable.",
+      "student_action": "Evaluate variable expressions",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Quick Check",
+        "Checkpoint",
+        "Test",
+        "Custom"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>Evaluate 5x+6 when x=4.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "substitution"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "5(4)+6=26; 5x means multiplication.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>Evaluate 5x+6 when x=4.</p>",
+        "answer": "5(4)+6=26; 5x means multiplication.",
+        "solution": "5(4)+6=26; 5x means multiplication.",
+        "scoring_guidance": "Check: I can evaluate an expression by substituting a value for its variable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.2.5",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-F-A796BF96",
+      "reporting_i_can_text": "I can evaluate an expression by substituting a value for its variable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-2-5-T04-P01",
+      "teacher_question_id": "Q034",
+      "bank_item_id": "CC1-AP6-Q034",
+      "family_name": "Evaluate variable expressions - spiral 1",
+      "family_purpose": "I can evaluate an expression by substituting a value for its variable.",
+      "category": "spiral",
+      "cpm_lesson": "6.2.5",
+      "cpm_title": "Evaluate variable expressions",
+      "i_can_id": "CC1-ES-06-F-A796BF96",
+      "i_can_exact_text": "I can evaluate an expression by substituting a value for its variable.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate an expression by substituting a value for its variable.",
+      "student_action": "Evaluate variable expressions",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A rule is y=7x+5. Find y when x=8.</p>",
+        "parameters": {
+          "seed_version": 1,
+          "skill": "substitution"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "7(8)+5=61; 7x means multiplication.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A rule is y=7x+5. Find y when x=8.</p>",
+        "answer": "7(8)+5=61; 7x means multiplication.",
+        "solution": "7(8)+5=61; 7x means multiplication.",
+        "scoring_guidance": "Check: I can evaluate an expression by substituting a value for its variable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.2.5",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-F-A796BF96",
+      "reporting_i_can_text": "I can evaluate an expression by substituting a value for its variable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-2-5-T04-P02",
+      "teacher_question_id": "Q035",
+      "bank_item_id": "CC1-AP6-Q035",
+      "family_name": "Evaluate variable expressions - spiral 2",
+      "family_purpose": "I can evaluate an expression by substituting a value for its variable.",
+      "category": "spiral",
+      "cpm_lesson": "6.2.5",
+      "cpm_title": "Evaluate variable expressions",
+      "i_can_id": "CC1-ES-06-F-A796BF96",
+      "i_can_exact_text": "I can evaluate an expression by substituting a value for its variable.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate an expression by substituting a value for its variable.",
+      "student_action": "Evaluate variable expressions",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A rule is y=3x+8. Find y when x=4.</p>",
+        "parameters": {
+          "seed_version": 2,
+          "skill": "substitution"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "3(4)+8=20; 3x means multiplication.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A rule is y=3x+8. Find y when x=4.</p>",
+        "answer": "3(4)+8=20; 3x means multiplication.",
+        "solution": "3(4)+8=20; 3x means multiplication.",
+        "scoring_guidance": "Check: I can evaluate an expression by substituting a value for its variable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.2.5",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-F-A796BF96",
+      "reporting_i_can_text": "I can evaluate an expression by substituting a value for its variable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    },
+    {
+      "family_id": "CC1-AP6-6-2-5-T04-P03",
+      "teacher_question_id": "Q036",
+      "bank_item_id": "CC1-AP6-Q036",
+      "family_name": "Evaluate variable expressions - spiral 3",
+      "family_purpose": "I can evaluate an expression by substituting a value for its variable.",
+      "category": "spiral",
+      "cpm_lesson": "6.2.5",
+      "cpm_title": "Evaluate variable expressions",
+      "i_can_id": "CC1-ES-06-F-A796BF96",
+      "i_can_exact_text": "I can evaluate an expression by substituting a value for its variable.",
+      "learning_goal_id": "CC1-ES-06",
+      "assessment_plan": "AP6",
+      "ap_section": 6,
+      "question_structure_id": "SPIRAL-REVIEW-PREVIEW-01",
+      "response_mode": "constructed response",
+      "representation_mode": "table/model/context where needed",
+      "evidence_job": "I can evaluate an expression by substituting a value for its variable.",
+      "student_action": "Evaluate variable expressions",
+      "invariant": "Preserve the identified partial/full ladder evidence, correct units, and mathematical answer.",
+      "variation_axes": [
+        "change at least two meaningful numeric values",
+        "preserve the lesson scope and evidence target"
+      ],
+      "forbidden_variations": [
+        "advance the skill beyond the chapter",
+        "change only names without new mathematics",
+        "omit units where appropriate"
+      ],
+      "product_eligibility": [
+        "Practice",
+        "Review"
+      ],
+      "approval_status": "TEACHER_APPROVED",
+      "family_revision": 1,
+      "superseded_by": null,
+      "template_contract": {
+        "prompt_template": "<p>A rule is y=4x+4. Find y when x=6.</p>",
+        "parameters": {
+          "seed_version": 3,
+          "skill": "substitution"
+        },
+        "constraints": [
+          "correct content and units",
+          "answer available in teacher version",
+          "no new prerequisite"
+        ],
+        "answer_rule": "4(6)+4=28; 4x means multiplication.",
+        "wording_locked": false,
+        "render_route": "semantic HTML with existing CPM Tools MathJax and Visuals"
+      },
+      "exemplar": {
+        "student_html": "<p>A rule is y=4x+4. Find y when x=6.</p>",
+        "answer": "4(6)+4=28; 4x means multiplication.",
+        "solution": "4(6)+4=28; 4x means multiplication.",
+        "scoring_guidance": "Check: I can evaluate an expression by substituting a value for its variable.; accept mathematically equivalent correct reasoning and representation."
+      },
+      "source_basis": {
+        "crosswalk": "CC1 chapter unit plans + 03 CC1 Assessment Evidence",
+        "cpm_lesson": "6.2.5",
+        "source_type": "new teacher-authored exemplar; not a copied CPM problem"
+      },
+      "reporting_i_can_id": "CC1-ES-06-F-A796BF96",
+      "reporting_i_can_text": "I can evaluate an expression by substituting a value for its variable.",
+      "operational_policy": "pilot baseline - usable now; revise only when feedback identifies a problem"
+    }
+  ],
+  "review_summary": {
+    "active_family_count": 36,
+    "review_gate": "teacher feedback is corrective, not a prerequisite to initial use"
+  },
+  "reporting_contract": {
+    "schema_version": 1,
+    "source": "CC1 Assessment Evidence and chapter unit plans",
+    "learning_goal_ids": [
+      "CC1-ES-02",
+      "CC1-ES-06"
+    ],
+    "reporting_i_can_ids": [
+      "CC1-ES-02-D-9D12B3C1",
+      "CC1-ES-06-P-9EC1023A",
+      "CC1-ES-06-D-F79B595C",
+      "CC1-ES-06-F-A796BF96"
+    ],
+    "family_id_policy": "immutable stable family ID",
+    "question_content_policy": "original teacher-created questions; no textbook reproduction"
+  },
+  "pilot_policy": {
+    "default": "usable immediately",
+    "teacher_approval": "operationally accepted by teacher instruction; not individually proofread",
+    "feedback": "correct and version the canonical bank family when a problem is reported"
+  }
+}

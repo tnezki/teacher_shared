@@ -1,0 +1,54 @@
+{
+  "schema": "cpm-course-assessment-index/v1",
+  "course": "CC2",
+  "scope": "Chapters 1–6",
+  "plans": [
+    {
+      "chapter": 1,
+      "assessment_plan": "AP1",
+      "title": "Introduction and Probability",
+      "target_count": 5,
+      "question_count": 45
+    },
+    {
+      "chapter": 2,
+      "assessment_plan": "AP2",
+      "title": "Fractions and Integer Addition",
+      "target_count": 5,
+      "question_count": 45
+    },
+    {
+      "chapter": 3,
+      "assessment_plan": "AP3",
+      "title": "Arithmetic Properties",
+      "target_count": 5,
+      "question_count": 45
+    },
+    {
+      "chapter": 4,
+      "assessment_plan": "AP4",
+      "title": "Proportions and Expressions",
+      "target_count": 6,
+      "question_count": 54
+    },
+    {
+      "chapter": 5,
+      "assessment_plan": "AP5",
+      "title": "Probability and Solving Word Problems",
+      "target_count": 5,
+      "question_count": 45
+    },
+    {
+      "chapter": 6,
+      "assessment_plan": "AP6",
+      "title": "Solving Inequalities and Equations",
+      "target_count": 5,
+      "question_count": 45
+    }
+  ],
+  "source_docs": {
+    "assessment_evidence": "1wzJ8hnB4eVEv1LX3bLlJwLqJjltGj0z7DOwtIwgkMH0",
+    "learning_ladders": "1czYyNY0W9PRP5ldpXjfSWPQTYYt68xzVuSTmDDbnWlU"
+  },
+  "build_protocol": "Assessment plans -> canonical authored question families -> existing CPM Tools assembly; no new builder."
+}
